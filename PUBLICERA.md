@@ -62,11 +62,14 @@ Det är din publika adress. `index.html` blir startsidan automatiskt.
 **B) Schemalagt (Windows Task Scheduler):**
 1. Öppna *Schemaläggaren* / *Task Scheduler*.
 2. **Skapa enkel uppgift** → namn t.ex. "Publicera veckodatabaser".
-3. Trigger: **Veckovis**, måndag, kl. **08:00** (efter att veckokörningen
-   uppdaterat filerna ~07:35).
+3. Trigger: **Dagligen**, kl. **08:00** (efter att flödesbygget körts ~07:35).
 4. Åtgärd: **Starta ett program** → Bläddra till
    `C:\backup\Leisure - Claude\Leisure\publish.bat`.
 5. Slutför.
+
+   (Flödet `flode.html` byggs nu om dagligen 07:35, så daglig publicering håller
+   den publika sidan aktuell. `publish.bat` pushar bara när något faktiskt
+   ändrats, så dagar utan nytt innehåll skapar inga tomma commits.)
 
 För att schemalagd push ska fungera utan att du loggar in varje gång måste
 GitHub-inloggningen vara sparad — det sker automatiskt efter den första

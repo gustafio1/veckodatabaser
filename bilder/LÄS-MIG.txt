@@ -1,0 +1,20 @@
+BILDREGLER – läs innan du lägger in bilder
+==========================================
+
+Sidan är publik. Lägg därför ENDAST in bilder du har rätt att publicera:
+
+TILLÅTET
+- Bilder du själv tagit/skapat.
+- Public domain / CC0.
+- Licensierade bilder (t.ex. Creative Commons) – ange källa/fotograf i bildens
+  "source"-fält i bilder.json.
+
+INTE TILLÅTET
+- Bilder hämtade från Google Bilder, nyhetssajter, bloggar, pressrum eller sociala medier.
+- Skärmdumpar av upphovsrättsskyddat material.
+- Foton på identifierbara privatpersoner (blir även en personuppgift enligt GDPR).
+
+TVEKSAM? Lägg inte in den.
+
+Efter att du lagt en fil här: redigera titel/datum/kategori/källa i bilder.json,
+och kör build_flode.py (eller låt schemalagd körning göra det) så dyker den upp i flödet.

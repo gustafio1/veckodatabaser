@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+
+# OS-skräp
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Testfiler
+*_dupe_probe.txt

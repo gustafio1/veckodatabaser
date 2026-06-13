@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kultur – Veckodatabas</title>
+<style>
+  :root {
+    --bg: #0f1226;
+    --card: #1a1f3a;
+    --card-hover: #222848;
+    --accent: #7c6cff;
+    --accent-2: #ff7ab8;
+    --text: #eef0ff;
+    --muted: #9aa0c7;
+    --border: #2b3160;
+    --chip: #2a2f55;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    background: linear-gradient(160deg, #0f1226 0%, #161a35 100%);
+    color: var(--text);
+    min-height: 100vh;
+    padding: 32px 20px 64px;
+  }
+  .wrap { max-width: 1080px; margin: 0 auto; }
+  header.page { margin-bottom: 28px; }
+  .eyebrow { color: var(--accent-2); font-weight: 700; letter-spacing: .08em; text-transform: uppercase; font-size: 12px; }
+  h1 { font-size: 34px; margin: 6px 0 8px; }
+  .sub { color: var(--muted); font-size: 15px; max-width: 640px; line-height: 1.5; }
+  .meta { color: var(--muted); font-size: 13px; margin-top: 10px; }
+
+  .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 14px; margin: 26px 0; }
+  .stat { background: var(--card); border: 1px solid var(--border); border-radius: 14px; padding: 16px 18px; }
+  .stat .num { font-size: 28px; font-weight: 800; color: var(--accent); }
+  .stat .lbl { color: var(--muted); font-size: 13px; margin-top: 2px; }
+
+  .controls { display: flex; flex-wrap: wrap; gap: 12px; align-items: center; margin-bottom: 22px; }
+  #search {
+    flex: 1; min-width: 220px; background: var(--card); border: 1px solid var(--border);
+    color: var(--text); padding: 11px 14px; border-radius: 10px; font-size: 14px;
+  }
+  #search::placeholder { color: var(--muted); }
+  .filters { display: flex; flex-wrap: wrap; gap: 8px; }
+  .filter {
+    background: var(--chip); border: 1px solid var(--border); color: var(--muted);
+    padding: 8px 14px; border-radius: 999px; cursor: pointer; font-size: 13px; transition: .15s;
+  }
+  .filter:hover { color: var(--text); }
+  .filter.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 16px; }
+  .event {
+    background: var(--card); border: 1px solid var(--border); border-radius: 16px; padding: 20px;
+    transition: .15s; display: flex; flex-direction: column; gap: 10px;
+  }
+  .event:hover { background: var(--card-hover); transform: translateY(-2px); border-color: var(--accent); }
+  .event .top { display: flex; justify-content: space-between; align-items: flex-start; gap: 10px; }
+  .cat { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: .05em;
+    color: var(--accent-2); background: rgba(255,122,184,.12); padding: 4px 9px; border-radius: 6px; white-space: nowrap; }
+  .new { font-size: 10px; font-weight: 700; color: #0f1226; background: #6cf09a; padding: 3px 7px; border-radius: 5px; }
+  .event h3 { font-size: 17px; line-height: 1.3; }
+  .event .when { color: var(--accent); font-size: 13px; font-weight: 600; }
+  .event .where { color: var(--muted); font-size: 13px; }
+  .event .desc { color: var(--text); font-size: 14px; line-height: 1.5; opacity: .92; }
+  .event .foot { display: flex; justify-content: space-between; align-items: center; margin-top: auto; padding-top: 8px; }
+  .event .src { color: var(--muted); font-size: 12px; }
+  .event a.link { color: var(--accent); font-size: 13px; text-decoration: none; font-weight: 600; }
+  .event a.link:hover { text-decoration: underline; }
+  .empty { color: var(--muted); text-align: center; padding: 40px; grid-column: 1 / -1; }
+  footer.page { margin-top: 40px; color: var(--muted); font-size: 12px; text-align: center; line-height: 1.6; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="page">
+    <div class="eyebrow">Veckodatabas</div>
+    <h1>🎭 Kultur</h1>
+    <p class="sub" id="desc"></p>
+    <p class="meta" id="updated"></p>
+  </header>
+
+  <section class="stats" id="stats"></section>
+
+  <div class="controls">
+    <input id="search" type="text" placeholder="Sök efter evenemang, plats eller artist…">
+    <div class="filters" id="filters"></div>
+  </div>
+
+  <section class="grid" id="grid"></section>
+
+  <footer class="page">
+    Automatiskt uppdaterad varje vecka · Källdata lagras i <code>kultur.json</code> på Google Drive<br>
+    Nya poster läggs till utan att dubbletter skapas. Vid få nyheter kompletteras med äldre poster.
+  </footer>
+</div>
+
+<script>
+/* ====== DATA (genereras om varje vecka från kultur.json) ====== */
+const DB = /*__DATA__*/{
+  "topic": "Kultur",
+  "description": "Nya kulturevenemang i Sverige – festivaler, konserter, utställningar och scenkonst. Uppdateras varje vecka.",
+  "schema_version": 1,
+  "last_updated": "2026-06-07",
+  "item_count": 12,
+  "items": [
+    {
+      "id": "sweden-rock-2026",
+      "title": "Sweden Rock Festival 2026",
+      "category": "Festival",
+      "event_date": "2026-06-03",
+      "event_date_end": "2026-06-06",
+      "location": "Sölvesborg",
+      "summary": "Skandinaviens största hårdrocksfestival med band som Iron Maiden, Bring Me The Horizon, The Hellacopters och Babymetal.",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/kultur/sommarens-konserter-festivaler-och-musikslapp-2026",
+      "added_on": "2026-06-07",
+      "collected_week": "2026-W23"
+    },
+    {
+      "id": "stockholm-early-music-2026",
+      "title": "Stockholm Early Music Festival 2026",
+      "category": "Konsert",
+      "event_date": "2026-06-03",
+      "event_date_end": "2026-06-07",
+      "location": "Stockholm",
+      "summary": "Festival med barock-, renässans- och medeltida musik i Gamla stan.",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/kultur/sommarens-konserter-festivaler-och-musikslapp-2026",
+      "added_on": "2026-06-07",
+      "collected_week": "2026-W23"
+    },
+    {
+      "id": "brannbollsyran-2026",
+      "title": "Brännbollsyran 2026",
+      "category": "Festival",
+      "event_date": "2026-06-05",
+      "event_date_end": "2026-06-07",
+      "location": "Umeå",
+      "summary": "Stadsfestival i Umeå med artister som Hooja och Black Eyed Peas.",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/kultur/sommarens-konserter-festivaler-och-musikslapp-2026",
+      "added_on": "2026-06-07",
+      "collected_week": "2026-W23"
+    },
+    {
+      "id": "afesten-2026",
+      "title": "Åfesten 2026",
+      "category": "Festival",
+      "event_date": "2026-06-05",
+      "event_date_end": "2026-06-07",
+      "location": "Falun",
+      "summary": "Musikfestival i Falun med artister som Moneybrother och Brandsta City Släckers.",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/kultur/sommarens-konserter-festivaler-och-musikslapp-2026",
+      "added_on": "2026-06-07",
+      "collected_week": "2026-W23"
+    },
+    {
+      "id": "west-pride-2026",
+      "title": "West Pride 2026",
+      "category": "Festival",
+      "event_date": "2026-06-08",
+      "event_date_end": "2026-06-14",
+      "location": "Göteborg",
+      "summary": "HBTQ-festival med flera hundra programpunkter och Pride Parade som höjdpunkt.",
+      "source": "Göteborg.com",
+      "url": "https://www.goteborg.com/guider/stora-evenemang-i-goteborg",
+      "added_on": "2026-06-07",
+      "collected_week": "2026-W23"
+    },
+    {
+      "id": "rosendal-garden-party-2026",
+      "title": "Rosendal Garden Party 2026",
+      "category": "Konsert",
+      "event_date": "2026-06-12",
+      "event_date_end": "2026-06-14",
+      "location": "Stockholm",
+      "summary": "Konsertfestival på Djurgården med artister som TLC, David Byrne och Agnes.",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/kultur/sommarens-konserter-festivaler-och-musikslapp-2026",
+      "added_on": "2026-06-07",
+      "collected_week": "2026-W23"
+    },
+    {
+      "id": "midsommar-2026",
+      "title": "Midsommarfirande 2026",
+      "category": "Högtid",
+      "event_date": "2026-06-19",
+      "event_date_end": "2026-06-20",
+      "location": "Hela Sverige",
+      "summary": "Traditionellt midsommarfirande med majstång, blomsterkransar och traditionell mat runt om i landet.",
+      "source": "Visit Sweden",
+      "url": "https://visitsweden.com/what-to-do/culture-history-and-art/culture/music/music-events-in-sweden/",
+      "added_on": "2026-06-07",
+      "collected_week": "2026-W23"
+    },
+    {
+      "id": "butterfly-festival-2026",
+      "title": "Butterfly Festival 2026",
+      "category": "Festival",
+      "event_date": "2026-06-26",
+      "event_date_end": "2026-06-27",
+      "location": "Göteborg",
+      "summary": "Göteborgs nya sommarfestival på Bananpiren i Frihamnen med artister, DJ:s, street food och tivoliattraktioner.",
+      "source": "Göteborg.com",
+      "url": "https://www.goteborg.com/guider/stora-evenemang-i-goteborg",
+      "added_on": "2026-06-07",
+      "collected_week": "2026-W23"
+    },
+    {
+      "id": "stockholm-pride-2026",
+      "title": "Stockholm Pride 2026",
+      "category": "Festival",
+      "event_date": "2026-07-27",
+      "event_date_end": "2026-08-01",
+      "location": "Stockholm",
+      "summary": "Stadsövergripande Pride-festival med evenemang och parad genom Stockholm.",
+      "source": "Visit Stockholm",
+      "url": "https://www.visitstockholm.com/see-do/attractions/biggest-upcoming-events/",
+      "added_on": "2026-06-07",
+      "collected_week": "2026-W23"
+    },
+    {
+      "id": "way-out-west-2026",
+      "title": "Way Out West 2026",
+      "category": "Festival",
+      "event_date": "2026-08-13",
+      "event_date_end": "2026-08-16",
+      "location": "Göteborg",
+      "summary": "Musik- och filmfestival i Slottsskogen med Gorillaz, The Cure, Lorde, The XX och Nick Cave & The Bad Seeds.",
+      "source": "Göteborg.com",
+      "url": "https://www.goteborg.com/en/guides/major-events-in-gothenburg",
+      "added_on": "2026-06-07",
+      "collected_week": "2026-W23"
+    },
+    {
+      "id": "stockholm-kulturfestival-2026",
+      "title": "Stockholms Kulturfestival 2026",
+      "category": "Festival",
+      "event_date": "2026-08-12",
+      "event_date_end": "2026-08-16",
+      "location": "Stockholm",
+      "summary": "Gratis konserter, teater, dans, gatuframträdanden och matevenemang i centrala Stockholm.",
+      "source": "Visit Stockholm",
+      "url": "https://www.visitstockholm.com/see-do/attractions/biggest-upcoming-events/",
+      "added_on": "2026-06-07",
+      "collected_week": "2026-W23"
+    },
+    {
+      "id": "baltic-sea-festival-2026",
+      "title": "Baltic Sea Festival 2026",
+      "category": "Konsert",
+      "event_date": "2026-08-21",
+      "event_date_end": "2026-08-29",
+      "location": "Stockholm",
+      "summary": "Festival med fokus på klassisk musik och scenkonst på Konserthuset i Stockholm.",
+      "source": "Visit Stockholm",
+      "url": "https://www.visitstockholm.com/see-do/attractions/biggest-upcoming-events/",
+      "added_on": "2026-06-07",
+      "collected_week": "2026-W23"
+    }
+  ]
+}
+/*__END_DATA__*/;
+
+/* ====== RENDERING ====== */
+const MONTHS = ["jan","feb","mar","apr","maj","jun","jul","aug","sep","okt","nov","dec"];
+function fmtDate(d) {
+  if (!d) return "";
+  const p = d.split("-"); if (p.length < 3) return d;
+  return parseInt(p[2],10) + " " + MONTHS[parseInt(p[1],10)-1] + " " + p[0];
+}
+function fmtRange(a, b) {
+  if (!b || b === a) return fmtDate(a);
+  const pa = a.split("-"), pb = b.split("-");
+  if (pa[0]===pb[0] && pa[1]===pb[1]) return parseInt(pa[2],10)+"–"+parseInt(pb[2],10)+" "+MONTHS[parseInt(pa[1],10)-1]+" "+pa[0];
+  return fmtDate(a) + " – " + fmtDate(b);
+}
+function isNew(item) {
+  // markera poster tillagda senaste 7 dagarna
+  if (!item.added_on) return false;
+  const added = new Date(item.added_on), now = new Date(DB.last_updated || Date.now());
+  return (now - added) / 86400000 <= 7;
+}
+
+const items = (DB.items || []).slice().sort((a,b) => (a.event_date||"").localeCompare(b.event_date||""));
+let activeCat = "Alla";
+let query = "";
+
+document.getElementById("desc").textContent = DB.description || "";
+document.getElementById("updated").textContent = "Senast uppdaterad: " + fmtDate(DB.last_updated) + " · " + items.length + " poster";
+
+// Stats
+const cats = {};
+items.forEach(i => cats[i.category] = (cats[i.category]||0)+1);
+const upcoming = items.filter(i => (i.event_date||"") >= (DB.last_updated||"")).length;
+const newCount = items.filter(isNew).length;
+document.getElementById("stats").innerHTML = `
+  <div class="stat"><div class="num">${items.length}</div><div class="lbl">Totalt antal poster</div></div>
+  <div class="stat"><div class="num">${upcoming}</div><div class="lbl">Kommande evenemang</div></div>
+  <div class="stat"><div class="num">${Object.keys(cats).length}</div><div class="lbl">Kategorier</div></div>
+  <div class="stat"><div class="num">${newCount}</div><div class="lbl">Nya denna vecka</div></div>`;
+
+// Filters
+const filterCats = ["Alla", ...Object.keys(cats).sort()];
+const fEl = document.getElementById("filters");
+filterCats.forEach(c => {
+  const b = document.createElement("button");
+  b.className = "filter" + (c==="Alla" ? " active" : "");
+  b.textContent = c === "Alla" ? "Alla" : c + " (" + cats[c] + ")";
+  b.onclick = () => { activeCat = c; [...fEl.children].forEach(x=>x.classList.remove("active")); b.classList.add("active"); render(); };
+  fEl.appendChild(b);
+});
+
+document.getElementById("search").addEventListener("input", e => { query = e.target.value.toLowerCase(); render(); });
+
+function render() {
+  const grid = document.getElementById("grid");
+  const list = items.filter(i => {
+    const okCat = activeCat === "Alla" || i.category === activeCat;
+    const hay = (i.title+" "+i.summary+" "+i.location+" "+i.category).toLowerCase();
+    return okCat && (query === "" || hay.includes(query));
+  });
+  if (!list.length) { grid.innerHTML = '<div class="empty">Inga poster matchar din sökning.</div>'; return; }
+  grid.innerHTML = list.map(i => `
+    <article class="event">
+      <div class="top">
+        <span class="cat">${i.category||""}</span>
+        ${isNew(i) ? '<span class="new">NY</span>' : ''}
+      </div>
+      <h3>${i.title||""}</h3>
+      <div class="when">📅 ${fmtRange(i.event_date, i.event_date_end)}</div>
+      <div class="where">📍 ${i.location||""}</div>
+      <div class="desc">${i.summary||""}</div>
+      <div class="foot">
+        <span class="src">${i.source||""}</span>
+        ${i.url ? `<a class="link" href="${i.url}" target="_blank" rel="noopener">Läs mer →</a>` : ''}
+      </div>
+    </article>`).join("");
+}
+render();
+</script>
+</body>
+</html>

@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Psykologi – Vänskap – Veckodatabas</title>
+<style>
+  :root{--bg:#0f1226;--card:#1a1f3a;--card-h:#222848;--accent:#7c6cff;--accent2:#ff7ab8;--text:#eef0ff;--muted:#9aa0c7;--border:#2b3160;--chip:#2a2f55;}
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;background:linear-gradient(160deg,#0f1226,#161a35);color:var(--text);min-height:100vh;padding:32px 20px 64px;}
+  .wrap{max-width:1080px;margin:0 auto;}
+  .eyebrow{color:var(--accent2);font-weight:700;letter-spacing:.08em;text-transform:uppercase;font-size:12px;}
+  h1{font-size:34px;margin:6px 0 8px;}
+  .sub{color:var(--muted);font-size:15px;max-width:640px;line-height:1.5;}
+  .meta{color:var(--muted);font-size:13px;margin-top:10px;}
+  .stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px;margin:26px 0;}
+  .stat{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:16px 18px;}
+  .stat .num{font-size:28px;font-weight:800;color:var(--accent);}
+  .stat .lbl{color:var(--muted);font-size:13px;margin-top:2px;}
+  .controls{display:flex;flex-wrap:wrap;gap:12px;align-items:center;margin-bottom:22px;}
+  #search{flex:1;min-width:220px;background:var(--card);border:1px solid var(--border);color:var(--text);padding:11px 14px;border-radius:10px;font-size:14px;}
+  #search::placeholder{color:var(--muted);}
+  .filters{display:flex;flex-wrap:wrap;gap:8px;}
+  .filter{background:var(--chip);border:1px solid var(--border);color:var(--muted);padding:8px 14px;border-radius:999px;cursor:pointer;font-size:13px;transition:.15s;}
+  .filter:hover{color:var(--text);}
+  .filter.active{background:var(--accent);border-color:var(--accent);color:#fff;}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:16px;}
+  .card{background:var(--card);border:1px solid var(--border);border-radius:16px;padding:20px;transition:.15s;display:flex;flex-direction:column;gap:10px;}
+  .card:hover{background:var(--card-h);transform:translateY(-2px);border-color:var(--accent);}
+  .top{display:flex;justify-content:space-between;align-items:flex-start;gap:10px;}
+  .cat{font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.05em;color:var(--accent2);background:rgba(255,122,184,.12);padding:4px 9px;border-radius:6px;white-space:nowrap;}
+  .new{font-size:10px;font-weight:700;color:#0f1226;background:#6cf09a;padding:3px 7px;border-radius:5px;}
+  .card h3{font-size:17px;line-height:1.3;}
+  .when{color:var(--accent);font-size:13px;font-weight:600;}
+  .where{color:var(--muted);font-size:13px;}
+  .desc{color:var(--text);font-size:14px;line-height:1.5;opacity:.92;}
+  .foot{display:flex;justify-content:space-between;align-items:center;margin-top:auto;padding-top:8px;gap:10px;}
+  .src{color:var(--muted);font-size:12px;}
+  a.link{color:var(--accent);font-size:13px;text-decoration:none;font-weight:600;white-space:nowrap;}
+  a.link:hover{text-decoration:underline;}
+  .empty{color:var(--muted);text-align:center;padding:40px;grid-column:1/-1;}
+  footer.page{margin-top:40px;color:var(--muted);font-size:12px;text-align:center;line-height:1.6;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="eyebrow">Veckodatabas</div>
+    <h1>🧠 Psykologi – Vänskap</h1>
+    <p class="sub" id="desc"></p>
+    <p class="meta" id="updated"></p>
+  </header>
+  <section class="stats" id="stats"></section>
+  <div class="controls">
+    <input id="search" type="text" placeholder="Sök i databasen…">
+    <div class="filters" id="filters"></div>
+  </div>
+  <section class="grid" id="grid"></section>
+  <footer class="page">
+    Automatiskt uppdaterad varje vecka · Källdata lagras i <code>psykologi.json</code><br>
+    Nya poster läggs till utan dubbletter. Vid få nyheter kompletteras med äldre poster.
+  </footer>
+</div>
+<script>
+const DB = /*__DATA__*/{
+  "topic": "Psykologi – Vänskap",
+  "description": "Ny forskning och insikter om vänskap, relationer och social anknytning. Uppdateras varje vecka.",
+  "schema_version": 1,
+  "last_updated": "2026-06-13",
+  "item_count": 20,
+  "items": [
+    {
+      "id": "vanskap-folkhalsotillgang-2026",
+      "title": "Vänskap – en förbisedd folkhälsotillgång",
+      "category": "Forskning",
+      "date": "2026-01-15",
+      "location": "",
+      "summary": "Forskare argumenterar för att vänskap stärker fysisk och mental hälsa, lycka, livslängd och samhällsmotståndskraft – särskilt mot ensamhetsepidemin.",
+      "source": "Sage / Policy Insights",
+      "url": "https://journals.sagepub.com/doi/10.1177/23727322251404386",
+      "added_on": "2026-06-07",
+      "collected_week": "2026-W23"
+    },
+    {
+      "id": "vanskap-forsakring-inte-byteshandel-2025",
+      "title": "Vänskap är en försäkring, inte ett byteshandelssystem",
+      "category": "Insikt",
+      "date": "2025-07-01",
+      "location": "",
+      "summary": "Ny forskning visar att vänskap handlar mindre om att utbyta tjänster och mer om att finnas där när oförutsedda kriser inträffar.",
+      "source": "PsyPost",
+      "url": "https://www.psypost.org/beyond-transactions-what-new-psychology-research-reveals-about-true-friendship/",
+      "added_on": "2026-06-07",
+      "collected_week": "2026-W23"
+    },
+    {
+      "id": "varfor-vi-hjalper-vanner-2025",
+      "title": "Varför vi hjälper våra vänner när de behöver det",
+      "category": "Forskning",
+      "date": "2025-06-20",
+      "location": "",
+      "summary": "Studie undersöker varför vi ställer upp för vänner utan att hålla räkning – vänskap bygger på behovsbaserat stöd snarare än balanserat utbyte.",
+      "source": "The Conversation",
+      "url": "https://theconversation.com/friendships-arent-just-about-keeping-score-new-psychology-research-looks-at-why-we-help-our-friends-when-they-need-it-258549",
+      "added_on": "2026-06-07",
+      "collected_week": "2026-W23"
+    },
+    {
+      "id": "95-procent-vanner-viktiga-2025",
+      "title": "95 % av vuxna anser att vänner är viktiga",
+      "category": "Trend",
+      "date": "2025-06-01",
+      "location": "",
+      "summary": "AARP-studie: andelen vuxna som anser vänner vara avgörande steg från 90 % (2019) till 95 % (2025), men antalet nära vänner har minskat.",
+      "source": "AARP",
+      "url": "https://www.aarp.org/pri/topics/social-leisure/relationships/friendship-study-2025/",
+      "added_on": "2026-06-07",
+      "collected_week": "2026-W23"
+    },
+    {
+      "id": "van-ny-karleksrelation-2025",
+      "title": "Är vi fortfarande vänner när du inte längre är singel?",
+      "category": "Forskning",
+      "date": "2025-09-01",
+      "location": "",
+      "summary": "Studie om hur en väns nya kärleksrelation påverkar vänskapen och hur band kan bevaras genom livsförändringar.",
+      "source": "Wiley – Personal Relationships",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/pere.70013",
+      "added_on": "2026-06-07",
+      "collected_week": "2026-W23"
+    },
+    {
+      "id": "kamrattryck-tonaren-2025",
+      "title": "Kamrattryck och normativ påverkan i tonåren",
+      "category": "Forskning",
+      "date": "2025-08-15",
+      "location": "",
+      "summary": "Vänner påverkar tonåringars attityder och beteenden främst inom samma könsgrupp, oavsett etnicitet.",
+      "source": "Sage – PSPB",
+      "url": "https://journals.sagepub.com/doi/10.1177/01461672251366388",
+      "added_on": "2026-06-07",
+      "collected_week": "2026-W23"
+    },
+    {
+      "id": "nara-vanskap-valbefinnande-2025",
+      "title": "Nära vänskap och subjektivt välbefinnande",
+      "category": "Forskning",
+      "date": "2025-04-10",
+      "location": "",
+      "summary": "Longitudinell studie: nära vänskap ökar välbefinnande genom kedjan interpersonell tillit och upplevt socialt stöd.",
+      "source": "PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12024271/",
+      "added_on": "2026-06-07",
+      "collected_week": "2026-W23"
+    },
+    {
+      "id": "ideal-vs-faktisk-vanskap-12-lander-2026",
+      "title": "Får människor de vänner de önskar sig? En tvärkulturell studie",
+      "category": "Forskning",
+      "date": "2026-02-01",
+      "location": "",
+      "summary": "Studie med 6 224 deltagare från 12 länder visar att människors ideala och faktiska vänskaper överlappar betydligt över fem centrala dimensioner.",
+      "source": "PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12972647/",
+      "added_on": "2026-06-07",
+      "collected_week": "2026-W23"
+    },
+    {
+      "id": "ensamhet-unga-vuxna-atta-lander-2026",
+      "title": "Nästan hälften av unga vuxna känner sig ensamma",
+      "category": "Forskning",
+      "date": "2026-03-01",
+      "location": "",
+      "summary": "Internationell studie i åtta länder: nästan en av två i åldern 18–24 rapporterar ensamhet, vilket kopplas till kraftigt ökad risk för depression och ångest.",
+      "source": "Washington University in St. Louis",
+      "url": "https://source.washu.edu/2026/03/nearly-half-of-young-adults-report-loneliness-in-eight-country-study/",
+      "added_on": "2026-06-07",
+      "collected_week": "2026-W23"
+    },
+    {
+      "id": "vanskap-genom-livsfaser-kohorter-2025",
+      "title": "Vänskap genom livets faser och generationer",
+      "category": "Forskning",
+      "date": "2025-11-01",
+      "location": "",
+      "summary": "Studie kartlägger hur vänskapsmönster förändras över livsfaser och mellan olika födelsekohorter.",
+      "source": "ScienceDirect – Social Science & Medicine",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0167494325001293",
+      "added_on": "2026-06-07",
+      "collected_week": "2026-W23"
+    },
+    {
+      "id": "klimat-social-anknytning-ensamhet-2026",
+      "title": "Social anknytning och ensamhet i klimatförändringarnas tid",
+      "category": "Forskning",
+      "date": "2026-01-20",
+      "location": "",
+      "summary": "Översikt i Nature Health kartlägger hur extremväder och klimathändelser via förflyttning och störda gemenskaper ökar social isolering och ohälsa.",
+      "source": "Nature Health",
+      "url": "https://www.nature.com/articles/s44360-025-00041-6",
+      "added_on": "2026-06-07",
+      "collected_week": "2026-W23"
+    },
+    {
+      "id": "who-kommission-social-anknytning-2025",
+      "title": "WHO-kommissionen om social anknytning: en väg till friskare samhällen",
+      "category": "Trend",
+      "date": "2025-06-30",
+      "location": "",
+      "summary": "WHO:s flaggskeppsrapport visar att social isolering och ensamhet är utbredda och allvarliga för hälsan, men att verkningsfulla lösningar finns.",
+      "source": "WHO",
+      "url": "https://www.who.int/publications/i/item/978240112360",
+      "added_on": "2026-06-07",
+      "collected_week": "2026-W23"
+    },
+    {
+      "id": "svenskar-umgas-mindre-2026",
+      "title": "Kartläggning: svenskar umgås allt mindre",
+      "category": "Trend",
+      "date": "2026-06-05",
+      "location": "",
+      "summary": "Andelen svenskar som umgås regelbundet med vänner minskar, liksom andelen som värderar vänskap högst – men den upplevda ensamheten har inte ökat på tio år.",
+      "source": "forskning.se",
+      "url": "https://forskning.se/2026/06/05/minskande-umgange/",
+      "added_on": "2026-06-07",
+      "collected_week": "2026-W23"
+    },
+    {
+      "id": "bra-relationer-far-oss-ma-bra-2026",
+      "title": "Bra relationer får oss att må bra",
+      "category": "Insikt",
+      "date": "2026-06-01",
+      "location": "",
+      "summary": "Sociala relationer och personlighet betyder mer för välbefinnandet i Sverige än inkomst, enligt ny forskning.",
+      "source": "forskning.se",
+      "url": "https://forskning.se/2026/06/01/bra-relationer-far-oss-att-ma-bra/",
+      "added_on": "2026-06-07",
+      "collected_week": "2026-W23"
+    },
+    {
+      "id": "sociala-medier-starker-inte-vanskapen-2026",
+      "title": "Sociala medier stärker inte vänskapen – offline-kontakter viktigare",
+      "category": "Forskning",
+      "date": "2026-05-06",
+      "location": "",
+      "summary": "Studie i Public Health Reports med 1 500+ amerikaner visar att sociala medier inte stärker vänskapen – tvärtom kan fler onlinekontakter utan personlig träff öka ensamheten.",
+      "source": "CNN / Public Health Reports",
+      "url": "https://www.cnn.com/2026/05/06/health/social-media-affect-friendship-wellness",
+      "added_on": "2026-06-13",
+      "collected_week": "2026-W24"
+    },
+    {
+      "id": "unga-vuxna-ensamma-trots-stora-natverk-2025",
+      "title": "Unga vuxna ensamma trots stora vänskapsnätverk",
+      "category": "Forskning",
+      "date": "2025-12-01",
+      "location": "",
+      "summary": "Forskning visar att unga vuxnas ensamhet inte beror på brist på kontakter utan på snabba livsförändringar och avsaknad av relationell kontinuitet och rutin.",
+      "source": "PsyPost",
+      "url": "https://www.psypost.org/young-adults-experience-high-loneliness-despite-having-large-friend-networks/",
+      "added_on": "2026-06-13",
+      "collected_week": "2026-W24"
+    },
+    {
+      "id": "sociala-band-bromsar-biologiskt-aldrande-2025",
+      "title": "Livslånga sociala band bromsar det biologiska åldrandet",
+      "category": "Forskning",
+      "date": "2025-10-04",
+      "location": "",
+      "summary": "Studie med 2 100+ deltagare i MIDUS-kohorten visar att ackumulerat socialt kapital under livet ger ett biologiskt yngre DNA-profil och lägre inflammation, mätt med epigenetiska klockor.",
+      "source": "ScienceDaily / Brain, Behavior & Immunity",
+      "url": "https://www.sciencedaily.com/releases/2025/10/251004092917.htm",
+      "added_on": "2026-06-13",
+      "collected_week": "2026-W24"
+    },
+    {
+      "id": "negativa-sociala-relationer-accelererar-aldrande-2025",
+      "title": "Negativa sociala relationer accelererar biologiskt åldrande",
+      "category": "Forskning",
+      "date": "2025-10-01",
+      "location": "",
+      "summary": "PNAS-studie identifierar negativa sociala band – konflikter, kritik och överbeskyddande relationer – som en ny riskfaktor för accelererat åldrande, kronisk inflammation och multimorbiditet.",
+      "source": "PNAS",
+      "url": "https://www.pnas.org/doi/10.1073/pnas.2515331123",
+      "added_on": "2026-06-13",
+      "collected_week": "2026-W24"
+    },
+    {
+      "id": "vanskap-reciprocitet-stabilitet-barn-2025",
+      "title": "Reciprocitet och stabilitet i barns vänskapsrelationer",
+      "category": "Forskning",
+      "date": "2025-06-01",
+      "location": "",
+      "summary": "Studie av yngre skolbarn visar att bara 32 % av vänskapsnomineringar var ömsesidiga, men att barnens upplevda vänskapskvalitet inte skilde sig beroende på om relationen var reciprok eller ej.",
+      "source": "Sage – Journal of Emotional and Behavioral Disorders",
+      "url": "https://journals.sagepub.com/doi/10.1177/01987429251349115",
+      "added_on": "2026-06-13",
+      "collected_week": "2026-W24"
+    },
+    {
+      "id": "vuxenvanskap-kräver-hundratals-timmar",
+      "title": "Vuxenvänskap kräver hundratals timmars samvaro",
+      "category": "Insikt",
+      "date": "2025-03-01",
+      "location": "",
+      "summary": "Forskning visar att det krävs upp till 200 timmars umgänge för att gå från bekantskap till nära vän i vuxen ålder – en insikt som sätter rimliga förväntningar på hur vänskap byggs.",
+      "source": "News55",
+      "url": "https://www.news55.se/livsstil/vuxenvanskap-tar-tid-sa-manga-timmar-kravs/",
+      "added_on": "2026-06-13",
+      "collected_week": "2026-W24"
+    }
+  ]
+}/*__END_DATA__*/;
+const MONTHS=["jan","feb","mar","apr","maj","jun","jul","aug","sep","okt","nov","dec"];
+function fmtDate(d){if(!d)return"";const p=d.split("-");if(p.length<3)return d;return parseInt(p[2],10)+" "+MONTHS[parseInt(p[1],10)-1]+" "+p[0];}
+function isNew(i){if(!i.added_on)return false;const a=new Date(i.added_on),n=new Date(DB.last_updated||Date.now());return (n-a)/86400000<=7;}
+const items=(DB.items||[]).slice().sort((a,b)=>(b.date||"").localeCompare(a.date||""));
+let activeCat="Alla",query="";
+document.getElementById("desc").textContent=DB.description||"";
+document.getElementById("updated").textContent="Senast uppdaterad: "+fmtDate(DB.last_updated)+" · "+items.length+" poster";
+const cats={},srcs={};
+items.forEach(i=>{cats[i.category]=(cats[i.category]||0)+1;if(i.source)srcs[i.source]=1;});
+const newCount=items.filter(isNew).length;
+document.getElementById("stats").innerHTML=`
+  <div class="stat"><div class="num">${items.length}</div><div class="lbl">Totalt antal poster</div></div>
+  <div class="stat"><div class="num">${newCount}</div><div class="lbl">Nya denna vecka</div></div>
+  <div class="stat"><div class="num">${Object.keys(cats).length}</div><div class="lbl">Kategorier</div></div>
+  <div class="stat"><div class="num">${Object.keys(srcs).length}</div><div class="lbl">Källor</div></div>`;
+const fEl=document.getElementById("filters");
+["Alla",...Object.keys(cats).sort()].forEach(c=>{const b=document.createElement("button");b.className="filter"+(c==="Alla"?" active":"");b.textContent=c==="Alla"?"Alla":c+" ("+cats[c]+")";b.onclick=()=>{activeCat=c;[...fEl.children].forEach(x=>x.classList.remove("active"));b.classList.add("active");render();};fEl.appendChild(b);});
+document.getElementById("search").addEventListener("input",e=>{query=e.target.value.toLowerCase();render();});
+function render(){const grid=document.getElementById("grid");const list=items.filter(i=>{const okC=activeCat==="Alla"||i.category===activeCat;const hay=((i.title||"")+" "+(i.summary||"")+" "+(i.location||"")+" "+(i.category||"")).toLowerCase();return okC&&(query===""||hay.includes(query));});
+if(!list.length){grid.innerHTML='<div class="empty">Inga poster matchar din sökning.</div>';return;}
+grid.innerHTML=list.map(i=>`<article class="card"><div class="top"><span class="cat">${i.category||""}</span>${isNew(i)?'<span class="new">NY</span>':''}</div><h3>${i.title||""}</h3><div class="when">📅 ${fmtDate(i.date)}</div>${i.location?`<div class="where">📍 ${i.location}</div>`:''}<div class="desc">${i.summary||""}</div><div class="foot"><span class="src">${i.source||""}</span>${i.url?`<a class="link" href="${i.url}" target="_blank" rel="noopener">Läs mer →</a>`:''}</div></article>`).join("");}
+render();
+</script>
+</body>
+</html>

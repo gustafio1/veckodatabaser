@@ -1,0 +1,494 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ledarskap – John Maxwell – Veckodatabas</title>
+<style>
+  :root{--bg:#0f1226;--card:#1a1f3a;--card-h:#222848;--accent:#7c6cff;--accent2:#ff7ab8;--text:#eef0ff;--muted:#9aa0c7;--border:#2b3160;--chip:#2a2f55;}
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;background:linear-gradient(160deg,#0f1226,#161a35);color:var(--text);min-height:100vh;padding:32px 20px 64px;}
+  .wrap{max-width:1080px;margin:0 auto;}
+  .eyebrow{color:var(--accent2);font-weight:700;letter-spacing:.08em;text-transform:uppercase;font-size:12px;}
+  h1{font-size:34px;margin:6px 0 8px;}
+  .sub{color:var(--muted);font-size:15px;max-width:640px;line-height:1.5;}
+  .meta{color:var(--muted);font-size:13px;margin-top:10px;}
+  .stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px;margin:26px 0;}
+  .stat{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:16px 18px;}
+  .stat .num{font-size:28px;font-weight:800;color:var(--accent);}
+  .stat .lbl{color:var(--muted);font-size:13px;margin-top:2px;}
+  .controls{display:flex;flex-wrap:wrap;gap:12px;align-items:center;margin-bottom:22px;}
+  #search{flex:1;min-width:220px;background:var(--card);border:1px solid var(--border);color:var(--text);padding:11px 14px;border-radius:10px;font-size:14px;}
+  #search::placeholder{color:var(--muted);}
+  .filters{display:flex;flex-wrap:wrap;gap:8px;}
+  .filter{background:var(--chip);border:1px solid var(--border);color:var(--muted);padding:8px 14px;border-radius:999px;cursor:pointer;font-size:13px;transition:.15s;}
+  .filter:hover{color:var(--text);}
+  .filter.active{background:var(--accent);border-color:var(--accent);color:#fff;}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:16px;}
+  .card{background:var(--card);border:1px solid var(--border);border-radius:16px;padding:20px;transition:.15s;display:flex;flex-direction:column;gap:10px;}
+  .card:hover{background:var(--card-h);transform:translateY(-2px);border-color:var(--accent);}
+  .top{display:flex;justify-content:space-between;align-items:flex-start;gap:10px;}
+  .cat{font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.05em;color:var(--accent2);background:rgba(255,122,184,.12);padding:4px 9px;border-radius:6px;white-space:nowrap;}
+  .new{font-size:10px;font-weight:700;color:#0f1226;background:#6cf09a;padding:3px 7px;border-radius:5px;}
+  .card h3{font-size:17px;line-height:1.3;}
+  .when{color:var(--accent);font-size:13px;font-weight:600;}
+  .where{color:var(--muted);font-size:13px;}
+  .desc{color:var(--text);font-size:14px;line-height:1.5;opacity:.92;}
+  .foot{display:flex;justify-content:space-between;align-items:center;margin-top:auto;padding-top:8px;gap:10px;}
+  .src{color:var(--muted);font-size:12px;}
+  a.link{color:var(--accent);font-size:13px;text-decoration:none;font-weight:600;white-space:nowrap;}
+  a.link:hover{text-decoration:underline;}
+  .empty{color:var(--muted);text-align:center;padding:40px;grid-column:1/-1;}
+  footer.page{margin-top:40px;color:var(--muted);font-size:12px;text-align:center;line-height:1.6;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="eyebrow">Veckodatabas</div>
+    <h1>🧭 Ledarskap – John Maxwell</h1>
+    <p class="sub" id="desc"></p>
+    <p class="meta" id="updated"></p>
+  </header>
+  <section class="stats" id="stats"></section>
+  <div class="controls">
+    <input id="search" type="text" placeholder="Sök i databasen…">
+    <div class="filters" id="filters"></div>
+  </div>
+  <section class="grid" id="grid"></section>
+  <footer class="page">
+    Automatiskt uppdaterad varje vecka · Källdata lagras i <code>ledarskap.json</code><br>
+    Nya poster läggs till utan dubbletter. Vid få nyheter kompletteras med äldre poster.
+  </footer>
+</div>
+<script>
+const DB = /*__DATA__*/{
+  "topic": "Ledarskap – John Maxwell",
+  "description": "Ledarskapsprinciper och lärdomar från John C. Maxwell, inklusive De 21 oeftergivliga ledarskapslagarna. Uppdateras varje vecka.",
+  "schema_version": 1,
+  "last_updated": "2026-06-12",
+  "item_count": 33,
+  "items": [
+    {
+      "id": "lockets-lag",
+      "title": "Lockets lag (The Law of the Lid)",
+      "category": "Ledarskapslag",
+      "date": "2026-06-07",
+      "location": "",
+      "summary": "Din ledarförmåga sätter taket för hur effektiv du och din organisation kan bli. Höj ledarskapet och du höjer hela verksamheten.",
+      "source": "John Maxwell – 21 Laws",
+      "url": "https://www.johnmaxwellacademy.com/21-laws",
+      "added_on": "2026-06-07",
+      "collected_week": "2026-W23"
+    },
+    {
+      "id": "inflytandets-lag",
+      "title": "Inflytandets lag (The Law of Influence)",
+      "category": "Ledarskapslag",
+      "date": "2026-06-07",
+      "location": "",
+      "summary": "Det sanna måttet på ledarskap är inflytande – varken mer eller mindre. Titlar gör dig inte till ledare; det gör människor som följer dig.",
+      "source": "John Maxwell – 21 Laws",
+      "url": "https://www.johnmaxwellacademy.com/21-laws",
+      "added_on": "2026-06-07",
+      "collected_week": "2026-W23"
+    },
+    {
+      "id": "processens-lag",
+      "title": "Processens lag (The Law of Process)",
+      "category": "Ledarskapslag",
+      "date": "2026-06-07",
+      "location": "",
+      "summary": "Ledarskap utvecklas dagligen, inte på en dag. Det byggs genom uthållig, daglig utveckling över tid.",
+      "source": "John Maxwell – 21 Laws",
+      "url": "https://www.johnmaxwellacademy.com/21-laws",
+      "added_on": "2026-06-07",
+      "collected_week": "2026-W23"
+    },
+    {
+      "id": "navigationens-lag",
+      "title": "Navigationens lag (The Law of Navigation)",
+      "category": "Ledarskapslag",
+      "date": "2026-06-07",
+      "location": "",
+      "summary": "Vem som helst kan styra skeppet, men det krävs en ledare för att staka ut kursen och förbereda för resan.",
+      "source": "John Maxwell – 21 Laws",
+      "url": "https://www.johnmaxwellacademy.com/21-laws",
+      "added_on": "2026-06-07",
+      "collected_week": "2026-W23"
+    },
+    {
+      "id": "additionens-lag",
+      "title": "Additionens lag (The Law of Addition)",
+      "category": "Ledarskapslag",
+      "date": "2026-06-07",
+      "location": "",
+      "summary": "Ledare tillför värde genom att tjäna andra. Mät ditt ledarskap i hur mycket du bidrar till andras liv.",
+      "source": "John Maxwell – 21 Laws",
+      "url": "https://www.johnmaxwellacademy.com/21-laws",
+      "added_on": "2026-06-07",
+      "collected_week": "2026-W23"
+    },
+    {
+      "id": "fasta-markens-lag",
+      "title": "Den fasta markens lag (The Law of Solid Ground)",
+      "category": "Ledarskapslag",
+      "date": "2026-06-07",
+      "location": "",
+      "summary": "Förtroende är ledarskapets grund. Utan förtroende håller inte ledarskapet – det byggs på karaktär och konsekvens.",
+      "source": "John Maxwell – 21 Laws",
+      "url": "https://www.johnmaxwellacademy.com/21-laws",
+      "added_on": "2026-06-07",
+      "collected_week": "2026-W23"
+    },
+    {
+      "id": "magnetismens-lag",
+      "title": "Magnetismens lag (The Law of Magnetism)",
+      "category": "Ledarskapslag",
+      "date": "2026-06-07",
+      "location": "",
+      "summary": "Den du är avgör vem du attraherar. Människor dras till ledare med egenskaper som liknar deras egna.",
+      "source": "John Maxwell – 21 Laws",
+      "url": "https://www.johnmaxwellacademy.com/21-laws",
+      "added_on": "2026-06-07",
+      "collected_week": "2026-W23"
+    },
+    {
+      "id": "respektens-lag",
+      "title": "Respektens lag (The Law of Respect)",
+      "category": "Ledarskapslag",
+      "date": "2026-06-08",
+      "location": "",
+      "summary": "Människor följer naturligt ledare som är starkare än de själva. Ju mer respekt en ledare förtjänar, desto fler vill följa.",
+      "source": "John Maxwell – 21 Laws",
+      "url": "https://www.johnmaxwellacademy.com/21-laws",
+      "added_on": "2026-06-08",
+      "collected_week": "2026-W24"
+    },
+    {
+      "id": "intuitionens-lag",
+      "title": "Intuitionens lag (The Law of Intuition)",
+      "category": "Ledarskapslag",
+      "date": "2026-06-08",
+      "location": "",
+      "summary": "Ledare läser situationer utifrån sin ledarintuition – förmågan att se det andra inte ser. Intuitionen kan tränas och förfinas.",
+      "source": "John Maxwell – 21 Laws",
+      "url": "https://www.johnmaxwellacademy.com/21-laws",
+      "added_on": "2026-06-08",
+      "collected_week": "2026-W24"
+    },
+    {
+      "id": "anknytningens-lag",
+      "title": "Anknytningens lag (The Law of Connection)",
+      "category": "Ledarskapslag",
+      "date": "2026-06-08",
+      "location": "",
+      "summary": "Ledare berör hjärtat innan de ber om handen. Du måste skapa en personlig kontakt med människor innan du kan be dem att följa dig.",
+      "source": "John Maxwell – 21 Laws",
+      "url": "https://www.johnmaxwellacademy.com/21-laws",
+      "added_on": "2026-06-08",
+      "collected_week": "2026-W24"
+    },
+    {
+      "id": "inre-kretsens-lag",
+      "title": "Den inre kretsens lag (The Law of the Inner Circle)",
+      "category": "Ledarskapslag",
+      "date": "2026-06-08",
+      "location": "",
+      "summary": "En ledares potential avgörs av de närmaste medarbetarna. Omge dig med människor som tillför värde och vågar hålla dig ansvarig.",
+      "source": "John Maxwell – 21 Laws",
+      "url": "https://www.johnmaxwellacademy.com/21-laws",
+      "added_on": "2026-06-08",
+      "collected_week": "2026-W24"
+    },
+    {
+      "id": "egenmaktens-lag",
+      "title": "Egenmaktens lag (The Law of Empowerment)",
+      "category": "Ledarskapslag",
+      "date": "2026-06-08",
+      "location": "",
+      "summary": "Bara trygga ledare ger makt åt andra. Genom att frigöra och stärka andra växer både medarbetarna och ledaren själv.",
+      "source": "John Maxwell – 21 Laws",
+      "url": "https://www.johnmaxwellacademy.com/21-laws",
+      "added_on": "2026-06-08",
+      "collected_week": "2026-W24"
+    },
+    {
+      "id": "momentums-lag",
+      "title": "Momentumets lag (The Law of the Big Mo)",
+      "category": "Ledarskapslag",
+      "date": "2026-06-08",
+      "location": "",
+      "summary": "Momentum är ledarens bästa vän. Med fart blir problem små och framsteg känns lätta; utan momentum känns även små hinder oöverstigliga.",
+      "source": "John Maxwell – 21 Laws",
+      "url": "https://www.johnmaxwellacademy.com/21-laws",
+      "added_on": "2026-06-08",
+      "collected_week": "2026-W24"
+    },
+    {
+      "id": "prioriteringens-lag",
+      "title": "Prioriteringens lag (The Law of Priorities)",
+      "category": "Ledarskapslag",
+      "date": "2026-06-08",
+      "location": "",
+      "summary": "Ledare förstår att aktivitet inte är detsamma som resultat. Fokusera på det som ger störst avkastning, belöning och uppfyllelse.",
+      "source": "John Maxwell – 21 Laws",
+      "url": "https://www.johnmaxwellacademy.com/21-laws",
+      "added_on": "2026-06-08",
+      "collected_week": "2026-W24"
+    },
+    {
+      "id": "eftermalets-lag",
+      "title": "Eftermälets lag (The Law of Legacy)",
+      "category": "Ledarskapslag",
+      "date": "2026-06-08",
+      "location": "",
+      "summary": "En ledares bestående värde mäts i efterföljd. Sann framgång är att förbereda andra att leda vidare när du är borta.",
+      "source": "John Maxwell – 21 Laws",
+      "url": "https://www.johnmaxwellacademy.com/21-laws",
+      "added_on": "2026-06-08",
+      "collected_week": "2026-W24"
+    },
+    {
+      "id": "citat-knows-the-way",
+      "title": "Citat: \"Visar vägen\" (A leader knows the way)",
+      "category": "Citat",
+      "date": "2026-06-08",
+      "location": "",
+      "summary": "\"En ledare är den som känner vägen, går vägen och visar vägen.\" Maxwell betonar att ledarskap är att gå före genom eget exempel.",
+      "source": "John C. Maxwell",
+      "url": "https://www.johnmaxwell.com/blog/",
+      "added_on": "2026-06-08",
+      "collected_week": "2026-W24"
+    },
+    {
+      "id": "citat-how-much-you-care",
+      "title": "Citat: \"Bryr sig\" (People don't care how much you know...)",
+      "category": "Citat",
+      "date": "2026-06-08",
+      "location": "",
+      "summary": "\"Människor bryr sig inte om hur mycket du kan förrän de vet hur mycket du bryr dig.\" Kärnan i Anknytningens lag – relation före påverkan.",
+      "source": "John C. Maxwell",
+      "url": "https://www.johnmaxwell.com/blog/",
+      "added_on": "2026-06-08",
+      "collected_week": "2026-W24"
+    },
+    {
+      "id": "bildens-lag",
+      "title": "Bildens lag (The Law of the Picture)",
+      "category": "Ledarskapslag",
+      "date": "2026-06-08",
+      "location": "",
+      "summary": "Människor gör det de ser. Ledaren måste själv leva som föredöme – teamet följer handling före ord.",
+      "source": "John Maxwell – 21 Laws",
+      "url": "https://www.johnmaxwellacademy.com/21-laws",
+      "added_on": "2026-06-08",
+      "collected_week": "2026-W24"
+    },
+    {
+      "id": "forankringens-lag",
+      "title": "Förankringens lag (The Law of Buy-In)",
+      "category": "Ledarskapslag",
+      "date": "2026-06-08",
+      "location": "",
+      "summary": "Människor köper först in sig på ledaren, sedan på visionen. Saknas förtroende för ledaren spelar visionen mindre roll.",
+      "source": "John Maxwell – 21 Laws",
+      "url": "https://www.johnmaxwellacademy.com/21-laws",
+      "added_on": "2026-06-08",
+      "collected_week": "2026-W24"
+    },
+    {
+      "id": "segerns-lag",
+      "title": "Segerns lag (The Law of Victory)",
+      "category": "Ledarskapslag",
+      "date": "2026-06-08",
+      "location": "",
+      "summary": "Ledare hittar ett sätt att få laget att vinna. De accepterar inte nederlag och tar ansvar för att skapa framgång.",
+      "source": "John Maxwell – 21 Laws",
+      "url": "https://www.johnmaxwellacademy.com/21-laws",
+      "added_on": "2026-06-08",
+      "collected_week": "2026-W24"
+    },
+    {
+      "id": "uppoffringens-lag",
+      "title": "Uppoffringens lag (The Law of Sacrifice)",
+      "category": "Ledarskapslag",
+      "date": "2026-06-08",
+      "location": "",
+      "summary": "En ledare måste ge upp för att gå upp. Ju högre ansvar, desto större uppoffringar krävs av ledaren.",
+      "source": "John Maxwell – 21 Laws",
+      "url": "https://www.johnmaxwellacademy.com/21-laws",
+      "added_on": "2026-06-08",
+      "collected_week": "2026-W24"
+    },
+    {
+      "id": "timingens-lag",
+      "title": "Timingens lag (The Law of Timing)",
+      "category": "Ledarskapslag",
+      "date": "2026-06-08",
+      "location": "",
+      "summary": "När man leder är lika viktigt som vad man gör och vart man går. Rätt handling vid fel tidpunkt leder ofta fel.",
+      "source": "John Maxwell – 21 Laws",
+      "url": "https://www.johnmaxwellacademy.com/21-laws",
+      "added_on": "2026-06-08",
+      "collected_week": "2026-W24"
+    },
+    {
+      "id": "explosiva-tillvaxtens-lag",
+      "title": "Den explosiva tillväxtens lag (The Law of Explosive Growth)",
+      "category": "Ledarskapslag",
+      "date": "2026-06-08",
+      "location": "",
+      "summary": "För att addera tillväxt, led följare – för att mångdubbla, led ledare. Den som utvecklar ledare skapar explosiv tillväxt.",
+      "source": "John Maxwell – 21 Laws",
+      "url": "https://www.johnmaxwellacademy.com/21-laws",
+      "added_on": "2026-06-08",
+      "collected_week": "2026-W24"
+    },
+    {
+      "id": "fem-nivaerna-av-ledarskap",
+      "title": "De fem ledarskapsnivåerna (The 5 Levels of Leadership)",
+      "category": "Princip",
+      "date": "2026-06-08",
+      "location": "",
+      "summary": "Ledarskap växer genom fem nivåer: Position, Tillåtelse, Produktion, Människoutveckling och Höjdpunkt. Varje nivå bygger på den föregående.",
+      "source": "John Maxwell – The 5 Levels of Leadership",
+      "url": "https://www.maxwellleadership.com/blog/",
+      "added_on": "2026-06-08",
+      "collected_week": "2026-W24"
+    },
+    {
+      "id": "citat-fail-forward",
+      "title": "Citat: \"Misslyckas framåt\" (Fail forward)",
+      "category": "Citat",
+      "date": "2026-06-08",
+      "location": "",
+      "summary": "\"Skillnaden mellan medelmåttiga och framgångsrika människor är deras syn på misslyckanden.\" Maxwell uppmanar oss att misslyckas framåt och lära av varje motgång.",
+      "source": "John C. Maxwell – Failing Forward",
+      "url": "https://www.johnmaxwell.com/blog/",
+      "added_on": "2026-06-08",
+      "collected_week": "2026-W24"
+    },
+    {
+      "id": "hog-vag-ledarskap",
+      "title": "Höga vägens ledarskap (High Road Leadership)",
+      "category": "Bok",
+      "date": "2026-06-12",
+      "location": "",
+      "summary": "Maxwells bok från 2024 om att föra människor samman i en värld som splittrar. Ledare som tar den höga vägen värderar alla människor, gör mer än som förväntas och placerar laget före sig själva.",
+      "source": "John C. Maxwell – High Road Leadership (2024)",
+      "url": "https://store.maxwellleadership.com/collections/all-books",
+      "added_on": "2026-06-12",
+      "collected_week": "2026-W24"
+    },
+    {
+      "id": "den-karismatiske-ledaren",
+      "title": "Den karismatiske ledaren (The Charismatic Leader)",
+      "category": "Bok",
+      "date": "2026-06-12",
+      "location": "",
+      "summary": "Maxwells bok från 2025 med 21 färdigheter för att skapa kontakt med människor. Karisma handlar inte om utstrålning utan om att rikta uppmärksamheten mot andra och få dem att känna sig värdefulla.",
+      "source": "John C. Maxwell – The Charismatic Leader (2025)",
+      "url": "https://store.maxwellleadership.com/collections/all-books",
+      "added_on": "2026-06-12",
+      "collected_week": "2026-W24"
+    },
+    {
+      "id": "25-50-25-principen",
+      "title": "25-50-25-principen för förändring (The 25-50-25 Principle of Change)",
+      "category": "Princip",
+      "date": "2026-06-12",
+      "location": "",
+      "summary": "När du presenterar en vision stödjer cirka 25 % dig, 50 % är osäkra och 25 % gör motstånd. Ledarens uppgift är att vinna mittengruppen – inte att övertyga motståndarna först.",
+      "source": "Maxwell Leadership Blog",
+      "url": "https://www.maxwellleadership.com/blog/the-25-50-25-principle-of-change/",
+      "added_on": "2026-06-12",
+      "collected_week": "2026-W24"
+    },
+    {
+      "id": "de-15-ovarderliga-tillvaxtlagarna",
+      "title": "De 15 ovärderliga tillväxtlagarna (The 15 Invaluable Laws of Growth)",
+      "category": "Bok",
+      "date": "2026-06-12",
+      "location": "",
+      "summary": "Maxwells bok om personlig utveckling: tillväxt sker inte av sig själv utan kräver avsiktlighet. Innehåller bl.a. Spegelns lag, Medvetenhetens lag och Omgivningens lag.",
+      "source": "John C. Maxwell – The 15 Invaluable Laws of Growth",
+      "url": "https://www.porchlightbooks.com/products/15-invaluable-laws-of-growth-john-c-maxwell-9781546000952",
+      "added_on": "2026-06-12",
+      "collected_week": "2026-W24"
+    },
+    {
+      "id": "regeln-om-fem",
+      "title": "Regeln om fem (The Rule of 5)",
+      "category": "Princip",
+      "date": "2026-06-12",
+      "location": "",
+      "summary": "Maxwells liknelse: hugger du fem yxhugg i ett träd varje dag faller även det största trädet till slut. Identifiera dina fem viktigaste dagliga aktiviteter och gör dem konsekvent.",
+      "source": "John C. Maxwell",
+      "url": "https://www.maxwellleadership.com/blog/",
+      "added_on": "2026-06-12",
+      "collected_week": "2026-W24"
+    },
+    {
+      "id": "ledarskiftet",
+      "title": "Ledarskiftet (Leadershift)",
+      "category": "Bok",
+      "date": "2026-06-12",
+      "location": "",
+      "summary": "Maxwells bok om elva nödvändiga skiften varje ledare måste göra, t.ex. från soloprestationer till lagarbete, från att behaga människor till att utmana dem, och från karriärstege till kallelse.",
+      "source": "John C. Maxwell – Leadershift",
+      "url": "https://store.maxwellleadership.com/collections/all-books",
+      "added_on": "2026-06-12",
+      "collected_week": "2026-W24"
+    },
+    {
+      "id": "citat-everything-rises-and-falls",
+      "title": "Citat: \"Allt står och faller med ledarskap\" (Everything rises and falls on leadership)",
+      "category": "Citat",
+      "date": "2026-06-12",
+      "location": "",
+      "summary": "\"Allt står och faller med ledarskap.\" Maxwells mest kända tes: organisationers framgång eller misslyckande kan nästan alltid spåras till ledarskapets kvalitet.",
+      "source": "John C. Maxwell",
+      "url": "https://www.johnmaxwell.com/blog/",
+      "added_on": "2026-06-12",
+      "collected_week": "2026-W24"
+    },
+    {
+      "id": "citat-change-growth-optional",
+      "title": "Citat: \"Förändring är oundviklig, tillväxt är valfri\" (Change is inevitable, growth is optional)",
+      "category": "Citat",
+      "date": "2026-06-12",
+      "location": "",
+      "summary": "\"Förändring är oundviklig. Tillväxt är valfri.\" Maxwell påminner om att utveckling kräver ett aktivt val – ingen växer av en slump.",
+      "source": "John C. Maxwell",
+      "url": "https://www.johnmaxwell.com/blog/",
+      "added_on": "2026-06-12",
+      "collected_week": "2026-W24"
+    }
+  ]
+}/*__END_DATA__*/;
+const MONTHS=["jan","feb","mar","apr","maj","jun","jul","aug","sep","okt","nov","dec"];
+function fmtDate(d){if(!d)return"";const p=d.split("-");if(p.length<3)return d;return parseInt(p[2],10)+" "+MONTHS[parseInt(p[1],10)-1]+" "+p[0];}
+function isNew(i){if(!i.added_on)return false;const a=new Date(i.added_on),n=new Date(DB.last_updated||Date.now());return (n-a)/86400000<=7;}
+const items=(DB.items||[]).slice().sort((a,b)=>(b.date||"").localeCompare(a.date||""));
+let activeCat="Alla",query="";
+document.getElementById("desc").textContent=DB.description||"";
+document.getElementById("updated").textContent="Senast uppdaterad: "+fmtDate(DB.last_updated)+" · "+items.length+" poster";
+const cats={},srcs={};
+items.forEach(i=>{cats[i.category]=(cats[i.category]||0)+1;if(i.source)srcs[i.source]=1;});
+const newCount=items.filter(isNew).length;
+document.getElementById("stats").innerHTML=`
+  <div class="stat"><div class="num">${items.length}</div><div class="lbl">Totalt antal poster</div></div>
+  <div class="stat"><div class="num">${newCount}</div><div class="lbl">Nya denna vecka</div></div>
+  <div class="stat"><div class="num">${Object.keys(cats).length}</div><div class="lbl">Kategorier</div></div>
+  <div class="stat"><div class="num">${Object.keys(srcs).length}</div><div class="lbl">Källor</div></div>`;
+const fEl=document.getElementById("filters");
+["Alla",...Object.keys(cats).sort()].forEach(c=>{const b=document.createElement("button");b.className="filter"+(c==="Alla"?" active":"");b.textContent=c==="Alla"?"Alla":c+" ("+cats[c]+")";b.onclick=()=>{activeCat=c;[...fEl.children].forEach(x=>x.classList.remove("active"));b.classList.add("active");render();};fEl.appendChild(b);});
+document.getElementById("search").addEventListener("input",e=>{query=e.target.value.toLowerCase();render();});
+function render(){const grid=document.getElementById("grid");const list=items.filter(i=>{const okC=activeCat==="Alla"||i.category===activeCat;const hay=((i.title||"")+" "+(i.summary||"")+" "+(i.location||"")+" "+(i.category||"")).toLowerCase();return okC&&(query===""||hay.includes(query));});
+if(!list.length){grid.innerHTML='<div class="empty">Inga poster matchar din sökning.</div>';return;}
+grid.innerHTML=list.map(i=>`<article class="card"><div class="top"><span class="cat">${i.category||""}</span>${isNew(i)?'<span class="new">NY</span>':''}</div><h3>${i.title||""}</h3><div class="when">📅 ${fmtDate(i.date)}</div>${i.location?`<div class="where">📍 ${i.location}</div>`:''}<div class="desc">${i.summary||""}</div><div class="foot"><span class="src">${i.source||""}</span>${i.url?`<a class="link" href="${i.url}" target="_blank" rel="noopener">Läs mer →</a>`:''}</div></article>`).join("");}
+render();
+</script>
+</body>
+</html>

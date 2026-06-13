@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Religion – Nyheter – Veckodatabas</title>
+<style>
+  :root{--bg:#0f1226;--card:#1a1f3a;--card-h:#222848;--accent:#7c6cff;--accent2:#ff7ab8;--text:#eef0ff;--muted:#9aa0c7;--border:#2b3160;--chip:#2a2f55;}
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;background:linear-gradient(160deg,#0f1226,#161a35);color:var(--text);min-height:100vh;padding:32px 20px 64px;}
+  .wrap{max-width:1080px;margin:0 auto;}
+  .eyebrow{color:var(--accent2);font-weight:700;letter-spacing:.08em;text-transform:uppercase;font-size:12px;}
+  h1{font-size:34px;margin:6px 0 8px;}
+  .sub{color:var(--muted);font-size:15px;max-width:640px;line-height:1.5;}
+  .meta{color:var(--muted);font-size:13px;margin-top:10px;}
+  .stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px;margin:26px 0;}
+  .stat{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:16px 18px;}
+  .stat .num{font-size:28px;font-weight:800;color:var(--accent);}
+  .stat .lbl{color:var(--muted);font-size:13px;margin-top:2px;}
+  .controls{display:flex;flex-wrap:wrap;gap:12px;align-items:center;margin-bottom:22px;}
+  #search{flex:1;min-width:220px;background:var(--card);border:1px solid var(--border);color:var(--text);padding:11px 14px;border-radius:10px;font-size:14px;}
+  #search::placeholder{color:var(--muted);}
+  .filters{display:flex;flex-wrap:wrap;gap:8px;}
+  .filter{background:var(--chip);border:1px solid var(--border);color:var(--muted);padding:8px 14px;border-radius:999px;cursor:pointer;font-size:13px;transition:.15s;}
+  .filter:hover{color:var(--text);}
+  .filter.active{background:var(--accent);border-color:var(--accent);color:#fff;}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:16px;}
+  .card{background:var(--card);border:1px solid var(--border);border-radius:16px;padding:20px;transition:.15s;display:flex;flex-direction:column;gap:10px;}
+  .card:hover{background:var(--card-h);transform:translateY(-2px);border-color:var(--accent);}
+  .top{display:flex;justify-content:space-between;align-items:flex-start;gap:10px;}
+  .cat{font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.05em;color:var(--accent2);background:rgba(255,122,184,.12);padding:4px 9px;border-radius:6px;white-space:nowrap;}
+  .new{font-size:10px;font-weight:700;color:#0f1226;background:#6cf09a;padding:3px 7px;border-radius:5px;}
+  .card h3{font-size:17px;line-height:1.3;}
+  .when{color:var(--accent);font-size:13px;font-weight:600;}
+  .where{color:var(--muted);font-size:13px;}
+  .desc{color:var(--text);font-size:14px;line-height:1.5;opacity:.92;}
+  .foot{display:flex;justify-content:space-between;align-items:center;margin-top:auto;padding-top:8px;gap:10px;}
+  .src{color:var(--muted);font-size:12px;}
+  a.link{color:var(--accent);font-size:13px;text-decoration:none;font-weight:600;white-space:nowrap;}
+  a.link:hover{text-decoration:underline;}
+  .empty{color:var(--muted);text-align:center;padding:40px;grid-column:1/-1;}
+  footer.page{margin-top:40px;color:var(--muted);font-size:12px;text-align:center;line-height:1.6;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="eyebrow">Veckodatabas</div>
+    <h1>⛪ Religion – Nyheter</h1>
+    <p class="sub" id="desc"></p>
+    <p class="meta" id="updated"></p>
+  </header>
+  <section class="stats" id="stats"></section>
+  <div class="controls">
+    <input id="search" type="text" placeholder="Sök i databasen…">
+    <div class="filters" id="filters"></div>
+  </div>
+  <section class="grid" id="grid"></section>
+  <footer class="page">
+    Automatiskt uppdaterad varje vecka · Källdata lagras i <code>religion.json</code><br>
+    Nya poster läggs till utan dubbletter. Vid få nyheter kompletteras med äldre poster.
+  </footer>
+</div>
+<script>
+const DB = /*__DATA__*/{
+  "topic": "Religion – Nyheter",
+  "description": "Religiösa nyheter från Vatikanen, kyrkor och trossamfund världen över. Uppdateras varje vecka.",
+  "schema_version": 1,
+  "last_updated": "2026-06-10",
+  "item_count": 22,
+  "items": [
+    {
+      "id": "leo-xiv-tyska-studenter-2026",
+      "title": "Påve Leo XIV talar till tyska katolska studentföreningar",
+      "category": "Vatikanen",
+      "date": "2026-06-05",
+      "location": "",
+      "summary": "I Paulus VI-aulan lyfte påven fram principerna religion, lärdom, vänskap och hembygd som vägledande för katolska studentföreningar i Tyskland.",
+      "source": "Vatican News",
+      "url": "https://www.vaticannews.va/en.html",
+      "added_on": "2026-06-07",
+      "collected_week": "2026-W23"
+    },
+    {
+      "id": "leo-xiv-spanien-resa-2026",
+      "title": "Påve Leo XIV inleder apostolisk resa till Spanien",
+      "category": "Global",
+      "date": "2026-06-06",
+      "location": "",
+      "summary": "Påven mötte kungaparet, myndigheter och diplomatkåren i Kungliga slottet i Madrid på första dagen av sin sexdagars resa till Spanien.",
+      "source": "EWTN Vatican",
+      "url": "https://ewtnvatican.com/articles/key-dates-pope-vatican-agenda-2026",
+      "added_on": "2026-06-07",
+      "collected_week": "2026-W23"
+    },
+    {
+      "id": "eukaristisk-pilgrimsfard-dc-2026",
+      "title": "Nationell eukaristisk pilgrimsfärd genom Washington DC",
+      "category": "Katolska kyrkan",
+      "date": "2026-06-06",
+      "location": "",
+      "summary": "Familjer vandrade genom huvudstaden när den nationella eukaristiska pilgrimsfärden, som startade i Florida, passerade på väg mot Philadelphia.",
+      "source": "National Catholic Register",
+      "url": "https://www.ncregister.com/section/vatican",
+      "added_on": "2026-06-07",
+      "collected_week": "2026-W23"
+    },
+    {
+      "id": "leo-xiv-ungdomar-spanien-2026",
+      "title": "Hundratusentals ungdomar möter påven i Spanien",
+      "category": "Global",
+      "date": "2026-06-07",
+      "location": "",
+      "summary": "Påvens apostoliska besök i Spanien samlade stora ungdomsskaror tillsammans med landets civila ledare.",
+      "source": "Catholic News Agency",
+      "url": "https://www.catholicnewsagency.com/news/268783/key-dates-on-the-agenda-of-the-pope-and-vatican-for-2026",
+      "added_on": "2026-06-07",
+      "collected_week": "2026-W23"
+    },
+    {
+      "id": "vatikanen-kalender-juni-2026",
+      "title": "Vatikanens aktivitetskalender för juni 2026",
+      "category": "Vatikanen",
+      "date": "2026-06-01",
+      "location": "",
+      "summary": "Översikt över påvens och Heliga stolens aktiviteter under juni 2026.",
+      "source": "Vatican.va",
+      "url": "https://www.vatican.va/content/leo-xiv/en/events/month.dir.html/2026/6.html",
+      "added_on": "2026-06-07",
+      "collected_week": "2026-W23"
+    },
+    {
+      "id": "vatikanen-nyckeldatum-2026",
+      "title": "Nyckeldatum på påvens och Vatikanens agenda 2026",
+      "category": "Vatikanen",
+      "date": "2026-01-10",
+      "location": "",
+      "summary": "Sammanställning av årets viktigaste händelser i kyrkoåret och på Vatikanens kalender.",
+      "source": "EWTN Vatican",
+      "url": "https://ewtnvatican.com/articles/key-dates-pope-vatican-agenda-2026",
+      "added_on": "2026-06-07",
+      "collected_week": "2026-W23"
+    },
+    {
+      "id": "leo-xiv-madrid-massa-2026",
+      "title": "Påve Leo XIV firar mässa för 1,2 miljoner i Madrid",
+      "category": "Katolska kyrkan",
+      "date": "2026-06-07",
+      "location": "",
+      "summary": "Påvens första offentliga mässa i Spanien samlade omkring 1,2 miljoner människor, följt av en Corpus Christi-procession genom Madrids gator. Påven manade de troende bortom en bekväm, privat tro.",
+      "source": "National Catholic Reporter",
+      "url": "https://www.ncronline.org/vatican/largest-event-pontificate-pope-leo-prods-catholics-beyond-comfortable-private-faith",
+      "added_on": "2026-06-08",
+      "collected_week": "2026-W24"
+    },
+    {
+      "id": "leo-xiv-overgrepp-spanien-2026",
+      "title": "Påve Leo XIV möter offer för övergrepp under Spanienresan",
+      "category": "Katolska kyrkan",
+      "date": "2026-06-08",
+      "location": "",
+      "summary": "Under sin resa i Spanien planerade påven att möta personer som utsatts för sexuella övergrepp av präster, som ett led i kyrkans arbete med upprättelse.",
+      "source": "EWTN News",
+      "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-visits-spain",
+      "added_on": "2026-06-08",
+      "collected_week": "2026-W24"
+    },
+    {
+      "id": "pave-boneintention-idrott-juni-2026",
+      "title": "Påvens böneintention i juni: idrottens värden",
+      "category": "Vatikanen",
+      "date": "2026-06-02",
+      "location": "",
+      "summary": "Påve Leo XIV ägnade junimånadens böneintention åt idrottens värden och beskrev sporten som en av få saker som för människor närmare varandra i en tid av krig och polarisering.",
+      "source": "Vatican News",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-06/pope-s-june-prayer-intention-for-the-values-of-sports-2026.html",
+      "added_on": "2026-06-08",
+      "collected_week": "2026-W24"
+    },
+    {
+      "id": "religions-for-peace-mauritius-2026",
+      "title": "Religions for Peace internationella råd samlas på Mauritius",
+      "category": "Ekumenik",
+      "date": "2026-06-01",
+      "location": "",
+      "summary": "Det interreligiösa nätverket Religions for Peace förbereder ett möte med sitt internationella råd 2026 mitt under väpnade konflikter, klimatkris och skuldproblem. Artificiell intelligens väntas bli ett av samtalsämnena.",
+      "source": "Religions for Peace",
+      "url": "https://www.rfp.org/the-religions-for-peace-2026-international-council-meeting-moral-leadership-now-more-than-ever/",
+      "added_on": "2026-06-08",
+      "collected_week": "2026-W24"
+    },
+    {
+      "id": "dalai-lama-fredsappell-2026",
+      "title": "Dalai lama stödjer påve Leos fredsappell",
+      "category": "Ekumenik",
+      "date": "2026-03-31",
+      "location": "",
+      "summary": "Tibetanska buddhismens andlige ledare ställde sig helhjärtat bakom påve Leo XIV:s vädjan om att lägga ner vapnen och avstå från våld, och efterlyste lösningar grundade i dialog och diplomati i Mellanöstern och Ukraina.",
+      "source": "Buddhistdoor Global",
+      "url": "https://www.buddhistdoor.net/news/dalai-lama-warns-against-spiraling-violence-urges-peace-in-the-middle-east-and-ukraine/",
+      "added_on": "2026-06-08",
+      "collected_week": "2026-W24"
+    },
+    {
+      "id": "hajj-2026-mecka",
+      "title": "Nära två miljoner pilgrimer genomför hajj i Mecka",
+      "category": "Islam",
+      "date": "2026-05-25",
+      "location": "",
+      "summary": "Den årliga vallfärden hajj till Mecka samlade nästan två miljoner muslimer och pågick 25–30 maj 2026 (8–13 Dhul Hijjah 1447), med Arafat-dagen och Eid al-Adha som höjdpunkter.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/18/when-are-hajj-and-eid-al-adha-2026-a-visual-guide-to-the-muslim-pilgrimage",
+      "added_on": "2026-06-08",
+      "collected_week": "2026-W24"
+    },
+    {
+      "id": "islamiska-nyaret-1448-juni-2026",
+      "title": "Islamiska nyåret inleds i juni 2026",
+      "category": "Islam",
+      "date": "2026-06-17",
+      "location": "",
+      "summary": "Det islamiska nyåret markerar början på det nya lunarkalenderåret och infaller omkring den 17 juni 2026 enligt interreligiösa kalendrar.",
+      "source": "Diversity Resources",
+      "url": "https://www.diversityresources.com/interfaith-calendar-2026/",
+      "added_on": "2026-06-08",
+      "collected_week": "2026-W24"
+    },
+    {
+      "id": "synagogor-usa-nedgang-2026",
+      "title": "Fler synagogor stänger än öppnar i USA",
+      "category": "Judendom",
+      "date": "2026-01-15",
+      "location": "",
+      "summary": "En översikt över religionens läge i USA 2026 rapporterar att antalet synagogor minskat med 20 procent sedan 1990 – för första gången i amerikansk historia stänger fler församlingar än som öppnar varje år.",
+      "source": "The Times of Israel",
+      "url": "https://blogs.timesofisrael.com/2026-synopsis-the-state-of-religion-in-america/",
+      "added_on": "2026-06-08",
+      "collected_week": "2026-W24"
+    },
+    {
+      "id": "konsistorium-juni-2026",
+      "title": "Påve Leo XIV samlar kardinalerna till konsistorium 26–27 juni",
+      "category": "Vatikanen",
+      "date": "2026-06-03",
+      "location": "",
+      "summary": "Det andra konsistoriet under Leo XIV hålls 26–27 juni och behandlar världsläget, encyklikan Magnifica humanitas och synodens genomförande, med diskussioner om krig, rättfärdigt krig och artificiell intelligens. Mötet avslutas 29 juni med mässan på Petrus och Paulus högtid.",
+      "source": "Vatican News",
+      "url": "https://www.vaticannews.va/en/vatican-city/news/2026-06/consistory-cardinals-pope-global-situation-ai-synod.html",
+      "added_on": "2026-06-10",
+      "collected_week": "2026-W24"
+    },
+    {
+      "id": "leo-xiv-spanska-biskopar-2026",
+      "title": "Påven manar spanska biskopar till enhet i mångfald",
+      "category": "Katolska kyrkan",
+      "date": "2026-06-08",
+      "location": "",
+      "summary": "Under Spanienresan talade Leo XIV till landets biskopar om att kyrkan i en tid av polariseringar måste vara ett vittne om enhet i mångfald, i gemenskap med Petri efterträdare och den universella kyrkan.",
+      "source": "Vatican News",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-06/pope-to-bishops-in-spain-leo-xiv-madrid-8-june-2026.html",
+      "added_on": "2026-06-10",
+      "collected_week": "2026-W24"
+    },
+    {
+      "id": "leo-xiv-generalaudiens-liturgi-2026",
+      "title": "Leo XIV: vi måste återupptäcka liturgins tecken och symboler",
+      "category": "Katolska kyrkan",
+      "date": "2026-06-03",
+      "location": "",
+      "summary": "I generalaudiensen på Petersplatsen reflekterade påven utifrån konciliekonstitutionen Sacrosanctum Concilium kring rit, tecken och symbol, och betonade att den kristna liturgins riter inte är godtyckliga ceremonier utan den kyrkliga förmedling genom vilken den gudomliga gåvan når oss.",
+      "source": "OSV News",
+      "url": "https://www.osvnews.com/full-text-pope-leo-xivs-general-audience-given-june-3-2026/",
+      "added_on": "2026-06-10",
+      "collected_week": "2026-W24"
+    },
+    {
+      "id": "vatikanen-ai-krig-reglering-2026",
+      "title": "Vatikanen kräver strikt reglering av AI i krigföring",
+      "category": "Global",
+      "date": "2026-05-26",
+      "location": "",
+      "summary": "Heliga stolen efterlyste strikt reglering av artificiell intelligens i krigföring och varnade för autonoma vapen, en linje som påvens encyklika Magnifica humanitas följer upp med fokus på att värna människan i AI:s tidsålder.",
+      "source": "Human Rights Watch",
+      "url": "https://www.hrw.org/news/2026/05/26/vatican-urges-strict-regulation-of-artificial-intelligence-in-war",
+      "added_on": "2026-06-10",
+      "collected_week": "2026-W24"
+    },
+    {
+      "id": "svenska-kyrkan-biblar-advent-2026",
+      "title": "Svenska kyrkan erbjuder alla en bibel första advent",
+      "category": "Kristendom",
+      "date": "2026-04-20",
+      "location": "",
+      "summary": "Svenska kyrkan storsatsar och erbjuder alla gudstjänstbesökare ett Nya testamente i samband med första advent, enligt rapportering från våren 2026.",
+      "source": "Dagen",
+      "url": "https://www.dagen.se/nyheter/svenska-kyrkans-storsatsning-alla-erbjuds-en-bibel-foersta-advent/10309138",
+      "added_on": "2026-06-10",
+      "collected_week": "2026-W24"
+    },
+    {
+      "id": "antisemitism-okning-vasten-2026",
+      "title": "Ökande antisemitism oroar judiska församlingar i väst",
+      "category": "Judendom",
+      "date": "2026-06-01",
+      "location": "",
+      "summary": "Judiska samfund i väst rapporterar tilltagande antisemitism under 2026. Los Angeles noterade 46 antisemitiska hatbrott under årets första fem månader, en ökning jämfört med föregående år, och flera familjer uppger oro för säkerheten.",
+      "source": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/jewish-times/",
+      "added_on": "2026-06-10",
+      "collected_week": "2026-W24"
+    },
+    {
+      "id": "nirjala-ekadashi-vat-purnima-2026",
+      "title": "Hinduiska högtider Nirjala Ekadashi och Vat Purnima i juni",
+      "category": "Övrigt",
+      "date": "2026-06-25",
+      "location": "",
+      "summary": "Den hinduiska kalendern firar flera fastor och högtider i juni 2026, däribland Nirjala Ekadashi den 25 juni och Vat Purnima Vrat den 29 juni, då gifta kvinnor fastar för sina makars långa liv och välgång.",
+      "source": "Aryan Age",
+      "url": "https://www.aryanage.com/article/35676/june-2026-hindu-festival-calendar-nirjala-ekadashi-vat-purnima-and",
+      "added_on": "2026-06-10",
+      "collected_week": "2026-W24"
+    },
+    {
+      "id": "black-protestant-churches-amerika-250-2026",
+      "title": "Svarta protestantiska kyrkor reflekterar vid USA:s 250-årsjubileum",
+      "category": "Kristendom",
+      "date": "2026-06-30",
+      "location": "",
+      "summary": "Den 30 juni samlas ledande röster i Ebenezer Baptist Church i Atlanta för 'A Faithful Struggle', en reflektion kring de historiskt svarta protestantiska kyrkornas arv och framtida ledarskap i att bygga broar och värna demokratiska värden vid USA:s 250-årsjubileum.",
+      "source": "Religion News Service",
+      "url": "https://theiarj.org/news/religion-story-ideas-june-2026-edition/",
+      "added_on": "2026-06-10",
+      "collected_week": "2026-W24"
+    }
+  ]
+}/*__END_DATA__*/;
+const MONTHS=["jan","feb","mar","apr","maj","jun","jul","aug","sep","okt","nov","dec"];
+function fmtDate(d){if(!d)return"";const p=d.split("-");if(p.length<3)return d;return parseInt(p[2],10)+" "+MONTHS[parseInt(p[1],10)-1]+" "+p[0];}
+function isNew(i){if(!i.added_on)return false;const a=new Date(i.added_on),n=new Date(DB.last_updated||Date.now());return (n-a)/86400000<=7;}
+const items=(DB.items||[]).slice().sort((a,b)=>(b.date||"").localeCompare(a.date||""));
+let activeCat="Alla",query="";
+document.getElementById("desc").textContent=DB.description||"";
+document.getElementById("updated").textContent="Senast uppdaterad: "+fmtDate(DB.last_updated)+" · "+items.length+" poster";
+const cats={},srcs={};
+items.forEach(i=>{cats[i.category]=(cats[i.category]||0)+1;if(i.source)srcs[i.source]=1;});
+const newCount=items.filter(isNew).length;
+document.getElementById("stats").innerHTML=`
+  <div class="stat"><div class="num">${items.length}</div><div class="lbl">Totalt antal poster</div></div>
+  <div class="stat"><div class="num">${newCount}</div><div class="lbl">Nya denna vecka</div></div>
+  <div class="stat"><div class="num">${Object.keys(cats).length}</div><div class="lbl">Kategorier</div></div>
+  <div class="stat"><div class="num">${Object.keys(srcs).length}</div><div class="lbl">Källor</div></div>`;
+const fEl=document.getElementById("filters");
+["Alla",...Object.keys(cats).sort()].forEach(c=>{const b=document.createElement("button");b.className="filter"+(c==="Alla"?" active":"");b.textContent=c==="Alla"?"Alla":c+" ("+cats[c]+")";b.onclick=()=>{activeCat=c;[...fEl.children].forEach(x=>x.classList.remove("active"));b.classList.add("active");render();};fEl.appendChild(b);});
+document.getElementById("search").addEventListener("input",e=>{query=e.target.value.toLowerCase();render();});
+function render(){const grid=document.getElementById("grid");const list=items.filter(i=>{const okC=activeCat==="Alla"||i.category===activeCat;const hay=((i.title||"")+" "+(i.summary||"")+" "+(i.location||"")+" "+(i.category||"")).toLowerCase();return okC&&(query===""||hay.includes(query));});
+if(!list.length){grid.innerHTML='<div class="empty">Inga poster matchar din sökning.</div>';return;}
+grid.innerHTML=list.map(i=>`<article class="card"><div class="top"><span class="cat">${i.category||""}</span>${isNew(i)?'<span class="new">NY</span>':''}</div><h3>${i.title||""}</h3><div class="when">📅 ${fmtDate(i.date)}</div>${i.location?`<div class="where">📍 ${i.location}</div>`:''}<div class="desc">${i.summary||""}</div><div class="foot"><span class="src">${i.source||""}</span>${i.url?`<a class="link" href="${i.url}" target="_blank" rel="noopener">Läs mer →</a>`:''}</div></article>`).join("");}
+render();
+</script>
+</body>
+</html>

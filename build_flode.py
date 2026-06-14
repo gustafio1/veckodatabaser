@@ -12,9 +12,10 @@ Körs lokalt i mappen där ämnes-JSON-filerna och bilder/ ligger.
 3. Slår ihop alla nyheter + bilder, blandar dem (magasinstil).
 4. Skriver self-contained flode.html med data mellan markörer.
 """
-import json, os, re, random, datetime, html
+import json, os, re, random, datetime, html, email.utils
 
 HERE = os.path.dirname(os.path.abspath(__file__))
+SITE_URL = "https://www.veckodatabaser.se"
 
 # slug -> (ikon, kort etikett, färg)
 TOPICS = {
@@ -146,6 +147,7 @@ HTML_TEMPLATE = r"""<!DOCTYPE html>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Flödet – Veckodatabaser</title>
+<link rel="alternate" type="application/rss+xml" title="Veckodatabaser – RSS" href="rss.xml">
 <style>
   :root{--bg:#0f1226;--card:#1a1f3a;--card-h:#222848;--accent:#7c6cff;--accent2:#ff7ab8;--text:#eef0ff;--muted:#9aa0c7;--border:#2b3160;}
   *{box-sizing:border-box;margin:0;padding:0;}
@@ -252,6 +254,62 @@ render();
 """
 
 
+def rfc822(datestr):
+    try:
+        d = datetime.datetime.strptime(datestr, "%Y-%m-%d").replace(
+            tzinfo=datetime.timezone.utc)
+    except Exception:
+        d = datetime.datetime.now(datetime.timezone.utc)
+    return email.utils.format_datetime(d)
+
+
+def build_rss(news, limit=40):
+    """Skriv rss.xml från nyhetsposterna (senaste först)."""
+    def x(s):
+        return html.escape(s or "", quote=True)
+
+    items = [n for n in news if n.get("title")]
+    items.sort(key=lambda n: n.get("date", ""), reverse=True)
+    items = items[:limit]
+
+    parts = []
+    for n in items:
+        label = TOPICS.get(n.get("slug"), (None, n.get("category", ""), None))[1]
+        link = n.get("url") or (SITE_URL + "/")
+        guid = n.get("url") or (SITE_URL + "/#" + n.get("title", ""))
+        desc = n.get("summary", "")
+        if n.get("source"):
+            desc = (desc + " (Källa: " + n["source"] + ")") if desc else ("Källa: " + n["source"])
+        parts.append(
+            "    <item>\n"
+            f"      <title>{x(n.get('title',''))}</title>\n"
+            f"      <link>{x(link)}</link>\n"
+            f"      <guid isPermaLink=\"false\">{x(guid)}</guid>\n"
+            f"      <category>{x(label)}</category>\n"
+            f"      <pubDate>{rfc822(n.get('date',''))}</pubDate>\n"
+            f"      <description>{x(desc)}</description>\n"
+            "    </item>")
+
+    now = email.utils.format_datetime(datetime.datetime.now(datetime.timezone.utc))
+    rss = (
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">\n'
+        '  <channel>\n'
+        '    <title>Veckodatabaser</title>\n'
+        f'    <link>{SITE_URL}/</link>\n'
+        '    <description>Veckovis bevakning: kultur, psykologi, IT, religion, '
+        'sport, ledarskap, personlig utveckling och katolsk social lära.</description>\n'
+        '    <language>sv-SE</language>\n'
+        f'    <lastBuildDate>{now}</lastBuildDate>\n'
+        f'    <atom:link href="{SITE_URL}/rss.xml" rel="self" type="application/rss+xml"/>\n'
+        + "\n".join(parts) + "\n"
+        '  </channel>\n'
+        '</rss>\n')
+    with open(os.path.join(HERE, "rss.xml"), "w", encoding="utf-8") as f:
+        f.write(rss)
+    return len(items)
+
+
 def main():
     feed, n_news, n_pics = build_feed()
     data_json = json.dumps(feed, ensure_ascii=False)
@@ -268,7 +326,10 @@ def main():
 
     with open(os.path.join(HERE, "flode.html"), "w", encoding="utf-8") as f:
         f.write(out)
+
+    n_rss = build_rss(collect_news())
     print(f"flode.html byggd: {n_news} nyheter + {n_pics} bilder = {len(feed)} inlagg")
+    print(f"rss.xml byggd: {n_rss} poster")
 
 
 if __name__ == "__main__":

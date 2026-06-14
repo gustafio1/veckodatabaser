@@ -77,10 +77,46 @@ manuella pushen i steg 2.
 
 ---
 
+## Steg 5 – Koppla egen domän (www.veckodatabaser.se)
+
+Filen `CNAME` (innehåll: `www.veckodatabaser.se`) ligger redan i mappen och
+pushas automatiskt. Gör så här:
+
+**1. Köp domänen** hos en svensk registrar, t.ex. Loopia
+(https://www.loopia.se/domannamn/) eller One.com. Du behöver bara själva
+domänen `veckodatabaser.se` — inget webbhotell, GitHub hostar sidan gratis.
+Pris `.se`: ofta någon krona–~99 kr första året, därefter ca 219 kr/år.
+
+**2. Lägg in DNS-poster** hos registraren (under "DNS" / "Egna pekare").
+www är primär adress; toppdomänen omdirigeras automatiskt dit av GitHub:
+
+| Typ   | Namn / Värd | Pekar på            |
+|-------|-------------|---------------------|
+| A     | @           | 185.199.108.153     |
+| A     | @           | 185.199.109.153     |
+| A     | @           | 185.199.110.153     |
+| A     | @           | 185.199.111.153     |
+| CNAME | www         | gustafio1.github.io |
+
+(`@` = toppdomänen `veckodatabaser.se`. Toppdomänen måste använda A-poster –
+en CNAME går inte att lägga på `@`, bara på `www`.)
+
+**3. Pusha CNAME-filen** – kör `publish.bat` så den hamnar på GitHub.
+
+**4. Aktivera i GitHub:** **Settings → Pages → Custom domain** → skriv
+`www.veckodatabaser.se` → **Save**. Vänta tills DNS-kollen blir grön (några
+minuter upp till 24 h), kryssa sedan i **Enforce HTTPS** för gratis SSL.
+
+Ordning: pusha CNAME + lägg DNS-posterna INNAN du fyller i domänen i GitHub,
+annars klagar GitHub på att DNS inte stämmer. DNS kan ta upp till 24 h att slå
+igenom, men går ofta på minuter.
+
+---
+
 ## Bra att veta
 
 - Sidan blir **offentlig** och kan hittas via sökmotorer. Innehållet här är
   nyhetsbevakning, så det är okej — men lägg inget privat i mappen.
-- Bilder: filer du lägger i `bilder/` följer med och visas i flödet.
-- Vill du ha egen domän (t.ex. `veckodata.se`) går det att koppla under
-  Settings → Pages → Custom domain. Säg till så hjälper jag dig.
+- Bilder: filer du lägger i `bilder/` följer med och visas i flödet. Lägg bara
+  in bilder du har rätt att publicera – se `bilder/LÄS-MIG.txt`.
+- Juridisk checklista för den publika sidan finns i `JURIDIK.md`.

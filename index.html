@@ -4,6 +4,8 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Veckodatabaser – Översikt</title>
+<link rel="alternate" type="application/rss+xml" title="Veckodatabaser – RSS" href="rss.xml">
+<link rel="canonical" href="https://www.veckodatabaser.se/">
 <style>
   :root{--bg:#0f1226;--card:#1a1f3a;--card-h:#222848;--accent:#7c6cff;--accent2:#ff7ab8;--text:#eef0ff;--muted:#9aa0c7;--border:#2b3160;--chip:#2a2f55;}
   *{box-sizing:border-box;margin:0;padding:0;}
@@ -37,7 +39,10 @@
     <h1>📚 Mina ämnesdatabaser</h1>
     <p class="sub">Översikt över alla veckodatabaser. Klicka på ett ämne för att öppna dess dashboard. Varje databas uppdateras automatiskt varje vecka.</p>
     <p class="meta" id="meta"></p>
-    <a href="flode.html" style="display:inline-flex;align-items:center;gap:10px;margin-top:18px;background:linear-gradient(135deg,var(--accent),var(--accent2));color:#fff;text-decoration:none;font-weight:600;font-size:15px;padding:12px 20px;border-radius:12px;">🌊 Öppna flödet – alla nyheter &amp; bilder blandade →</a>
+    <div style="display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin-top:18px;">
+      <a href="flode.html" style="display:inline-flex;align-items:center;gap:10px;background:linear-gradient(135deg,var(--accent),var(--accent2));color:#fff;text-decoration:none;font-weight:600;font-size:15px;padding:12px 20px;border-radius:12px;">🌊 Öppna flödet – alla nyheter &amp; bilder blandade →</a>
+      <a href="rss.xml" style="display:inline-flex;align-items:center;gap:8px;border:1px solid var(--border);color:var(--muted);text-decoration:none;font-weight:600;font-size:14px;padding:12px 16px;border-radius:12px;">📡 RSS</a>
+    </div>
   </header>
   <input id="search" type="text" placeholder="Sök bland ämnen…">
   <section class="grid" id="grid"></section>
@@ -48,21 +53,27 @@
   </footer>
 </div>
 <script>
+// Statisk metadata. Antal poster och datum hämtas LIVE från respektive JSON,
+// så översikten aldrig kan bli inaktuell.
 const SUBJECTS=[
-  {slug:"it",icon:"💻",topic:"IT – Nya produkter",desc:"Nya IT- och teknikprodukter: hårdvara, mjukvara, AI och gaming.",count:15,updated:"2026-06-08"},
-  {slug:"katolsk-social-lara",icon:"⛪",topic:"Katolska kyrkans sociala lära",desc:"Principerna och temana som vägleder ett rättvist samhälle.",count:17,updated:"2026-06-08"},
-  {slug:"kultur",icon:"🎭",topic:"Kultur",desc:"Nya kulturevenemang i Sverige – festivaler, konserter, utställningar och scenkonst.",count:12,updated:"2026-06-07"},
-  {slug:"ledarskap",icon:"🧭",topic:"Ledarskap – John Maxwell",desc:"Ledarskapsprinciper och lärdomar från John C. Maxwell.",count:25,updated:"2026-06-08"},
-  {slug:"personlig-utveckling",icon:"🌱",topic:"Personlig utveckling",desc:"Tekniker, vanor och tankesätt för personlig utveckling och produktivitet.",count:16,updated:"2026-06-08"},
-  {slug:"psykologi",icon:"🧠",topic:"Psykologi – Vänskap",desc:"Ny forskning och insikter om vänskap, relationer och social anknytning.",count:14,updated:"2026-06-07"},
-  {slug:"religion",icon:"✝️",topic:"Religion – Nyheter",desc:"Religiösa nyheter från Vatikanen, kyrkor och trossamfund världen över.",count:14,updated:"2026-06-08"},
-  {slug:"sport",icon:"⚽",topic:"Sport – Fotboll, Tennis & Bordtennis",desc:"Nyheter inom fotboll, tennis och bordtennis med svenskt fokus.",count:14,updated:"2026-06-08"}
+  {slug:"it",icon:"💻",topic:"IT – Nya produkter",desc:"Nya IT- och teknikprodukter: hårdvara, mjukvara, AI och gaming."},
+  {slug:"katolsk-social-lara",icon:"⛪",topic:"Katolska kyrkans sociala lära",desc:"Principerna och temana som vägleder ett rättvist samhälle."},
+  {slug:"kultur",icon:"🎭",topic:"Kultur",desc:"Nya kulturevenemang i Sverige – festivaler, konserter, utställningar och scenkonst."},
+  {slug:"ledarskap",icon:"🧭",topic:"Ledarskap – John Maxwell",desc:"Ledarskapsprinciper och lärdomar från John C. Maxwell."},
+  {slug:"personlig-utveckling",icon:"🌱",topic:"Personlig utveckling",desc:"Tekniker, vanor och tankesätt för personlig utveckling och produktivitet."},
+  {slug:"psykologi",icon:"🧠",topic:"Psykologi – Vänskap",desc:"Ny forskning och insikter om vänskap, relationer och social anknytning."},
+  {slug:"religion",icon:"✝️",topic:"Religion – Nyheter",desc:"Religiösa nyheter från Vatikanen, kyrkor och trossamfund världen över."},
+  {slug:"sport",icon:"⚽",topic:"Sport – Fotboll, Tennis & Bordtennis",desc:"Nyheter inom fotboll, tennis och bordtennis med svenskt fokus."}
 ];
 const MONTHS=["jan","feb","mar","apr","maj","jun","jul","aug","sep","okt","nov","dec"];
 function fmtDate(d){if(!d)return"";const p=d.split("-");if(p.length<3)return d;return parseInt(p[2],10)+" "+MONTHS[parseInt(p[1],10)-1]+" "+p[0];}
-const total=SUBJECTS.reduce((s,x)=>s+x.count,0);
-document.getElementById("meta").textContent=SUBJECTS.length+" ämnen · "+total+" poster totalt";
 let query="";
+function updateMeta(){
+  const loaded=SUBJECTS.filter(s=>s.count!=null);
+  const total=loaded.reduce((s,x)=>s+x.count,0);
+  document.getElementById("meta").textContent=
+    SUBJECTS.length+" ämnen"+(loaded.length?" · "+total+" poster totalt":"");
+}
 document.getElementById("search").addEventListener("input",e=>{query=e.target.value.toLowerCase();render();});
 function render(){
   const grid=document.getElementById("grid");
@@ -71,11 +82,18 @@ function render(){
   grid.innerHTML=list.map(s=>`<a class="card" href="${s.slug}.html">
     <div class="top"><span class="icon">${s.icon}</span><h2>${s.topic}</h2></div>
     <div class="desc">${s.desc}</div>
-    <div class="foot"><span class="count">${s.count} poster</span><span class="go">Öppna →</span></div>
-    <div class="upd">Senast uppdaterad: ${fmtDate(s.updated)}</div>
+    <div class="foot"><span class="count">${s.count==null?"…":s.count+" poster"}</span><span class="go">Öppna →</span></div>
+    <div class="upd">Senast uppdaterad: ${s.updated?fmtDate(s.updated):"—"}</div>
   </a>`).join("");
 }
-render();
+updateMeta();render();
+// Hämta aktuella siffror från varje ämnes-JSON och rendera om.
+Promise.all(SUBJECTS.map(s=>
+  fetch(s.slug+".json",{cache:"no-store"})
+    .then(r=>r.ok?r.json():null)
+    .then(d=>{if(d){s.count=d.item_count;s.updated=d.last_updated;}})
+    .catch(()=>{})
+)).then(()=>{updateMeta();render();});
 </script>
 </body>
 </html>

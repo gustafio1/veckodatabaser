@@ -2,8 +2,8 @@
   "topic": "Katolska kyrkans sociala lära",
   "description": "Den katolska kyrkans sociala lära – principerna och temana som vägleder ett rättvist samhälle. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-06-08",
-  "item_count": 17,
+  "last_updated": "2026-06-15",
+  "item_count": 26,
   "items": [
     {
       "id": "liv-och-vardighet",
@@ -220,6 +220,102 @@
       "url": "https://www.cnn.com/2026/05/25/europe/pope-leo-ai-encyclical-magnifica-humanitas-intl",
       "added_on": "2026-06-08",
       "collected_week": "2026-W24"
+    },
+    {
+      "id": "mater-et-magistra",
+      "title": "Mater et Magistra (1961)",
+      "category": "Encyklika",
+      "date": "1961-01-01",
+      "location": "",
+      "summary": "Johannes XXIII:s encyklika om kristendomen och de sociala framstegen. Den uppdaterar den sociala läran för efterkrigstiden och betonar samhällelig solidaritet, ett rättvist förhållande mellan rika och fattiga länder samt arbetarnas delaktighet.",
+      "source": "Vatican",
+      "url": "https://www.vatican.va/content/john-xxiii/en/encyclicals/documents/hf_j-xxiii_enc_15051961_mater.html",
+      "added_on": "2026-06-15",
+      "collected_week": "2026-W25"
+    },
+    {
+      "id": "gaudium-et-spes",
+      "title": "Gaudium et Spes (1965)",
+      "category": "Encyklika",
+      "date": "1965-01-01",
+      "location": "",
+      "summary": "Andra Vatikankonciliets pastoralkonstitution om kyrkan i den moderna världen. Den formulerar synen på människans värdighet, det gemensamma bästa och kyrkans roll i samhällsfrågor och blev en grundsten för den sociala läran.",
+      "source": "Vatican",
+      "url": "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651207_gaudium-et-spes_en.html",
+      "added_on": "2026-06-15",
+      "collected_week": "2026-W25"
+    },
+    {
+      "id": "laborem-exercens",
+      "title": "Laborem Exercens (1981)",
+      "category": "Encyklika",
+      "date": "1981-01-01",
+      "location": "",
+      "summary": "Johannes Paulus II:s encyklika om det mänskliga arbetet. Den hävdar arbetets företräde framför kapitalet och att arbetet har sitt värde i att det utförs av en person, inte i vad som produceras.",
+      "source": "Vatican",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_14091981_laborem-exercens.html",
+      "added_on": "2026-06-15",
+      "collected_week": "2026-W25"
+    },
+    {
+      "id": "sollicitudo-rei-socialis",
+      "title": "Sollicitudo Rei Socialis (1987)",
+      "category": "Encyklika",
+      "date": "1987-01-01",
+      "location": "",
+      "summary": "Johannes Paulus II:s encyklika om social omsorg på 20-årsdagen av Populorum Progressio. Den fördjupar begreppet äkta utveckling och introducerar 'syndens strukturer' som hindrar det gemensamma bästa.",
+      "source": "Vatican",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_30121987_sollicitudo-rei-socialis.html",
+      "added_on": "2026-06-15",
+      "collected_week": "2026-W25"
+    },
+    {
+      "id": "caritas-in-veritate",
+      "title": "Caritas in Veritate (2009)",
+      "category": "Encyklika",
+      "date": "2009-01-01",
+      "location": "",
+      "summary": "Benedikt XVI:s encyklika om integral mänsklig utveckling i kärlek och sanning. Den knyter samman kärlek (caritas) och sanning som grund för rättvisa och det gemensamma bästa i en globaliserad ekonomi.",
+      "source": "Vatican",
+      "url": "https://www.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html",
+      "added_on": "2026-06-15",
+      "collected_week": "2026-W25"
+    },
+    {
+      "id": "integral-manniskoutveckling",
+      "title": "Integral mänsklig utveckling",
+      "category": "Begrepp",
+      "date": "2026-06-15",
+      "location": "",
+      "summary": "Principen att äkta utveckling omfattar hela människan och alla människor – inte bara ekonomisk tillväxt utan även andliga, kulturella och sociala dimensioner. Centralt i Populorum Progressio och Caritas in Veritate.",
+      "source": "Compendium of the Social Doctrine of the Church",
+      "url": "https://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/rc_pc_justpeace_doc_20060526_compendio-dott-soc_en.html",
+      "added_on": "2026-06-15",
+      "collected_week": "2026-W25"
+    },
+    {
+      "id": "syndens-strukturer",
+      "title": "Syndens strukturer",
+      "category": "Begrepp",
+      "date": "2026-06-15",
+      "location": "",
+      "summary": "Begreppet att enskilda synder kan förfestas i orättvisa samhälleliga, ekonomiska och politiska strukturer som hindrar det gemensamma bästa. Formulerat av Johannes Paulus II i Sollicitudo Rei Socialis.",
+      "source": "Vatican / Sollicitudo Rei Socialis",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_30121987_sollicitudo-rei-socialis.html",
+      "added_on": "2026-06-15",
+      "collected_week": "2026-W25"
+    },
+    {
+      "id": "leo-xiv-nyarsbudskap-2026",
+      "title": "Leo XIV:s nyårsbudskap 2026 om fred",
+      "category": "Aktuellt",
+      "date": "2026-01-01",
+      "location": "",
+      "summary": "I sitt nyårsbudskap på Världsdagen för fred uppmanade Leo XIV världen att avvisa våld och bygga fred grundad på rättvisa och mänsklig värdighet, i linje med kyrkans sociala lära.",
+      "source": "Vatican News / AOL",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-01/pope-leo-xiv-centesimus-annus-pro-pontefice-message.html",
+      "added_on": "2026-06-15",
+      "collected_week": "2026-W25"
     }
   ]
 }

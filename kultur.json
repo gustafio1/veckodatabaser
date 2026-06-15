@@ -2,8 +2,8 @@
   "topic": "Kultur",
   "description": "Nya kulturevenemang i Sverige – festivaler, konserter, utställningar och scenkonst. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-06-07",
-  "item_count": 12,
+  "last_updated": "2026-06-15",
+  "item_count": 20,
   "items": [
     {
       "id": "sweden-rock-2026",
@@ -160,6 +160,110 @@
       "url": "https://www.visitstockholm.com/see-do/attractions/biggest-upcoming-events/",
       "added_on": "2026-06-07",
       "collected_week": "2026-W23"
+    },
+    {
+      "id": "summer-on-2026",
+      "title": "Summer On 2026",
+      "category": "Festival",
+      "event_date": "2026-06-12",
+      "event_date_end": "2026-06-13",
+      "location": "Båstad",
+      "summary": "Strandfestival i Båstad som beskrivs som \"Skandinaviens Coachella\" med musik och fest direkt på sanden.",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/kultur/sommarens-konserter-festivaler-och-musikslapp-2026",
+      "added_on": "2026-06-15",
+      "collected_week": "2026-W25"
+    },
+    {
+      "id": "storsjoyran-2026",
+      "title": "Storsjöyran 2026",
+      "category": "Festival",
+      "event_date": "2026-07-31",
+      "event_date_end": "2026-08-01",
+      "location": "Östersund",
+      "summary": "En av Sveriges äldsta stadsfestivaler, arrangerad sedan 1983, med musik och folkfest i Östersund.",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/kultur/sommarens-konserter-festivaler-och-musikslapp-2026",
+      "added_on": "2026-06-15",
+      "collected_week": "2026-W25"
+    },
+    {
+      "id": "swedish-house-mafia-ullevi-2026",
+      "title": "Swedish House Mafia på Ullevi 2026",
+      "category": "Konsert",
+      "event_date": "2026-08-28",
+      "event_date_end": "2026-08-29",
+      "location": "Göteborg",
+      "summary": "Den svenska housetrion ger två konserter på Ullevi med Deki Alem som förband.",
+      "source": "ALX Media",
+      "url": "https://alxmedia.se/event/sommarens-konserter-turneer-2026/",
+      "added_on": "2026-06-15",
+      "collected_week": "2026-W25"
+    },
+    {
+      "id": "robyn-avicii-arena-2026",
+      "title": "Robyn på Avicii Arena 2026",
+      "category": "Konsert",
+      "event_date": "2026-07-16",
+      "event_date_end": "2026-07-18",
+      "location": "Stockholm",
+      "summary": "Robyn ger tre konserter på Avicii Arena – hennes första regelrätta konserter i Sverige sedan 2019.",
+      "source": "ALX Media",
+      "url": "https://alxmedia.se/event/sommarens-konserter-turneer-2026/",
+      "added_on": "2026-06-15",
+      "collected_week": "2026-W25"
+    },
+    {
+      "id": "veronica-maggio-stadion-2026",
+      "title": "Veronica Maggio på Stockholms Stadion 2026",
+      "category": "Konsert",
+      "event_date": "2026-08-22",
+      "event_date_end": "2026-08-22",
+      "location": "Stockholm",
+      "summary": "Veronica Maggio spelar på Stockholms Stadion tio år efter sitt historiska genombrott på samma arena.",
+      "source": "ALX Media",
+      "url": "https://alxmedia.se/event/sommarens-konserter-turneer-2026/",
+      "added_on": "2026-06-15",
+      "collected_week": "2026-W25"
+    },
+    {
+      "id": "tony-cragg-pilane-2026",
+      "title": "Tony Cragg på Pilane 2026",
+      "category": "Utställning",
+      "event_date": "2026-05-23",
+      "event_date_end": "2026-09-20",
+      "location": "Tjörn",
+      "summary": "Sommarutställning i skulpturparken Pilane med ett urval om tolv skulpturer av den brittiske konstnären Tony Cragg.",
+      "source": "Royal Djurgården",
+      "url": "https://royaldjurgarden.se/en/varutstallningar-att-se-fram-emot/",
+      "added_on": "2026-06-15",
+      "collected_week": "2026-W25"
+    },
+    {
+      "id": "thielska-galleriet-together-2026",
+      "title": "Together – Thielska Galleriet 100 år",
+      "category": "Utställning",
+      "event_date": "2026-02-14",
+      "event_date_end": "2026-05-17",
+      "location": "Stockholm",
+      "summary": "Thielska Galleriet firar 100 år som museum med jubileumsutställningen \"Together\" som hyllar museets historia.",
+      "source": "Royal Djurgården",
+      "url": "https://royaldjurgarden.se/en/varutstallningar-att-se-fram-emot/",
+      "added_on": "2026-06-15",
+      "collected_week": "2026-W25"
+    },
+    {
+      "id": "dramaten-fejk-2026",
+      "title": "Fejk – Dramaten hösten 2026",
+      "category": "Scenkonst",
+      "event_date": "2026-09-04",
+      "event_date_end": "2026-09-04",
+      "location": "Stockholm",
+      "summary": "Dramaten öppnar höstsäsongen på Stora scenen med Fejk, ett nyskrivet verk av Yael Ronen om sanning och misstro i en manipulerad samtid.",
+      "source": "Dramaten",
+      "url": "https://www.dramaten.se/hosten-2026",
+      "added_on": "2026-06-15",
+      "collected_week": "2026-W25"
     }
   ]
 }

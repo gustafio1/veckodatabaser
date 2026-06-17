@@ -2,8 +2,8 @@
   "topic": "Religion – Nyheter",
   "description": "Religiösa nyheter från Vatikanen, kyrkor och trossamfund världen över. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-06-10",
-  "item_count": 22,
+  "last_updated": "2026-06-17",
+  "item_count": 30,
   "items": [
     {
       "id": "leo-xiv-tyska-studenter-2026",
@@ -268,6 +268,102 @@
       "url": "https://theiarj.org/news/religion-story-ideas-june-2026-edition/",
       "added_on": "2026-06-10",
       "collected_week": "2026-W24"
+    },
+    {
+      "id": "leo-xiv-judiska-federationen-newyork-2026",
+      "title": "Påve Leo XIV: katoliker och judar måste bekämpa antisemitism tillsammans",
+      "category": "Ekumenik",
+      "date": "2026-06-15",
+      "location": "",
+      "summary": "I ett tal i Vatikanen till United Jewish Appeal-Federation of New York lyfte påven det gemensamma arvet mellan judar och katoliker och uppmanade till enad kamp mot antisemitism. Han reflekterade över framstegen i den katolsk-judiska dialogen sedan konciliedeklarationen Nostra Aetate 1965.",
+      "source": "Vatican News",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-06/pope-leo-xiv-meets-united-jewish-appeal-federation-of-new-york.html",
+      "added_on": "2026-06-17",
+      "collected_week": "2026-W25"
+    },
+    {
+      "id": "pentagon-erkanda-religioner-lista-2026",
+      "title": "Pentagon skär ned antalet erkända religioner i USA:s försvar till 31",
+      "category": "Global",
+      "date": "2026-06-04",
+      "location": "",
+      "summary": "USA:s försvarsdepartement minskade sin lista över erkända trosinriktningar från 211 till 31, den första revideringen sedan 2017. Kvar finns bland andra buddhister, hinduer, muslimer, judar, sikher och flera kristna samfund, medan ateister, hedningar, humanister och nyandliga grupper ströks.",
+      "source": "Religion News Service",
+      "url": "https://religionnews.com/2026/06/04/department-of-defense-drops-more-than-100-recognized-faith-groups/",
+      "added_on": "2026-06-17",
+      "collected_week": "2026-W25"
+    },
+    {
+      "id": "leo-xiv-sagrada-familia-invigning-2026",
+      "title": "Påven inviger Jesu Kristi-tornet vid Sagrada Família",
+      "category": "Katolska kyrkan",
+      "date": "2026-06-10",
+      "location": "",
+      "summary": "Under Spanienresan invigde Leo XIV det nya Jesu Kristi-tornet vid Sagrada Família i Barcelona och firade mässa i basilikan. Tornet är det högsta i tempelkomplexet och en milstolpe i det långvariga bygget.",
+      "source": "EWTN Vatican",
+      "url": "https://ewtnvatican.com/articles/pope-leo-spain-photos-canary-islands",
+      "added_on": "2026-06-17",
+      "collected_week": "2026-W25"
+    },
+    {
+      "id": "leo-xiv-kanarieoarna-migration-2026",
+      "title": "Leo XIV avslutar Spanienresan på Kanarieöarna med fokus på migration",
+      "category": "Global",
+      "date": "2026-06-12",
+      "location": "",
+      "summary": "Påven avrundade sin sexdagarsresa på Kanarieöarna, där han belyste den mänskliga kostnaden för migrationen längs den atlantiska rutten och mötte grupper som arbetar med migranter innan han återvände till Rom.",
+      "source": "EWTN Vatican",
+      "url": "https://ewtnvatican.com/articles/pope-leo-spain-photos-canary-islands",
+      "added_on": "2026-06-17",
+      "collected_week": "2026-W25"
+    },
+    {
+      "id": "svenska-kyrkan-politisk-splittring-2026",
+      "title": "Djup politisk splittring i synen på Svenska kyrkan",
+      "category": "Kristendom",
+      "date": "2026-06-15",
+      "location": "",
+      "summary": "En undersökning från Kyrkans Tidning visar att rödgröna riksdagsledamöter känner sig allt mer hemma i Svenska kyrkan, medan företrädare för Tidöpartierna anser att kyrkan blivit partipolitisk.",
+      "source": "Kyrkans Tidning",
+      "url": "https://www.kyrkanstidning.se/nyhet/djup-politisk-splittring-i-synen-pa-svenska-kyrkan/436447",
+      "added_on": "2026-06-17",
+      "collected_week": "2026-W25"
+    },
+    {
+      "id": "strangnas-biskop-ed-utredning-2026",
+      "title": "Domkapitlet i Strängnäs inleder utredning kring biskop Eds stiftelse",
+      "category": "Kristendom",
+      "date": "2026-06-16",
+      "location": "",
+      "summary": "Domkapitlet i Strängnäs utreder om biskop Birgitta Eds stiftelse följer Svenska kyrkans regler för vigningstjänsten. Under de kommande månaderna ska underlag samlas in, ekonomi granskas och eventuell juridisk rådgivning inhämtas.",
+      "source": "Sejfer",
+      "url": "https://www.sejfer.se/nyheter/nyheter/2026/06/16/utredning-inledd-kring-biskop-eds-stiftelse-i-strangnas/",
+      "added_on": "2026-06-17",
+      "collected_week": "2026-W25"
+    },
+    {
+      "id": "engelska-katedraler-ekonomisk-kris-2026",
+      "title": "Över 80 procent av Englands katedraler i ekonomisk kris",
+      "category": "Kristendom",
+      "date": "2026-06-08",
+      "location": "",
+      "summary": "Domprostar från samtliga anglikanska katedraler träffade brittiska parlamentsledamöter för att diskutera katedralernas ekonomiska överlevnad. En rapport från tankesmedjan Theos visar att mer än 80 procent av dem befinner sig i ekonomisk fara.",
+      "source": "Religion Media Centre",
+      "url": "https://religionmediacentre.org.uk/morning-news-bulletin/religion-news-8-june-2026",
+      "added_on": "2026-06-17",
+      "collected_week": "2026-W25"
+    },
+    {
+      "id": "religion-media-festival-2026",
+      "title": "Överrabbin, imam och ärkebiskop talar vid Religion Media Festival",
+      "category": "Ekumenik",
+      "date": "2026-06-29",
+      "location": "",
+      "summary": "Vid Religion Media Festival den 29 juni talar Storbritanniens överrabbin Sir Ephraim Mirvis om hur medierna bör bemöta hatbrott och främja social sammanhållning, följt av ett samtal med imam Qari Asim. Ärkebiskopen av York, Stephen Cottrell, håller ett huvudanförande om religionens plats i medierna i en digital tid.",
+      "source": "Religion Media Centre",
+      "url": "https://religionmediacentre.org.uk/morning-news-bulletin/religion-news-8-june-2026",
+      "added_on": "2026-06-17",
+      "collected_week": "2026-W25"
     }
   ]
 }

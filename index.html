@@ -3,6 +3,9 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
 <title>Veckodatabaser – Översikt</title>
 <link rel="alternate" type="application/rss+xml" title="Veckodatabaser – RSS" href="rss.xml">
 <link rel="canonical" href="https://www.veckodatabaser.se/">
@@ -79,7 +82,7 @@ function render(){
   const grid=document.getElementById("grid");
   const list=SUBJECTS.filter(s=>(s.topic+" "+s.desc).toLowerCase().includes(query));
   if(!list.length){grid.innerHTML='<div class="empty">Inga ämnen matchar din sökning.</div>';return;}
-  grid.innerHTML=list.map(s=>`<a class="card" href="${s.slug}.html">
+  grid.innerHTML=list.map(s=>`<a class="card" href="${s.slug}.html${s.updated?`?v=${s.updated}`:""}">
     <div class="top"><span class="icon">${s.icon}</span><h2>${s.topic}</h2></div>
     <div class="desc">${s.desc}</div>
     <div class="foot"><span class="count">${s.count==null?"…":s.count+" poster"}</span><span class="go">Öppna →</span></div>
@@ -93,7 +96,4 @@ Promise.all(SUBJECTS.map(s=>
     .then(r=>r.ok?r.json():null)
     .then(d=>{if(d){s.count=d.item_count;s.updated=d.last_updated;}})
     .catch(()=>{})
-)).then(()=>{updateMeta();render();});
-</script>
-</body>
-</html>
+)).then(()=>{updateMeta();render();}

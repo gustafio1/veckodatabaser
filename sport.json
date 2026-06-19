@@ -2,8 +2,8 @@
   "topic": "Sport – Fotboll, Tennis & Bordtennis",
   "description": "Nyheter inom fotboll, tennis och bordtennis med svenskt fokus. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-06-08",
-  "item_count": 14,
+  "last_updated": "2026-06-18",
+  "item_count": 20,
   "items": [
     {
       "id": "allsvenskan-sommaruppehall-2026",
@@ -172,6 +172,78 @@
       "url": "https://www.svt.se/sport/bordtennis/se-truls-moregardh-mot-anton-kallberg-i-wtt-champions",
       "added_on": "2026-06-08",
       "collected_week": "2026-W24"
+    },
+    {
+      "id": "sverige-tunisien-vm-premiar-2026",
+      "title": "Drömstart i VM: Sverige krossade Tunisien 5-1",
+      "category": "Fotboll",
+      "date": "2026-06-15",
+      "location": "USA/Kanada/Mexiko",
+      "summary": "Sverige inledde fotbolls-VM med en 5-1-seger mot Tunisien. Yasin Ayari gjorde två mål medan Alexander Isak, Viktor Gyökeres och Mattias Svanberg svarade för var sitt; både Isak och Gyökeres gjorde sina första VM-mål.",
+      "source": "SVT Sport",
+      "url": "https://www.svt.se/sport/fotboll/dromstart-for-sverige-i-vm-stjarnorna-sankte-tunisien",
+      "added_on": "2026-06-18",
+      "collected_week": "2026-W25"
+    },
+    {
+      "id": "gyokeres-20-landslagsmal-2026",
+      "title": "Gyökeres nådde 20 landslagsmål",
+      "category": "Fotboll",
+      "date": "2026-06-04",
+      "location": "Sverige",
+      "summary": "I VM-genrepet mot Grekland gjorde Viktor Gyökeres sitt 20:e mål för herrlandslaget och blev den 21:a spelaren att nå milstolpen.",
+      "source": "Svensk fotboll",
+      "url": "https://www.svenskfotboll.se/nyheter/landslag/2026/06/herr-gyokeres-20-mal/",
+      "added_on": "2026-06-18",
+      "collected_week": "2026-W25"
+    },
+    {
+      "id": "allsvenskan-sirius-ledare-2026",
+      "title": "Sirius leder Allsvenskan under sommaruppehållet",
+      "category": "Fotboll",
+      "date": "2026-06-01",
+      "location": "Sverige",
+      "summary": "Efter omgång 10 toppar Sirius Allsvenskan med 28 poäng. Serien återupptas i omgång 11 (4-6 juli) efter sommaruppehållet.",
+      "source": "Svensk fotboll",
+      "url": "https://www.svenskfotboll.se/serier-cuper/tabell-och-resultat/allsvenskan-2026/133348/",
+      "added_on": "2026-06-18",
+      "collected_week": "2026-W25"
+    },
+    {
+      "id": "sverige-nederlanderna-vm-2026",
+      "title": "Sverige möter Nederländerna i andra VM-matchen 20 juni",
+      "category": "Fotboll",
+      "date": "2026-06-20",
+      "location": "USA/Kanada/Mexiko",
+      "summary": "Efter premiärsegern ställs Sverige mot Nederländerna den 20 juni i grupp F. Gruppspelet avslutas mot Japan den 26 juni.",
+      "source": "SVT Sport",
+      "url": "https://www.svt.se/sport/fotboll/all-fakta-om-fotbolls-vm-2026",
+      "added_on": "2026-06-18",
+      "collected_week": "2026-W25"
+    },
+    {
+      "id": "grassasongen-queens-halle-2026",
+      "title": "Grässäsongen i gång på Queen's och i Halle inför Wimbledon",
+      "category": "Tennis",
+      "date": "2026-06-15",
+      "location": "London/Halle",
+      "summary": "ATP- och WTA-touren spelar på gräs i bland annat Queen's Club (HSBC Championships, ATP 500, 15-21 juni) och Terra Wortmann Open i Halle som uppladdning inför Wimbledon. Stjärnor som Sinner, Alcaraz, Gauff och Sabalenka finslipar formen.",
+      "source": "Tennis Connected",
+      "url": "https://tennisconnected.com/atp-wta-grass-court-swing-preview-2026-queens-club-halle-berlin-nottingham-set-the-stage-for-wimbledon/",
+      "added_on": "2026-06-18",
+      "collected_week": "2026-W25"
+    },
+    {
+      "id": "bordtennis-wtt-touren-host-2026",
+      "title": "WTT-touren fortsätter mot hösten efter lag-VM",
+      "category": "Bordtennis",
+      "date": "2026-06-01",
+      "location": "Sverige",
+      "summary": "Efter lag-VM i London riktas blickarna mot WTT-tourens fortsättning, där Truls Möregårdh och Anton Källberg laddar mot höstens tävlingar med Europe Smash i Malmö (13-23 augusti) som höjdpunkt. SVT sänder touren på SVT Play.",
+      "source": "SVT Sport",
+      "url": "https://www.svt.se/sport/bordtennis/bordtennisens-varldstour-wtt-2026-tv-tider-och-spelprogram",
+      "added_on": "2026-06-18",
+      "collected_week": "2026-W25"
     }
   ]
 }

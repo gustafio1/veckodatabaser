@@ -3,7 +3,7 @@
   "description": "Tekniker, vanor och tankesätt för personlig utveckling och produktivitet. Uppdateras varje vecka.",
   "schema_version": 1,
   "last_updated": "2026-06-21",
-  "item_count": 24,
+  "item_count": 33,
   "items": [
     {
       "id": "pomodoro-tekniken",
@@ -292,6 +292,5 @@
       "url": "https://yourstory.com/2025/12/5-self-improvement-trends-2026",
       "added_on": "2026-06-13",
       "collected_week": "2026-W24"
-    }
-  ]
-}
+    },
+    {

@@ -3,7 +3,7 @@
   "description": "Ny forskning och insikter om vänskap, relationer och social anknytning. Uppdateras varje vecka.",
   "schema_version": 1,
   "last_updated": "2026-06-21",
-  "item_count": 20,
+  "item_count": 27,
   "items": [
     {
       "id": "vanskap-folkhalsotillgang-2026",
@@ -244,6 +244,5 @@
       "url": "https://www.news55.se/livsstil/vuxenvanskap-tar-tid-sa-manga-timmar-kravs/",
       "added_on": "2026-06-13",
       "collected_week": "2026-W24"
-    }
-  ]
-}
+    },
+    {

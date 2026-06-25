@@ -3,7 +3,7 @@
   "description": "Ledarskapsprinciper och lärdomar från John C. Maxwell, inklusive De 21 oeftergivliga ledarskapslagarna. Uppdateras varje vecka.",
   "schema_version": 1,
   "last_updated": "2026-06-19",
-  "item_count": 33,
+  "item_count": 41,
   "items": [
     {
       "id": "lockets-lag",
@@ -400,6 +400,5 @@
       "url": "https://www.johnmaxwell.com/blog/",
       "added_on": "2026-06-12",
       "collected_week": "2026-W24"
-    }
-  ]
-}
+    },
+    {

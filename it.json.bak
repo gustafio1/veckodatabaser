@@ -3,7 +3,7 @@
   "description": "Nya IT- och teknikprodukter: hårdvara, mjukvara, AI och gaming. Uppdateras varje vecka.",
   "schema_version": 1,
   "last_updated": "2026-06-23",
-  "item_count": 39,
+  "item_count": 40,
   "items": [
     {
       "id": "nvidia-rtx-spark-2026",
@@ -378,100 +378,3 @@
       "collected_week": "2026-W25"
     },
     {
-      "id": "nvidia-rtx-spark-laptops-computex-2026",
-      "title": "Nvidia RTX Spark (N1X) – Arm-superchip för bärbara",
-      "category": "Hårdvara",
-      "date": "2026-06-01",
-      "location": "",
-      "summary": "På Computex 2026 lanserade Nvidia RTX Spark-superchipet (N1X) med 6 144 CUDA-kärnor, 20 Grace-CPU-kärnor och upp till 128 GB enhetligt minne. Det debuterar i höst i Windows-datorer från Microsoft, Dell, HP, ASUS, Lenovo och MSI.",
-      "source": "NVIDIA",
-      "url": "https://www.nvidia.com/en-us/geforce/news/computex-2026-partner-product-showcase/",
-      "added_on": "2026-06-23",
-      "collected_week": "2026-W26"
-    },
-    {
-      "id": "dell-xps-13-2026",
-      "title": "Dell XPS 13 (2026) – budgetalternativ till MacBook Neo",
-      "category": "Hårdvara",
-      "date": "2026-06-01",
-      "location": "",
-      "summary": "Dell positionerar nya XPS 13 som ett Windows-alternativ till Apples MacBook Neo. Med Intel Core Series 3-processorer börjar den på 599 USD för studenter och 699 USD för övriga.",
-      "source": "TechRadar",
-      "url": "https://www.techradar.com/tech/top-tech-of-the-month-the-best-new-gadgets-weve-tested-for-june-2026",
-      "added_on": "2026-06-23",
-      "collected_week": "2026-W26"
-    },
-    {
-      "id": "microsoft-surface-pro-x2-2026",
-      "title": "Microsoft Surface Pro – Qualcomm X2-surfplatta",
-      "category": "Hårdvara",
-      "date": "2026-06-01",
-      "location": "",
-      "summary": "Microsofts senaste Surface Pro uppdateras med Qualcomms X2-processor som enligt företaget ger upp till 53 % snabbare grafikprestanda och upp till 15,5 timmars batteritid.",
-      "source": "TechRadar",
-      "url": "https://www.techradar.com/tech/top-tech-of-the-month-the-best-new-gadgets-weve-tested-for-june-2026",
-      "added_on": "2026-06-23",
-      "collected_week": "2026-W26"
-    },
-    {
-      "id": "xreal-r1-ar-glasses-2026",
-      "title": "Xreal R1 – AR-glasögon med förbokning",
-      "category": "Hårdvara",
-      "date": "2026-06-01",
-      "location": "",
-      "summary": "Xreals R1 AR-glasögon kan nu förbokas i Xreal Shop med leverans från juli 2026. De fortsätter vågen av lättviktiga skärmglasögon för augmented reality.",
-      "source": "TechRadar",
-      "url": "https://www.techradar.com/tech/top-tech-of-the-month-the-best-new-gadgets-weve-tested-for-june-2026",
-      "added_on": "2026-06-23",
-      "collected_week": "2026-W26"
-    },
-    {
-      "id": "intel-xeon-6plus-clearwater-forest-2026",
-      "title": "Intel Xeon 6+ Clearwater Forest – datacenter-CPU på 18A",
-      "category": "Hårdvara",
-      "date": "2026-06-01",
-      "location": "",
-      "summary": "Intels Xeon 6+ Clearwater Forest tar 18A-processtekniken till datacentret med upp till 288 kärnor och 576 MB L3-cache.",
-      "source": "NVIDIA Newsroom",
-      "url": "https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer",
-      "added_on": "2026-06-23",
-      "collected_week": "2026-W26"
-    },
-    {
-      "id": "dell-deskside-agentic-ai-workstation-2026",
-      "title": "Dell Deskside Agentic AI – lokal AI-arbetsstation",
-      "category": "AI",
-      "date": "2026-06-01",
-      "location": "",
-      "summary": "Dells Deskside Agentic AI-arbetsstationer låter organisationer köra komplexa agentloopar lokalt, vilket enligt Dell minskar molnkostnaderna med upp till 87 % samtidigt som känslig data stannar på plats.",
-      "source": "NVIDIA Newsroom",
-      "url": "https://nvidianews.nvidia.com/news/rubin-platform-ai-supercomputer",
-      "added_on": "2026-06-23",
-      "collected_week": "2026-W26"
-    },
-    {
-      "id": "the-7th-guest-remake-2026",
-      "title": "The 7th Guest Remake – nyversion av FMV-klassikern",
-      "category": "Gaming",
-      "date": "2026-06-04",
-      "location": "",
-      "summary": "Nyversionen av pusselskräckklassikern The 7th Guest släpps den 4 juni 2026 till PC, PS5, Switch, Switch 2 och Xbox och moderniserar originalets ikoniska FMV-äventyr.",
-      "source": "Screen Rant",
-      "url": "https://screenrant.com/june-2026-video-games-releases-schedule-lineup/",
-      "added_on": "2026-06-23",
-      "collected_week": "2026-W26"
-    },
-    {
-      "id": "hell-let-loose-vietnam-2026",
-      "title": "Hell Let Loose: Vietnam – taktisk FPS",
-      "category": "Gaming",
-      "date": "2026-06-01",
-      "location": "",
-      "summary": "Hell Let Loose: Vietnam är en taktisk förstapersonsskjutare förlagd till Vietnamkriget som släpps i juni 2026 och utökar den realistiska multiplayer-serien.",
-      "source": "PC Gamer",
-      "url": "https://www.pcgamer.com/games/pc-game-release-dates-june-2026/",
-      "added_on": "2026-06-23",
-      "collected_week": "2026-W26"
-    }
-  ]
-}

@@ -2,8 +2,8 @@
   "topic": "Religion – Nyheter",
   "description": "Religiösa nyheter från Vatikanen, kyrkor och trossamfund världen över. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-06-17",
-  "item_count": 30,
+  "last_updated": "2026-06-25",
+  "item_count": 40,
   "items": [
     {
       "id": "leo-xiv-tyska-studenter-2026",
@@ -364,6 +364,126 @@
       "url": "https://religionmediacentre.org.uk/morning-news-bulletin/religion-news-8-june-2026",
       "added_on": "2026-06-17",
       "collected_week": "2026-W25"
+    },
+    {
+      "id": "pew-us-katoliker-leo-favorabel-2026",
+      "title": "Åtta av tio amerikanska katoliker ser positivt på påve Leo",
+      "category": "Katolska kyrkan",
+      "date": "2026-06-24",
+      "location": "",
+      "summary": "En undersökning från Pew Research Center, genomförd 26 maj–1 juni, visar att omkring åtta av tio amerikanska katoliker har en positiv bild av påve Leo XIV. Mätningen gjordes mitt under offentliga spänningar mellan påven och president Donald Trump, bland annat kring konflikten med Iran.",
+      "source": "Religion Media Centre",
+      "url": "https://religionmediacentre.org.uk/morning-news-bulletin/religion-news-25-june-2026/",
+      "added_on": "2026-06-25",
+      "collected_week": "2026-W26"
+    },
+    {
+      "id": "danmark-forbud-boneutrop-2026",
+      "title": "Danmark vill förbjuda islamiskt böneutrop",
+      "category": "Islam",
+      "date": "2026-06-25",
+      "location": "",
+      "summary": "Danmarks invandringsminister aviserade planer på att förbjuda det islamiska böneutropet och menade att delar av landet känns som 'en förort till Islamabad'. Det är tredje gången ett sådant förslag läggs fram; det senaste pausades under valrörelsen i mars.",
+      "source": "Religion Media Centre",
+      "url": "https://religionmediacentre.org.uk/morning-news-bulletin/religion-news-25-june-2026/",
+      "added_on": "2026-06-25",
+      "collected_week": "2026-W26"
+    },
+    {
+      "id": "southern-baptists-kvinnliga-pastorer-2026",
+      "title": "Sydstatsbaptisterna stänger pastorsämbetet för kvinnor",
+      "category": "Kristendom",
+      "date": "2026-06-11",
+      "location": "",
+      "summary": "USA:s sydstatsbaptister röstade med två tredjedels majoritet för att helt utesluta kvinnor från pastorsämbetet. Beslutet befäster samfundets konservativa linje i frågan om vigningstjänsten.",
+      "source": "Religion Media Centre",
+      "url": "https://religionmediacentre.org.uk/morning-news-bulletin/religion-news-25-june-2026/",
+      "added_on": "2026-06-25",
+      "collected_week": "2026-W26"
+    },
+    {
+      "id": "vm-2026-islamisk-bon-sujood",
+      "title": "Fotbolls-VM 2026 präglas av synlig islamisk bön",
+      "category": "Global",
+      "date": "2026-06-22",
+      "location": "",
+      "summary": "Fotbolls-VM 2026 har uppvisat fler tillfällen av islamisk bön (sujood) än någon tidigare turnering. Bevakningen lyfter den ökande mångfalden i västerländska landslag som ett exempel på interreligiös respekt och samverkan i en tid av polarisering.",
+      "source": "Religion Media Centre",
+      "url": "https://religionmediacentre.org.uk/morning-news-bulletin/religion-news-25-june-2026/",
+      "added_on": "2026-06-25",
+      "collected_week": "2026-W26"
+    },
+    {
+      "id": "engelska-biskopar-time-to-act-palestina-2026",
+      "title": "Anglikanska biskopar ansluter sig till kampanj om Palestina",
+      "category": "Kristendom",
+      "date": "2026-06-25",
+      "location": "",
+      "summary": "Flera anglikanska biskopar anslöt sig till kampanjen 'Time to Act' med kravet att avsluta den olagliga ockupationen av Palestina. Initiativet samlar kyrkliga röster kring frågor om mänskliga rättigheter och fred i Mellanöstern.",
+      "source": "Religion Media Centre",
+      "url": "https://religionmediacentre.org.uk/morning-news-bulletin/religion-news-25-june-2026/",
+      "added_on": "2026-06-25",
+      "collected_week": "2026-W26"
+    },
+    {
+      "id": "act-svenska-kyrkan-arsberattelse-2025",
+      "title": "Act Svenska kyrkan: 240 insatser i 39 länder under 2025",
+      "category": "Kristendom",
+      "date": "2026-06-24",
+      "location": "",
+      "summary": "Act Svenska kyrkans årsberättelse för 2025, publicerad 24 juni 2026, redovisar omkring 240 insatser i 39 länder. Under året samlades 228 miljoner kronor in från cirka 150 000 givare.",
+      "source": "Svenska kyrkan",
+      "url": "https://www.svenskakyrkan.se/act/nyheter/tillsammans-mojliggjorde-vi-240-insatser",
+      "added_on": "2026-06-25",
+      "collected_week": "2026-W26"
+    },
+    {
+      "id": "progressiv-judendom-konvertiter-storbritannien-2026",
+      "title": "Fler vuxna konverterar till progressiv judendom i Storbritannien",
+      "category": "Judendom",
+      "date": "2026-06-23",
+      "location": "",
+      "summary": "Antalet vuxna som konverterar till progressiv judendom i Storbritannien har stigit från 78 år 2020 till 183 år 2025, ett tecken på växande intresse för judisk tro och tradition.",
+      "source": "Religion Media Centre",
+      "url": "https://religionmediacentre.org.uk/morning-news-bulletin/religion-news-23-june-2026/",
+      "added_on": "2026-06-25",
+      "collected_week": "2026-W26"
+    },
+    {
+      "id": "leo-xiv-hunger-uppmaning-2026",
+      "title": "Påve Leo XIV uppmanar regeringar att bekämpa hungern",
+      "category": "Vatikanen",
+      "date": "2026-06-23",
+      "location": "",
+      "summary": "Påve Leo XIV manade regeringar att stärka resurserna mot hunger och konstaterade att krig upprätthålls lättare än människor får mat. Uppmaningen knöt an till påvens återkommande tema om fred och mänsklig värdighet.",
+      "source": "Religion Media Centre",
+      "url": "https://religionmediacentre.org.uk/morning-news-bulletin/religion-news-23-june-2026/",
+      "added_on": "2026-06-25",
+      "collected_week": "2026-W26"
+    },
+    {
+      "id": "extraordinart-konsistorium-styre-2026",
+      "title": "Extraordinärt konsistorium ses som prov på Leos ledarstil",
+      "category": "Vatikanen",
+      "date": "2026-06-23",
+      "location": "",
+      "summary": "Inför konsistoriet 26–27 juni beskrevs det som en signal om påve Leo XIV:s vilja att styra i samråd med kardinalskollegiet kring globala utmaningar. Sessionerna kretsar kring encyklikan Magnifica humanitas, världsläget och synodens genomförande.",
+      "source": "America Magazine",
+      "url": "https://www.americamagazine.org/news/2026/06/23/pope-leo-consistory-cardinals-june/",
+      "added_on": "2026-06-25",
+      "collected_week": "2026-W26"
+    },
+    {
+      "id": "northampton-biskop-atal-2026",
+      "title": "Katolsk biskop i Northampton åtalas",
+      "category": "Katolska kyrkan",
+      "date": "2026-06-25",
+      "location": "",
+      "summary": "Den katolske biskopen av Northampton åtalades enligt rapportering från brittiska medier. Fallet väckte uppmärksamhet kring kyrkans hantering av anklagelser mot ledande företrädare.",
+      "source": "Religion Media Centre",
+      "url": "https://religionmediacentre.org.uk/morning-news-bulletin/religion-news-25-june-2026/",
+      "added_on": "2026-06-25",
+      "collected_week": "2026-W26"
     }
   ]
 }

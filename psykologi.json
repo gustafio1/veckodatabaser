@@ -2,8 +2,8 @@
   "topic": "Psykologi – Vänskap",
   "description": "Ny forskning och insikter om vänskap, relationer och social anknytning. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-06-21",
-  "item_count": 20,
+  "last_updated": "2026-06-28",
+  "item_count": 28,
   "items": [
     {
       "id": "vanskap-folkhalsotillgang-2026",
@@ -244,6 +244,102 @@
       "url": "https://www.news55.se/livsstil/vuxenvanskap-tar-tid-sa-manga-timmar-kravs/",
       "added_on": "2026-06-13",
       "collected_week": "2026-W24"
+    },
+    {
+      "id": "vanner-pa-jobbet-lonepremie-kpmg-2026",
+      "title": "Vänner på jobbet värderas som ett 20-procentigt lönelyft",
+      "category": "Trend",
+      "date": "2026-05-01",
+      "location": "",
+      "summary": "KPMG:s rapport Friends at Work 3.0 visar att anställda med nära vänner på jobbet är mest engagerade och att de värderar arbetsvänskap motsvarande ett lönepåslag på cirka 20 procent.",
+      "source": "KPMG",
+      "url": "https://kpmg.com/us/en/media/news/friends-at-work-2026.html",
+      "added_on": "2026-06-28",
+      "collected_week": "2026-W26"
+    },
+    {
+      "id": "arbetsplatsvanskap-engagemang-valbefinnande-2026",
+      "title": "Arbetsplatsvänskap stärker engagemang och välbefinnande",
+      "category": "Forskning",
+      "date": "2026-02-01",
+      "location": "",
+      "summary": "Studie i Humanities and Social Sciences Communications visar att vänskap på arbetsplatsen har en tydlig positiv effekt på anställdas engagemang, välbefinnande och arbetsinvolvering.",
+      "source": "Nature – Humanities and Social Sciences Communications",
+      "url": "https://www.nature.com/articles/s41599-026-06560-1",
+      "added_on": "2026-06-28",
+      "collected_week": "2026-W26"
+    },
+    {
+      "id": "barndomens-forutsattningar-socialt-stod-22-lander-2025",
+      "title": "Barndomens förutsättningar formar det sociala stödet i vuxen ålder",
+      "category": "Forskning",
+      "date": "2025-07-15",
+      "location": "",
+      "summary": "Tvärnationell analys av 202 898 individer i 22 länder (Global Flourishing Study) identifierar vilka barndomsfaktorer som förutsäger nära vänskaper och socialt stöd senare i livet.",
+      "source": "Nature – Scientific Reports",
+      "url": "https://www.nature.com/articles/s41598-025-09953-5",
+      "added_on": "2026-06-28",
+      "collected_week": "2026-W26"
+    },
+    {
+      "id": "barndomsvanner-inkomst-halsa-2026",
+      "title": "Barndomsvänner har betydelse för din inkomst och hälsa",
+      "category": "Forskning",
+      "date": "2026-03-09",
+      "location": "",
+      "summary": "Ny forskning visar att vänner från barndomen påverkar både framtida inkomst och hälsa – sociala band tidigt i livet ger långsiktiga effekter på livschanser.",
+      "source": "forskning.se",
+      "url": "https://forskning.se/2026/03/09/vanner-fran-barndomens-betydelse-for-inkomst-halsa/",
+      "added_on": "2026-06-28",
+      "collected_week": "2026-W26"
+    },
+    {
+      "id": "sa-bildas-vuxenvanskap-narhet-sjalvutlamnande",
+      "title": "Så bildas vuxenvänskap: närhet, upprepad kontakt och självutlämnande",
+      "category": "Råd",
+      "date": "2026-01-01",
+      "location": "",
+      "summary": "Forskningssyntes betonar att vuxna vänskaper sällan uppstår spontant utan byggs genom fysisk närhet, återkommande oplanerad kontakt och vilja att gradvis öppna sig – ungefär 50 timmars umgänge tar en bekant till nära kompis.",
+      "source": "Simply Psychology",
+      "url": "https://www.simplypsychology.com/articles/how-to-make-friends-as-an-adult",
+      "added_on": "2026-06-28",
+      "collected_week": "2026-W26"
+    },
+    {
+      "id": "sarbart-sjalvutlamnande-tonarsvanskaper",
+      "title": "Sårbart självutlämnande växer fram tillsammans i tonårsvänskaper",
+      "category": "Forskning",
+      "date": "2025-01-15",
+      "location": "",
+      "summary": "Studie visar att sårbart självutlämnande utvecklas ömsesidigt mellan tonårsvänner och lägger den utvecklingsmässiga grunden för emotionell intimitet i nära relationer.",
+      "source": "PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11781371/",
+      "added_on": "2026-06-28",
+      "collected_week": "2026-W26"
+    },
+    {
+      "id": "ekonomisk-sammanlankning-rika-barndomsvanner-inkomst",
+      "title": "Ekonomisk sammanlänkning: rikare barndomsvänner höjer framtida inkomst",
+      "category": "Forskning",
+      "date": "2022-08-01",
+      "location": "",
+      "summary": "Analys av 21 miljarder Facebook-vänskaper visar att barn från fattigare hem tjänar mer som vuxna om de växer upp där de kan bli vänner med rikare jämnåriga – ekonomisk sammanlänkning är en av de starkaste kända förutsägelserna för ekonomisk rörlighet.",
+      "source": "Nature / phys.org",
+      "url": "https://phys.org/news/2022-08-kids-friendships-future-economic-status.html",
+      "added_on": "2026-06-28",
+      "collected_week": "2026-W26"
+    },
+    {
+      "id": "36-fragor-metoden-skapar-narhet",
+      "title": "\"36 frågor\"-metoden skapar närhet snabbare än vanligt samtal",
+      "category": "Insikt",
+      "date": "1997-10-01",
+      "location": "",
+      "summary": "Arthur Arons klassiska studie visar att två främlingar som turas om att ställa allt mer personliga frågor till varandra utvecklar känslor av närhet betydligt snabbare än vid ett vanligt samtal – ömsesidigt och tempererat självutlämnande är nyckeln.",
+      "source": "ResearchGate / Aron et al.",
+      "url": "https://www.researchgate.net/publication/234013470_Effects_of_self-disclosure_role_on_liking_closeness_and_other_impressions_in_get-acquainted_interactions",
+      "added_on": "2026-06-28",
+      "collected_week": "2026-W26"
     }
   ]
 }

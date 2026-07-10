@@ -2,8 +2,8 @@
   "topic": "Religion – Nyheter",
   "description": "Religiösa nyheter från Vatikanen, kyrkor och trossamfund världen över. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-06-25",
-  "item_count": 40,
+  "last_updated": "2026-07-09",
+  "item_count": 50,
   "items": [
     {
       "id": "leo-xiv-tyska-studenter-2026",
@@ -484,6 +484,126 @@
       "url": "https://religionmediacentre.org.uk/morning-news-bulletin/religion-news-25-june-2026/",
       "added_on": "2026-06-25",
       "collected_week": "2026-W26"
+    },
+    {
+      "id": "sspx-biskopsvigningar-schism-2026",
+      "title": "Traditionalistiska SSPX viger fyra biskopar trots påvens förbud",
+      "category": "Katolska kyrkan",
+      "date": "2026-07-01",
+      "location": "",
+      "summary": "Det traditionalistiska prästbrödraskapet Sankt Pius X (SSPX) genomförde vigningen av fyra biskopar i Écône i Schweiz utan påvligt mandat, trots en sista vädjan från påve Leo XIV. Vatikanen kallade akten 'schismatisk' och de inblandade riskerar automatisk exkommunikation.",
+      "source": "Vatican News",
+      "url": "https://www.vaticannews.va/en/church/news/2026-07/lefebvrists-consecrate-four-new-bishops-without-a-papal-mandate.html",
+      "added_on": "2026-07-09",
+      "collected_week": "2026-W28"
+    },
+    {
+      "id": "rad-muslimer-judar-drumlanrig-2026",
+      "title": "Nytt råd för muslimer och judar bildas i Storbritannien",
+      "category": "Ekumenik",
+      "date": "2026-06-30",
+      "location": "",
+      "summary": "Vid Religion Media Festival tillkännagavs ett muslimskt-judiskt ledarskapsråd som ska bygga broar mellan Storbritanniens muslimska och judiska samfund. Överrabbin Sir Ephraim Mirvis och imam Qari Asim, båda undertecknare av de så kallade Drumlanrig-överenskommelserna, vill motverka antisemitism och muslimfientlighet och skydda den sociala sammanhållningen.",
+      "source": "Religion Media Centre",
+      "url": "https://religionmediacentre.org.uk/news/council-of-muslims-and-jews-announced-at-religion-media-festival/",
+      "added_on": "2026-07-09",
+      "collected_week": "2026-W28"
+    },
+    {
+      "id": "vatikanen-gaza-unrwa-oro-2026",
+      "title": "Vatikanen uttrycker djup oro över Gaza och stöder UNRWA",
+      "category": "Global",
+      "date": "2026-07-01",
+      "location": "",
+      "summary": "Heliga stolens FN-delegation uttryckte djup oro över den humanitära situationen i Gaza och de ockuperade palestinska områdena och bekräftade sitt fortsatta ekonomiska stöd till FN-organet UNRWA, som beskrevs som en livlina för miljoner flyktingar. Vatikanen fördömde dödandet av UNRWA-personal och attacker mot biståndsarbetare.",
+      "source": "Vatican News",
+      "url": "https://www.vaticannews.va/en/vatican-city/news/2026-07/holy-see-renews-support-for-unrwa.html",
+      "added_on": "2026-07-09",
+      "collected_week": "2026-W28"
+    },
+    {
+      "id": "hindutempel-portsmouth-2026",
+      "title": "Portsmouth kan få sitt första hindutempel",
+      "category": "Övrigt",
+      "date": "2026-06-30",
+      "location": "",
+      "summary": "Ett offentligt samråd har inletts om att bygga Portsmouths första hindutempel och kulturcenter på tomten efter en riven pub. Arkitekterna beskriver en samlingslokal öppen för alla oavsett tro, med plats för äldre och för barn och unga att lära sig musik och dans. En separat idé om ytterligare ett tempel drivs av stadens indiska samfund.",
+      "source": "Religion Media Centre",
+      "url": "https://religionmediacentre.org.uk/morning-news-bulletin/religion-news-2-july-2026",
+      "added_on": "2026-07-09",
+      "collected_week": "2026-W28"
+    },
+    {
+      "id": "guru-granth-sahib-skottland-2026",
+      "title": "300 år gammal Guru Granth Sahib-handskrift visas i Skottland",
+      "category": "Övrigt",
+      "date": "2026-06-30",
+      "location": "",
+      "summary": "En 300 år gammal handskrift av sikhernas heliga skrift Sri Guru Granth Sahib, återfunnen i universitetsarkiv i Edinburgh 2020, har ställts ut vid Central Gurdwara i Glasgow. Handskriften tros ha tillhört maharaja Kharak Singh och förts bort av britterna efter erövringen av Punjab 1848; den indiska konsulatet i Skottland kallade händelsen ett steg i att bevara ett gemensamt arv.",
+      "source": "Religion Media Centre",
+      "url": "https://religionmediacentre.org.uk/morning-news-bulletin/religion-news-2-july-2026",
+      "added_on": "2026-07-09",
+      "collected_week": "2026-W28"
+    },
+    {
+      "id": "japan-unification-church-upplosning-2026",
+      "title": "Japans upplösning av Enighetskyrkan väcker oro för religionsfrihet",
+      "category": "Global",
+      "date": "2026-06-30",
+      "location": "",
+      "summary": "Människorättsorganisationen Human Rights Without Frontiers varnade vid en presskonferens i Bryssel för att den japanska högsta domstolens beslut att upplösa Enighetskyrkan (Unification Church) kan bli ett farligt prejudikat för religionsfriheten i demokratier. Beslutet följde på mordet på förre premiärministern Shinzo Abe 2022.",
+      "source": "Human Rights Without Frontiers",
+      "url": "https://hrwf.eu/japan-press-conference-in-brussels-about-the-dissolution-of-the-unification-church/",
+      "added_on": "2026-07-09",
+      "collected_week": "2026-W28"
+    },
+    {
+      "id": "brittiska-moskeer-sakerhetsfond-2026",
+      "title": "Brittiska moskéer: statlig säkerhetsfond 'inte ändamålsenlig'",
+      "category": "Islam",
+      "date": "2026-06-30",
+      "location": "",
+      "summary": "Moskéer i Storbritannien uppger att de tvingas ta av sina reserver för att skydda sig i en tid av ökad hotbild, sedan de haft svårt att få del av regeringens säkerhetsfond. Ledare kallar den 40 miljoner pund stora fonden 'inte ändamålsenlig' och vittnar om ansökningar som legat obehandlade i upp till två år.",
+      "source": "Hyphen",
+      "url": "https://hyphenonline.com/2026/06/30/protective-security-scheme-mosques-home-office-islamophobia-attacks/",
+      "added_on": "2026-07-09",
+      "collected_week": "2026-W28"
+    },
+    {
+      "id": "metodistkyrkan-netto-noll-2030-2026",
+      "title": "Brittiska metodistkyrkan överger klimatmålet netto-noll 2030",
+      "category": "Kristendom",
+      "date": "2026-07-01",
+      "location": "",
+      "summary": "Metodistkonferensen i Telford beslutade att överge målet att bli klimatneutral till 2030. Miljöansvarige Hamish Leese förklarade att kyrkan saknat kapacitet att nå målet och att ett orealistiskt mål skulle underminera trovärdigheten och riskera anklagelser om grönmålning, samtidigt som klimatarbetet fortsatt beskrivs som en fråga om mission och rättvisa.",
+      "source": "Methodist Church",
+      "url": "https://www.methodist.org.uk/about/news/methodist-conference-agrees-net-zero-update/",
+      "added_on": "2026-07-09",
+      "collected_week": "2026-W28"
+    },
+    {
+      "id": "anglikanska-canterbury-enhetsroll-2026",
+      "title": "Anglikanska kyrkan överväger att slopa Canterburys enande roll",
+      "category": "Kristendom",
+      "date": "2026-06-30",
+      "location": "",
+      "summary": "Anglican Consultative Council möttes i Belfast för att överväga förslag som skulle ta bort ärkebiskopen av Canterbury som enande medelpunkt för den världsvida anglikanska gemenskapen. Förslagen, kända som Nairobi–Kairo, aktualiseras av djupa motsättningar om hbtq-relationer och kvinnors vigning och sammanfaller med att Sarah Mullally utsetts till ny ärkebiskop.",
+      "source": "Episcopal News Service",
+      "url": "https://episcopalnewsservice.org/2026/06/30/acc-scrutinizes-raises-concerns-about-proposed-changes-to-anglican-communion-structures/",
+      "added_on": "2026-07-09",
+      "collected_week": "2026-W28"
+    },
+    {
+      "id": "leo-xiv-usa-250-immigration-fred-2026",
+      "title": "Påve Leo XIV manar USA till fred och skydd av migranter vid 250-årsjubileet",
+      "category": "Vatikanen",
+      "date": "2026-07-04",
+      "location": "",
+      "summary": "I samband med USA:s 250-årsjubileum uppmanade den förste USA-födde påven, Leo XIV, amerikaner att på nytt förbinda sig till skyddet av mänskligt liv, mottagandet av migranter och strävan efter fred genom interreligiöst samarbete. Bevakningen lyfte fortsatta spänningar mellan Vatikanen och Washington kring migration och fred.",
+      "source": "Religion News Service",
+      "url": "https://religionnews.com/2026/07/06/cardinals-cake-and-corndogs-inside-a-complicated-vatican-july-4/",
+      "added_on": "2026-07-09",
+      "collected_week": "2026-W28"
     }
   ]
 }

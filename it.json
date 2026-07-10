@@ -2,8 +2,8 @@
   "topic": "IT – Nya produkter",
   "description": "Nya IT- och teknikprodukter: hårdvara, mjukvara, AI och gaming. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-06-23",
-  "item_count": 39,
+  "last_updated": "2026-07-09",
+  "item_count": 48,
   "items": [
     {
       "id": "nvidia-rtx-spark-2026",
@@ -472,6 +472,114 @@
       "url": "https://www.pcgamer.com/games/pc-game-release-dates-june-2026/",
       "added_on": "2026-06-23",
       "collected_week": "2026-W26"
+    },
+    {
+      "id": "openai-gpt-5-6-sol-terra-luna-2026",
+      "title": "OpenAI GPT-5.6 – Sol, Terra och Luna",
+      "category": "AI",
+      "date": "2026-07-08",
+      "location": "",
+      "summary": "OpenAI släppte publikt sina GPT-5.6-modeller Sol, Terra och Luna, cirka två veckor efter att lanseringen först begränsats till en liten grupp betrodda partner på begäran av den amerikanska regeringen.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/08/openai-expanding-gpt-5point6-ai-model-release-ending-government-limits.html",
+      "added_on": "2026-07-09",
+      "collected_week": "2026-W28"
+    },
+    {
+      "id": "xai-grok-4-5-2026",
+      "title": "xAI Grok 4.5 – ny frontlinjemodell",
+      "category": "AI",
+      "date": "2026-07-08",
+      "location": "",
+      "summary": "xAI släppte Grok 4.5 den 8 juli 2026, den senaste av företagets frontlinjemodeller och en av månadens mest uppmärksammade modellanseringar.",
+      "source": "LLM-Stats",
+      "url": "https://llm-stats.com/llm-updates",
+      "added_on": "2026-07-09",
+      "collected_week": "2026-W28"
+    },
+    {
+      "id": "google-gemini-3-5-pro-2026",
+      "title": "Google Gemini 3.5 Pro – allmän lansering",
+      "category": "AI",
+      "date": "2026-07-01",
+      "location": "",
+      "summary": "Google gjorde Gemini 3.5 Pro allmänt tillgänglig i juli 2026 efter att lanseringen skjutits upp från juni, som en uppdaterad version av företagets flaggskeppsmodell.",
+      "source": "LLM-Stats",
+      "url": "https://llm-stats.com/llm-updates",
+      "added_on": "2026-07-09",
+      "collected_week": "2026-W28"
+    },
+    {
+      "id": "openai-codex-keyboard-work-louder-2026",
+      "title": "OpenAI Codex-tangentbord med Work Louder",
+      "category": "Hårdvara",
+      "date": "2026-07-15",
+      "location": "",
+      "summary": "OpenAI teamade upp med Work Louder för att göra en Codex-specifik version av tangentbordet Creator Micro 2, företagets första hårdvarusamarbete, med lansering den 15 juli 2026.",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/06/29/openai-teases-codex-branded-hardware-collaboration-coming-heres-what-to-expect/",
+      "added_on": "2026-07-09",
+      "collected_week": "2026-W28"
+    },
+    {
+      "id": "xiaomi-watch-s5-2026",
+      "title": "Xiaomi Watch S5 – smartklocka med AMOLED",
+      "category": "Hårdvara",
+      "date": "2026-07-01",
+      "location": "",
+      "summary": "Xiaomi Watch S5 46 mm har en 1,48-tums AMOLED-skärm med 2 500 nits toppljusstyrka och en 40 % smalare ram än föregångaren. Batteriet på 815 mAh räcker upp till 21 dagar vid lätt användning.",
+      "source": "Yanko Design",
+      "url": "https://www.yankodesign.com/2026/07/07/the-8-best-tech-gadgets-of-july-2026/",
+      "added_on": "2026-07-09",
+      "collected_week": "2026-W28"
+    },
+    {
+      "id": "xiaomi-ultrathin-magnetic-powerbank-2026",
+      "title": "Xiaomi UltraThin Magnetic Power Bank",
+      "category": "Hårdvara",
+      "date": "2026-07-01",
+      "location": "",
+      "summary": "Xiaomis magnetiska powerbank är bara 6 mm tjock och väger 98 gram med 5 000 mAh kapacitet, driven av ett kisel-kolbatteri med 16 % kiselinnehåll för högre energitäthet än vanliga litiumceller.",
+      "source": "Yanko Design",
+      "url": "https://www.yankodesign.com/2026/07/07/the-8-best-tech-gadgets-of-july-2026/",
+      "added_on": "2026-07-09",
+      "collected_week": "2026-W28"
+    },
+    {
+      "id": "dyson-hushjet-mini-cool-2026",
+      "title": "Dyson HushJet Mini Cool – handhållen fläkt",
+      "category": "Hårdvara",
+      "date": "2026-07-01",
+      "location": "",
+      "summary": "Dyson HushJet Mini Cool är en handhållen fläkt som ger upp till 6,5 timmars kylning per laddning och lyfts fram bland juli 2026 års mest designdrivna prylar.",
+      "source": "Yanko Design",
+      "url": "https://www.yankodesign.com/2026/07/07/the-8-best-tech-gadgets-of-july-2026/",
+      "added_on": "2026-07-09",
+      "collected_week": "2026-W28"
+    },
+    {
+      "id": "halo-campaign-evolved-2026",
+      "title": "Halo: Campaign Evolved – remake i Unreal Engine 5",
+      "category": "Gaming",
+      "date": "2026-07-01",
+      "location": "",
+      "summary": "Halo: Campaign Evolved är en nyversion byggd från grunden i Unreal Engine 5, inspirerad av Xbox-lanseringstiteln från november 2001, och hör till juli 2026 års största spelsläpp.",
+      "source": "GameSpot",
+      "url": "https://www.gamespot.com/articles/the-biggest-new-game-releases-of-july-2026/",
+      "added_on": "2026-07-09",
+      "collected_week": "2026-W28"
+    },
+    {
+      "id": "assassins-creed-black-flag-resynced-2026",
+      "title": "Assassin's Creed Black Flag: Resynced",
+      "category": "Gaming",
+      "date": "2026-07-01",
+      "location": "",
+      "summary": "En fullständig remake som bygger om Edward Kenways piratäventyr för modern hårdvara med uppdaterad grafik och förfinade spelsystem i den karibiska öppna världen.",
+      "source": "GameSpot",
+      "url": "https://www.gamespot.com/articles/the-biggest-new-game-releases-of-july-2026/",
+      "added_on": "2026-07-09",
+      "collected_week": "2026-W28"
     }
   ]
 }

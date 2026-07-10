@@ -2,8 +2,8 @@
   "topic": "Personlig utveckling",
   "description": "Tekniker, vanor och tankesätt för personlig utveckling och produktivitet. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-06-28",
-  "item_count": 32,
+  "last_updated": "2026-07-09",
+  "item_count": 41,
   "items": [
     {
       "id": "pomodoro-tekniken",
@@ -388,6 +388,114 @@
       "url": "https://www.upskillist.com/blog/top-personal-development-strategies-for-that-will-keep-working-beyond/",
       "added_on": "2026-06-28",
       "collected_week": "2026-W26"
+    },
+    {
+      "id": "spridd-repetition",
+      "title": "Spridd repetition (Spaced Repetition)",
+      "category": "Teknik",
+      "date": "2026-07-09",
+      "location": "",
+      "summary": "Repetera det du vill lära dig med gradvis ökande mellanrum i stället för att plugga allt på en gång. Genom att återkomma till stoffet precis innan du hinner glömma befästs kunskapen långsiktigt i minnet.",
+      "source": "Medium (101 Basic Life)",
+      "url": "https://medium.com/101-basic-life/the-science-of-self-improvement-evidence-based-strategies-for-growth-8bc68aa89045",
+      "added_on": "2026-07-09",
+      "collected_week": "2026-W28"
+    },
+    {
+      "id": "aktiv-aterkallning",
+      "title": "Aktiv återkallning (Retrieval Practice)",
+      "category": "Teknik",
+      "date": "2026-07-09",
+      "location": "",
+      "summary": "Testa dig själv aktivt genom att försöka minnas informationen utan att titta i facit, i stället för att passivt läsa om den. Ansträngningen att plocka fram kunskap ur minnet stärker inlärningen betydligt mer än omläsning.",
+      "source": "Medium (101 Basic Life)",
+      "url": "https://medium.com/101-basic-life/the-science-of-self-improvement-evidence-based-strategies-for-growth-8bc68aa89045",
+      "added_on": "2026-07-09",
+      "collected_week": "2026-W28"
+    },
+    {
+      "id": "uppgiftsgruppering-batching",
+      "title": "Uppgiftsgruppering (Task Batching)",
+      "category": "Teknik",
+      "date": "2026-07-09",
+      "location": "",
+      "summary": "Samla liknande uppgifter och utför dem i ett svep – till exempel all e-post, alla samtal eller alla ärenden vid samma tillfälle. Genom att minska antalet kontextväxlingar sparar du mental energi och arbetar snabbare.",
+      "source": "Productive Blogging",
+      "url": "https://www.productiveblogging.com/productivity-habits/",
+      "added_on": "2026-07-09",
+      "collected_week": "2026-W28"
+    },
+    {
+      "id": "miljodesign-for-vanor",
+      "title": "Miljödesign för vanor",
+      "category": "Teknik",
+      "date": "2026-07-09",
+      "location": "",
+      "summary": "Forma din omgivning så att bra vanor blir lätta och dåliga blir svåra – lägg fram träningskläderna, göm godiset, ställ telefonen i ett annat rum. Att sänka respektive höja friktionen styr beteendet mer än viljestyrka.",
+      "source": "Michael Moody Fitness",
+      "url": "https://www.michaelmoodyfitness.com/personaltrainersfitnessanddietblog/99-ways-to-redefine-yourself-today",
+      "added_on": "2026-07-09",
+      "collected_week": "2026-W28"
+    },
+    {
+      "id": "frestelsekoppling",
+      "title": "Frestelsekoppling (Temptation Bundling)",
+      "category": "Vana",
+      "date": "2026-07-09",
+      "location": "",
+      "summary": "Para ihop en uppgift du borde göra med något du tycker om – lyssna bara på din favoritpodd medan du tränar eller städar. Genom att koppla nöje till plikten blir den tråkiga vanan mycket lättare att hålla.",
+      "source": "Michael Moody Fitness",
+      "url": "https://www.michaelmoodyfitness.com/personaltrainersfitnessanddietblog/99-ways-to-redefine-yourself-today",
+      "added_on": "2026-07-09",
+      "collected_week": "2026-W28"
+    },
+    {
+      "id": "livslangt-larande",
+      "title": "Livslångt lärande (30 minuter om dagen)",
+      "category": "Vana",
+      "date": "2026-07-09",
+      "location": "",
+      "summary": "Avsätt en fast stund varje dag, till exempel 30 minuter, för att lära dig något nytt genom en bok, kurs eller ny färdighet. Små dagliga investeringar i kunskap ackumuleras över tid till stor utveckling.",
+      "source": "Vertical Institute",
+      "url": "https://verticalinstitute.com/blog/personal-growth-at-work/",
+      "added_on": "2026-07-09",
+      "collected_week": "2026-W28"
+    },
+    {
+      "id": "emotionell-intelligens",
+      "title": "Emotionell intelligens (EQ)",
+      "category": "Tankesätt",
+      "date": "2026-07-09",
+      "location": "",
+      "summary": "Träna på att uppfatta, förstå och hantera dina egna känslor samtidigt som du läser av andras. Hög emotionell intelligens förbättrar samarbete, konflikthantering och ledarskap och är avgörande för både personlig och yrkesmässig framgång.",
+      "source": "Vertical Institute",
+      "url": "https://verticalinstitute.com/blog/personal-growth-at-work/",
+      "added_on": "2026-07-09",
+      "collected_week": "2026-W28"
+    },
+    {
+      "id": "neuroplasticitet-tankesatt",
+      "title": "Neuroplasticitet som tankesätt",
+      "category": "Tankesätt",
+      "date": "2026-07-09",
+      "location": "",
+      "summary": "Kom ihåg att hjärnan formar om sig själv efter hur du använder den – varje gång du övar på något nytt stärks nya kopplingar. Insikten att förändring är biologiskt möjlig gör det lättare att hålla ut när nya vanor känns svåra.",
+      "source": "Medium (101 Basic Life)",
+      "url": "https://medium.com/101-basic-life/the-science-of-self-improvement-evidence-based-strategies-for-growth-8bc68aa89045",
+      "added_on": "2026-07-09",
+      "collected_week": "2026-W28"
+    },
+    {
+      "id": "kaizen",
+      "title": "Kaizen (ständig förbättring 1 % i taget)",
+      "category": "Tankesätt",
+      "date": "2026-07-09",
+      "location": "",
+      "summary": "Sträva efter små, kontinuerliga förbättringar varje dag i stället för sällsynta stora omtag. Att bli en procent bättre åt gången är hållbart och ger tack vare ränta-på-ränta-effekten dramatiska resultat över tid.",
+      "source": "High Performance Speakers",
+      "url": "https://www.high-performance-speakers.com/news/tips-and-tricks/enhance-habits-increase-productivity",
+      "added_on": "2026-07-09",
+      "collected_week": "2026-W28"
     }
   ]
 }

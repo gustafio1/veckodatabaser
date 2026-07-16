@@ -2,8 +2,8 @@
   "topic": "IT – Nya produkter",
   "description": "Nya IT- och teknikprodukter: hårdvara, mjukvara, AI och gaming. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-07-09",
-  "item_count": 48,
+  "last_updated": "2026-07-16",
+  "item_count": 58,
   "items": [
     {
       "id": "nvidia-rtx-spark-2026",
@@ -580,6 +580,126 @@
       "url": "https://www.gamespot.com/articles/the-biggest-new-game-releases-of-july-2026/",
       "added_on": "2026-07-09",
       "collected_week": "2026-W28"
+    },
+    {
+      "id": "anthropic-claude-sonnet-5-2026",
+      "title": "Anthropic Claude Sonnet 5 – frontlinjemodell för agentkodning",
+      "category": "AI",
+      "date": "2026-06-30",
+      "location": "",
+      "summary": "Anthropic släppte Claude Sonnet 5, månadens största grundmodellslansering, med starkare långkörd kodning, verktygsanvändning och felsökning till lägre pris – väl lämpad för agentbaserade kodnings- och debuggningsflöden.",
+      "source": "LLM-Stats",
+      "url": "https://llm-stats.com/llm-updates",
+      "added_on": "2026-07-16",
+      "collected_week": "2026-W29"
+    },
+    {
+      "id": "openai-chatgpt-work-2026",
+      "title": "OpenAI ChatGPT Work – arbetsverktyg för företag",
+      "category": "Mjukvara",
+      "date": "2026-07-09",
+      "location": "",
+      "summary": "Samtidigt med GPT-5.6 lanserade OpenAI ChatGPT Work, ett nytt verktyg riktat mot företagsanvändare som knyter ihop chatboten med arbetsflöden och interna data.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/07/09/ai-openai-gpt-release",
+      "added_on": "2026-07-16",
+      "collected_week": "2026-W29"
+    },
+    {
+      "id": "meta-muse-spark-1-1-2026",
+      "title": "Meta Muse Spark 1.1 – ny generativ AI-modell",
+      "category": "AI",
+      "date": "2026-07-09",
+      "location": "",
+      "summary": "Meta släppte Muse Spark 1.1 den 9 juli 2026, en av de senaste modellanseringarna i sommarens intensiva våg av nya AI-modeller.",
+      "source": "LLM-Stats",
+      "url": "https://llm-stats.com/llm-updates",
+      "added_on": "2026-07-16",
+      "collected_week": "2026-W29"
+    },
+    {
+      "id": "sony-rx10-v-2026",
+      "title": "Sony RX10 V – kompaktkamera med superzoom",
+      "category": "Hårdvara",
+      "date": "2026-07-01",
+      "location": "",
+      "summary": "Sony RX10 V är en kompaktkamera med 20,1 MP staplad 1-tumssensor och 24–600 mm optisk zoom, en helt ny bildprocessor och avancerad AI-baserad motivspårning.",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/home/top-tech-of-the-month-the-best-new-gadgets-weve-tested-for-july-2026",
+      "added_on": "2026-07-16",
+      "collected_week": "2026-W29"
+    },
+    {
+      "id": "mophie-stealthcharge-2026",
+      "title": "Mophie StealthCharge – trådlös laddare med värmereduktion",
+      "category": "Hårdvara",
+      "date": "2026-07-01",
+      "location": "",
+      "summary": "Mophie introducerade trådlösa laddare med ny StealthCharge-teknik som håller nere värmen samtidigt som full 25 W trådlös laddning bibehålls för iPhone.",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/home/top-tech-of-the-month-the-best-new-gadgets-weve-tested-for-july-2026",
+      "added_on": "2026-07-16",
+      "collected_week": "2026-W29"
+    },
+    {
+      "id": "vestri-portable-dac-2026",
+      "title": "Vestri – bärbar DAC och hörlursförstärkare",
+      "category": "Hårdvara",
+      "date": "2026-07-01",
+      "location": "",
+      "summary": "Vestri är en bärbar DAC och hörlursförstärkare som ansluts till telefon, laptop eller surfplatta via USB-C och tydligt förbättrar ljudet från trådbundna hörlurar.",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/home/top-tech-of-the-month-the-best-new-gadgets-weve-tested-for-july-2026",
+      "added_on": "2026-07-16",
+      "collected_week": "2026-W29"
+    },
+    {
+      "id": "ea-college-football-27-2026",
+      "title": "EA Sports College Football 27",
+      "category": "Gaming",
+      "date": "2026-07-01",
+      "location": "",
+      "summary": "EA Sports College Football 27 släpps i juli 2026 med anpassningsbara stadion och ljud, dynamiskt väder och ett nytt Coach Mode där du leder laget från sidlinjen.",
+      "source": "GameSpot",
+      "url": "https://www.gamespot.com/articles/the-biggest-new-game-releases-of-july-2026/",
+      "added_on": "2026-07-16",
+      "collected_week": "2026-W29"
+    },
+    {
+      "id": "splatoon-raiders-2026",
+      "title": "Splatoon Raiders – spin-off till Switch 2",
+      "category": "Gaming",
+      "date": "2026-07-01",
+      "location": "",
+      "summary": "Splatoon Raiders är en spin-off som spelar helt annorlunda än de numrerade titlarna, förlagd till de mystiska Spirhalite-öarna med enspelarläge och valfritt co-op för upp till fyra spelare.",
+      "source": "GameSpot",
+      "url": "https://www.gamespot.com/articles/the-biggest-new-game-releases-of-july-2026/",
+      "added_on": "2026-07-16",
+      "collected_week": "2026-W29"
+    },
+    {
+      "id": "palworld-1-0-2026",
+      "title": "Palworld 1.0 – full lansering",
+      "category": "Gaming",
+      "date": "2026-07-01",
+      "location": "",
+      "summary": "Palworld når version 1.0 i juli 2026 och lägger till nya vapen och utrustning, ett nytt Wing Pack för äventyr i luften och fler berättelsedrivna inslag.",
+      "source": "GameSpot",
+      "url": "https://www.gamespot.com/articles/the-biggest-new-game-releases-of-july-2026/",
+      "added_on": "2026-07-16",
+      "collected_week": "2026-W29"
+    },
+    {
+      "id": "doom-dark-ages-revelations-2026",
+      "title": "DOOM: The Dark Ages Revelations – expansion",
+      "category": "Gaming",
+      "date": "2026-07-01",
+      "location": "",
+      "summary": "DOOM: The Dark Ages Revelations är den efterlängtade expansionen till 2025 års DOOM: The Dark Ages och utspelar sig direkt efter händelserna i grundspelet.",
+      "source": "GameSpot",
+      "url": "https://www.gamespot.com/articles/the-biggest-new-game-releases-of-july-2026/",
+      "added_on": "2026-07-16",
+      "collected_week": "2026-W29"
     }
   ]
 }

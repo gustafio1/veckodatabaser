@@ -2,8 +2,8 @@
   "topic": "Personlig utveckling",
   "description": "Tekniker, vanor och tankesätt för personlig utveckling och produktivitet. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-07-16",
-  "item_count": 49,
+  "last_updated": "2026-07-18",
+  "item_count": 57,
   "items": [
     {
       "id": "pomodoro-tekniken",
@@ -591,6 +591,102 @@
       "source": "Positive Psychology",
       "url": "https://positivepsychology.com/self-discipline-exercises/",
       "added_on": "2026-07-16",
+      "collected_week": "2026-W29"
+    },
+    {
+      "id": "energihantering",
+      "title": "Energihantering framför tidshantering",
+      "category": "Tankesätt",
+      "date": "2026-07-18",
+      "location": "",
+      "summary": "Planera arbetet efter din energi i stället för klockan: lägg krävande uppgifter när du är som piggast och rutinuppgifter i energisvackor. Hållbar produktivitet bygger på att förvalta fysiska och mentala resurser – sömn, pauser, mat och rörelse – inte bara loggade timmar.",
+      "source": "Welloclock",
+      "url": "https://welloclock.com/blog-list/how-to-boost-productivity-naturally-proven-methods-2026",
+      "added_on": "2026-07-18",
+      "collected_week": "2026-W29"
+    },
+    {
+      "id": "uppmarksamhetshantering",
+      "title": "Uppmärksamhetshantering (Attention Management)",
+      "category": "Teknik",
+      "date": "2026-07-18",
+      "location": "",
+      "summary": "Skydda din uppmärksamhet aktivt i stället för att bara schemalägga tid: stäng av notiser, bestäm fasta tider för e-post och sociala medier och välj medvetet vad som får ditt fokus. Maura Thomas metod betonar att kontroll över uppmärksamheten – inte kalendern – är nyckeln till meningsfullt arbete.",
+      "source": "Maura Thomas, Attention Management",
+      "url": "https://www.theknowledgeacademy.com/blog/attention-management-strategies/",
+      "added_on": "2026-07-18",
+      "collected_week": "2026-W29"
+    },
+    {
+      "id": "identitetsbaserade-vanor",
+      "title": "Identitetsbaserade vanor",
+      "category": "Tankesätt",
+      "date": "2026-07-18",
+      "location": "",
+      "summary": "Utgå från vem du vill vara i stället för vad du vill uppnå: säg \"jag är en person som tränar\" snarare än \"jag ska gå ner i vikt\". Varje liten handling blir en röst på din önskade identitet, vilket gör vanorna mer hållbara än rena resultatmål.",
+      "source": "James Clear, Atomic Habits",
+      "url": "https://jamesclear.com/identity-based-habits",
+      "added_on": "2026-07-18",
+      "collected_week": "2026-W29"
+    },
+    {
+      "id": "veckogenomgang",
+      "title": "Veckogenomgång (Weekly Review)",
+      "category": "Vana",
+      "date": "2026-07-18",
+      "location": "",
+      "summary": "Avsätt 30–60 minuter varje vecka för att tömma inkorgar, gå igenom pågående projekt, bocka av klart och planera nästa veckas viktigaste uppgifter. Regelbunden genomgång ger överblick, minskar stress och hindrar att saker faller mellan stolarna.",
+      "source": "David Allen, Getting Things Done",
+      "url": "https://gettingthingsdone.com/2019/07/the-gtd-weekly-review/",
+      "added_on": "2026-07-18",
+      "collected_week": "2026-W29"
+    },
+    {
+      "id": "feynman-tekniken",
+      "title": "Feynman-tekniken",
+      "category": "Teknik",
+      "date": "2026-07-18",
+      "location": "",
+      "summary": "Lär dig något på djupet genom att förklara det med enkla ord, som för en tolvåring: skriv ner förklaringen, hitta luckorna där du fastnar, gå tillbaka till källan och förenkla igen. Tekniken avslöjar snabbt skillnaden mellan att känna igen något och att faktiskt förstå det.",
+      "source": "Farnam Street",
+      "url": "https://fs.blog/feynman-technique/",
+      "added_on": "2026-07-18",
+      "collected_week": "2026-W29"
+    },
+    {
+      "id": "premortem-analys",
+      "title": "Premortem-analys",
+      "category": "Teknik",
+      "date": "2026-07-18",
+      "location": "",
+      "summary": "Föreställ dig innan projektstart att projektet har misslyckats totalt och lista alla tänkbara orsaker – åtgärda sedan de största riskerna i förväg. Gary Kleins metod motverkar överoptimism och gör planer betydligt mer robusta.",
+      "source": "Gary Klein, Harvard Business Review",
+      "url": "https://hbr.org/2007/09/performing-a-project-premortem",
+      "added_on": "2026-07-18",
+      "collected_week": "2026-W29"
+    },
+    {
+      "id": "shutdown-ritual",
+      "title": "Avslutningsritual för arbetsdagen (Shutdown Ritual)",
+      "category": "Vana",
+      "date": "2026-07-18",
+      "location": "",
+      "summary": "Avsluta varje arbetsdag med en fast rutin: gå igenom dagens lösa trådar, skriv ner morgondagens plan och markera dagen som stängd med en tydlig signal. Ritualen hjälper hjärnan att släppa jobbet, minskar kvällsgrubbel och förbättrar återhämtningen.",
+      "source": "Cal Newport, Deep Work",
+      "url": "https://calnewport.com/drastically-reduce-stress-with-a-work-shutdown-ritual/",
+      "added_on": "2026-07-18",
+      "collected_week": "2026-W29"
+    },
+    {
+      "id": "att-inte-gora-lista",
+      "title": "Att-inte-göra-lista (Not-To-Do List)",
+      "category": "Teknik",
+      "date": "2026-07-18",
+      "location": "",
+      "summary": "Skriv en lista över beteenden och åtaganden du aktivt ska undvika – t.ex. kolla mejl före frukost, ta möten utan agenda eller säga ja av artighet. Att medvetet välja bort lågvärdesaktiviteter frigör ofta mer tid än nya produktivitetsverktyg.",
+      "source": "Tim Ferriss",
+      "url": "https://tim.blog/2007/08/16/the-not-to-do-list-9-habits-to-stop-now/",
+      "added_on": "2026-07-18",
       "collected_week": "2026-W29"
     }
   ]

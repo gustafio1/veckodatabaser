@@ -2,8 +2,8 @@
   "topic": "Ledarskap – John Maxwell",
   "description": "Ledarskapsprinciper och lärdomar från John C. Maxwell, inklusive De 21 oeftergivliga ledarskapslagarna. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-07-10",
-  "item_count": 56,
+  "last_updated": "2026-07-18",
+  "item_count": 63,
   "items": [
     {
       "id": "lockets-lag",
@@ -676,6 +676,90 @@
       "url": "https://www.johnmaxwell.com/blog/",
       "added_on": "2026-07-10",
       "collected_week": "2026-W28"
+    },
+    {
+      "id": "gummibandets-lag",
+      "title": "Gummibandets lag (The Law of the Rubber Band)",
+      "category": "Princip",
+      "date": "2026-07-18",
+      "location": "",
+      "summary": "Ur De 15 ovärderliga tillväxtlagarna: precis som ett gummiband är användbart först när det spänns, växer du bara när du sträcker dig bortom din komfortzon. Utan spänning mellan var du är och var du vill vara stannar utvecklingen.",
+      "source": "John C. Maxwell – The 15 Invaluable Laws of Growth",
+      "url": "https://readingraphics.com/book-summary-the-15-invaluable-laws-of-growth/",
+      "added_on": "2026-07-18",
+      "collected_week": "2026-W29"
+    },
+    {
+      "id": "smartans-lag",
+      "title": "Smärtans lag (The Law of Pain)",
+      "category": "Princip",
+      "date": "2026-07-18",
+      "location": "",
+      "summary": "God hantering av dåliga erfarenheter leder till stor tillväxt. Motgång och smärta är oundvikliga, men hur du väljer att svara på dem avgör hur mycket du utvecklas.",
+      "source": "John C. Maxwell – The 15 Invaluable Laws of Growth",
+      "url": "https://readingraphics.com/book-summary-the-15-invaluable-laws-of-growth/",
+      "added_on": "2026-07-18",
+      "collected_week": "2026-W29"
+    },
+    {
+      "id": "avvagningarnas-lag",
+      "title": "Avvägningarnas lag (The Law of Trade-Offs)",
+      "category": "Princip",
+      "date": "2026-07-18",
+      "location": "",
+      "summary": "Tillväxt kräver att man avstår för att nå högre. Du måste ofta ge upp något på kort sikt – bekvämligheter, vanor eller trygghet – för att vinna något mer värdefullt på lång sikt.",
+      "source": "John C. Maxwell – The 15 Invaluable Laws of Growth",
+      "url": "https://readingraphics.com/book-summary-the-15-invaluable-laws-of-growth/",
+      "added_on": "2026-07-18",
+      "collected_week": "2026-W29"
+    },
+    {
+      "id": "reflektionens-lag",
+      "title": "Reflektionens lag (The Law of Reflection)",
+      "category": "Princip",
+      "date": "2026-07-18",
+      "location": "",
+      "summary": "Ur De 15 ovärderliga tillväxtlagarna: att pausa och reflektera låter dig lära av erfarenheten. Utan eftertanke blir upplevelser bara händelser – reflektionen förvandlar dem till lärdomar.",
+      "source": "John C. Maxwell – The 15 Invaluable Laws of Growth",
+      "url": "https://lifeandleadership.com/book-summaries/maxwell-the-15-invaluable-laws-of-growth/",
+      "added_on": "2026-07-18",
+      "collected_week": "2026-W29"
+    },
+    {
+      "id": "citat-close-enough-relate",
+      "title": "Citat: \"Nära nog att relatera\" (Close enough to relate, far enough to motivate)",
+      "category": "Citat",
+      "date": "2026-07-18",
+      "location": "",
+      "summary": "\"Ledare måste vara nära nog för att relatera till andra, men tillräckligt långt före för att motivera dem.\" Balansen mellan närhet och riktning är kärnan i inflytande.",
+      "source": "John C. Maxwell",
+      "url": "https://www.inc.com/peter-economy/44-inspiring-john-c-maxwell-quotes-that-will-take-you-to-leadership-success.html",
+      "added_on": "2026-07-18",
+      "collected_week": "2026-W29"
+    },
+    {
+      "id": "citat-titles-flowcharts",
+      "title": "Citat: \"Inte titlar eller flödesscheman\" (Leadership is not about titles)",
+      "category": "Citat",
+      "date": "2026-07-18",
+      "location": "",
+      "summary": "\"Ledarskap handlar inte om titlar, positioner eller flödesscheman. Det handlar om att ett liv påverkar ett annat.\" Maxwell påminner om att verkligt ledarskap är personligt och relationellt.",
+      "source": "John C. Maxwell",
+      "url": "https://www.inc.com/peter-economy/44-inspiring-john-c-maxwell-quotes-that-will-take-you-to-leadership-success.html",
+      "added_on": "2026-07-18",
+      "collected_week": "2026-W29"
+    },
+    {
+      "id": "citat-grow-to-lead",
+      "title": "Citat: \"Väx själv för att kunna leda\" (Grow yourself to grow others)",
+      "category": "Citat",
+      "date": "2026-07-18",
+      "location": "",
+      "summary": "\"Om du vill leda andra måste du fortsätta växa själv – du kan bara ge det du har.\" Ledarens egen utveckling sätter taket för vad hen kan tillföra andra.",
+      "source": "John C. Maxwell",
+      "url": "https://www.maxwellleadership.com/blog/",
+      "added_on": "2026-07-18",
+      "collected_week": "2026-W29"
     }
   ]
 }

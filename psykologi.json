@@ -2,8 +2,8 @@
   "topic": "Psykologi – Vänskap",
   "description": "Ny forskning och insikter om vänskap, relationer och social anknytning. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-07-16",
-  "item_count": 40,
+  "last_updated": "2026-07-18",
+  "item_count": 47,
   "items": [
     {
       "id": "vanskap-folkhalsotillgang-2026",
@@ -483,6 +483,90 @@
       "source": "PLoS Medicine (Holt-Lunstad et al.)",
       "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1000316",
       "added_on": "2026-07-16",
+      "collected_week": "2026-W29"
+    },
+    {
+      "id": "tvarpolitiska-vanskaper-ovanliga-usa-2026",
+      "title": "Tvärpolitiska vänskaper är förvånansvärt ovanliga i USA",
+      "category": "Forskning",
+      "date": "2026-05-01",
+      "location": "",
+      "summary": "Ny studie visar att de flesta amerikanska vänskaper uppstår mellan personer med liknande politiska åsikter – men när vänner faktiskt tycker olika politiskt minskar negativa attityder mot politiska motståndare.",
+      "source": "PsyPost",
+      "url": "https://www.psypost.org/cross-party-friendships-are-shockingly-rare-in-the-united-states-study-suggests/",
+      "added_on": "2026-07-18",
+      "collected_week": "2026-W29"
+    },
+    {
+      "id": "vad-gor-nagon-till-perfekt-van",
+      "title": "Vad gör någon till en \"perfekt vän\"? Ny forskning ger svar",
+      "category": "Forskning",
+      "date": "2025-11-01",
+      "location": "",
+      "summary": "Forskning kartlägger vilka egenskaper människor värderar högst hos en idealisk vän – pålitlighet, lojalitet och emotionellt stöd rankas före likhet i intressen och status.",
+      "source": "PsyPost",
+      "url": "https://www.psypost.org/what-makes-someone-a-perfect-friend-heres-what-new-research-says/",
+      "added_on": "2026-07-18",
+      "collected_week": "2026-W29"
+    },
+    {
+      "id": "sju-strategier-starka-onskvarda-vanskaper",
+      "title": "Sju strategier vi använder för att stärka önskvärda vänskaper",
+      "category": "Forskning",
+      "date": "2025-09-01",
+      "location": "",
+      "summary": "Studie i Evolutionary Psychological Science identifierar sju nyckelstrategier människor använder för att fördjupa vänskaper de anser värdefulla, bland annat ökad tillgänglighet, gåvor och självutlämnande.",
+      "source": "PsyPost / Evolutionary Psychological Science",
+      "url": "https://www.psypost.org/new-study-examines-strategies-people-use-to-strengthen-desirable-friendships/",
+      "added_on": "2026-07-18",
+      "collected_week": "2026-W29"
+    },
+    {
+      "id": "konsgap-vanskap-drivs-av-vita-man",
+      "title": "Könsgapet i vänskap drivs främst av vita män",
+      "category": "Forskning",
+      "date": "2026-04-01",
+      "location": "",
+      "summary": "Ny analys visar att det ofta rapporterade gapet där män har färre nära vänner än kvinnor inte är universellt – det drivs i huvudsak av vita män, medan mönstret ser annorlunda ut i andra grupper.",
+      "source": "PsyPost",
+      "url": "https://www.psypost.org/the-gender-friendship-gap-is-driven-primarily-by-white-men-not-a-universal-difference-across-groups/",
+      "added_on": "2026-07-18",
+      "collected_week": "2026-W29"
+    },
+    {
+      "id": "vetskapen-att-hjalp-finns-racker-apa-2025",
+      "title": "Bara vetskapen att hjälp finns gör stor skillnad",
+      "category": "Forskning",
+      "date": "2025-10-01",
+      "location": "",
+      "summary": "Forskningsöversikt från APA visar att upplevd tillgång till stöd från familj, vänner och kollegor – även när det inte utnyttjas – kopplas till bättre psykisk och fysisk hälsa samt bättre prestation i arbete och studier.",
+      "source": "American Psychological Association",
+      "url": "https://www.apa.org/news/press/releases/2025/10/knowing-help-is-there",
+      "added_on": "2026-07-18",
+      "collected_week": "2026-W29"
+    },
+    {
+      "id": "american-friendship-project-2024",
+      "title": "American Friendship Project: så mår vänskapen i USA",
+      "category": "Forskning",
+      "date": "2024-07-01",
+      "location": "",
+      "summary": "Omfattande rapport kartlägger vänskapens status och hälsa i USA – hur många nära vänner amerikaner har, hur nöjda de är med sina vänskaper och vilka grupper som är mest sårbara för vänskapsbrist.",
+      "source": "PMC / The American Friendship Project",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11288408/",
+      "added_on": "2026-07-18",
+      "collected_week": "2026-W29"
+    },
+    {
+      "id": "cigna-ensamhet-usa-57-procent",
+      "title": "Cigna-undersökning: 57 procent av amerikaner är ensamma",
+      "category": "Trend",
+      "date": "2025-11-01",
+      "location": "",
+      "summary": "The Cigna Groups undersökning Loneliness in America visar att mer än hälften av amerikanerna, 57 procent, känner sig ensamma – ytterligare ett tecken på att ensamhetsepidemin består.",
+      "source": "The Cigna Group / Managed Healthcare Executive",
+      "url": "https://www.managedhealthcareexecutive.com/view/more-than-half-of-americans-are-lonely-survey-shows",
+      "added_on": "2026-07-18",
       "collected_week": "2026-W29"
     }
   ]

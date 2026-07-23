@@ -18,9 +18,28 @@
   h1{font-size:38px;margin:6px 0 10px;}
   .sub{color:var(--muted);font-size:16px;max-width:680px;line-height:1.55;}
   .meta{color:var(--muted);font-size:13px;margin-top:14px;}
-  #search{width:100%;margin:28px 0 4px;background:var(--card);border:1px solid var(--border);color:var(--text);padding:12px 16px;border-radius:10px;font-size:15px;}
-  #search::placeholder{color:var(--muted);}
-  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:18px;margin-top:24px;}
+  .cta{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin-top:18px;}
+  .cta a.flow{display:inline-flex;align-items:center;gap:10px;background:linear-gradient(135deg,var(--accent),var(--accent2));color:#fff;text-decoration:none;font-weight:600;font-size:15px;padding:12px 20px;border-radius:12px;}
+  .cta a.rss{display:inline-flex;align-items:center;gap:8px;border:1px solid var(--border);color:var(--muted);text-decoration:none;font-weight:600;font-size:14px;padding:12px 16px;border-radius:12px;}
+  .cats{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:16px;margin-top:26px;align-items:start;}
+  .panel{background:var(--card);border:1px solid var(--border);border-radius:18px;padding:18px;}
+  .panel-head{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:10px;}
+  .panel-head b{font-size:14px;}
+  .panel-head span{font-size:11px;color:var(--muted);}
+  .rows{display:flex;flex-direction:column;gap:2px;}
+  button.row{display:flex;justify-content:space-between;align-items:center;gap:10px;padding:8px 10px;border-radius:10px;border:none;font-family:inherit;font-size:14px;text-align:left;transition:.15s;background:transparent;color:var(--text);width:100%;}
+  button.row .l{display:inline-flex;align-items:center;gap:10px;}
+  button.row .ic{font-size:18px;line-height:1;}
+  button.row .r{font-size:12px;font-weight:600;color:var(--muted);}
+  button.row.act{cursor:pointer;font-weight:600;}
+  button.row.act .r{color:var(--accent2);}
+  button.row.act:hover{background:var(--card-h);}
+  button.row.soon{opacity:.45;cursor:default;}
+  button.row.sel{background:var(--chip);}
+  .list-head{display:flex;align-items:baseline;gap:14px;margin:36px 0 4px;}
+  .list-head h3{font-size:16px;}
+  #reset{background:none;border:none;color:var(--accent2);font-size:13px;font-weight:600;cursor:pointer;padding:0;font-family:inherit;display:none;}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:18px;margin-top:16px;}
   a.card{background:var(--card);border:1px solid var(--border);border-radius:18px;padding:24px;transition:.15s;display:flex;flex-direction:column;gap:12px;text-decoration:none;color:inherit;}
   a.card:hover{background:var(--card-h);transform:translateY(-3px);border-color:var(--accent);}
   .top{display:flex;align-items:center;gap:14px;}
@@ -31,7 +50,6 @@
   .count{font-size:13px;font-weight:700;color:var(--accent);}
   .upd{color:var(--muted);font-size:12px;}
   .go{color:var(--accent2);font-size:13px;font-weight:600;}
-  .empty{color:var(--muted);text-align:center;padding:40px;grid-column:1/-1;}
   footer.page{margin-top:44px;color:var(--muted);font-size:12px;text-align:center;line-height:1.6;}
 </style>
 </head>
@@ -40,60 +58,120 @@
   <header>
     <div class="eyebrow">Veckodatabaser</div>
     <h1>📚 Mina ämnesdatabaser</h1>
-    <p class="sub">Översikt över alla veckodatabaser. Klicka på ett ämne för att öppna dess dashboard. Varje databas uppdateras automatiskt varje vecka.</p>
-    <p class="meta" id="meta"></p>
-    <div style="display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin-top:18px;">
-      <a href="flode.html" style="display:inline-flex;align-items:center;gap:10px;background:linear-gradient(135deg,var(--accent),var(--accent2));color:#fff;text-decoration:none;font-weight:600;font-size:15px;padding:12px 20px;border-radius:12px;">🌊 Öppna flödet – alla nyheter &amp; bilder blandade →</a>
-      <a href="rss.xml" style="display:inline-flex;align-items:center;gap:8px;border:1px solid var(--border);color:var(--muted);text-decoration:none;font-weight:600;font-size:14px;padding:12px 16px;border-radius:12px;">📡 RSS</a>
+    <p class="sub">Alla ämnen samlade per kategori. 8 ämnen har en aktiv databas idag – resten är på väg. Klicka på ett aktivt ämne för att visa dess databas nedan.</p>
+    <p class="meta" id="meta">40 ämnen · 8 aktiva databaser</p>
+    <div class="cta">
+      <a class="flow" href="flode.html">🌊 Öppna flödet – alla nyheter &amp; bilder blandade →</a>
+      <a class="rss" href="rss.xml">📡 RSS</a>
     </div>
   </header>
-  <input id="search" type="text" placeholder="Sök bland ämnen…">
+  <section class="cats" id="cats"></section>
+  <div class="list-head">
+    <h3 id="heading"></h3>
+    <button id="reset">Visa alla →</button>
+  </div>
   <section class="grid" id="grid"></section>
   <footer class="page">
-    Automatiskt uppdaterad varje vecka · 8 ämnesdatabaser<br>
+    Automatiskt uppdaterad varje vecka · 8 aktiva databaser av 40 ämnen<br>
     Oberoende privat icke-kommersiellt projekt. Innehållet är korta egna sammanfattningar med länk till respektive originalkälla; all upphovsrätt tillhör respektive källa. Sidan är inte affilierad med, eller godkänd av, de personer, varumärken eller organisationer som omnämns.<br>
     Kontakt / rättelse av uppgift: gustaf.magaard@mdphd.se
   </footer>
 </div>
 <script>
-// Statisk metadata. Antal poster och datum hämtas LIVE från respektive JSON,
-// så översikten aldrig kan bli inaktuell.
-const SUBJECTS=[
-  {slug:"it",icon:"💻",topic:"IT – Nya produkter",desc:"Nya IT- och teknikprodukter: hårdvara, mjukvara, AI och gaming."},
-  {slug:"katolsk-social-lara",icon:"⛪",topic:"Katolska kyrkans sociala lära",desc:"Principerna och temana som vägleder ett rättvist samhälle."},
-  {slug:"kultur",icon:"🎭",topic:"Kultur",desc:"Nya kulturevenemang i Sverige – festivaler, konserter, utställningar och scenkonst."},
-  {slug:"ledarskap",icon:"🧭",topic:"Ledarskap – John Maxwell",desc:"Ledarskapsprinciper och lärdomar från John C. Maxwell."},
-  {slug:"personlig-utveckling",icon:"🌱",topic:"Personlig utveckling",desc:"Tekniker, vanor och tankesätt för personlig utveckling och produktivitet."},
-  {slug:"psykologi",icon:"🧠",topic:"Psykologi – Vänskap",desc:"Ny forskning och insikter om vänskap, relationer och social anknytning."},
-  {slug:"religion",icon:"✝️",topic:"Religion – Nyheter",desc:"Religiösa nyheter från Vatikanen, kyrkor och trossamfund världen över."},
-  {slug:"sport",icon:"⚽",topic:"Sport – Fotboll, Tennis & Bordtennis",desc:"Nyheter inom fotboll, tennis och bordtennis med svenskt fokus."}
+const CATS=[
+ {name:"Teknik & vetenskap",subjects:[
+  {id:"it",icon:"💻",name:"IT – Nya produkter",slug:"it",desc:"Nya IT- och teknikprodukter: hårdvara, mjukvara, AI och gaming."},
+  {id:"ai",icon:"🤖",name:"AI & maskininlärning"},
+  {id:"rymden",icon:"🚀",name:"Rymden"},
+  {id:"vetenskap",icon:"🔬",name:"Vetenskap"},
+  {id:"programmering",icon:"⌨️",name:"Programmering"}]},
+ {name:"Kultur & nöje",subjects:[
+  {id:"kultur",icon:"🎭",name:"Kultur",slug:"kultur",desc:"Nya kulturevenemang i Sverige – festivaler, konserter, utställningar och scenkonst."},
+  {id:"film",icon:"🎬",name:"Film & TV"},
+  {id:"musik",icon:"🎵",name:"Musik"},
+  {id:"litteratur",icon:"📖",name:"Litteratur"},
+  {id:"konst",icon:"🎨",name:"Konst & design"},
+  {id:"foto",icon:"📷",name:"Fotografi"}]},
+ {name:"Sport & fritid",subjects:[
+  {id:"sport",icon:"⚽",name:"Sport – Fotboll, Tennis & Bordtennis",slug:"sport",desc:"Nyheter inom fotboll, tennis och bordtennis med svenskt fokus."},
+  {id:"lopning",icon:"🏃",name:"Löpning"},
+  {id:"friluftsliv",icon:"🏕️",name:"Friluftsliv"},
+  {id:"cykling",icon:"🚴",name:"Cykling"},
+  {id:"golf",icon:"⛳",name:"Golf"},
+  {id:"schack",icon:"♟️",name:"Schack"}]},
+ {name:"Tro & tanke",subjects:[
+  {id:"religion",icon:"✝️",name:"Religion – Nyheter",slug:"religion",desc:"Religiösa nyheter från Vatikanen, kyrkor och trossamfund världen över."},
+  {id:"ksl",icon:"⛪",name:"Katolska kyrkans sociala lära",slug:"katolsk-social-lara",desc:"Principerna och temana som vägleder ett rättvist samhälle."},
+  {id:"filosofi",icon:"📜",name:"Filosofi"},
+  {id:"kyrkohistoria",icon:"🏛️",name:"Kyrkohistoria"}]},
+ {name:"Sinne & utveckling",subjects:[
+  {id:"psykologi",icon:"🧠",name:"Psykologi – Vänskap",slug:"psykologi",desc:"Ny forskning och insikter om vänskap, relationer och social anknytning."},
+  {id:"pu",icon:"🌱",name:"Personlig utveckling",slug:"personlig-utveckling",desc:"Tekniker, vanor och tankesätt för personlig utveckling och produktivitet."},
+  {id:"ledarskap",icon:"🧭",name:"Ledarskap – John Maxwell",slug:"ledarskap",desc:"Ledarskapsprinciper och lärdomar från John C. Maxwell."},
+  {id:"produktivitet",icon:"⏱️",name:"Produktivitet"},
+  {id:"mindfulness",icon:"🧘",name:"Mindfulness"},
+  {id:"relationer",icon:"💞",name:"Relationer"}]},
+ {name:"Samhälle & värld",subjects:[
+  {id:"ekonomi",icon:"📈",name:"Ekonomi & börs"},
+  {id:"entreprenorskap",icon:"💼",name:"Entreprenörskap"},
+  {id:"historia",icon:"🏺",name:"Historia"},
+  {id:"geografi",icon:"🗺️",name:"Geografi"},
+  {id:"resor",icon:"✈️",name:"Resor"},
+  {id:"sprak",icon:"🗣️",name:"Språk"}]},
+ {name:"Livsstil & hem",subjects:[
+  {id:"halsa",icon:"❤️",name:"Hälsa"},
+  {id:"traning",icon:"💪",name:"Träning"},
+  {id:"matlagning",icon:"🍳",name:"Matlagning"},
+  {id:"kaffe",icon:"☕",name:"Kaffe"},
+  {id:"vin",icon:"🍷",name:"Vin"},
+  {id:"tradgard",icon:"🌻",name:"Trädgård"},
+  {id:"husdjur",icon:"🐕",name:"Husdjur"}]}
 ];
+const FLAT=[];CATS.forEach(c=>c.subjects.forEach(s=>{if(s.slug)FLAT.push(s);}));
 const MONTHS=["jan","feb","mar","apr","maj","jun","jul","aug","sep","okt","nov","dec"];
 function fmtDate(d){if(!d)return"";const p=d.split("-");if(p.length<3)return d;return parseInt(p[2],10)+" "+MONTHS[parseInt(p[1],10)-1]+" "+p[0];}
-let query="";
+let sel=null;
 function updateMeta(){
-  const loaded=SUBJECTS.filter(s=>s.count!=null);
-  const total=loaded.reduce((s,x)=>s+x.count,0);
+  const total=CATS.reduce((n,c)=>n+c.subjects.length,0);
+  const loaded=FLAT.filter(s=>s.count!=null);
+  const posts=loaded.reduce((n,s)=>n+s.count,0);
   document.getElementById("meta").textContent=
-    SUBJECTS.length+" ämnen"+(loaded.length?" · "+total+" poster totalt":"");
+    total+" ämnen · "+FLAT.length+" aktiva databaser"+(loaded.length?" · "+posts+" poster totalt":"");
 }
-document.getElementById("search").addEventListener("input",e=>{query=e.target.value.toLowerCase();render();});
-function render(){
-  const grid=document.getElementById("grid");
-  const list=SUBJECTS.filter(s=>(s.topic+" "+s.desc).toLowerCase().includes(query));
-  if(!list.length){grid.innerHTML='<div class="empty">Inga ämnen matchar din sökning.</div>';return;}
-  grid.innerHTML=list.map(s=>`<a class="card" href="${s.slug}.html${s.updated?`?v=${s.updated}`:""}">
-    <div class="top"><span class="icon">${s.icon}</span><h2>${s.topic}</h2></div>
+function renderCats(){
+  document.getElementById("cats").innerHTML=CATS.map(c=>`<div class="panel">
+    <div class="panel-head"><b>${c.name}</b><span>${c.subjects.length} ämnen</span></div>
+    <div class="rows">${c.subjects.map(s=>{
+      const act=!!s.slug;
+      return `<button class="row ${act?"act":"soon"}${sel===s.id?" sel":""}" data-id="${act?s.id:""}">
+        <span class="l"><span class="ic">${s.icon}</span><span>${s.name}</span></span>
+        <span class="r">${act?"→":"snart"}</span>
+      </button>`;}).join("")}</div>
+  </div>`).join("");
+  document.querySelectorAll("button.row.act").forEach(b=>{
+    b.addEventListener("click",()=>{const id=b.dataset.id;sel=sel===id?null:id;renderCats();renderCards();});
+  });
+}
+function renderCards(){
+  const list=FLAT.filter(s=>!sel||s.id===sel);
+  document.getElementById("heading").textContent=sel?"Vald databas":"Aktiva databaser ("+list.length+")";
+  document.getElementById("reset").style.display=sel?"inline":"none";
+  document.getElementById("grid").innerHTML=list.map(s=>`<a class="card" href="${s.slug}.html${s.updated?`?v=${s.updated}`:""}">
+    <div class="top"><span class="icon">${s.icon}</span><h2>${s.name}</h2></div>
     <div class="desc">${s.desc}</div>
     <div class="foot"><span class="count">${s.count==null?"…":s.count+" poster"}</span><span class="go">Öppna →</span></div>
     <div class="upd">Senast uppdaterad: ${s.updated?fmtDate(s.updated):"—"}</div>
   </a>`).join("");
 }
-updateMeta();render();
-// Hämta aktuella siffror från varje ämnes-JSON och rendera om.
-Promise.all(SUBJECTS.map(s=>
+document.getElementById("reset").addEventListener("click",()=>{sel=null;renderCats();renderCards();});
+updateMeta();renderCats();renderCards();
+// Hämta aktuella siffror från varje aktiv databas-JSON och rendera om.
+Promise.all(FLAT.map(s=>
   fetch(s.slug+".json",{cache:"no-store"})
     .then(r=>r.ok?r.json():null)
     .then(d=>{if(d){s.count=d.item_count;s.updated=d.last_updated;}})
     .catch(()=>{})
-)).then(()=>{updateMeta();render();}
+)).then(()=>{updateMeta();renderCards();});
+</script>
+</body>
+</html>

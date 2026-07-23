@@ -2,8 +2,8 @@
   "topic": "Katolska kyrkans sociala lära",
   "description": "Den katolska kyrkans sociala lära – principerna och temana som vägleder ett rättvist samhälle. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-07-16",
-  "item_count": 55,
+  "last_updated": "2026-07-21",
+  "item_count": 63,
   "items": [
     {
       "id": "liv-och-vardighet",
@@ -664,6 +664,102 @@
       "url": "https://www.catholicworldreport.com/2026/07/11/at-lunch-with-the-poor-pope-leo-xiv-calls-on-society-to-eliminate-the-causes-of-poverty-injustice/",
       "added_on": "2026-07-16",
       "collected_week": "2026-W29"
+    },
+    {
+      "id": "economic-justice-for-all",
+      "title": "Economic Justice for All (1986)",
+      "category": "Encyklika",
+      "date": "1986-01-01",
+      "location": "",
+      "summary": "De amerikanska katolska biskoparnas herdabrev om den sociala läran och USA:s ekonomi. Det prövar ekonomin utifrån vad den gör för människan, vad den gör med människan och hur alla får delta, med särskilt fokus på de fattiga.",
+      "source": "USCCB / Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Economic_Justice_for_All",
+      "added_on": "2026-07-21",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "querida-amazonia",
+      "title": "Querida Amazonia (2020)",
+      "category": "Encyklika",
+      "date": "2020-02-02",
+      "location": "",
+      "summary": "Franciskus postsynodala maning om Amazonas. Dess 'sociala dröm' förenar ekologi och rättvisa: en äkta ekologisk hållning är alltid också social, och exploatering som föröder folk och natur kallas orättvisa och brott.",
+      "source": "Vatican",
+      "url": "https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20200202_querida-amazonia.html",
+      "added_on": "2026-07-21",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "amoris-laetitia",
+      "title": "Amoris Laetitia (2016)",
+      "category": "Encyklika",
+      "date": "2016-03-19",
+      "location": "",
+      "summary": "Franciskus postsynodala maning om kärleken i familjen. Den knyter familjen till den sociala läran: familjen är samhällets grundcell, och kyrkan ska vara ett öppet hem snarare än en 'tullstation' som stänger ute de sårbara.",
+      "source": "Vatican",
+      "url": "https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20160319_amoris-laetitia.html",
+      "added_on": "2026-07-21",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "gavans-logik",
+      "title": "Gåvans logik",
+      "category": "Begrepp",
+      "date": "2026-07-21",
+      "location": "",
+      "summary": "Benedikt XVI:s tanke i Caritas in Veritate att ekonomin inte bara kan bygga på byte och kontrakt utan också behöver gratuitet – gåva och broderskap – som en inre princip i det ekonomiska livet.",
+      "source": "Caritas in Veritate / Vatican",
+      "url": "https://www.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html",
+      "added_on": "2026-07-21",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "arbetets-subjektiva-dimension",
+      "title": "Arbetets subjektiva dimension",
+      "category": "Begrepp",
+      "date": "2026-07-21",
+      "location": "",
+      "summary": "Johannes Paulus II:s distinktion i Laborem Exercens: arbetets främsta värde ligger inte i det som produceras (den objektiva dimensionen) utan i att det utförs av en person. Därför går arbetet före kapitalet.",
+      "source": "Laborem Exercens / Vatican",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_14091981_laborem-exercens.html",
+      "added_on": "2026-07-21",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "ratten-att-organisera-sig",
+      "title": "Rätten att organisera sig – fackföreningar",
+      "category": "Begrepp",
+      "date": "2026-07-21",
+      "location": "",
+      "summary": "Sedan Rerum Novarum försvarar den sociala läran arbetarnas rätt att bilda föreningar och fackförbund för att skydda sina rättigheter. Laborem Exercens kallar facken en 'oumbärlig' röst i kampen för social rättvisa.",
+      "source": "Rerum Novarum / Laborem Exercens",
+      "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html",
+      "added_on": "2026-07-21",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "mellanliggande-organ",
+      "title": "Mellanliggande organ och civilsamhället",
+      "category": "Begrepp",
+      "date": "2026-07-21",
+      "location": "",
+      "summary": "Familjer, föreningar, församlingar och andra gemenskaper mellan individen och staten. Subsidiariteten kräver att dessa 'mellanliggande organ' respekteras och stöds, eftersom de bär upp delaktighet och det gemensamma bästa.",
+      "source": "Compendium of the Social Doctrine of the Church",
+      "url": "https://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/rc_pc_justpeace_doc_20060526_compendio-dott-soc_en.html",
+      "added_on": "2026-07-21",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "leo-xiv-socialforsakring-2026",
+      "title": "Leo XIV om socialförsäkring och rätten till arbete (2026)",
+      "category": "Aktuellt",
+      "date": "2026-07-21",
+      "location": "",
+      "summary": "I ett tal till den italienska socialförsäkringsmyndigheten INPS betonade Leo XIV att trygghetssystemen måste främja ekonomisk rättvisa och rätten till arbete – ett konkret uttryck för lärans krav på arbetets värdighet.",
+      "source": "Vatican News",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-04/pope-leo-xiv-italy-inps-national-social-security-right-work.html",
+      "added_on": "2026-07-21",
+      "collected_week": "2026-W30"
     }
   ]
 }

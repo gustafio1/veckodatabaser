@@ -2,8 +2,8 @@
   "topic": "Sport – Fotboll, Tennis & Bordtennis",
   "description": "Nyheter inom fotboll, tennis och bordtennis med svenskt fokus. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-07-16",
-  "item_count": 45,
+  "last_updated": "2026-07-23",
+  "item_count": 52,
   "items": [
     {
       "id": "allsvenskan-sommaruppehall-2026",
@@ -544,6 +544,90 @@
       "url": "https://www.svt.se/sport/bordtennis/sa-sander-svt-bordtennis-2026",
       "added_on": "2026-07-16",
       "collected_week": "2026-W29"
+    },
+    {
+      "id": "spanien-varldsmastare-vm-2026",
+      "title": "Spanien världsmästare efter 1-0 mot Argentina i VM-finalen",
+      "category": "Fotboll",
+      "date": "2026-07-19",
+      "location": "East Rutherford, USA",
+      "summary": "Spanien vann fotbolls-VM 2026 efter 1-0 mot Argentina i finalen på MetLife Stadium. Ferran Torres avgjorde i förlängningen med ett skott i krysset.",
+      "source": "Fotbollsvm.se",
+      "url": "https://www.fotbollsvm.se/resultat/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "allsvenskan-omgang-13-sirius-2026",
+      "title": "Sirius drar ifrån i Allsvenskan – 35 poäng efter omgång 13",
+      "category": "Fotboll",
+      "date": "2026-07-19",
+      "location": "Sverige",
+      "summary": "Serieledaren Sirius besegrade Elfsborg med 3-1 och toppar Allsvenskan med 35 poäng efter 13 omgångar. Bakom Uppsalalaget trängs AIK, Djurgården, Malmö FF, GAIS och Västerås inom två poäng; i omgångens avslutning kryssade både Kalmar–MFF (2-2) och Örgryte–Djurgården (0-0).",
+      "source": "Hurbra.se",
+      "url": "https://hurbra.se/allsvenskan-resultat-20-juli-2026/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "rublev-nordea-open-bastad-2026",
+      "title": "Rublev vann Nordea Open i Båstad",
+      "category": "Tennis",
+      "date": "2026-07-19",
+      "location": "Båstad",
+      "summary": "Förstaseedade Andrej Rublev vann ATP 250-turneringen Nordea Open i Båstad, som spelades 13–19 juli. Svenske Max Dahlin fick turneringens sista wildcard till huvudtablån.",
+      "source": "ATP Tour",
+      "url": "https://www.atptour.com/en/news/bastad-atp-250-2026-history-draw-schedule",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "badosa-wta-bastad-titel-2026",
+      "title": "Badosa tog titeln i WTA-turneringen i Båstad",
+      "category": "Tennis",
+      "date": "2026-07-19",
+      "location": "Båstad",
+      "summary": "Paula Badosa vann WTA 125-turneringen i Båstad efter finalseger mot Simona Waltert med 7-5, 7-5 – spanjorskans första titel på nästan två år.",
+      "source": "Tennis Connected",
+      "url": "https://tennisconnected.com/2026-atp-wta-summer-swing-preview-umag-gstaad-bastad-iasi-and-athens/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "bordtennis-uem-sju-medaljer-2026",
+      "title": "Sju svenska medaljer på ungdoms-EM i bordtennis",
+      "category": "Bordtennis",
+      "date": "2026-07-19",
+      "location": "Gondomar, Portugal",
+      "summary": "Sverige tog totalt sju medaljer på ungdoms-EM i Gondomar – bästa resultatet sedan 2009 och bara andra gången på 2000-talet med så stor medaljskörd. Bland medaljerna fanns lagbrons för både pojkar och flickor i kadettklassen samt dubbelbrons för Adam Wallin/Noa Dahlström i juniorklassen.",
+      "source": "Nordöstra Svealands Bordtennisförbund",
+      "url": "https://nosbtf.sbtf.se/ellermann-till-uem-final-och-sju-medaljer-till-sverige/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "ellermann-silver-uem-2026",
+      "title": "Emil Ellermann tog EM-silver i kadettsingel",
+      "category": "Bordtennis",
+      "date": "2026-07-19",
+      "location": "Gondomar, Portugal",
+      "summary": "Emil Ellermann var störste svenske medaljören på ungdoms-EM med silver i pojksingel kadett efter finalplats, plus brons i både pojkdubbel (med Peadar Sheridan) och mixeddubbel (med Siri Benjegård).",
+      "source": "Nordöstra Svealands Bordtennisförbund",
+      "url": "https://nosbtf.sbtf.se/ellermann-till-uem-final-och-sju-medaljer-till-sverige/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "benjegard-brons-uem-2026",
+      "title": "Siri Benjegård bidrog med tre brons på ungdoms-EM",
+      "category": "Bordtennis",
+      "date": "2026-07-20",
+      "location": "Gondomar, Portugal",
+      "summary": "Eslövstalangen Siri Benjegård var med om tre av Sveriges medaljer på ungdoms-EM: brons i flicksingel kadett, lagbrons med flickornas kadettlag och brons i mixeddubbel tillsammans med Emil Ellermann.",
+      "source": "Skånesport",
+      "url": "https://skanesport.se/2026/07/20/svenskt-medaljregn-pa-ungdoms-em-med-eslovs-siri-benjegard-i-laget/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
     }
   ]
 }

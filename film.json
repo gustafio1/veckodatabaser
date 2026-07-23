@@ -1,0 +1,117 @@
+{
+  "topic": "Film & TV",
+  "description": "Biopremiärer, streaming, TV-serier, svensk film och filmfestivaler. Uppdateras varje vecka.",
+  "schema_version": 1,
+  "last_updated": "2026-07-23",
+  "item_count": 9,
+  "items": [
+    {
+      "id": "sju-biopremiarer-juli-2026",
+      "title": "Sommartorka på bio – bara sju filmer får premiär i juli",
+      "category": "Bio",
+      "date": "2026-06-29",
+      "location": "",
+      "summary": "Juli 2026 blir en skral biomånad med endast sju premiärer, men bland dem finns tungviktare som Christopher Nolans The Odyssey (17 juli) och Spider-Man: Brand New Day (29 juli). Utbudet spänner från familjefilmen Minioner & monster till skräckisen Evil Dead Burn.",
+      "source": "MovieZine",
+      "url": "https://www.moviezine.se/nyheter/sju-biopremiarer-i-juli",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "netflix-augusti-blodsoffer-2026",
+      "title": "Svensk krimserie i topp när Netflix presenterar augustiutbudet",
+      "category": "Streaming",
+      "date": "2026-07-21",
+      "location": "",
+      "summary": "Netflix släpper i augusti den svenska kriminalthrillern Blodsoffer med Jakob Oftebro och Peter Andersson, om en kriminalare och hans pensionerade polispappa som jagar en seriemördare. Månaden bjuder även på säsong 2 av Hundra år av ensamhet och sista säsongen av Outer Banks.",
+      "source": "Filmtopp",
+      "url": "https://www.filmtopp.se/lista/netflix-netflix-nya-filmer-och-serier-i-augusti-2026-premiar-for-svensk-krimserie",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "streamingpremiarer-juli-2026",
+      "title": "Streamingjättarnas storsatsningar i juli – Enola Holmes 3 och Heartstopper-final",
+      "category": "Streaming",
+      "date": "2026-07-01",
+      "location": "",
+      "summary": "Juli 2026 bjuder på tunga streamingpremiärer: Netflix släpper Enola Holmes 3 och långfilmsavslutningen Heartstopper Forever, medan HBO Max lanserar Big Bang Theory-spinoffen Stuart Fails to Save the Universe. Apple TV satsar på thrillern Lucky med Anya Taylor-Joy.",
+      "source": "TV Guide",
+      "url": "https://www.tvguide.com/news/ultimate-guide-what-to-watch-netflix-hulu-prime-video-hbo-max-more-july-2026/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "svt-play-sommarserier-2026",
+      "title": "SVT Play laddar sommaren med 16 nya seriepremiärer",
+      "category": "TV-serier",
+      "date": "2026-05-13",
+      "location": "",
+      "summary": "SVT Play presenterar 16 seriepremiärer under sommaren 2026, med tonvikt på brittiska deckare och nordiska dramaserier. Bland höjdpunkterna finns Svindlarna med Sheridan Smith, säsong 26 av Morden i Midsomer och danska Den goda stämningen.",
+      "source": "Filmtopp",
+      "url": "https://www.filmtopp.se/lista/svtplay-mangder-med-nya-serier-pa-svt-play-i-sommar-16-stora-premiarer-vantar",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "skilsmassobarn-svt-2026",
+      "title": "Nya svenska serien Skilsmässobarn kommer till SVT",
+      "category": "TV-serier",
+      "date": "2026-01-13",
+      "location": "",
+      "summary": "Dramakomedin Skilsmässobarn, skapad av Vera Herngren och Felicia Danielsson för FLX och SVT, följer fyra vuxna hel- och halvsyskon som tvingas närma sig varandra efter en allvarlig olycka i familjen. I rollerna syns bland andra Gustaf Hammarsten och Tova Magnusson, med premiär under 2026.",
+      "source": "Filmtopp",
+      "url": "https://www.filmtopp.se/nyhet/svtplay-nu-kommer-nya-svenska-serien-skilsmassobarn-till-svt",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "ruben-ostlund-dokumentar-2026",
+      "title": "Dokumentären Ruben följer Östlunds jakt på en tredje Guldpalm",
+      "category": "Svenskt",
+      "date": "2026-05-14",
+      "location": "",
+      "summary": "Sigge Eklund har i fem år följt Ruben Östlund under arbetet med The Entertainment System Is Down i dokumentären Ruben, som skildrar ambitionen att bli historiens första regissör med tre Guldpalmer. Bakom filmen står bland andra SVT och Film i Väst, med SF Studios som distributör.",
+      "source": "Deadline",
+      "url": "https://deadline.com/2026/05/ruben-ostlund-documentary-sigge-eklund-cannes-1236902372/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "svenska-filmer-host-2026",
+      "title": "Svenska filmåret 2026 – från Jävla karlar till ny Jönssonligan",
+      "category": "Svenskt",
+      "date": "2026-02-17",
+      "location": "",
+      "summary": "MovieZine kartlägger alla svenska biopremiärer 2026: i sommar kommer Det grönaste gräset, i höst väntar bland annat Blir du ledsen om jag dör (21 augusti) och Nelly Rapp – Porten till underjorden. Julen toppas av Jönssonligan och Wall-Enberg samt Hösten med Göran.",
+      "source": "MovieZine",
+      "url": "https://www.moviezine.se/nyheter/svenska-filmer-2026",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "cannes-program-2026",
+      "title": "Cannes 2026: AI-drama med Alicia Vikander – men inget svenskt i tävlan",
+      "category": "Festivaler",
+      "date": "2026-04-10",
+      "location": "Cannes, Frankrike",
+      "summary": "Programmet för Cannes 79:e festival domineras av AI-teman, med sydkoreanska Hope där Alicia Vikander spelar mot Michael Fassbender, samt nya filmer av Almodóvar och Farhadi. Ruben Östlund saknas i årets urval sedan The Entertainment System Is Down försenats i postproduktionen.",
+      "source": "MovieZine",
+      "url": "https://www.moviezine.se/nyheter/cannes-2026-ai-auteurer-och-ostlunds-franvaro",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "film-i-vast-cannes-2026",
+      "title": "Film i Väst avslöjade åtta nya samproduktioner i Cannes",
+      "category": "Festivaler",
+      "date": "2026-05-14",
+      "location": "Cannes, Frankrike",
+      "summary": "Vid sin årliga presskonferens i Cannes presenterade Film i Väst åtta kommande samproduktioner, däribland Lone Scherfigs kalla kriget-thriller Honeytrap, Nabil Ayouchs Run, with No Tears med Noomi Rapace och Gustaf Skarsgårds regidebut The Cannibal. Dessutom planeras tre nya Johan Falk-filmer.",
+      "source": "Variety",
+      "url": "https://variety.com/2026/film/global/lone-scherfig-levan-akin-cannes-ruben-ostlund-film-i-vast-1236748422/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    }
+  ]
+}

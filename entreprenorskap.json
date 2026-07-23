@@ -1,0 +1,117 @@
+{
+  "topic": "Entreprenörskap",
+  "description": "Forskning om startups, finansiering, grundare och innovation. Uppdateras varje vecka.",
+  "schema_version": 1,
+  "last_updated": "2026-07-23",
+  "item_count": 9,
+  "items": [
+    {
+      "id": "grundaregenskaper-startupframgang-2026",
+      "title": "Ny skala mäter vilka grundaregenskaper som hänger ihop med startupframgång",
+      "category": "Startups",
+      "date": "2026-06-15",
+      "location": "",
+      "summary": "Forskare har utvecklat och validerat ett domänspecifikt mätinstrument för grundaregenskaper som är kopplade till startupframgång. Verktyget kan hjälpa investerare och inkubatorer att bedöma entreprenörsteam mer systematiskt.",
+      "source": "PLOS ONE",
+      "url": "https://doi.org/10.1371/journal.pone.0351970",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "familjer-i-riskkapital-2026",
+      "title": "Familjer spelar en större roll i riskkapitalet än man trott",
+      "category": "Finansiering",
+      "date": "2026-05-01",
+      "location": "",
+      "summary": "En studie i Strategic Management Journal undersöker familjers roll och inflytande inom riskkapitalbranschen. Resultaten visar hur familjekopplingar formar investeringsbeslut och relationer mellan investerare och startups.",
+      "source": "Strategic Management Journal",
+      "url": "https://doi.org/10.1002/smj.70082",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "finansiering-svarta-tillvaxtstartups-2026",
+      "title": "Så finansieras svarta grundares tillväxtstartups – och var hindren finns",
+      "category": "Finansiering",
+      "date": "2026-04-10",
+      "location": "",
+      "summary": "En studie i The Journal of Finance analyserar finansieringen av tillväxtstartups med svarta grundare och identifierar skillnader i kapitaltillgång. Resultaten belyser hur investerarbeteenden påverkar vilka entreprenörer som får riskkapital.",
+      "source": "The Journal of Finance",
+      "url": "https://doi.org/10.1111/jofi.70039",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "miljosignaler-riskkapital-2026",
+      "title": "Miljöprofil kan påverka startupens chans att få riskkapital",
+      "category": "Finansiering",
+      "date": "2026-03-20",
+      "location": "",
+      "summary": "Studien visar hur signaler om miljöorientering samspelar med investerar- och landsspecifika faktorer när startups söker riskkapital. För grundare innebär det att en tydlig hållbarhetsprofil kan väga olika tungt beroende på investerare och marknad.",
+      "source": "Business Strategy and the Environment",
+      "url": "https://doi.org/10.1002/bse.70529",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "ai-entreprenorskap-forskningsagenda-2026",
+      "title": "AI i entreprenörskap: kartläggning av ett splittrat forskningsfält",
+      "category": "Innovation",
+      "date": "2026-05-28",
+      "location": "",
+      "summary": "Forskarna kartlägger det snabbt växande men fragmenterade fältet AI i entreprenörskap och föreslår en kognitiv forskningsagenda. Studien visar var kunskapsluckorna finns kring hur entreprenörer faktiskt tänker och beslutar med AI-stöd.",
+      "source": "Journal of Management & Organization",
+      "url": "https://doi.org/10.1017/jmo.2026.10082",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "ai-tillampningar-startups-oversikt-2026",
+      "title": "Systematisk översikt: så används AI i entreprenörskap och startups",
+      "category": "Innovation",
+      "date": "2026-02-15",
+      "location": "",
+      "summary": "En systematisk litteraturöversikt med bibliometrisk analys sammanställer hur AI tillämpas i affärsentreprenörskap och startups. Översikten ger entreprenörer en karta över var AI redan skapar värde och vart utvecklingen är på väg.",
+      "source": "Applied AI Letters",
+      "url": "https://doi.org/10.1002/ail2.70031",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "morka-sidor-techgrundare-coping-2026",
+      "title": "Entreprenörskapets mörka sidor: så hanterar techgrundare pressen",
+      "category": "Grundare",
+      "date": "2026-06-05",
+      "location": "",
+      "summary": "Baserat på techstartupgrundares erfarenheter undersöker studien entreprenörskapets baksidor och vilka copingstrategier och identitetsarbete grundare använder för att hantera dem. Resultaten ger konkreta insikter om hur grundare kan skydda sitt välmående.",
+      "source": "Journal of Entrepreneurship in Emerging Economies",
+      "url": "https://doi.org/10.1108/jeee-10-2025-0661",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "sociala-entreprenorer-flexibilitet-2026",
+      "title": "Att vara chef och styrd på samma gång: sociala entreprenörers flexibilitet",
+      "category": "Grundare",
+      "date": "2026-04-25",
+      "location": "",
+      "summary": "Studien visar att sociala entreprenörer upplever en dubbelhet i sitt arbete: friheten att vara sin egen chef begränsas samtidigt av det prosociala uppdragets krav. Resultaten nyanserar bilden av flexibilitet som en självklar fördel med entreprenörskap.",
+      "source": "Journal of Occupational and Organizational Psychology",
+      "url": "https://doi.org/10.1111/joop.70107",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "entreprenorskap-loneskillnader-kon-2026",
+      "title": "Kan entreprenörskap minska löneklyftan mellan kvinnor och män?",
+      "category": "Forskning",
+      "date": "2026-03-05",
+      "location": "",
+      "summary": "Studien undersöker om steget till entreprenörskap minskar inkomstgapet mellan könen jämfört med anställning. Resultaten visar under vilka förutsättningar eget företagande kan jämna ut – eller förstärka – ekonomiska skillnader.",
+      "source": "Strategic Management Journal",
+      "url": "https://doi.org/10.1002/smj.70065",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    }
+  ]
+}

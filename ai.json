@@ -1,0 +1,117 @@
+{
+  "topic": "AI & maskininlärning",
+  "description": "Nyheter om nya AI-modeller, verktyg, forskning, företag och reglering. Uppdateras varje vecka.",
+  "schema_version": 1,
+  "last_updated": "2026-07-23",
+  "item_count": 9,
+  "items": [
+    {
+      "id": "openai-gpt-5-6-lansering-2026",
+      "title": "OpenAI lanserar GPT-5.6 och nya konversationsmodeller",
+      "category": "Modeller",
+      "date": "2026-07-08",
+      "location": "San Francisco, USA",
+      "summary": "OpenAI släpper sin nya modellfamilj GPT-5.6 publikt och rullar samtidigt ut nya konversationsinriktade AI-modeller. Lanseringen beskrivs som ett av årets största modellsläpp och skärper konkurrensen i frontlinjen av språkmodeller.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/08/openai-expanding-gpt-5point6-ai-model-release-ending-government-limits.html",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "openai-rostmodeller-naturligare-samtal-2026",
+      "title": "OpenAI släpper nya röstmodeller för naturligare realtidssamtal",
+      "category": "Modeller",
+      "date": "2026-07-08",
+      "location": "San Francisco, USA",
+      "summary": "OpenAI presenterar nya röstmodeller som ska göra AI-samtal i realtid mer naturliga och följsamma. Modellerna riktar sig bland annat till utvecklare som bygger röstassistenter och kundtjänstlösningar.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "openai-lagger-ner-atlas-webblasare-2026",
+      "title": "OpenAI lägger ner webbläsaren Atlas men fortsätter satsa på AI i webben",
+      "category": "Verktyg",
+      "date": "2026-07-09",
+      "location": "San Francisco, USA",
+      "summary": "OpenAI avvecklar sin fristående AI-webbläsare Atlas, men bolaget uppger att ambitionerna kring AI-drivet surfande lever vidare i andra produkter. Beslutet visar hur snabbt marknaden för AI-webbläsare omformas.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "google-ai-uppdateringar-juni-2026",
+      "title": "Google summerar juni månads AI-nyheter med uppdaterade verktyg och funktioner",
+      "category": "Verktyg",
+      "date": "2026-06-30",
+      "location": "Mountain View, USA",
+      "summary": "Google publicerar en genomgång av sina AI-lanseringar under juni 2026, med nya funktioner i Gemini och AI-verktyg för både konsumenter och utvecklare. Sammanställningen visar bredden i bolagets pågående AI-utrullning.",
+      "source": "Google Blog",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "co-scientist-nature-hypotesgenerering-2026",
+      "title": "AI-systemet Co-Scientist påskyndar vetenskapliga upptäckter enligt Nature-studie",
+      "category": "Forskning",
+      "date": "2026-05-19",
+      "location": "",
+      "summary": "Forskare vid Google DeepMind presenterar i Nature multiagentsystemet Co-Scientist, byggt på Gemini, som genererar och förfinar vetenskapliga hypoteser. Systemet har bland annat validerats experimentellt inom läkemedelsåteranvändning och identifiering av biomedicinska målproteiner.",
+      "source": "Nature",
+      "url": "https://www.nature.com/articles/s41586-026-10644-y",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "vinnova-digital-600-miljoner-2026",
+      "title": "Sverige växlar upp EU-satsning på AI och cybersäkerhet med 600 miljoner kronor",
+      "category": "Forskning",
+      "date": "2026-01-13",
+      "location": "Stockholm, Sverige",
+      "summary": "Sverige stärker sitt deltagande i EU-programmet DIGITAL med 600 miljoner kronor under sex år, motsvarande 100 miljoner per år från 2026. Pengarna medfinansierar svenska aktörer i projekt inom bland annat AI, cybersäkerhet och digital kompetens.",
+      "source": "Vinnova",
+      "url": "https://www.vinnova.se/nyheter/2026/01/sverige-vaxlar-upp-europeisk-satsning-pa-ai-cybersakerhet-och-digitalisering-med-600-miljoner2/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "mistral-varde-20-miljarder-euro-2026",
+      "title": "Mistral i förhandlingar om ny finansiering till värdering kring 20 miljarder euro",
+      "category": "Företag",
+      "date": "2026-06-12",
+      "location": "Paris, Frankrike",
+      "summary": "Franska AI-bolaget Mistral uppges föra samtal om en ny finansieringsrunda som skulle värdera bolaget till omkring 20 miljarder euro, nästan en fördubbling mot tidigare. Kapitalet ska bland annat finansiera fortsatt utbyggnad av modeller och datacenter.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-12/france-s-mistral-in-funding-talks-at-about-20-billion-valuation",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "meta-saljer-overskott-ai-berakningskraft-2026",
+      "title": "Meta vill tjäna pengar på överskott av AI-beräkningskraft",
+      "category": "Företag",
+      "date": "2026-07-01",
+      "location": "Menlo Park, USA",
+      "summary": "Meta undersöker, i likhet med SpaceX, möjligheten att sälja överskottskapacitet från sina enorma AI-datacenter till externa kunder. Draget speglar hur infrastrukturinvesteringarna i AI börjar bli en egen affär för techjättarna.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "eu-digital-omnibus-hogrisk-ai-uppskjuten-2026",
+      "title": "EU:s digitala omnibus skjuter upp AI-förordningens högriskregler",
+      "category": "Reglering",
+      "date": "2026-05-27",
+      "location": "Bryssel, Belgien",
+      "summary": "Genom en politisk överenskommelse om den så kallade digitala omnibusen senareläggs AI-förordningens krav på högrisksystem: fristående högrisksystem enligt bilaga III flyttas från 2 augusti 2026 till 2 december 2027 och inbäddade system till augusti 2028. Transparenskraven i artikel 50 börjar dock fortfarande gälla den 2 augusti 2026.",
+      "source": "Gibson Dunn",
+      "url": "https://www.gibsondunn.com/eu-ai-act-omnibus-agreement-postponed-high-risk-deadlines-and-other-key-changes/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    }
+  ]
+}

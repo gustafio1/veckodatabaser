@@ -1,0 +1,117 @@
+{
+  "topic": "Fotografi",
+  "description": "Nya kameror och objektiv, fototeknik, utställningar, tävlingar och fotografer. Uppdateras varje vecka.",
+  "schema_version": 1,
+  "last_updated": "2026-07-23",
+  "item_count": 9,
+  "items": [
+    {
+      "id": "canon-eos-r6-v-lanseras-2026",
+      "title": "Canon lanserar EOS R6 V med nytt powerzoom-objektiv för videokreatörer",
+      "category": "Kameror",
+      "date": "2026-05-13",
+      "location": "",
+      "summary": "Canon har presenterat fullformatskameran EOS R6 V tillsammans med objektivet RF20-50mm F4 L IS USM PZ med inbyggd motorzoom. Nyheterna riktar sig särskilt till innehållsskapare som arbetar med rörlig bild.",
+      "source": "Canon U.S.A.",
+      "url": "https://www.usa.canon.com/newsroom/2026/20260513-products",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "sigma-fyra-nya-objektiv-2026",
+      "title": "Sigma utökar sitt fullformatssortiment med fyra nya objektiv",
+      "category": "Kameror",
+      "date": "2026-06-10",
+      "location": "",
+      "summary": "Sigma har presenterat fyra nya objektiv för Sony E- och L-fattning, däribland en mångsidig 20-200mm-zoom samt de ljusstarka 35mm F1.2 II och 135mm F1.4 Art. Ingen av nyheterna släpps dock till Canons RF-fattning.",
+      "source": "CineD",
+      "url": "https://www.cined.com/sigma-expands-full-frame-lens-lineup-with-20-200mm-zoom-35mm-f1-2-ii-and-135mm-f1-4-art/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "ny-pixeltyp-visar-och-fangar-ljus-2026",
+      "title": "Forskare utvecklar ny pixeltyp som både kan fånga och visa ljus",
+      "category": "Teknik",
+      "date": "2026-06-26",
+      "location": "",
+      "summary": "Forskare har tagit fram en helt ny typ av pixel som kan registrera och återge ljus i samma komponent. Tekniken kan på sikt förändra hur både kamerasensorer och skärmar konstrueras.",
+      "source": "PetaPixel",
+      "url": "https://petapixel.com/2026/06/26/researchers-develop-all-new-pixel-type-that-can-both-record-and-display-light/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "glass-imaging-ai-mobilfoto-2026",
+      "title": "Glass Imaging levererar på löftet att förvandla mobilfotografi med AI",
+      "category": "Teknik",
+      "date": "2026-06-01",
+      "location": "",
+      "summary": "Efter flera års utveckling visar Glass Imaging hur bolagets AI-baserade bildbehandling markant förbättrar bildkvaliteten i smartphonekameror. Tekniken använder neurala nätverk för att korrigera optiska brister direkt i bildkedjan.",
+      "source": "PetaPixel",
+      "url": "https://petapixel.com/2026/06/01/years-in-the-making-glass-imaging-is-delivering-on-its-promise-to-transform-smartphone-photography/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "sony-world-photography-awards-vinnare-2026",
+      "title": "Vinnarna av Sony World Photography Awards 2026 utsedda",
+      "category": "Tävlingar",
+      "date": "2026-04-16",
+      "location": "London, Storbritannien",
+      "summary": "De övergripande vinnarna i Sony World Photography Awards 2026 har tillkännagivits, med prisade bilder inom allt från dokumentärt till kreativt fotografi. Tävlingen räknas som en av världens största och mest prestigefyllda fototävlingar.",
+      "source": "PetaPixel",
+      "url": "https://petapixel.com/2026/04/16/the-exceptional-winners-of-the-sony-world-photography-awards-2026/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "aerial-photographer-of-the-year-2026",
+      "title": "Årets vinnare i International Aerial Photographer of the Year presenterade",
+      "category": "Tävlingar",
+      "date": "2026-06-15",
+      "location": "",
+      "summary": "Vinnarna i 2026 års upplaga av International Aerial Photographer of the Year har korats, med spektakulära flyg- och drönarbilder från hela världen. Tävlingen lyfter fram fotografer som skildrar jorden från ovan.",
+      "source": "My Modern Met",
+      "url": "https://mymodernmet.com/iapoty-2026-winners/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "fotografiska-samtidigt-stockholm-2026",
+      "title": "Fotografiska Stockholm visar utställningen Samtidigt",
+      "category": "Utställningar",
+      "date": "2026-06-12",
+      "location": "Stockholm, Sverige",
+      "summary": "Fotografiska i Stockholm visar under sommaren utställningen Samtidigt som en del av sitt aktuella program. Museet fortsätter därmed att lyfta samtida fotografi för en bred svensk publik.",
+      "source": "Fotografiska Stockholm",
+      "url": "https://stockholm.fotografiska.com/sv/exhibitions/samtidigt",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "fotofestivaler-juli-guide-2026",
+      "title": "Guide till sommarens stora fotofestivaler och utställningar i juli",
+      "category": "Utställningar",
+      "date": "2026-07-01",
+      "location": "",
+      "summary": "PhMuseum har sammanställt en guide över de viktigaste fotofestivalerna och utställningarna under juli 2026, från stora europeiska festivaler till mindre gallerivisningar. Guiden ger fotointresserade en överblick över sommarens höjdpunkter.",
+      "source": "PhMuseum",
+      "url": "https://phmuseum.com/news/a-guide-to-july-2026-photography-festivals-exhibitions",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "annie-leibovitz-nytt-pris-2026",
+      "title": "Annie Leibovitz nya pris för unga fotografer ger redan resultat",
+      "category": "Fotografer",
+      "date": "2026-06-20",
+      "location": "",
+      "summary": "Stjärnfotografen Annie Leibovitz har lanserat ett nytt pris för lovande fotografer i början av karriären, och de första pristagarnas arbeten beskrivs redan som anmärkningsvärda. Initiativet syftar till att stötta nästa generations bildskapare.",
+      "source": "Digital Camera World",
+      "url": "https://www.digitalcameraworld.com/photography/awards-and-competitions/annie-leibovitz-launched-a-new-prize-for-emerging-photographers-and-its-already-producing-remarkable-work",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    }
+  ]
+}

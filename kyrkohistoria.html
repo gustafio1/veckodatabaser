@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<title>Kyrkohistoria – Veckodatabas</title>
+<style>
+  :root{--bg:#0f1226;--card:#1a1f3a;--card-h:#222848;--accent:#7c6cff;--accent2:#ff7ab8;--text:#eef0ff;--muted:#9aa0c7;--border:#2b3160;--chip:#2a2f55;}
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;background:linear-gradient(160deg,#0f1226,#161a35);color:var(--text);min-height:100vh;padding:32px 20px 64px;}
+  .wrap{max-width:1080px;margin:0 auto;}
+  .eyebrow{color:var(--accent2);font-weight:700;letter-spacing:.08em;text-transform:uppercase;font-size:12px;}
+  h1{font-size:34px;margin:6px 0 8px;}
+  .sub{color:var(--muted);font-size:15px;max-width:640px;line-height:1.5;}
+  .meta{color:var(--muted);font-size:13px;margin-top:10px;}
+  .stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px;margin:26px 0;}
+  .stat{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:16px 18px;}
+  .stat .num{font-size:28px;font-weight:800;color:var(--accent);}
+  .stat .lbl{color:var(--muted);font-size:13px;margin-top:2px;}
+  .controls{display:flex;flex-wrap:wrap;gap:12px;align-items:center;margin-bottom:22px;}
+  #search{flex:1;min-width:220px;background:var(--card);border:1px solid var(--border);color:var(--text);padding:11px 14px;border-radius:10px;font-size:14px;}
+  #search::placeholder{color:var(--muted);}
+  .filters{display:flex;flex-wrap:wrap;gap:8px;}
+  .filter{background:var(--chip);border:1px solid var(--border);color:var(--muted);padding:8px 14px;border-radius:999px;cursor:pointer;font-size:13px;transition:.15s;}
+  .filter:hover{color:var(--text);}
+  .filter.active{background:var(--accent);border-color:var(--accent);color:#fff;}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:16px;}
+  .card{background:var(--card);border:1px solid var(--border);border-radius:16px;padding:20px;transition:.15s;display:flex;flex-direction:column;gap:10px;}
+  .card:hover{background:var(--card-h);transform:translateY(-2px);border-color:var(--accent);}
+  .top{display:flex;justify-content:space-between;align-items:flex-start;gap:10px;}
+  .cat{font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.05em;color:var(--accent2);background:rgba(255,122,184,.12);padding:4px 9px;border-radius:6px;white-space:nowrap;}
+  .new{font-size:10px;font-weight:700;color:#0f1226;background:#6cf09a;padding:3px 7px;border-radius:5px;}
+  .card h3{font-size:17px;line-height:1.3;}
+  .when{color:var(--accent);font-size:13px;font-weight:600;}
+  .where{color:var(--muted);font-size:13px;}
+  .desc{color:var(--text);font-size:14px;line-height:1.5;opacity:.92;}
+  .foot{display:flex;justify-content:space-between;align-items:center;margin-top:auto;padding-top:8px;gap:10px;}
+  .src{color:var(--muted);font-size:12px;}
+  a.link{color:var(--accent);font-size:13px;text-decoration:none;font-weight:600;white-space:nowrap;}
+  a.link:hover{text-decoration:underline;}
+  .empty{color:var(--muted);text-align:center;padding:40px;grid-column:1/-1;}
+  footer.page{margin-top:40px;color:var(--muted);font-size:12px;text-align:center;line-height:1.6;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="eyebrow">Veckodatabas</div>
+    <h1>🏛️ Kyrkohistoria</h1>
+    <p class="sub" id="desc"></p>
+    <p class="meta" id="updated"></p>
+  </header>
+  <section class="stats" id="stats"></section>
+  <div class="controls">
+    <input id="search" type="text" placeholder="Sök i databasen…">
+    <div class="filters" id="filters"></div>
+  </div>
+  <section class="grid" id="grid"></section>
+  <footer class="page">
+    Automatiskt uppdaterad varje vecka · Källdata lagras i <code>kyrkohistoria.json</code><br>
+    Nya poster läggs till utan dubbletter. Vid få nyheter kompletteras med äldre poster.
+  </footer>
+</div>
+<script>
+const DB = /*__DATA__*/{
+  "topic": "Kyrkohistoria",
+  "description": "Kyrkohistorisk forskning, jubileer, kristen arkeologi, böcker och kulturarv. Uppdateras varje vecka.",
+  "schema_version": 1,
+  "last_updated": "2026-07-23",
+  "item_count": 9,
+  "items": [
+    {
+      "id": "iznik-nicaeakyrkans-lamningar-utgravda-2026",
+      "title": "Möjliga lämningar av kyrkan som hyste konciliet i Nicaea utgrävda i İznik",
+      "category": "Arkeologi",
+      "date": "2026-07-10",
+      "location": "İznik, Turkiet",
+      "summary": "Arkeologer har frilagt murfundament och golvbeläggningar som tros tillhöra Sankt Neophytos-kyrkan, där det första konciliet i Nicaea sammanträdde år 325. Fynden visar att en senare basilika uppfördes direkt ovanpå den äldre byggnaden.",
+      "source": "HeritageDaily",
+      "url": "https://www.heritagedaily.com/2026/07/archaeologists-find-possible-remains-of-church-that-hosted-the-first-council-of-nicaea/158563",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "pave-leo-nicaea-1700-symposium-2026",
+      "title": "Påve Leo XIV: Nicaea är en kompass mot kristen enhet 1700 år senare",
+      "category": "Jubileer",
+      "date": "2025-06-09",
+      "location": "Vatikanstaten",
+      "summary": "Vid ett symposium i Vatikanen med anledning av konciliet i Nicaeas 1700-årsjubileum beskrev påve Leo XIV det antika kyrkomötet som en kompass mot full synlig enhet mellan kristna. Han lyfte fram den gemensamma nicenska tron, synodalitet och ett gemensamt påskdatum som centrala teman.",
+      "source": "OSV News",
+      "url": "https://www.osvnews.com/full-text-pope-leo-xivs-address-to-conference-on-council-of-nicaeas-1700th-anniversary/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "codex-h-forlorade-sidor-atervunna-2026",
+      "title": "Förlorade sidor ur 500-talshandskrift med Paulus brev återvunna med ny teknik",
+      "category": "Forskning",
+      "date": "2026-04-23",
+      "location": "Glasgow, Storbritannien",
+      "summary": "Forskare under ledning av Garrick Allen vid University of Glasgow har med multispektral avbildning återvunnit 42 tidigare okända sidor ur Codex H, en 500-talshandskrift av Paulus brev som styckades till bokbindningsmaterial på Athos under 1200-talet. Fynden avslöjar tidiga kapitelindelningar och hur skrivare annoterade bibeltexten.",
+      "source": "Medievalists.net",
+      "url": "https://www.medievalists.net/2026/04/lost-pages-medieval-manuscript-recovered/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "oderzo-basilika-under-fiskmarknad-2026",
+      "title": "Tidigkristen basilika med mosaikgolv funnen under före detta fiskmarknad i Italien",
+      "category": "Arkeologi",
+      "date": "2026-07-03",
+      "location": "Oderzo, Italien",
+      "summary": "I den antika romerska staden Opitergium har arkeologer hittat resterna av en treskeppig tidigkristen basilika från sent 300-tal eller tidigt 400-tal, med omkring 30 kvadratmeter polykroma mosaikgolv och fyra gravar. Platsen ska bevaras och integreras i ett nytt bostadsprojekt.",
+      "source": "HeritageDaily",
+      "url": "https://www.heritagedaily.com/2026/07/ancient-basilica-found-beneath-former-fish-market/158508",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "norge-stavkyrkor-miljonsatsning-2026",
+      "title": "Norge satsar miljoner på att bevara sina medeltida stavkyrkor",
+      "category": "Kulturarv",
+      "date": "2026-03-05",
+      "location": "Norge",
+      "summary": "Norges klimat- och miljödepartement anslår fem miljoner kronor 2026 till landets 28 bevarade stavkyrkor, bland annat till 3D-laserskanning av Borgunds stavkyrka, tjärning av flera kyrkor och dendrokronologisk forskning vid NTNU. Ungefär hälften av stavkyrkorna används fortfarande som församlingskyrkor.",
+      "source": "Medievalists.net",
+      "url": "https://www.medievalists.net/2026/03/norway-invests-millions-to-preserve-its-medieval-stave-churches/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "silence-of-the-gods-recension-2026",
+      "title": "Ny bok kartlägger Europas sista hedniska folk och kristnandets slutfas",
+      "category": "Böcker",
+      "date": "2026-03-06",
+      "location": "",
+      "summary": "Historikern Francis Youngs bok Silence of the Gods (Cambridge University Press) skildrar Östeuropas sista förkristna religioner och hur kristnandet av kontinentens utkanter drog ut på tiden ända in i tidigmodern tid. Verket uppmärksammas som ett viktigt bidrag till kyrkohistorien om missionens och religionsskiftets långa förlopp.",
+      "source": "Catholic World Report",
+      "url": "https://www.catholicworldreport.com/2026/03/06/francis-youngs-silence-of-the-gods/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "wadi-el-natrun-kloster-utgravt-2026",
+      "title": "Tidigkristet kloster utgrävt i Wadi El-Natrun belyser den tidiga munkrörelsen",
+      "category": "Arkeologi",
+      "date": "2026-03-24",
+      "location": "Wadi El-Natrun, Egypten",
+      "summary": "Arkeologer har frilagt ett cirka 2 000 kvadratmeter stort kloster i lertegel från 300–500-talet med kök, förrådsrum, munkgravar, kors- och geometriska muralmålningar samt koptiska inskrifter med munkars namn. Fyndet illustrerar övergången från isolerade eremitboningar till organiserade klostergemenskaper.",
+      "source": "HeritageDaily",
+      "url": "https://www.heritagedaily.com/2026/03/monastery-discovered-in-egypts-wadi-el-natrun-sheds-light-on-early-monastic-life/157534",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "hagenes-salskinnsmanuskript-norge-2026",
+      "title": "Sälskinnsbunden sångbok kan vara Norges äldsta bevarade bok",
+      "category": "Forskning",
+      "date": "2025-11-09",
+      "location": "Oslo, Norge",
+      "summary": "Hagenes-manuskriptet, en åttasidig kyrklig sångbok med sekvenser för helgonfester, har lämnats in till Norges nationalbibliotek och dateras preliminärt till 1200-talet eller tidigare. Konservatorer och forskare vid Universitetet i Bergen undersöker nu den ovanliga sälskinnsbindningen, och DNA-analyser planeras för att fastställa bokens ursprung.",
+      "source": "Ancient Origins",
+      "url": "https://www.ancient-origins.net/news-history-archaeology/oldest-book-norway-00102289",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "istanbul-nicaea-symposium-1700-ar-2026",
+      "title": "Kyrkoledare i Istanbul högtidlighöll Nicaeas 1700-årsjubileum med gemensamt symposium",
+      "category": "Jubileer",
+      "date": "2025-05-20",
+      "location": "Istanbul, Turkiet",
+      "summary": "Vid ett interkyrkligt symposium i Fener-distriktet i Istanbul samlades armeniska, grekisk-ortodoxa, katolska och syriska kyrkoledare samt internationella teologer för att uppmärksamma 1700-årsminnet av konciliet i Nicaea. Deltagarna diskuterade den nicenska trosbekännelsens tillkomst och dess ekumeniska betydelse i dag.",
+      "source": "United Bible Societies",
+      "url": "https://unitedbiblesocieties.org/a-historic-gathering-in-istanbul-1700th-anniversary-of-the-council-of-nicaea-commemorated-with-interchurch-symposium/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    }
+  ]
+}/*__END_DATA__*/;
+const MONTHS=["jan","feb","mar","apr","maj","jun","jul","aug","sep","okt","nov","dec"];
+function fmtDate(d){if(!d)return"";const p=d.split("-");if(p.length<3)return d;return parseInt(p[2],10)+" "+MONTHS[parseInt(p[1],10)-1]+" "+p[0];}
+function isNew(i){if(!i.added_on)return false;const a=new Date(i.added_on),n=new Date(DB.last_updated||Date.now());return (n-a)/86400000<=7;}
+const items=(DB.items||[]).slice().sort((a,b)=>(b.date||"").localeCompare(a.date||""));
+let activeCat="Alla",query="";
+document.getElementById("desc").textContent=DB.description||"";
+document.getElementById("updated").textContent="Senast uppdaterad: "+fmtDate(DB.last_updated)+" · "+items.length+" poster";
+const cats={},srcs={};
+items.forEach(i=>{cats[i.category]=(cats[i.category]||0)+1;if(i.source)srcs[i.source]=1;});
+const newCount=items.filter(isNew).length;
+document.getElementById("stats").innerHTML=`
+  <div class="stat"><div class="num">${items.length}</div><div class="lbl">Totalt antal poster</div></div>
+  <div class="stat"><div class="num">${newCount}</div><div class="lbl">Nya denna vecka</div></div>
+  <div class="stat"><div class="num">${Object.keys(cats).length}</div><div class="lbl">Kategorier</div></div>
+  <div class="stat"><div class="num">${Object.keys(srcs).length}</div><div class="lbl">Källor</div></div>`;
+const fEl=document.getElementById("filters");
+["Alla",...Object.keys(cats).sort()].forEach(c=>{const b=document.createElement("button");b.className="filter"+(c==="Alla"?" active":"");b.textContent=c==="Alla"?"Alla":c+" ("+cats[c]+")";b.onclick=()=>{activeCat=c;[...fEl.children].forEach(x=>x.classList.remove("active"));b.classList.add("active");render();};fEl.appendChild(b);});
+document.getElementById("search").addEventListener("input",e=>{query=e.target.value.toLowerCase();render();});
+function render(){const grid=document.getElementById("grid");const list=items.filter(i=>{const okC=activeCat==="Alla"||i.category===activeCat;const hay=((i.title||"")+" "+(i.summary||"")+" "+(i.location||"")+" "+(i.category||"")).toLowerCase();return okC&&(query===""||hay.includes(query));});
+if(!list.length){grid.innerHTML='<div class="empty">Inga poster matchar din sökning.</div>';return;}
+grid.innerHTML=list.map(i=>`<article class="card"><div class="top"><span class="cat">${i.category||""}</span>${isNew(i)?'<span class="new">NY</span>':''}</div><h3>${i.title||""}</h3><div class="when">📅 ${fmtDate(i.date)}</div>${i.location?`<div class="where">📍 ${i.location}</div>`:''}<div class="desc">${i.summary||""}</div><div class="foot"><span class="src">${i.source||""}</span>${i.url?`<a class="link" href="${i.url}" target="_blank" rel="noopener">Läs mer →</a>`:''}</div></article>`).join("");}
+render();
+</script>
+</body>
+</html>

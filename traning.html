@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<title>Träning – Veckodatabas</title>
+<style>
+  :root{--bg:#0f1226;--card:#1a1f3a;--card-h:#222848;--accent:#7c6cff;--accent2:#ff7ab8;--text:#eef0ff;--muted:#9aa0c7;--border:#2b3160;--chip:#2a2f55;}
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;background:linear-gradient(160deg,#0f1226,#161a35);color:var(--text);min-height:100vh;padding:32px 20px 64px;}
+  .wrap{max-width:1080px;margin:0 auto;}
+  .eyebrow{color:var(--accent2);font-weight:700;letter-spacing:.08em;text-transform:uppercase;font-size:12px;}
+  h1{font-size:34px;margin:6px 0 8px;}
+  .sub{color:var(--muted);font-size:15px;max-width:640px;line-height:1.5;}
+  .meta{color:var(--muted);font-size:13px;margin-top:10px;}
+  .stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px;margin:26px 0;}
+  .stat{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:16px 18px;}
+  .stat .num{font-size:28px;font-weight:800;color:var(--accent);}
+  .stat .lbl{color:var(--muted);font-size:13px;margin-top:2px;}
+  .controls{display:flex;flex-wrap:wrap;gap:12px;align-items:center;margin-bottom:22px;}
+  #search{flex:1;min-width:220px;background:var(--card);border:1px solid var(--border);color:var(--text);padding:11px 14px;border-radius:10px;font-size:14px;}
+  #search::placeholder{color:var(--muted);}
+  .filters{display:flex;flex-wrap:wrap;gap:8px;}
+  .filter{background:var(--chip);border:1px solid var(--border);color:var(--muted);padding:8px 14px;border-radius:999px;cursor:pointer;font-size:13px;transition:.15s;}
+  .filter:hover{color:var(--text);}
+  .filter.active{background:var(--accent);border-color:var(--accent);color:#fff;}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:16px;}
+  .card{background:var(--card);border:1px solid var(--border);border-radius:16px;padding:20px;transition:.15s;display:flex;flex-direction:column;gap:10px;}
+  .card:hover{background:var(--card-h);transform:translateY(-2px);border-color:var(--accent);}
+  .top{display:flex;justify-content:space-between;align-items:flex-start;gap:10px;}
+  .cat{font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.05em;color:var(--accent2);background:rgba(255,122,184,.12);padding:4px 9px;border-radius:6px;white-space:nowrap;}
+  .new{font-size:10px;font-weight:700;color:#0f1226;background:#6cf09a;padding:3px 7px;border-radius:5px;}
+  .card h3{font-size:17px;line-height:1.3;}
+  .when{color:var(--accent);font-size:13px;font-weight:600;}
+  .where{color:var(--muted);font-size:13px;}
+  .desc{color:var(--text);font-size:14px;line-height:1.5;opacity:.92;}
+  .foot{display:flex;justify-content:space-between;align-items:center;margin-top:auto;padding-top:8px;gap:10px;}
+  .src{color:var(--muted);font-size:12px;}
+  a.link{color:var(--accent);font-size:13px;text-decoration:none;font-weight:600;white-space:nowrap;}
+  a.link:hover{text-decoration:underline;}
+  .empty{color:var(--muted);text-align:center;padding:40px;grid-column:1/-1;}
+  footer.page{margin-top:40px;color:var(--muted);font-size:12px;text-align:center;line-height:1.6;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="eyebrow">Veckodatabas</div>
+    <h1>💪 Träning</h1>
+    <p class="sub" id="desc"></p>
+    <p class="meta" id="updated"></p>
+  </header>
+  <section class="stats" id="stats"></section>
+  <div class="controls">
+    <input id="search" type="text" placeholder="Sök i databasen…">
+    <div class="filters" id="filters"></div>
+  </div>
+  <section class="grid" id="grid"></section>
+  <footer class="page">
+    Automatiskt uppdaterad varje vecka · Källdata lagras i <code>traning.json</code><br>
+    Nya poster läggs till utan dubbletter. Vid få nyheter kompletteras med äldre poster.
+  </footer>
+</div>
+<script>
+const DB = /*__DATA__*/{
+  "topic": "Träning",
+  "description": "Forskning om styrka, kondition, hälsoeffekter och återhämtning. Uppdateras varje vecka.",
+  "schema_version": 1,
+  "last_updated": "2026-07-23",
+  "item_count": 8,
+  "items": [
+    {
+      "id": "rest-pause-vs-drop-sets-styrketraning-2026",
+      "title": "Rest-pause eller drop sets? Så bygger du muskler mest effektivt",
+      "category": "Styrka",
+      "date": "2026-04-15",
+      "location": "",
+      "summary": "En jämförande studie undersökte två tidseffektiva metoder för progressiv överbelastning i styrketräning. Resultaten visar hur rest-pause och drop sets står sig mot varandra för muskeltillväxt och styrka.",
+      "source": "Scandinavian Journal of Medicine & Science in Sports",
+      "url": "https://doi.org/10.1111/sms.70327",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "hastighetsbaserad-styrketraning-konsskillnader-2026",
+      "title": "Hastighetsbaserad styrketräning ger olika effekt hos män och kvinnor",
+      "category": "Styrka",
+      "date": "2026-05-20",
+      "location": "",
+      "summary": "Forskare studerade hur hastighetsbaserad styrketräning påverkar maximal styrka, power och muskeltjocklek i benen. Studien belyser könsspecifika skillnader i hur kroppen anpassar sig till träningen.",
+      "source": "Frontiers in Physiology",
+      "url": "https://doi.org/10.3389/fphys.2026.1787790",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "aldrande-motorneuron-styrketraning-2026",
+      "title": "Åldern stoppar inte nervsystemets svar på styrketräning",
+      "category": "Forskning",
+      "date": "2026-03-10",
+      "location": "",
+      "summary": "En studie visar att äldre vuxna får lika starka anpassningar i motoriska nervceller som yngre efter styrketräning. Fyndet utmanar bilden av att nervsystemets träningssvar försämras med åldern.",
+      "source": "The Journal of Physiology",
+      "url": "https://doi.org/10.1113/jp290541",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "supramaximal-hiit-hjartfrekvensvariabilitet-aldre-2026",
+      "title": "Supramaximal intervallträning stärker hjärtat hos äldre",
+      "category": "Kondition",
+      "date": "2026-06-05",
+      "location": "",
+      "summary": "En randomiserad kontrollerad studie fann att supramaximal högintensiv intervallträning förbättrade hjärtfrekvensvariabiliteten hos äldre vuxna, en markör för god autonom hjärthälsa.",
+      "source": "Physiological Reports",
+      "url": "https://doi.org/10.14814/phy2.70910",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "hiit-vs-kontinuerlig-fettlever-2026",
+      "title": "Egenstyrd intervallträning mot fettlever gav bättre metabol hälsa",
+      "category": "Hälsoeffekter",
+      "date": "2026-05-12",
+      "location": "",
+      "summary": "I en randomiserad studie jämfördes egenstyrd högintensiv intervallträning med måttlig kontinuerlig träning hos personer med fettlever. Studien visar hur de två uppläggen påverkar den kardiometabola hälsan.",
+      "source": "Scandinavian Journal of Medicine & Science in Sports",
+      "url": "https://doi.org/10.1111/sms.70252",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "hiit-dosrespons-overvikt-fetma-2026",
+      "title": "Hur mycket intervallträning krävs vid övervikt? Ny metaanalys ger svar",
+      "category": "Hälsoeffekter",
+      "date": "2026-04-28",
+      "location": "",
+      "summary": "En systematisk översikt och metaanalys kartlade dos-responssambandet mellan högintensiv intervallträning och kardiometabola riskfaktorer hos personer med övervikt och fetma. Resultaten pekar mot hur mycket träning som ger effekt.",
+      "source": "Obesity Reviews",
+      "url": "https://doi.org/10.1111/obr.70115",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "syrekonsumtion-kondition-livslangd-2026",
+      "title": "Konditionen är kung: syreupptagning kopplas till längre liv",
+      "category": "Forskning",
+      "date": "2026-06-18",
+      "location": "",
+      "summary": "En översiktsartikel sammanfattar sambandet mellan kardiorespiratorisk kondition, dosberoende träningströsklar och livslängd. Slutsatsen understryker syreupptagningens centrala roll för hälsosamt åldrande.",
+      "source": "Journal of Clinical Medicine",
+      "url": "https://doi.org/10.3390/jcm15124597",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "somnbrist-fettforbranning-traning-2026",
+      "title": "Sömnbrist får kroppen att förbränna mer fett under träning",
+      "category": "Återhämtning",
+      "date": "2026-04-08",
+      "location": "",
+      "summary": "En studie fann att akut sömnbrist förskjuter kroppens energiomsättning mot ökad fettförbränning under stegrande träning hos vältränade personer. Fynden belyser hur sömn påverkar substratval och återhämtning.",
+      "source": "Scandinavian Journal of Medicine & Science in Sports",
+      "url": "https://doi.org/10.1111/sms.70314",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    }
+  ]
+}/*__END_DATA__*/;
+const MONTHS=["jan","feb","mar","apr","maj","jun","jul","aug","sep","okt","nov","dec"];
+function fmtDate(d){if(!d)return"";const p=d.split("-");if(p.length<3)return d;return parseInt(p[2],10)+" "+MONTHS[parseInt(p[1],10)-1]+" "+p[0];}
+function isNew(i){if(!i.added_on)return false;const a=new Date(i.added_on),n=new Date(DB.last_updated||Date.now());return (n-a)/86400000<=7;}
+const items=(DB.items||[]).slice().sort((a,b)=>(b.date||"").localeCompare(a.date||""));
+let activeCat="Alla",query="";
+document.getElementById("desc").textContent=DB.description||"";
+document.getElementById("updated").textContent="Senast uppdaterad: "+fmtDate(DB.last_updated)+" · "+items.length+" poster";
+const cats={},srcs={};
+items.forEach(i=>{cats[i.category]=(cats[i.category]||0)+1;if(i.source)srcs[i.source]=1;});
+const newCount=items.filter(isNew).length;
+document.getElementById("stats").innerHTML=`
+  <div class="stat"><div class="num">${items.length}</div><div class="lbl">Totalt antal poster</div></div>
+  <div class="stat"><div class="num">${newCount}</div><div class="lbl">Nya denna vecka</div></div>
+  <div class="stat"><div class="num">${Object.keys(cats).length}</div><div class="lbl">Kategorier</div></div>
+  <div class="stat"><div class="num">${Object.keys(srcs).length}</div><div class="lbl">Källor</div></div>`;
+const fEl=document.getElementById("filters");
+["Alla",...Object.keys(cats).sort()].forEach(c=>{const b=document.createElement("button");b.className="filter"+(c==="Alla"?" active":"");b.textContent=c==="Alla"?"Alla":c+" ("+cats[c]+")";b.onclick=()=>{activeCat=c;[...fEl.children].forEach(x=>x.classList.remove("active"));b.classList.add("active");render();};fEl.appendChild(b);});
+document.getElementById("search").addEventListener("input",e=>{query=e.target.value.toLowerCase();render();});
+function render(){const grid=document.getElementById("grid");const list=items.filter(i=>{const okC=activeCat==="Alla"||i.category===activeCat;const hay=((i.title||"")+" "+(i.summary||"")+" "+(i.location||"")+" "+(i.category||"")).toLowerCase();return okC&&(query===""||hay.includes(query));});
+if(!list.length){grid.innerHTML='<div class="empty">Inga poster matchar din sökning.</div>';return;}
+grid.innerHTML=list.map(i=>`<article class="card"><div class="top"><span class="cat">${i.category||""}</span>${isNew(i)?'<span class="new">NY</span>':''}</div><h3>${i.title||""}</h3><div class="when">📅 ${fmtDate(i.date)}</div>${i.location?`<div class="where">📍 ${i.location}</div>`:''}<div class="desc">${i.summary||""}</div><div class="foot"><span class="src">${i.source||""}</span>${i.url?`<a class="link" href="${i.url}" target="_blank" rel="noopener">Läs mer →</a>`:''}</div></article>`).join("");}
+render();
+</script>
+</body>
+</html>

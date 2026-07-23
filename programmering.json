@@ -1,0 +1,117 @@
+{
+  "topic": "Programmering",
+  "description": "Nyheter för utvecklare: språk, ramverk, verktyg, AI-kodning och öppen källkod. Uppdateras varje vecka.",
+  "schema_version": 1,
+  "last_updated": "2026-07-23",
+  "item_count": 9,
+  "items": [
+    {
+      "id": "typescript-7-nativ-kompilator-2026",
+      "title": "TypeScript 7 med Go-baserad nativ kompilator blir allmänt tillgänglig",
+      "category": "Språk",
+      "date": "2026-07-10",
+      "location": "",
+      "summary": "Microsoft har släppt TypeScript 7 vars kompilator skrivits om i Go, vilket ger upp till tio gånger snabbare typkontroll och byggen. Skiftet beskrivs som den största förändringen i språkets historia och blir grunden för TypeScripts framtid.",
+      "source": "ADTmag",
+      "url": "https://adtmag.com/articles/2026/07/10/microsoft-bets-typescript-future-on-a-native-compiler.aspx",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "python-3-15-beta-3-2026",
+      "title": "Python 3.15 når beta 3 efter funktionsfrysning",
+      "category": "Språk",
+      "date": "2026-06-17",
+      "location": "",
+      "summary": "Python-teamet har publicerat tredje betan av Python 3.15, som nu är funktionsfryst inför den stabila releasen i oktober. Utvecklare uppmanas testa sina paket mot betan för att hitta problem i tid.",
+      "source": "Python Insider",
+      "url": "https://blog.python.org/2026/06/python-3150-beta-3/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "github-copilot-app-skrivbordsapp-2026",
+      "title": "GitHub lanserar fristående Copilot-app för AI-agenter på skrivbordet",
+      "category": "AI-kodning",
+      "date": "2026-06-08",
+      "location": "",
+      "summary": "GitHub har släppt en egen desktopapp för Copilot som fungerar som ett nav där utvecklare kan starta, övervaka och orkestrera flera AI-kodningsagenter parallellt. Appen markerar GitHubs satsning på ett agentcentrerat arbetsflöde bortom IDE:n.",
+      "source": "Help Net Security",
+      "url": "https://www.helpnetsecurity.com/2026/06/08/github-copilot-app-ai-coding-agents/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "copilot-agent-jetbrains-2026",
+      "title": "Copilot Agent nu tillgänglig i JetBrains AI Assistant",
+      "category": "AI-kodning",
+      "date": "2026-06-30",
+      "location": "",
+      "summary": "GitHub har gjort Copilots agentläge tillgängligt direkt i JetBrains AI Assistant, så att utvecklare i IDE:er som IntelliJ IDEA kan låta agenten utföra fleregsuppgifter i kodbasen. Tidigare i juni fick JetBrains-användare även Claude som agentleverantör i förhandsversion.",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-06-30-copilot-agent-is-now-available-in-jetbrains-ai-assistant/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "angular-22-slappt-2026",
+      "title": "Angular 22 släppt med fokus på signaler och AI-vänlig utveckling",
+      "category": "Ramverk",
+      "date": "2026-06-01",
+      "location": "",
+      "summary": "Googles ramverk Angular har nått version 22, en release som fördjupar den signalbaserade reaktivitetsmodellen och moderniserar utvecklarupplevelsen. Uppgraderingen beskrivs som ett stort kliv framåt för ramverkets prestanda och ergonomi.",
+      "source": "Medium",
+      "url": "https://medium.com/@amit.mahida9292/angular-22-the-release-that-finally-makes-angular-feel-10-years-ahead-9ea7fdb7b994",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "vite-8-rolldown-snabbare-byggen-2026",
+      "title": "Vite 8 med Rust-baserade Rolldown lovar 10–30 gånger snabbare byggen",
+      "category": "Verktyg",
+      "date": "2026-03-16",
+      "location": "",
+      "summary": "Vite-teamet har släppt version 8 av det populära frontendbyggverktyget, som nu använder den Rust-skrivna buntaren Rolldown som standard. Enligt teamet ger bytet 10 till 30 gånger snabbare produktionsbyggen i stora projekt.",
+      "source": "The Register",
+      "url": "https://www.theregister.com/2026/03/16/vite_8_rolldown/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "nodejs-26-temporal-standard-2026",
+      "title": "Node.js 26 släppt med Temporal-API aktiverat som standard",
+      "category": "Verktyg",
+      "date": "2026-05-05",
+      "location": "",
+      "summary": "Node.js 26 är ute som aktuell version och aktiverar det nya Temporal-API:et för datum- och tidshantering som standard. Releasen innehåller även uppdaterad V8-motor och fortsatta förbättringar av inbyggt TypeScript-stöd.",
+      "source": "Node.js Blog",
+      "url": "https://nodejs.org/en/blog/release/v26.0.0",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "rust-1-96-slappt-2026",
+      "title": "Rust 1.96.0 släppt med nya stabiliserade funktioner",
+      "category": "Språk",
+      "date": "2026-05-28",
+      "location": "",
+      "summary": "Rust-teamet har publicerat version 1.96.0 av språket, med en rad stabiliserade API:er och förbättringar för utvecklare. En uppföljande punktrelease, 1.96.1, kom den 30 juni med felrättningar.",
+      "source": "Rust Blog",
+      "url": "https://blog.rust-lang.org/2026/05/28/Rust-1.96.0/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "linux-7-0-bekraftad-2026",
+      "title": "Linus Torvalds bekräftar att nästa Linuxkärna blir version 7.0",
+      "category": "Öppen källkod",
+      "date": "2026-02-09",
+      "location": "",
+      "summary": "I samband med att Linux 6.19 släpptes bekräftade Linus Torvalds att nästa stora kärnversion får numret 7.0, med release planerad till mitten av april 2026. Versionshoppet följer Torvalds princip att inte låta minorversionerna växa sig för stora.",
+      "source": "Phoronix",
+      "url": "https://www.phoronix.com/news/Linux-7.0-Is-Next",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    }
+  ]
+}

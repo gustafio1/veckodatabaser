@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<title>Musik – Veckodatabas</title>
+<style>
+  :root{--bg:#0f1226;--card:#1a1f3a;--card-h:#222848;--accent:#7c6cff;--accent2:#ff7ab8;--text:#eef0ff;--muted:#9aa0c7;--border:#2b3160;--chip:#2a2f55;}
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;background:linear-gradient(160deg,#0f1226,#161a35);color:var(--text);min-height:100vh;padding:32px 20px 64px;}
+  .wrap{max-width:1080px;margin:0 auto;}
+  .eyebrow{color:var(--accent2);font-weight:700;letter-spacing:.08em;text-transform:uppercase;font-size:12px;}
+  h1{font-size:34px;margin:6px 0 8px;}
+  .sub{color:var(--muted);font-size:15px;max-width:640px;line-height:1.5;}
+  .meta{color:var(--muted);font-size:13px;margin-top:10px;}
+  .stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px;margin:26px 0;}
+  .stat{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:16px 18px;}
+  .stat .num{font-size:28px;font-weight:800;color:var(--accent);}
+  .stat .lbl{color:var(--muted);font-size:13px;margin-top:2px;}
+  .controls{display:flex;flex-wrap:wrap;gap:12px;align-items:center;margin-bottom:22px;}
+  #search{flex:1;min-width:220px;background:var(--card);border:1px solid var(--border);color:var(--text);padding:11px 14px;border-radius:10px;font-size:14px;}
+  #search::placeholder{color:var(--muted);}
+  .filters{display:flex;flex-wrap:wrap;gap:8px;}
+  .filter{background:var(--chip);border:1px solid var(--border);color:var(--muted);padding:8px 14px;border-radius:999px;cursor:pointer;font-size:13px;transition:.15s;}
+  .filter:hover{color:var(--text);}
+  .filter.active{background:var(--accent);border-color:var(--accent);color:#fff;}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:16px;}
+  .card{background:var(--card);border:1px solid var(--border);border-radius:16px;padding:20px;transition:.15s;display:flex;flex-direction:column;gap:10px;}
+  .card:hover{background:var(--card-h);transform:translateY(-2px);border-color:var(--accent);}
+  .top{display:flex;justify-content:space-between;align-items:flex-start;gap:10px;}
+  .cat{font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.05em;color:var(--accent2);background:rgba(255,122,184,.12);padding:4px 9px;border-radius:6px;white-space:nowrap;}
+  .new{font-size:10px;font-weight:700;color:#0f1226;background:#6cf09a;padding:3px 7px;border-radius:5px;}
+  .card h3{font-size:17px;line-height:1.3;}
+  .when{color:var(--accent);font-size:13px;font-weight:600;}
+  .where{color:var(--muted);font-size:13px;}
+  .desc{color:var(--text);font-size:14px;line-height:1.5;opacity:.92;}
+  .foot{display:flex;justify-content:space-between;align-items:center;margin-top:auto;padding-top:8px;gap:10px;}
+  .src{color:var(--muted);font-size:12px;}
+  a.link{color:var(--accent);font-size:13px;text-decoration:none;font-weight:600;white-space:nowrap;}
+  a.link:hover{text-decoration:underline;}
+  .empty{color:var(--muted);text-align:center;padding:40px;grid-column:1/-1;}
+  footer.page{margin-top:40px;color:var(--muted);font-size:12px;text-align:center;line-height:1.6;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="eyebrow">Veckodatabas</div>
+    <h1>🎵 Musik</h1>
+    <p class="sub" id="desc"></p>
+    <p class="meta" id="updated"></p>
+  </header>
+  <section class="stats" id="stats"></section>
+  <div class="controls">
+    <input id="search" type="text" placeholder="Sök i databasen…">
+    <div class="filters" id="filters"></div>
+  </div>
+  <section class="grid" id="grid"></section>
+  <footer class="page">
+    Automatiskt uppdaterad varje vecka · Källdata lagras i <code>musik.json</code><br>
+    Nya poster läggs till utan dubbletter. Vid få nyheter kompletteras med äldre poster.
+  </footer>
+</div>
+<script>
+const DB = /*__DATA__*/{
+  "topic": "Musik",
+  "description": "Nya album, konserter, festivaler, svensk musik och musikbranschen. Uppdateras varje vecka.",
+  "schema_version": 1,
+  "last_updated": "2026-07-23",
+  "item_count": 9,
+  "items": [
+    {
+      "id": "madonna-confessions-ii-slapp-2026",
+      "title": "Madonna släpper uppföljaren Confessions II",
+      "category": "Släpp",
+      "date": "2026-07-03",
+      "location": "",
+      "summary": "Madonna ger ut sitt första studioalbum på sju år, en uppföljare till Confessions on a Dance Floor från 2005, producerad tillsammans med Stuart Price. Första singeln I Feel So Free framfördes live på Coachella med Sabrina Carpenter.",
+      "source": "Gold Derby",
+      "url": "https://www.goldderby.com/music/2026/madonna-new-album-2026-details-release-date/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "rockslapp-juli-jack-white-stones-2026",
+      "title": "Rocktät julimånad med Jack White och Rolling Stones",
+      "category": "Släpp",
+      "date": "2026-06-16",
+      "location": "",
+      "summary": "Juli 2026 bjuder på flera stora rocksläpp, bland annat Jack Whites nya album Frozen Charlotte och Rolling Stones Foreign Tongues den 10 juli. Även Deep Purple ger ut nytt album, Splat!, den 3 juli.",
+      "source": "Ultimate Classic Rock",
+      "url": "https://ultimateclassicrock.com/july-2026-new-music-releases/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "bad-bunny-strawberry-arena-stockholm-2026",
+      "title": "Bad Bunny intar Strawberry Arena i Stockholm",
+      "category": "Konserter",
+      "date": "2026-07-11",
+      "location": "Stockholm",
+      "summary": "Bad Bunny spelar två utsålda kvällar på Strawberry Arena i Solna den 10 och 11 juli som en del av världsturnén DeBÍ TiRAR MáS FOToS. Det är ett av den svenska konsertsommarens största evenemang.",
+      "source": "Songkick",
+      "url": "https://www.songkick.com/concerts/42589877-bad-bunny-at-strawberry-arena",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "turnenyheter-garth-brooks-ringo-starr-2026",
+      "title": "Garth Brooks och Ringo Starr bland juli månads turnényheter",
+      "category": "Konserter",
+      "date": "2026-07-09",
+      "location": "",
+      "summary": "Garth Brooks har presenterat turnén Blame It All On My Roots och 86-årige Ringo Starr ger sig ut på höstturné i Nordamerika med sitt All Starr Band. Även rapparen Ken Carson och kompositören Danny Elfman har annonserat nya turnéer.",
+      "source": "The Ticket Blog",
+      "url": "https://www.theticketblog.com/post/latest-tour-news-july-2026-garth-brooks-ringo-starr-fall-dates-ken-carson-more-announced",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "way-out-west-goteborg-lineup-2026",
+      "title": "The Cure, Lorde och Zara Larsson till Way Out West",
+      "category": "Festivaler",
+      "date": "2026-05-26",
+      "location": "Göteborg",
+      "summary": "Way Out West hålls i Slottsskogen i Göteborg 13–15 augusti med The Cure, Lorde, Gorillaz och Nick Cave & The Bad Seeds som internationella dragplåster. Bland de svenska akterna finns Zara Larsson, The Hives, Veronica Maggio och Lykke Li, och över 70 000 besökare väntas.",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/vast/guide-way-out-west-2026-i-goteborg-artister-datum-och-tider",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "festivalsommaren-sverige-guide-2026",
+      "title": "Festivalsommaren 2026 – från Sweden Rock till Roskilde",
+      "category": "Festivaler",
+      "date": "2026-06-05",
+      "location": "",
+      "summary": "Sommarens festivalkarta rymmer bland annat Sweden Rock i Sölvesborg, Rosendal Garden Party i Stockholm med TLC och David Byrne samt europeiska jättar som Glastonbury, Roskilde och Tomorrowland. Guiden listar även sommarens stora konserter och albumsläpp.",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/kultur/sommarens-konserter-festivaler-och-musikslapp-2026",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "allsang-pa-skansen-artister-2026",
+      "title": "Klart med sommarens artister i Allsång på Skansen",
+      "category": "Svenskt",
+      "date": "2026-06-08",
+      "location": "Stockholm",
+      "summary": "Allsång på Skansen startar den 23 juni med Pernilla Wahlgren som programledare för tredje året i rad. Under åtta tisdagar gästar bland andra Hooja, Petra Marklund, The Ark, Icona Pop, Oskar Linnros, Eva Dahlgren och Carola.",
+      "source": "Musikindustrin",
+      "url": "https://www.musikindustrin.se/2026/06/08/har-ar-sommarens-artister-i-allsang-pa-skansen/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "zara-larsson-stateside-etta-pop-airplay-2026",
+      "title": "Zara Larsson etta på Billboards Pop Airplay-lista",
+      "category": "Svenskt",
+      "date": "2026-06-15",
+      "location": "",
+      "summary": "Låten Stateside med PinkPantheress och Zara Larsson har klättrat till förstaplatsen på Billboards amerikanska Pop Airplay-lista. Det är ännu en internationell framgång för den svenska popstjärnan under 2026.",
+      "source": "Billboard",
+      "url": "https://www.billboard.com/music/chart-beat/pinkpantheress-zara-larsson-stateside-number-1-pop-airplay-1236271618/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "spotify-loud-and-clear-rekordutbetalningar-2026",
+      "title": "Spotify betalade ut rekordhöga 11 miljarder dollar",
+      "category": "Bransch",
+      "date": "2026-03-11",
+      "location": "",
+      "summary": "Spotifys rapport Loud & Clear 2026 visar att bolaget betalade ut 11 miljarder dollar i royalties under 2025, varav ungefär hälften gick till oberoende artister och bolag. Över 13 800 artister tjänade minst 100 000 dollar på plattformen och 85 procent av de nya sexsiffriga inkomsttagarna finns utanför USA.",
+      "source": "Hypebot",
+      "url": "https://www.hypebot.com/spotify-loud-clear-report-2026-11b-paid-as-global-musical-middle-class-expands/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    }
+  ]
+}/*__END_DATA__*/;
+const MONTHS=["jan","feb","mar","apr","maj","jun","jul","aug","sep","okt","nov","dec"];
+function fmtDate(d){if(!d)return"";const p=d.split("-");if(p.length<3)return d;return parseInt(p[2],10)+" "+MONTHS[parseInt(p[1],10)-1]+" "+p[0];}
+function isNew(i){if(!i.added_on)return false;const a=new Date(i.added_on),n=new Date(DB.last_updated||Date.now());return (n-a)/86400000<=7;}
+const items=(DB.items||[]).slice().sort((a,b)=>(b.date||"").localeCompare(a.date||""));
+let activeCat="Alla",query="";
+document.getElementById("desc").textContent=DB.description||"";
+document.getElementById("updated").textContent="Senast uppdaterad: "+fmtDate(DB.last_updated)+" · "+items.length+" poster";
+const cats={},srcs={};
+items.forEach(i=>{cats[i.category]=(cats[i.category]||0)+1;if(i.source)srcs[i.source]=1;});
+const newCount=items.filter(isNew).length;
+document.getElementById("stats").innerHTML=`
+  <div class="stat"><div class="num">${items.length}</div><div class="lbl">Totalt antal poster</div></div>
+  <div class="stat"><div class="num">${newCount}</div><div class="lbl">Nya denna vecka</div></div>
+  <div class="stat"><div class="num">${Object.keys(cats).length}</div><div class="lbl">Kategorier</div></div>
+  <div class="stat"><div class="num">${Object.keys(srcs).length}</div><div class="lbl">Källor</div></div>`;
+const fEl=document.getElementById("filters");
+["Alla",...Object.keys(cats).sort()].forEach(c=>{const b=document.createElement("button");b.className="filter"+(c==="Alla"?" active":"");b.textContent=c==="Alla"?"Alla":c+" ("+cats[c]+")";b.onclick=()=>{activeCat=c;[...fEl.children].forEach(x=>x.classList.remove("active"));b.classList.add("active");render();};fEl.appendChild(b);});
+document.getElementById("search").addEventListener("input",e=>{query=e.target.value.toLowerCase();render();});
+function render(){const grid=document.getElementById("grid");const list=items.filter(i=>{const okC=activeCat==="Alla"||i.category===activeCat;const hay=((i.title||"")+" "+(i.summary||"")+" "+(i.location||"")+" "+(i.category||"")).toLowerCase();return okC&&(query===""||hay.includes(query));});
+if(!list.length){grid.innerHTML='<div class="empty">Inga poster matchar din sökning.</div>';return;}
+grid.innerHTML=list.map(i=>`<article class="card"><div class="top"><span class="cat">${i.category||""}</span>${isNew(i)?'<span class="new">NY</span>':''}</div><h3>${i.title||""}</h3><div class="when">📅 ${fmtDate(i.date)}</div>${i.location?`<div class="where">📍 ${i.location}</div>`:''}<div class="desc">${i.summary||""}</div><div class="foot"><span class="src">${i.source||""}</span>${i.url?`<a class="link" href="${i.url}" target="_blank" rel="noopener">Läs mer →</a>`:''}</div></article>`).join("");}
+render();
+</script>
+</body>
+</html>

@@ -1,0 +1,117 @@
+{
+  "topic": "Ekonomi & börs",
+  "description": "Forskning om börs, makroekonomi, räntor och hushållens ekonomi. Uppdateras varje vecka.",
+  "schema_version": 1,
+  "last_updated": "2026-07-23",
+  "item_count": 9,
+  "items": [
+    {
+      "id": "skuldkvot-mot-aktievardering-debt-equity-spread-2026",
+      "title": "Skillnaden mellan obligations- och aktiemarknadens prissättning avslöjar felprissatta aktier",
+      "category": "Börs",
+      "date": "2026-04-15",
+      "location": "",
+      "summary": "Forskare visar att spreaden mellan hur företags skulder och aktier prissätts innehåller information om framtida avkastning. När obligations- och aktiemarknaden gör olika bedömningar av samma företag uppstår mätbara felprissättningar som investerare kan utnyttja.",
+      "source": "The Journal of Finance",
+      "url": "https://doi.org/10.1111/jofi.70060",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "smasparare-belaning-marginhandel-2026",
+      "title": "Så driver belånade småsparare marknaden: ny studie av marginhandel",
+      "category": "Börs",
+      "date": "2026-03-20",
+      "location": "",
+      "summary": "En studie i Journal of Finance kartlägger vad som får privatpersoner att handla aktier med lånade pengar och hur denna belånade handel påverkar kurser och volatilitet. Resultaten visar att marginhandel bland småsparare kan förstärka marknadssvängningar.",
+      "source": "The Journal of Finance",
+      "url": "https://doi.org/10.1111/jofi.70049",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "ai-demokratisering-handelsklyftor-2026",
+      "title": "AI för alla – men klyftan mellan vinnare och förlorare på börsen består",
+      "category": "Forskning",
+      "date": "2026-05-10",
+      "location": "",
+      "summary": "När AI-verktyg blir tillgängliga för vanliga investerare förändras spelplanen på aktiemarknaden – men inte nödvändigtvis till de smås fördel. Studien undersöker hur demokratiserad AI påverkar ojämlikheten mellan olika typer av handlare.",
+      "source": "Journal of Accounting Research",
+      "url": "https://doi.org/10.1111/1475-679x.70063",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "fed-tal-energi-riskpremie-2026",
+      "title": "När Fed pratar energi reagerar aktiemarknadens riskpremie",
+      "category": "Börs",
+      "date": "2026-02-25",
+      "location": "",
+      "summary": "Forskare har analyserat energirelaterade diskussioner i den amerikanska centralbankens tal och finner att de påverkar den optionsbaserade aktieriskpremien. Centralbankskommunikation om energi visar sig alltså vara prisdrivande information för börsen.",
+      "source": "Journal of Futures Markets",
+      "url": "https://doi.org/10.1002/fut.70078",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "oljepriser-inflationsforvantningar-obligationer-2026",
+      "title": "Oljepriserna styr inflationsförväntningar – och därmed obligationsräntorna",
+      "category": "Räntor",
+      "date": "2026-03-05",
+      "location": "",
+      "summary": "Ny forskning visar hur terminspriser på olja formar marknadens inflationsförväntningar och därigenom riskpremierna på obligationsmarknaden. Resultaten hjälper till att förklara varför räntor rör sig i takt med energimarknaden.",
+      "source": "Journal of Futures Markets",
+      "url": "https://doi.org/10.1002/fut.70083",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "digitala-valutor-revolution-oversikt-2026",
+      "title": "Den digitala valutarevolutionen: var står vi nu?",
+      "category": "Makro",
+      "date": "2026-04-01",
+      "location": "",
+      "summary": "En omfattande forskningsöversikt går igenom utvecklingen av digitala valutor – från kryptotillgångar till centralbankernas egna digitala pengar – och vad de innebär för betalningssystem, banker och penningpolitik.",
+      "source": "Journal of Economic Surveys",
+      "url": "https://doi.org/10.1111/joes.70062",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "geopolitisk-risk-penningpolitik-2026",
+      "title": "Geopolitisk oro sätter press på centralbankerna – globala och ukrainska chocker jämförs",
+      "category": "Makro",
+      "date": "2026-05-20",
+      "location": "",
+      "summary": "Studien undersöker hur geopolitiska risker – både globala och specifikt kopplade till kriget i Ukraina – påverkar penningpolitikens effekter på inflation och ekonomi. Olika typer av chocker visar sig ge tydligt olika utslag.",
+      "source": "Scottish Journal of Political Economy",
+      "url": "https://doi.org/10.1111/sjpe.70067",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "hushallsskulder-trygghetssystem-2026",
+      "title": "Skuldsatta hushåll söker sig oftare till samhällets skyddsnät",
+      "category": "Hushåll",
+      "date": "2026-06-10",
+      "location": "",
+      "summary": "Ny forskning visar att hushållens skuldsättning påverkar i vilken utsträckning de använder offentliga trygghetssystem. Resultaten belyser kopplingen mellan privat skuldbörda och beroendet av välfärdsprogram.",
+      "source": "Contemporary Economic Policy",
+      "url": "https://doi.org/10.1111/coep.70023",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "bolan-refinansiering-uttag-2026",
+      "title": "Varför tar husägare inte ut sitt övervärde? Gåtan med de låga refinansieringarna",
+      "category": "Hushåll",
+      "date": "2026-04-25",
+      "location": "",
+      "summary": "Trots stora övervärden i sina bostäder väljer förvånansvärt få husägare att belåna dem via refinansiering. Studien analyserar varför andelen som tar ut kapital ur bostaden är så låg och vad det säger om hushållens ekonomiska beslut.",
+      "source": "Real Estate Economics",
+      "url": "https://doi.org/10.1111/1540-6229.70031",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    }
+  ]
+}

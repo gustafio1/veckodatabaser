@@ -58,8 +58,8 @@
   <header>
     <div class="eyebrow">Veckodatabaser</div>
     <h1>📚 Mina ämnesdatabaser</h1>
-    <p class="sub">Alla ämnen samlade per kategori. 8 ämnen har en aktiv databas idag – resten är på väg. Klicka på ett aktivt ämne för att visa dess databas nedan.</p>
-    <p class="meta" id="meta">40 ämnen · 8 aktiva databaser</p>
+    <p class="sub">Alla ämnen samlade per kategori. Alla 40 ämnen har nu en aktiv databas. Klicka på ett ämne för att visa dess databas nedan.</p>
+    <p class="meta" id="meta">40 ämnen · 40 aktiva databaser</p>
     <div class="cta">
       <a class="flow" href="flode.html">🌊 Öppna flödet – alla nyheter &amp; bilder blandade →</a>
       <a class="rss" href="rss.xml">📡 RSS</a>
@@ -72,7 +72,7 @@
   </div>
   <section class="grid" id="grid"></section>
   <footer class="page">
-    Automatiskt uppdaterad varje vecka · 8 aktiva databaser av 40 ämnen<br>
+    Automatiskt uppdaterad varje vecka · 40 aktiva databaser<br>
     Oberoende privat icke-kommersiellt projekt. Innehållet är korta egna sammanfattningar med länk till respektive originalkälla; all upphovsrätt tillhör respektive källa. Sidan är inte affilierad med, eller godkänd av, de personer, varumärken eller organisationer som omnämns.<br>
     Kontakt / rättelse av uppgift: gustaf.magaard@mdphd.se
   </footer>
@@ -81,51 +81,51 @@
 const CATS=[
  {name:"Teknik & vetenskap",subjects:[
   {id:"it",icon:"💻",name:"IT – Nya produkter",slug:"it",desc:"Nya IT- och teknikprodukter: hårdvara, mjukvara, AI och gaming."},
-  {id:"ai",icon:"🤖",name:"AI & maskininlärning"},
-  {id:"rymden",icon:"🚀",name:"Rymden"},
-  {id:"vetenskap",icon:"🔬",name:"Vetenskap"},
-  {id:"programmering",icon:"⌨️",name:"Programmering"}]},
+  {id:"ai",icon:"🤖",name:"AI & maskininlärning",slug:"ai",desc:"Nya AI-modeller, verktyg, forskning, företag och reglering."},
+  {id:"rymden",icon:"🚀",name:"Rymden",slug:"rymden",desc:"Raketuppskjutningar, rymdsonder, astronomiska upptäckter och rymdindustri."},
+  {id:"vetenskap",icon:"🔬",name:"Vetenskap",slug:"vetenskap",desc:"Ny forskning inom fysik, medicin, biologi, klimat och nya upptäckter."},
+  {id:"programmering",icon:"⌨️",name:"Programmering",slug:"programmering",desc:"Nyheter för utvecklare: språk, ramverk, verktyg, AI-kodning och öppen källkod."}]},
  {name:"Kultur & nöje",subjects:[
   {id:"kultur",icon:"🎭",name:"Kultur",slug:"kultur",desc:"Nya kulturevenemang i Sverige – festivaler, konserter, utställningar och scenkonst."},
-  {id:"film",icon:"🎬",name:"Film & TV"},
-  {id:"musik",icon:"🎵",name:"Musik"},
-  {id:"litteratur",icon:"📖",name:"Litteratur"},
-  {id:"konst",icon:"🎨",name:"Konst & design"},
-  {id:"foto",icon:"📷",name:"Fotografi"}]},
+  {id:"film",icon:"🎬",name:"Film & TV",slug:"film",desc:"Biopremiärer, streaming, TV-serier, svensk film och filmfestivaler."},
+  {id:"musik",icon:"🎵",name:"Musik",slug:"musik",desc:"Nya album, konserter, festivaler, svensk musik och musikbranschen."},
+  {id:"litteratur",icon:"📖",name:"Litteratur",slug:"litteratur",desc:"Boksläpp, litterära priser, författarnyheter och förlagsbranschen."},
+  {id:"konst",icon:"🎨",name:"Konst & design",slug:"konst",desc:"Konstutställningar, design, arkitektur, auktioner och konstvärlden."},
+  {id:"foto",icon:"📷",name:"Fotografi",slug:"foto",desc:"Nya kameror och objektiv, fototeknik, utställningar, tävlingar och fotografer."}]},
  {name:"Sport & fritid",subjects:[
   {id:"sport",icon:"⚽",name:"Sport – Fotboll, Tennis & Bordtennis",slug:"sport",desc:"Nyheter inom fotboll, tennis och bordtennis med svenskt fokus."},
-  {id:"lopning",icon:"🏃",name:"Löpning"},
-  {id:"friluftsliv",icon:"🏕️",name:"Friluftsliv"},
-  {id:"cykling",icon:"🚴",name:"Cykling"},
-  {id:"golf",icon:"⛳",name:"Golf"},
-  {id:"schack",icon:"♟️",name:"Schack"}]},
+  {id:"lopning",icon:"🏃",name:"Löpning",slug:"lopning",desc:"Lopp och maraton, svensk löparelit, träningsforskning och utrustning."},
+  {id:"friluftsliv",icon:"🏕️",name:"Friluftsliv",slug:"friluftsliv",desc:"Vandringsleder, friluftsutrustning, naturvård, allemansrätt och äventyr."},
+  {id:"cykling",icon:"🚴",name:"Cykling",slug:"cykling",desc:"Proffscykling, svenska cyklister, motionslopp, mountainbike och utrustning."},
+  {id:"golf",icon:"⛳",name:"Golf",slug:"golf",desc:"Majors och tourtävlingar, svenska golfare, tävlingar och utrustning."},
+  {id:"schack",icon:"♟️",name:"Schack",slug:"schack",desc:"Stora turneringar, elitspelare, onlineschack, svenskt schack och talanger."}]},
  {name:"Tro & tanke",subjects:[
   {id:"religion",icon:"✝️",name:"Religion – Nyheter",slug:"religion",desc:"Religiösa nyheter från Vatikanen, kyrkor och trossamfund världen över."},
   {id:"ksl",icon:"⛪",name:"Katolska kyrkans sociala lära",slug:"katolsk-social-lara",desc:"Principerna och temana som vägleder ett rättvist samhälle."},
-  {id:"filosofi",icon:"📜",name:"Filosofi"},
-  {id:"kyrkohistoria",icon:"🏛️",name:"Kyrkohistoria"}]},
+  {id:"filosofi",icon:"📜",name:"Filosofi",slug:"filosofi",desc:"Nya filosofiböcker, debatt, forskning, evenemang och klassiker i nytt ljus."},
+  {id:"kyrkohistoria",icon:"🏛️",name:"Kyrkohistoria",slug:"kyrkohistoria",desc:"Kyrkohistorisk forskning, jubileer, kristen arkeologi, böcker och kulturarv."}]},
  {name:"Sinne & utveckling",subjects:[
   {id:"psykologi",icon:"🧠",name:"Psykologi – Vänskap",slug:"psykologi",desc:"Ny forskning och insikter om vänskap, relationer och social anknytning."},
   {id:"pu",icon:"🌱",name:"Personlig utveckling",slug:"personlig-utveckling",desc:"Tekniker, vanor och tankesätt för personlig utveckling och produktivitet."},
   {id:"ledarskap",icon:"🧭",name:"Ledarskap – John Maxwell",slug:"ledarskap",desc:"Ledarskapsprinciper och lärdomar från John C. Maxwell."},
-  {id:"produktivitet",icon:"⏱️",name:"Produktivitet"},
-  {id:"mindfulness",icon:"🧘",name:"Mindfulness"},
-  {id:"relationer",icon:"💞",name:"Relationer"}]},
+  {id:"produktivitet",icon:"⏱️",name:"Produktivitet",slug:"produktivitet",desc:"Produktivitetsmetoder, verktyg, forskning om fokus, arbetsliv och AI."},
+  {id:"mindfulness",icon:"🧘",name:"Mindfulness",slug:"mindfulness",desc:"Forskning om meditation, metoder, appar, retreater och mindfulness i vardagen."},
+  {id:"relationer",icon:"💞",name:"Relationer",slug:"relationer",desc:"Forskning om kärlek, familj, dejting och social gemenskap."}]},
  {name:"Samhälle & värld",subjects:[
-  {id:"ekonomi",icon:"📈",name:"Ekonomi & börs"},
-  {id:"entreprenorskap",icon:"💼",name:"Entreprenörskap"},
-  {id:"historia",icon:"🏺",name:"Historia"},
-  {id:"geografi",icon:"🗺️",name:"Geografi"},
-  {id:"resor",icon:"✈️",name:"Resor"},
-  {id:"sprak",icon:"🗣️",name:"Språk"}]},
+  {id:"ekonomi",icon:"📈",name:"Ekonomi & börs",slug:"ekonomi",desc:"Forskning om börs, makroekonomi, räntor och hushållens ekonomi."},
+  {id:"entreprenorskap",icon:"💼",name:"Entreprenörskap",slug:"entreprenorskap",desc:"Forskning om startups, finansiering, grundare och innovation."},
+  {id:"historia",icon:"🏺",name:"Historia",slug:"historia",desc:"Historisk forskning, arkeologiska fynd, svensk historia, böcker och jubileer."},
+  {id:"geografi",icon:"🗺️",name:"Geografi",slug:"geografi",desc:"Kartor och kartografi, upptäckter, klimat- och landskapsförändringar och platser."},
+  {id:"resor",icon:"✈️",name:"Resor",slug:"resor",desc:"Forskning om resmål, hållbart resande, flyg och tågresor."},
+  {id:"sprak",icon:"🗣️",name:"Språk",slug:"sprak",desc:"Forskning om språkinlärning, svenskan, språkteknik och flerspråkighet."}]},
  {name:"Livsstil & hem",subjects:[
-  {id:"halsa",icon:"❤️",name:"Hälsa"},
-  {id:"traning",icon:"💪",name:"Träning"},
-  {id:"matlagning",icon:"🍳",name:"Matlagning"},
-  {id:"kaffe",icon:"☕",name:"Kaffe"},
-  {id:"vin",icon:"🍷",name:"Vin"},
-  {id:"tradgard",icon:"🌻",name:"Trädgård"},
-  {id:"husdjur",icon:"🐕",name:"Husdjur"}]}
+  {id:"halsa",icon:"❤️",name:"Hälsa",slug:"halsa",desc:"Forskning om kost, sömn, folkhälsa och medicin."},
+  {id:"traning",icon:"💪",name:"Träning",slug:"traning",desc:"Forskning om styrka, kondition, hälsoeffekter och återhämtning."},
+  {id:"matlagning",icon:"🍳",name:"Matlagning",slug:"matlagning",desc:"Livsmedelsvetenskap, tekniker, jäsning och smakforskning."},
+  {id:"kaffe",icon:"☕",name:"Kaffe",slug:"kaffe",desc:"Forskning om kaffe och hälsa, bryggning, koffein, smak och odling."},
+  {id:"vin",icon:"🍷",name:"Vin",slug:"vin",desc:"Forskning om vinframställning, odling, smak och hälsa."},
+  {id:"tradgard",icon:"🌻",name:"Trädgård",slug:"tradgard",desc:"Forskning om odling, biologisk mångfald, jord, pollinatörer och hälsa."},
+  {id:"husdjur",icon:"🐕",name:"Husdjur",slug:"husdjur",desc:"Forskning om hundar, katter, beteende och hälsa."}]}
 ];
 const FLAT=[];CATS.forEach(c=>c.subjects.forEach(s=>{if(s.slug)FLAT.push(s);}));
 const MONTHS=["jan","feb","mar","apr","maj","jun","jul","aug","sep","okt","nov","dec"];

@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<title>Vin – Veckodatabas</title>
+<style>
+  :root{--bg:#0f1226;--card:#1a1f3a;--card-h:#222848;--accent:#7c6cff;--accent2:#ff7ab8;--text:#eef0ff;--muted:#9aa0c7;--border:#2b3160;--chip:#2a2f55;}
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;background:linear-gradient(160deg,#0f1226,#161a35);color:var(--text);min-height:100vh;padding:32px 20px 64px;}
+  .wrap{max-width:1080px;margin:0 auto;}
+  .eyebrow{color:var(--accent2);font-weight:700;letter-spacing:.08em;text-transform:uppercase;font-size:12px;}
+  h1{font-size:34px;margin:6px 0 8px;}
+  .sub{color:var(--muted);font-size:15px;max-width:640px;line-height:1.5;}
+  .meta{color:var(--muted);font-size:13px;margin-top:10px;}
+  .stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px;margin:26px 0;}
+  .stat{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:16px 18px;}
+  .stat .num{font-size:28px;font-weight:800;color:var(--accent);}
+  .stat .lbl{color:var(--muted);font-size:13px;margin-top:2px;}
+  .controls{display:flex;flex-wrap:wrap;gap:12px;align-items:center;margin-bottom:22px;}
+  #search{flex:1;min-width:220px;background:var(--card);border:1px solid var(--border);color:var(--text);padding:11px 14px;border-radius:10px;font-size:14px;}
+  #search::placeholder{color:var(--muted);}
+  .filters{display:flex;flex-wrap:wrap;gap:8px;}
+  .filter{background:var(--chip);border:1px solid var(--border);color:var(--muted);padding:8px 14px;border-radius:999px;cursor:pointer;font-size:13px;transition:.15s;}
+  .filter:hover{color:var(--text);}
+  .filter.active{background:var(--accent);border-color:var(--accent);color:#fff;}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:16px;}
+  .card{background:var(--card);border:1px solid var(--border);border-radius:16px;padding:20px;transition:.15s;display:flex;flex-direction:column;gap:10px;}
+  .card:hover{background:var(--card-h);transform:translateY(-2px);border-color:var(--accent);}
+  .top{display:flex;justify-content:space-between;align-items:flex-start;gap:10px;}
+  .cat{font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.05em;color:var(--accent2);background:rgba(255,122,184,.12);padding:4px 9px;border-radius:6px;white-space:nowrap;}
+  .new{font-size:10px;font-weight:700;color:#0f1226;background:#6cf09a;padding:3px 7px;border-radius:5px;}
+  .card h3{font-size:17px;line-height:1.3;}
+  .when{color:var(--accent);font-size:13px;font-weight:600;}
+  .where{color:var(--muted);font-size:13px;}
+  .desc{color:var(--text);font-size:14px;line-height:1.5;opacity:.92;}
+  .foot{display:flex;justify-content:space-between;align-items:center;margin-top:auto;padding-top:8px;gap:10px;}
+  .src{color:var(--muted);font-size:12px;}
+  a.link{color:var(--accent);font-size:13px;text-decoration:none;font-weight:600;white-space:nowrap;}
+  a.link:hover{text-decoration:underline;}
+  .empty{color:var(--muted);text-align:center;padding:40px;grid-column:1/-1;}
+  footer.page{margin-top:40px;color:var(--muted);font-size:12px;text-align:center;line-height:1.6;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="eyebrow">Veckodatabas</div>
+    <h1>🍷 Vin</h1>
+    <p class="sub" id="desc"></p>
+    <p class="meta" id="updated"></p>
+  </header>
+  <section class="stats" id="stats"></section>
+  <div class="controls">
+    <input id="search" type="text" placeholder="Sök i databasen…">
+    <div class="filters" id="filters"></div>
+  </div>
+  <section class="grid" id="grid"></section>
+  <footer class="page">
+    Automatiskt uppdaterad varje vecka · Källdata lagras i <code>vin.json</code><br>
+    Nya poster läggs till utan dubbletter. Vid få nyheter kompletteras med äldre poster.
+  </footer>
+</div>
+<script>
+const DB = /*__DATA__*/{
+  "topic": "Vin",
+  "description": "Forskning om vinframställning, odling, smak och hälsa. Uppdateras varje vecka.",
+  "schema_version": 1,
+  "last_updated": "2026-07-23",
+  "item_count": 9,
+  "items": [
+    {
+      "id": "arom-ekologiskt-vs-konventionellt-vitt-vin-2026",
+      "title": "Doftar ekologiskt vitvin annorlunda? Jämförelse av aromämnen",
+      "category": "Smak",
+      "date": "2026-03-15",
+      "location": "",
+      "summary": "Forskare kartlade och jämförde nyckelaromämnen i ekologiskt och konventionellt framställda vitviner. Studien identifierade skillnader i aromprofil som kan kopplas till odlings- och framställningssätt.",
+      "source": "npj Science of Food",
+      "url": "https://doi.org/10.1038/s41538-026-00811-w",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "kanslighet-for-aromer-och-fel-hos-vanliga-vindrickare-2026",
+      "title": "Hur lite krävs för att känna en vindoft eller ett fel?",
+      "category": "Smak",
+      "date": "2026-04-20",
+      "location": "",
+      "summary": "Studien mätte tröskelvärden för när vanliga, icke-professionella vindrickare uppfattar utvalda aromer och vinfel. Resultaten visar stora skillnader i känslighet mellan olika doftämnen.",
+      "source": "Journal of Sensory Studies",
+      "url": "https://doi.org/10.1111/joss.70126",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "riesling-samjasning-med-vildjast-och-beta-glukosidas-2026",
+      "title": "Vildjäst med enzymkraft lyfter aromen i Riesling",
+      "category": "Vinframställning",
+      "date": "2026-05-10",
+      "location": "",
+      "summary": "Genom att samjäsa Saccharomyces cerevisiae med icke-Saccharomyces-jäst som har hög beta-glukosidasaktivitet kunde forskarna frigöra fler bundna aromämnen och förbättra kvaliteten på Rieslingvin.",
+      "source": "Current Microbiology",
+      "url": "https://doi.org/10.1007/s00284-026-04887-1",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "vildjast-formar-estrar-och-arom-i-vin-oversikt-2026",
+      "title": "Så formar vildjäst vinets fruktiga estrar – en forskningsöversikt",
+      "category": "Forskning",
+      "date": "2026-07-01",
+      "location": "",
+      "summary": "En systematisk översikt sammanfattar hur icke-Saccharomyces-jästar bildar estrar och modulerar aromen under vinjäsning. Genomgången visar vilka jäststammar som ger tydligast fruktig karaktär.",
+      "source": "Fermentation",
+      "url": "https://doi.org/10.3390/fermentation12070307",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "solpaneler-i-vingarden-mot-klimatforandringar-2026",
+      "title": "Solpaneler över vinstockarna kan mildra klimatstress",
+      "category": "Odling",
+      "date": "2026-05-01",
+      "location": "",
+      "summary": "Studien undersöker hur agrivoltaiska system, där solpaneler placeras över vingården, kan skydda vinrankor mot värme och torka i ett förändrat klimat. Tekniken kan kombinera energiproduktion med hållbar vinodling.",
+      "source": "Advanced Energy and Sustainability Research",
+      "url": "https://doi.org/10.1002/aesr.70185",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "druvsorters-torktolerans-och-aterhamtning-2026",
+      "title": "Vissa druvsorter klarar torka och återhämtar sig bättre",
+      "category": "Odling",
+      "date": "2026-06-01",
+      "location": "",
+      "summary": "Forskarna jämförde hur olika druvsorter anpassar sig fysiologiskt till torka och hur väl de återhämtar sig efter bevattning. Resultaten pekar ut sorter som är mer motståndskraftiga mot vattenbrist.",
+      "source": "Frontiers in Plant Science",
+      "url": "https://doi.org/10.3389/fpls.2026.1757730",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "mattligt-vinintag-och-typ-2-diabetes-2026",
+      "title": "Måttligt vindrickande och typ 2-diabetes – vad säger forskningen?",
+      "category": "Hälsa",
+      "date": "2026-06-15",
+      "location": "",
+      "summary": "Översikten granskar sambandet mellan måttlig vinkonsumtion och risken för typ 2-diabetes. Författarna diskuterar möjliga skyddande mekanismer men betonar att nyttan är beroende av mängd och sammanhang.",
+      "source": "Nutrients",
+      "url": "https://doi.org/10.3390/nu18122006",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "vin-biologiskt-aldrande-och-medelhavskost-2026",
+      "title": "Bortom alkoholen: vin, åldrande och medelhavskontexten",
+      "category": "Hälsa",
+      "date": "2026-05-20",
+      "location": "",
+      "summary": "Artikeln diskuterar hur vin, bortom sitt alkoholinnehåll, kan påverka biologiskt åldrande inom ramen för en medelhavsdiet. Författarna lyfter både bioaktiva ämnen och vikten av dryckesmönster.",
+      "source": "International Journal of Public Health",
+      "url": "https://doi.org/10.3389/ijph.2026.1609910",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "information-styr-betalningsvilja-for-alkoholreducerat-vin-2026",
+      "title": "Rätt information får oss att gilla alkoholreducerat vin mer",
+      "category": "Forskning",
+      "date": "2026-06-15",
+      "location": "",
+      "summary": "Ett experiment i Italien visade att information om vinet påverkar både den upplevda smaken och betalningsviljan för delvis alkoholreducerat vin. Konsumenternas uppfattning styrdes alltså inte bara av smaken i glaset.",
+      "source": "Foods",
+      "url": "https://doi.org/10.3390/foods15122056",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    }
+  ]
+}/*__END_DATA__*/;
+const MONTHS=["jan","feb","mar","apr","maj","jun","jul","aug","sep","okt","nov","dec"];
+function fmtDate(d){if(!d)return"";const p=d.split("-");if(p.length<3)return d;return parseInt(p[2],10)+" "+MONTHS[parseInt(p[1],10)-1]+" "+p[0];}
+function isNew(i){if(!i.added_on)return false;const a=new Date(i.added_on),n=new Date(DB.last_updated||Date.now());return (n-a)/86400000<=7;}
+const items=(DB.items||[]).slice().sort((a,b)=>(b.date||"").localeCompare(a.date||""));
+let activeCat="Alla",query="";
+document.getElementById("desc").textContent=DB.description||"";
+document.getElementById("updated").textContent="Senast uppdaterad: "+fmtDate(DB.last_updated)+" · "+items.length+" poster";
+const cats={},srcs={};
+items.forEach(i=>{cats[i.category]=(cats[i.category]||0)+1;if(i.source)srcs[i.source]=1;});
+const newCount=items.filter(isNew).length;
+document.getElementById("stats").innerHTML=`
+  <div class="stat"><div class="num">${items.length}</div><div class="lbl">Totalt antal poster</div></div>
+  <div class="stat"><div class="num">${newCount}</div><div class="lbl">Nya denna vecka</div></div>
+  <div class="stat"><div class="num">${Object.keys(cats).length}</div><div class="lbl">Kategorier</div></div>
+  <div class="stat"><div class="num">${Object.keys(srcs).length}</div><div class="lbl">Källor</div></div>`;
+const fEl=document.getElementById("filters");
+["Alla",...Object.keys(cats).sort()].forEach(c=>{const b=document.createElement("button");b.className="filter"+(c==="Alla"?" active":"");b.textContent=c==="Alla"?"Alla":c+" ("+cats[c]+")";b.onclick=()=>{activeCat=c;[...fEl.children].forEach(x=>x.classList.remove("active"));b.classList.add("active");render();};fEl.appendChild(b);});
+document.getElementById("search").addEventListener("input",e=>{query=e.target.value.toLowerCase();render();});
+function render(){const grid=document.getElementById("grid");const list=items.filter(i=>{const okC=activeCat==="Alla"||i.category===activeCat;const hay=((i.title||"")+" "+(i.summary||"")+" "+(i.location||"")+" "+(i.category||"")).toLowerCase();return okC&&(query===""||hay.includes(query));});
+if(!list.length){grid.innerHTML='<div class="empty">Inga poster matchar din sökning.</div>';return;}
+grid.innerHTML=list.map(i=>`<article class="card"><div class="top"><span class="cat">${i.category||""}</span>${isNew(i)?'<span class="new">NY</span>':''}</div><h3>${i.title||""}</h3><div class="when">📅 ${fmtDate(i.date)}</div>${i.location?`<div class="where">📍 ${i.location}</div>`:''}<div class="desc">${i.summary||""}</div><div class="foot"><span class="src">${i.source||""}</span>${i.url?`<a class="link" href="${i.url}" target="_blank" rel="noopener">Läs mer →</a>`:''}</div></article>`).join("");}
+render();
+</script>
+</body>
+</html>

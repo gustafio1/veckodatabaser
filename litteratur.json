@@ -1,0 +1,117 @@
+{
+  "topic": "Litteratur",
+  "description": "Boksläpp, litterära priser, författarnyheter och förlagsbranschen. Uppdateras varje vecka.",
+  "schema_version": 1,
+  "last_updated": "2026-07-23",
+  "item_count": 9,
+  "items": [
+    {
+      "id": "taiwan-travelogue-international-booker-2026",
+      "title": "Taiwan Travelogue vinner International Booker Prize 2026",
+      "category": "Priser",
+      "date": "2026-05-19",
+      "location": "London",
+      "summary": "Yáng Shuāng-zǐs roman Taiwan Travelogue har tilldelats International Booker Prize 2026, ett av världens främsta pris för översatt skönlitteratur. Juryn lyfte fram bokens formmässigt uppfinningsrika skildring av imperiets historia genom ett intimt berättande.",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/19/nx-s1-5823677/2026-booker-prize-winner-taiwan-travelogue",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "jon-klassen-alma-priset-2026",
+      "title": "Jon Klassen får Astrid Lindgren Memorial Award 2026",
+      "category": "Priser",
+      "date": "2026-04-15",
+      "location": "Stockholm",
+      "summary": "Den kanadensiske bilderbokskonstnären Jon Klassen tilldelas ALMA-priset 2026, världens största barnlitteraturpris. Tillkännagivandet skedde samtidigt i Stockholm och på barnboksmässan i Bologna, med motiveringen att hans verk utforskar existentiella frågor med subtil humor.",
+      "source": "Publishing Perspectives",
+      "url": "https://publishingperspectives.com/2026/04/canadian-picture-book-artist-jon-klassen-wins-the-2026-astrid-lindgren-memorial-award/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "dave-eggers-contrapposto-utgivning-2026",
+      "title": "Dave Eggers utkommer med nya romanen Contrapposto",
+      "category": "Utgivningar",
+      "date": "2026-06-09",
+      "location": "",
+      "summary": "Dave Eggers nya roman Contrapposto följer konstnärerna Cricket Dibb och Olympia Argyros genom sextiofem år av vänskap, konstnärskap och obesvarad kärlek. Romanen spänner över fem decennier i konstvärlden, från New York till Thailand och Paris.",
+      "source": "Penguin Random House",
+      "url": "https://www.penguinrandomhouse.com/books/768682/contrapposto-by-dave-eggers/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "basta-nya-bocker-juli-2026",
+      "title": "Sommarens hetaste boksläpp i juli listas",
+      "category": "Utgivningar",
+      "date": "2026-07-16",
+      "location": "",
+      "summary": "Bustle listar tio uppmärksammade julisläpp, däribland Jessica Knolls erotiska thriller Helpless, Robinne Lees sapphiska romance Crash Into Me och Nadia Hashimis City of Widows om afghanska kvinnors liv under talibanstyret. Listan blandar romance, litterär skönlitteratur och samhällsaktuella berättelser.",
+      "source": "Bustle",
+      "url": "https://www.bustle.com/entertainment/best-new-books-july-2026",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "troy-onyango-booker-intervju-2026",
+      "title": "Bookerdomaren Troy Onyango om årets bästa översatta romaner",
+      "category": "Författare",
+      "date": "2026-05-22",
+      "location": "",
+      "summary": "Den kenyanske författaren och Lolwe-grundaren Troy Onyango, jurymedlem för International Booker Prize 2026, berättar i en intervju om de sex kortlistade romanerna och årets teman: exil, minne, auktoritärt styre och identitet. Han menar att översatt litteratur vidgar både våra litterära och moraliska horisonter.",
+      "source": "Five Books",
+      "url": "https://fivebooks.com/best-books/the-best-fiction-books-the-2026-international-booker-prize-troy-onyango/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "topplista-juni-skonlitteratur-2026",
+      "title": "Här är Sveriges mest sålda skönlitteratur i juni",
+      "category": "Svenskt",
+      "date": "2026-07-08",
+      "location": "",
+      "summary": "Boktugg publicerar topplistan över den mest sålda skönlitteraturen i Sverige under juni 2026, baserad på försäljningsdata från bokhandeln. Listan ger en bild av vilka romaner svenskarna tar med sig i sommarens läsning.",
+      "source": "Boktugg",
+      "url": "https://www.boktugg.se/2026/07/08/topplista-juni-2026-skonlitteratur/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "nya-svenska-deckare-sommaren-2026",
+      "title": "Ny våg av svenska deckare och thrillers i sommar",
+      "category": "Svenskt",
+      "date": "2026-07-18",
+      "location": "",
+      "summary": "Boktugg sammanställer alla nya deckare, thrillers och spänningsromaner som utkommit i Sverige mellan 25 juni och 8 juli 2026. Genomgången bekräftar att spänningslitteraturen fortsatt dominerar den svenska sommarutgivningen.",
+      "source": "Boktugg",
+      "url": "https://www.boktugg.se/2026/07/18/nya-deckare-thrillers-och-spanningsromaner-25-juni-8-juli-2026/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "bonnierforlagen-okad-forsaljning-2026",
+      "title": "Bonnierförlagen ökar försäljning och resultat",
+      "category": "Bransch",
+      "date": "2026-03-03",
+      "location": "Stockholm",
+      "summary": "Bonnierförlagen redovisar ökad försäljning och förbättrat resultat för verksamhetsåret 2025, ett styrkebesked i en bokbransch präglad av digital omställning. Siffrorna befäster koncernens position som en av Nordens största förlagsgrupper.",
+      "source": "Boktugg",
+      "url": "https://www.boktugg.se/2026/03/03/bonnierforlagen-okar-forsaljningen-och-resultatet-2025/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "volante-hostkatalog-2026",
+      "title": "Volante presenterar höstens utgivning med Sorkin, Wales och Aghion",
+      "category": "Bransch",
+      "date": "2026-06-04",
+      "location": "Stockholm",
+      "summary": "Förlaget Volante presenterar sin höstkatalog 2026 med ett tiotal titlar om ekonomi, hälsa och teknikens omvälvningar, däribland Andrew Ross Sorkins 1929, Wikipediagrundaren Jimmy Wales Sju regler och en essäsamling av Nobelpristagaren Philippe Aghion. Förlaget beskriver en höst där läsarna söker förståelse för vad som händer med kroppar, ekonomier och relationer.",
+      "source": "Volante",
+      "url": "https://newsroom.notified.com/news/425701/hostens-bocker-pa-volante-2026",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    }
+  ]
+}

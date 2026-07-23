@@ -1,0 +1,117 @@
+{
+  "topic": "Hälsa",
+  "description": "Forskning om kost, sömn, folkhälsa och medicin. Uppdateras varje vecka.",
+  "schema_version": 1,
+  "last_updated": "2026-07-23",
+  "item_count": 9,
+  "items": [
+    {
+      "id": "vin-medelhavskost-hjartrisk-spanska-kohorter-2026",
+      "title": "Vin i medelhavskosten: ny studie nyanserar kopplingen till hjärthälsa",
+      "category": "Kost",
+      "date": "2026-02-15",
+      "location": "",
+      "summary": "I två stora spanska kohorter undersöktes hur vinkonsumtion inom ramen för en medelhavskost hänger samman med risken för hjärt-kärlsjukdom. Resultaten pekar på att sambandet är mer komplext än tidigare antaget och beror på mängd och dryckesmönster.",
+      "source": "European Heart Journal",
+      "url": "https://doi.org/10.1093/eurheartj/ehaf1081",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "medelhavskost-astma-vuxna-2026",
+      "title": "Mat för lungorna: medelhavskost kopplas till lägre risk för astma i vuxen ålder",
+      "category": "Kost",
+      "date": "2026-03-10",
+      "location": "",
+      "summary": "En genomgång av sambandet mellan medelhavskost och astma som debuterar i vuxen ålder tyder på att ett kostmönster rikt på grönsaker, frukt, fisk och olivolja kan ha en skyddande effekt på luftvägarna.",
+      "source": "Respirology",
+      "url": "https://doi.org/10.1002/resp.70208",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "finska-d-vitaminstudien-fallrisk-2026",
+      "title": "Stora finska D-vitaminstudien: tillskott minskade inte fallrisken",
+      "category": "Medicin",
+      "date": "2026-01-20",
+      "location": "",
+      "summary": "I den finska D-vitaminstudien fick friska personer i allmänbefolkningen D3-tillskott utan att risken för fall påverkades tydligt. Fynden ifrågasätter rutinmässigt D-vitamintillskott enbart för att förebygga fall.",
+      "source": "Journal of the American Geriatrics Society",
+      "url": "https://doi.org/10.1111/jgs.70295",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "qigong-somn-aldre-2026",
+      "title": "Hälso-qigong förbättrade sömnen hos äldre med sömnproblem",
+      "category": "Sömn",
+      "date": "2026-06-15",
+      "location": "",
+      "summary": "Ett program med hälso-qigong gav bättre sömnkvalitet hos äldre vuxna med sömnstörningar. Den lugna rörelseträningen framstår som ett skonsamt och läkemedelsfritt alternativ för bättre sömn.",
+      "source": "Healthcare",
+      "url": "https://doi.org/10.3390/healthcare14121661",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "traning-somn-alzheimer-metaanalys-2026",
+      "title": "Träning kan förbättra sömnen vid Alzheimers sjukdom",
+      "category": "Sömn",
+      "date": "2026-04-10",
+      "location": "",
+      "summary": "En systematisk översikt och metaanalys visar att fysisk träning kan förbättra sömnkvaliteten hos personer med Alzheimers sjukdom. Resultaten stärker bilden av motion som ett värdefullt komplement i demensvården.",
+      "source": "Frontiers in Medicine",
+      "url": "https://doi.org/10.3389/fmed.2026.1796892",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "tarmflora-depression-fetma-signaturer-2026",
+      "title": "Tarmflorans mönster kopplas till både depression och fetma",
+      "category": "Forskning",
+      "date": "2026-02-05",
+      "location": "",
+      "summary": "Forskare identifierade specifika signaturer i tarmens mikrobiom som är förknippade med både depression och fetma. Fynden pekar på gemensamma biologiska trådar mellan psykisk hälsa och ämnesomsättning.",
+      "source": "mSystems",
+      "url": "https://doi.org/10.1128/msystems.01263-25",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "tarmflora-psykisk-halsa-friska-vuxna-2026",
+      "title": "Även hos friska vuxna speglar tarmfloran psykiskt mående",
+      "category": "Forskning",
+      "date": "2026-04-20",
+      "location": "",
+      "summary": "En studie av friska vuxna fann att skillnader i tarmens mikrobiom hängde samman med symtom på psykisk ohälsa som stress och nedstämdhet. Det tyder på att kopplingen mellan tarm och hjärna finns redan innan sjukdom uppstår.",
+      "source": "Brain Sciences",
+      "url": "https://doi.org/10.3390/brainsci16040382",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "fysisk-aktivitet-skorhet-dodlighet-kohorter-2026",
+      "title": "Fysisk aktivitet skyddar även sköra äldre mot förtida död",
+      "category": "Folkhälsa",
+      "date": "2026-01-15",
+      "location": "",
+      "summary": "I fem befolkningsbaserade kohorter undersöktes samspelet mellan fysisk aktivitet och skörhet hos äldre. Aktiva individer hade lägre dödlighet oavsett skörhetsgrad, vilket talar för att rörelse är viktig även för de allra mest sårbara.",
+      "source": "The Lancet Regional Health – Western Pacific",
+      "url": "https://doi.org/10.1016/j.lanwpc.2025.101780",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "muskelstyrka-dodlighet-aldre-kvinnor-2026",
+      "title": "Muskelstyrka kopplas till längre liv hos kvinnor upp i 90-årsåldern",
+      "category": "Folkhälsa",
+      "date": "2026-01-10",
+      "location": "",
+      "summary": "En studie av kvinnor mellan 63 och 99 år fann att högre muskelstyrka var förknippad med lägre dödlighet. Resultaten understryker värdet av styrketräning även högt upp i åldrarna.",
+      "source": "JAMA Network Open",
+      "url": "https://doi.org/10.1001/jamanetworkopen.2025.59367",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    }
+  ]
+}

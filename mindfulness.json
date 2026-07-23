@@ -1,0 +1,117 @@
+{
+  "topic": "Mindfulness",
+  "description": "Forskning om meditation, metoder, appar, retreater och mindfulness i vardagen. Uppdateras varje vecka.",
+  "schema_version": 1,
+  "last_updated": "2026-07-23",
+  "item_count": 9,
+  "items": [
+    {
+      "id": "sju-dagars-meditation-forandrar-hjarnan-2026",
+      "title": "Sju dagars meditation räcker för att förändra hjärnan, visar ny studie",
+      "category": "Forskning",
+      "date": "2026-04-06",
+      "location": "",
+      "summary": "Forskare rapporterar att redan en veckas regelbunden meditation ger mätbara förändringar i hjärnans aktivitet och kopplingar. Fynden tyder på att även korta meditationsprogram kan påverka hjärnan snabbare än man tidigare trott.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/04/260406192913.htm",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "meditation-hjarnaktivitet-topp-sju-minuter-2026",
+      "title": "Hjärnaktiviteten förändras snabbt vid meditation – med en tydlig topp efter sju minuter",
+      "category": "Metoder",
+      "date": "2026-04-07",
+      "location": "",
+      "summary": "En ny studie visar att meditation påverkar hjärnans aktivitet redan inom några minuter, med en märkbar topp runt sju minuter in i övningen. Resultaten kan hjälpa till att utforma effektivare och kortare meditationspass.",
+      "source": "Medical Xpress",
+      "url": "https://medicalxpress.com/news/2026-04-meditation-brain-quickly-peak-minutes.html",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "munkstudie-meditation-neural-dynamik-2026",
+      "title": "Studie av tolv munkar visar att djup meditation höjer hjärnaktiviteten",
+      "category": "Forskning",
+      "date": "2026-02-12",
+      "location": "",
+      "summary": "Genom att mäta hjärnaktivitet hos tolv erfarna munkar fann forskare att meditation snarare höjer än dämpar hjärnans aktivitet och omformar dess neurala dynamik. Studien utmanar bilden av meditation som ett rent avslappnat vilotillstånd.",
+      "source": "Medical Xpress",
+      "url": "https://medicalxpress.com/news/2026-02-monks-meditation-heightens-brain-reshaping.html",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "headspace-somn-randomiserad-studie-2026",
+      "title": "Randomiserad studie: Headspace-appen kan förbättra sömnen",
+      "category": "Appar",
+      "date": "2026-01-20",
+      "location": "",
+      "summary": "En randomiserad kontrollerad studie publicerad i Journal of Medical Internet Research undersöker hur meditationsappen Headspace påverkar sömnkvaliteten. Resultaten ger vetenskapligt stöd för att appbaserad mindfulness kan hjälpa personer med sömnbesvär.",
+      "source": "Journal of Medical Internet Research",
+      "url": "https://www.jmir.org/2026/1/e56287",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "meditationsappar-hjalper-oss-koppla-ner-2026",
+      "title": "Meditationsappar 2026: kan de hjälpa oss att verkligen koppla ner?",
+      "category": "Appar",
+      "date": "2026-03-05",
+      "location": "",
+      "summary": "En genomgång av årets meditationsappar, däribland Calm och Headspace, granskar hur AI-funktioner och personalisering förändrar digital mindfulness. Artikeln diskuterar också paradoxen i att använda skärmar för att varva ner från skärmar.",
+      "source": "Editorialge",
+      "url": "https://editorialge.com/meditation-apps-in-2026/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "mbsr-somn-tonaringar-studie-2026",
+      "title": "Mindfulnessbaserad stressreduktion förbättrar sömn och minskar skolstress hos tonåringar",
+      "category": "Forskning",
+      "date": "2026-03-10",
+      "location": "",
+      "summary": "En randomiserad kontrollerad studie i Frontiers in Psychology visar att MBSR-träning kan förbättra sömnkvaliteten och minska akademisk stress hos tonåringar. Fynden stärker stödet för mindfulness som verktyg för ungas psykiska hälsa.",
+      "source": "Frontiers in Psychology",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1734353/full",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "wellnessturism-mindfulness-retreater-2026",
+      "title": "Wellnessturismen blomstrar 2026 – mindfulness och retreater omdefinierar lyxresandet",
+      "category": "Retreater",
+      "date": "2026-05-18",
+      "location": "",
+      "summary": "Den globala wellnessturismen växer kraftigt under 2026, där resenärer i allt högre grad söker meditationsretreater, spa-anläggningar och naturnära vistelser. Trenden pekar mot att holistiskt välbefinnande blivit en central del av resebranschen.",
+      "source": "Travel And Tour World",
+      "url": "https://www.travelandtourworld.com/news/article/beyond-escape-to-enlightenment-global-wellness-tourism-blooms-in-2026-redefining-luxury-travel-through-mindfulness-spa-sanctuaries-nature-retreats-holistic-well-being-journeys/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "foretag-satsar-stort-pa-mindfulness-2026",
+      "title": "Därför satsar företag stort på mindfulness under 2026",
+      "category": "Arbetsliv",
+      "date": "2026-02-20",
+      "location": "",
+      "summary": "Allt fler arbetsgivare inför mindfulnessprogram på arbetsplatsen, med hänvisning till forskning om ökad produktivitet och minskad stress. Artikeln går igenom varför investeringar i medarbetarnas mentala välmående ses som lönsamma 2026.",
+      "source": "Yogajala",
+      "url": "https://yogajala.com/workplace-mindfulness-programs-2026-productivity-research/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "mindfulness-i-amerikanska-skolor-2026",
+      "title": "Mindfulness vinner mark i amerikanska skolor – men innehållet varierar stort",
+      "category": "Arbetsliv",
+      "date": "2026-01-15",
+      "location": "USA",
+      "summary": "Allt fler amerikanska skolor inför mindfulnessundervisning, men enligt The Conversation är det oklart vad eleverna faktiskt lär sig eftersom programmen skiljer sig kraftigt åt. Forskare efterlyser tydligare standarder och utvärdering av skolbaserad mindfulness.",
+      "source": "The Conversation",
+      "url": "https://theconversation.com/mindfulness-is-gaining-traction-in-american-schools-but-it-isnt-clear-what-students-are-learning-261247",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    }
+  ]
+}

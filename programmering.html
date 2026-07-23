@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<title>Programmering – Veckodatabas</title>
+<style>
+  :root{--bg:#0f1226;--card:#1a1f3a;--card-h:#222848;--accent:#7c6cff;--accent2:#ff7ab8;--text:#eef0ff;--muted:#9aa0c7;--border:#2b3160;--chip:#2a2f55;}
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;background:linear-gradient(160deg,#0f1226,#161a35);color:var(--text);min-height:100vh;padding:32px 20px 64px;}
+  .wrap{max-width:1080px;margin:0 auto;}
+  .eyebrow{color:var(--accent2);font-weight:700;letter-spacing:.08em;text-transform:uppercase;font-size:12px;}
+  h1{font-size:34px;margin:6px 0 8px;}
+  .sub{color:var(--muted);font-size:15px;max-width:640px;line-height:1.5;}
+  .meta{color:var(--muted);font-size:13px;margin-top:10px;}
+  .stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px;margin:26px 0;}
+  .stat{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:16px 18px;}
+  .stat .num{font-size:28px;font-weight:800;color:var(--accent);}
+  .stat .lbl{color:var(--muted);font-size:13px;margin-top:2px;}
+  .controls{display:flex;flex-wrap:wrap;gap:12px;align-items:center;margin-bottom:22px;}
+  #search{flex:1;min-width:220px;background:var(--card);border:1px solid var(--border);color:var(--text);padding:11px 14px;border-radius:10px;font-size:14px;}
+  #search::placeholder{color:var(--muted);}
+  .filters{display:flex;flex-wrap:wrap;gap:8px;}
+  .filter{background:var(--chip);border:1px solid var(--border);color:var(--muted);padding:8px 14px;border-radius:999px;cursor:pointer;font-size:13px;transition:.15s;}
+  .filter:hover{color:var(--text);}
+  .filter.active{background:var(--accent);border-color:var(--accent);color:#fff;}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:16px;}
+  .card{background:var(--card);border:1px solid var(--border);border-radius:16px;padding:20px;transition:.15s;display:flex;flex-direction:column;gap:10px;}
+  .card:hover{background:var(--card-h);transform:translateY(-2px);border-color:var(--accent);}
+  .top{display:flex;justify-content:space-between;align-items:flex-start;gap:10px;}
+  .cat{font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.05em;color:var(--accent2);background:rgba(255,122,184,.12);padding:4px 9px;border-radius:6px;white-space:nowrap;}
+  .new{font-size:10px;font-weight:700;color:#0f1226;background:#6cf09a;padding:3px 7px;border-radius:5px;}
+  .card h3{font-size:17px;line-height:1.3;}
+  .when{color:var(--accent);font-size:13px;font-weight:600;}
+  .where{color:var(--muted);font-size:13px;}
+  .desc{color:var(--text);font-size:14px;line-height:1.5;opacity:.92;}
+  .foot{display:flex;justify-content:space-between;align-items:center;margin-top:auto;padding-top:8px;gap:10px;}
+  .src{color:var(--muted);font-size:12px;}
+  a.link{color:var(--accent);font-size:13px;text-decoration:none;font-weight:600;white-space:nowrap;}
+  a.link:hover{text-decoration:underline;}
+  .empty{color:var(--muted);text-align:center;padding:40px;grid-column:1/-1;}
+  footer.page{margin-top:40px;color:var(--muted);font-size:12px;text-align:center;line-height:1.6;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="eyebrow">Veckodatabas</div>
+    <h1>⌨️ Programmering</h1>
+    <p class="sub" id="desc"></p>
+    <p class="meta" id="updated"></p>
+  </header>
+  <section class="stats" id="stats"></section>
+  <div class="controls">
+    <input id="search" type="text" placeholder="Sök i databasen…">
+    <div class="filters" id="filters"></div>
+  </div>
+  <section class="grid" id="grid"></section>
+  <footer class="page">
+    Automatiskt uppdaterad varje vecka · Källdata lagras i <code>programmering.json</code><br>
+    Nya poster läggs till utan dubbletter. Vid få nyheter kompletteras med äldre poster.
+  </footer>
+</div>
+<script>
+const DB = /*__DATA__*/{
+  "topic": "Programmering",
+  "description": "Nyheter för utvecklare: språk, ramverk, verktyg, AI-kodning och öppen källkod. Uppdateras varje vecka.",
+  "schema_version": 1,
+  "last_updated": "2026-07-23",
+  "item_count": 9,
+  "items": [
+    {
+      "id": "typescript-7-nativ-kompilator-2026",
+      "title": "TypeScript 7 med Go-baserad nativ kompilator blir allmänt tillgänglig",
+      "category": "Språk",
+      "date": "2026-07-10",
+      "location": "",
+      "summary": "Microsoft har släppt TypeScript 7 vars kompilator skrivits om i Go, vilket ger upp till tio gånger snabbare typkontroll och byggen. Skiftet beskrivs som den största förändringen i språkets historia och blir grunden för TypeScripts framtid.",
+      "source": "ADTmag",
+      "url": "https://adtmag.com/articles/2026/07/10/microsoft-bets-typescript-future-on-a-native-compiler.aspx",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "python-3-15-beta-3-2026",
+      "title": "Python 3.15 når beta 3 efter funktionsfrysning",
+      "category": "Språk",
+      "date": "2026-06-17",
+      "location": "",
+      "summary": "Python-teamet har publicerat tredje betan av Python 3.15, som nu är funktionsfryst inför den stabila releasen i oktober. Utvecklare uppmanas testa sina paket mot betan för att hitta problem i tid.",
+      "source": "Python Insider",
+      "url": "https://blog.python.org/2026/06/python-3150-beta-3/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "github-copilot-app-skrivbordsapp-2026",
+      "title": "GitHub lanserar fristående Copilot-app för AI-agenter på skrivbordet",
+      "category": "AI-kodning",
+      "date": "2026-06-08",
+      "location": "",
+      "summary": "GitHub har släppt en egen desktopapp för Copilot som fungerar som ett nav där utvecklare kan starta, övervaka och orkestrera flera AI-kodningsagenter parallellt. Appen markerar GitHubs satsning på ett agentcentrerat arbetsflöde bortom IDE:n.",
+      "source": "Help Net Security",
+      "url": "https://www.helpnetsecurity.com/2026/06/08/github-copilot-app-ai-coding-agents/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "copilot-agent-jetbrains-2026",
+      "title": "Copilot Agent nu tillgänglig i JetBrains AI Assistant",
+      "category": "AI-kodning",
+      "date": "2026-06-30",
+      "location": "",
+      "summary": "GitHub har gjort Copilots agentläge tillgängligt direkt i JetBrains AI Assistant, så att utvecklare i IDE:er som IntelliJ IDEA kan låta agenten utföra fleregsuppgifter i kodbasen. Tidigare i juni fick JetBrains-användare även Claude som agentleverantör i förhandsversion.",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-06-30-copilot-agent-is-now-available-in-jetbrains-ai-assistant/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "angular-22-slappt-2026",
+      "title": "Angular 22 släppt med fokus på signaler och AI-vänlig utveckling",
+      "category": "Ramverk",
+      "date": "2026-06-01",
+      "location": "",
+      "summary": "Googles ramverk Angular har nått version 22, en release som fördjupar den signalbaserade reaktivitetsmodellen och moderniserar utvecklarupplevelsen. Uppgraderingen beskrivs som ett stort kliv framåt för ramverkets prestanda och ergonomi.",
+      "source": "Medium",
+      "url": "https://medium.com/@amit.mahida9292/angular-22-the-release-that-finally-makes-angular-feel-10-years-ahead-9ea7fdb7b994",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "vite-8-rolldown-snabbare-byggen-2026",
+      "title": "Vite 8 med Rust-baserade Rolldown lovar 10–30 gånger snabbare byggen",
+      "category": "Verktyg",
+      "date": "2026-03-16",
+      "location": "",
+      "summary": "Vite-teamet har släppt version 8 av det populära frontendbyggverktyget, som nu använder den Rust-skrivna buntaren Rolldown som standard. Enligt teamet ger bytet 10 till 30 gånger snabbare produktionsbyggen i stora projekt.",
+      "source": "The Register",
+      "url": "https://www.theregister.com/2026/03/16/vite_8_rolldown/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "nodejs-26-temporal-standard-2026",
+      "title": "Node.js 26 släppt med Temporal-API aktiverat som standard",
+      "category": "Verktyg",
+      "date": "2026-05-05",
+      "location": "",
+      "summary": "Node.js 26 är ute som aktuell version och aktiverar det nya Temporal-API:et för datum- och tidshantering som standard. Releasen innehåller även uppdaterad V8-motor och fortsatta förbättringar av inbyggt TypeScript-stöd.",
+      "source": "Node.js Blog",
+      "url": "https://nodejs.org/en/blog/release/v26.0.0",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "rust-1-96-slappt-2026",
+      "title": "Rust 1.96.0 släppt med nya stabiliserade funktioner",
+      "category": "Språk",
+      "date": "2026-05-28",
+      "location": "",
+      "summary": "Rust-teamet har publicerat version 1.96.0 av språket, med en rad stabiliserade API:er och förbättringar för utvecklare. En uppföljande punktrelease, 1.96.1, kom den 30 juni med felrättningar.",
+      "source": "Rust Blog",
+      "url": "https://blog.rust-lang.org/2026/05/28/Rust-1.96.0/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "linux-7-0-bekraftad-2026",
+      "title": "Linus Torvalds bekräftar att nästa Linuxkärna blir version 7.0",
+      "category": "Öppen källkod",
+      "date": "2026-02-09",
+      "location": "",
+      "summary": "I samband med att Linux 6.19 släpptes bekräftade Linus Torvalds att nästa stora kärnversion får numret 7.0, med release planerad till mitten av april 2026. Versionshoppet följer Torvalds princip att inte låta minorversionerna växa sig för stora.",
+      "source": "Phoronix",
+      "url": "https://www.phoronix.com/news/Linux-7.0-Is-Next",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    }
+  ]
+}/*__END_DATA__*/;
+const MONTHS=["jan","feb","mar","apr","maj","jun","jul","aug","sep","okt","nov","dec"];
+function fmtDate(d){if(!d)return"";const p=d.split("-");if(p.length<3)return d;return parseInt(p[2],10)+" "+MONTHS[parseInt(p[1],10)-1]+" "+p[0];}
+function isNew(i){if(!i.added_on)return false;const a=new Date(i.added_on),n=new Date(DB.last_updated||Date.now());return (n-a)/86400000<=7;}
+const items=(DB.items||[]).slice().sort((a,b)=>(b.date||"").localeCompare(a.date||""));
+let activeCat="Alla",query="";
+document.getElementById("desc").textContent=DB.description||"";
+document.getElementById("updated").textContent="Senast uppdaterad: "+fmtDate(DB.last_updated)+" · "+items.length+" poster";
+const cats={},srcs={};
+items.forEach(i=>{cats[i.category]=(cats[i.category]||0)+1;if(i.source)srcs[i.source]=1;});
+const newCount=items.filter(isNew).length;
+document.getElementById("stats").innerHTML=`
+  <div class="stat"><div class="num">${items.length}</div><div class="lbl">Totalt antal poster</div></div>
+  <div class="stat"><div class="num">${newCount}</div><div class="lbl">Nya denna vecka</div></div>
+  <div class="stat"><div class="num">${Object.keys(cats).length}</div><div class="lbl">Kategorier</div></div>
+  <div class="stat"><div class="num">${Object.keys(srcs).length}</div><div class="lbl">Källor</div></div>`;
+const fEl=document.getElementById("filters");
+["Alla",...Object.keys(cats).sort()].forEach(c=>{const b=document.createElement("button");b.className="filter"+(c==="Alla"?" active":"");b.textContent=c==="Alla"?"Alla":c+" ("+cats[c]+")";b.onclick=()=>{activeCat=c;[...fEl.children].forEach(x=>x.classList.remove("active"));b.classList.add("active");render();};fEl.appendChild(b);});
+document.getElementById("search").addEventListener("input",e=>{query=e.target.value.toLowerCase();render();});
+function render(){const grid=document.getElementById("grid");const list=items.filter(i=>{const okC=activeCat==="Alla"||i.category===activeCat;const hay=((i.title||"")+" "+(i.summary||"")+" "+(i.location||"")+" "+(i.category||"")).toLowerCase();return okC&&(query===""||hay.includes(query));});
+if(!list.length){grid.innerHTML='<div class="empty">Inga poster matchar din sökning.</div>';return;}
+grid.innerHTML=list.map(i=>`<article class="card"><div class="top"><span class="cat">${i.category||""}</span>${isNew(i)?'<span class="new">NY</span>':''}</div><h3>${i.title||""}</h3><div class="when">📅 ${fmtDate(i.date)}</div>${i.location?`<div class="where">📍 ${i.location}</div>`:''}<div class="desc">${i.summary||""}</div><div class="foot"><span class="src">${i.source||""}</span>${i.url?`<a class="link" href="${i.url}" target="_blank" rel="noopener">Läs mer →</a>`:''}</div></article>`).join("");}
+render();
+</script>
+</body>
+</html>

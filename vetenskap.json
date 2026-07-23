@@ -1,0 +1,105 @@
+{
+  "topic": "Vetenskap",
+  "description": "Ny forskning inom fysik, medicin, biologi, klimat och nya upptäckter. Uppdateras varje vecka.",
+  "schema_version": 1,
+  "last_updated": "2026-07-23",
+  "item_count": 8,
+  "items": [
+    {
+      "id": "kvantljud-kommunikation-2026",
+      "title": "Forskare bygger kvantljudenhet som kan förändra kommunikationsteknik",
+      "category": "Fysik",
+      "date": "2026-06-26",
+      "location": "",
+      "summary": "Fysiker har skapat en enhet som utnyttjar kvantmekaniska ljudvågor, ett steg som kan öppna nya vägar för framtidens kommunikationssystem. Tekniken visar hur akustik kan kopplas till kvantteknologi.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260626030435.htm",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "kvantdatorer-fusionsbransle-2026",
+      "title": "Kvantdatorer simulerar fusionsbränslematerial för första gången",
+      "category": "Fysik",
+      "date": "2026-07-14",
+      "location": "",
+      "summary": "Forskare har för första gången använt kvantdatorer för att modellera nio olika konfigurationer av material för fusionsbränsle. Resultatet visar hur kvantberäkningar kan påskynda utvecklingen av fusionsenergi.",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-07-quantum-fusion-fuel-material-configurations.html",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "glp1-brostcancer-risk-2026",
+      "title": "GLP-1-läkemedel kopplas till lägre risk för bröstcancer i stor studie",
+      "category": "Medicin",
+      "date": "2026-06-02",
+      "location": "",
+      "summary": "En stor kohortstudie som presenterades i juni 2026 visar att användare av GLP-1-läkemedel som Ozempic hade markant lägre förekomst av bröstcancer. Sambandet verkar inte helt förklaras av viktnedgången i sig.",
+      "source": "The ASCO Post",
+      "url": "https://ascopost.com/news/june-2026/glp-1-ras-associated-with-lower-breast-cancer-incidence/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "glp1-fysisk-aktivitet-2026",
+      "title": "Ozempic-användare rör sig mindre visar ny forskning",
+      "category": "Medicin",
+      "date": "2026-06-14",
+      "location": "",
+      "summary": "En ny studie visar att personer som tar GLP-1-baserade viktminskningsläkemedel började röra på sig mindre i vardagen. Fyndet väcker frågor om hur läkemedlen påverkar energinivåer och långsiktig hälsa.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260614011841.htm",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "nya-djuphavsarter-brasilien-2026",
+      "title": "31 nya djuphavsarter upptäckta utanför Brasiliens kust",
+      "category": "Biologi",
+      "date": "2026-06-08",
+      "location": "Brasilien",
+      "summary": "Under en två veckor lång expedition i Sydatlanten identifierade marinbiologer 31 tidigare obeskrivna arter i djuphavet utanför Brasilien. Upptäckterna belyser hur outforskad havets mellan- och djupvattenmiljö fortfarande är.",
+      "source": "Bigelow Laboratory for Ocean Sciences",
+      "url": "https://www.bigelow.org/news/articles/2026-06-08.html",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "varmerekord-varldshaven-2026",
+      "title": "Världshavens temperatur når nytt rekord",
+      "category": "Klimat",
+      "date": "2026-07-03",
+      "location": "",
+      "summary": "Nya mätningar visar att havstemperaturerna globalt har nått rekordnivåer sommaren 2026, med allvarliga konsekvenser för ekosystem och väderextremer. Forskare varnar för att uppvärmningen av haven accelererar.",
+      "source": "Carbon Brief",
+      "url": "https://www.carbonbrief.org/debriefed-3-july-2026-us-faces-scorching-independence-day-record-ocean-temperatures-vietnams-ev-surge/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "varmebolja-europa-overdodlighet-2026",
+      "title": "Över 10 000 dödsfall i Europa under junis värmeböljor",
+      "category": "Klimat",
+      "date": "2026-07-13",
+      "location": "Europa",
+      "summary": "Ny statistik visar att Europa registrerade omkring 10 000 fler dödsfall än normalt under värmeböljorna i juni 2026. Forskare pekar på klimatförändringen som en avgörande faktor bakom de extrema temperaturerna.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/my-europe/2026/07/13/europe-records-10000-excess-deaths-during-june-heatwaves-new-data-shows",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "tel-kom-aziza-gravfynd-2026",
+      "title": "Stora arkeologiska fynd vid antika Tell Kom Aziza",
+      "category": "Upptäckter",
+      "date": "2026-06-18",
+      "location": "Egypten",
+      "summary": "Arkeologer har rapporterat betydande nya upptäckter vid den antika platsen Tell Kom Aziza, däribland gravar från den grekisk-romerska perioden. Fynden ger nya insikter i områdets begravningsseder och historia.",
+      "source": "HeritageDaily",
+      "url": "https://www.heritagedaily.com/2026/06/major-new-discoveries-at-the-ancient-site-of-tel-kom-aziza/158275",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    }
+  ]
+}

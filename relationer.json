@@ -1,0 +1,105 @@
+{
+  "topic": "Relationer",
+  "description": "Forskning om kärlek, familj, dejting och social gemenskap. Uppdateras varje vecka.",
+  "schema_version": 1,
+  "last_updated": "2026-07-23",
+  "item_count": 8,
+  "items": [
+    {
+      "id": "oarlighet-parforhallanden-forskning-2026",
+      "title": "Ny forskning kartlägger oärlighet i parförhållanden – och dess konsekvenser",
+      "category": "Kärlek",
+      "date": "2026-06-26",
+      "location": "Köpenhamn",
+      "summary": "En avhandling vid Köpenhamns universitet av Rachele Mazzini visar att oärlighet mellan partner ofta följer mönster som onda cirklar av ömsesidigt ljugande eller en slow burn där spänning övergår i skuld. Studien visar samtidigt att lögner ibland används för att skydda relationen och undvika onödiga konflikter.",
+      "source": "Københavns Universitet",
+      "url": "https://psy.ku.dk/nyheder/2026/ny-forskning-kortlaegger-uaerlighed-i-parforholdet-og-konsekvenserne-af-den/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "svenskar-umgas-mindre-ensamhet-2026",
+      "title": "Kartläggning av ensamhet visar att svenskar umgås allt mindre",
+      "category": "Samhälle",
+      "date": "2026-06-05",
+      "location": "Sverige",
+      "summary": "En ny kartläggning visar att svenskarna umgås mindre än tidigare och att vänskap och kärlek värderas lägre som livsvärden. Trots det minskade umgänget ligger den upplevda ensamheten stabilt jämfört med för tio år sedan.",
+      "source": "forskning.se",
+      "url": "https://forskning.se/2026/06/05/minskande-umgange/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "bra-relationer-valmaende-forskning-2026",
+      "title": "Bra relationer får oss att må bra – viktigare än inkomst",
+      "category": "Forskning",
+      "date": "2026-06-01",
+      "location": "",
+      "summary": "Ny forskning visar att personlighet och sociala band betyder mer för vårt välbefinnande än inkomst. Studien pekar också på ett generationsgap där yngre vuxna mår psykiskt sämre än äldre.",
+      "source": "forskning.se",
+      "url": "https://forskning.se/2026/06/01/bra-relationer-far-oss-att-ma-bra/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "mammor-forlorar-ekonomiskt-separation-2026",
+      "title": "Mammor förlorar mest ekonomiskt vid en separation",
+      "category": "Familj",
+      "date": "2026-04-30",
+      "location": "Sverige",
+      "summary": "Forskning visar att kvinnor i jämställda parförhållanden klarar sig bättre ekonomiskt efter en separation. Mammor som tar huvudansvaret för barnen löper däremot större risk för ekonomisk utsatthet när förhållandet tar slut.",
+      "source": "forskning.se",
+      "url": "https://forskning.se/2026/04/30/mammor-forlorar-mest-ekonomiskt-vid-en-separation/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "varannan-vecka-livet-foraldrar-2026",
+      "title": "Tre återkommande teman när föräldrar berättar om varannan vecka-livet",
+      "category": "Familj",
+      "date": "2026-03-13",
+      "location": "Sverige",
+      "summary": "En analys av föräldrars berättelser i onlineforum om växelvis boende visar tre återkommande teman: konflikter mellan föräldrarna, barnens välmående och jämställdhet. Studien ger inblick i hur separerade familjer hanterar vardagen med barn på varannan vecka.",
+      "source": "forskning.se",
+      "url": "https://forskning.se/2026/03/13/varannan-vecka-livet/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "interaktiv-hoglasning-bebis-foraldrar-2026",
+      "title": "Interaktiv högläsning kan stärka relationen mellan bebis och föräldrar",
+      "category": "Forskning",
+      "date": "2026-02-18",
+      "location": "",
+      "summary": "En studie från Linnéuniversitetet följde föräldrar som använde dialogläsning med bebisar i åldern 8–18 månader. Föräldrarna upplevde starkare band till barnen och blev mer uppmärksamma på deras signaler, samtidigt som barnen kommunicerade mer än tidigare.",
+      "source": "forskning.se",
+      "url": "https://forskning.se/2026/02/18/interaktiv-hoglasning-relation-spadbarn-foraldrar/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "motsattningar-natdejting-man-kvinnor-2026",
+      "title": "Trots kärlekslängtan – motsättningar mellan män och kvinnor som nätdejtar",
+      "category": "Dejting",
+      "date": "2025-11-06",
+      "location": "Örebro",
+      "summary": "I en studie från Örebro universitet intervjuade forskaren Lena Gunnarsson långvarigt ofrivilligt singlar om deras erfarenheter av dejtingappar. Männen kände sig bortvalda och ignorerade medan kvinnorna möttes av aggressiva och kränkande meddelanden – ett mönster som speglar bredare könsdynamik på nätet.",
+      "source": "forskning.se",
+      "url": "https://forskning.se/2025/11/06/motsattningar-man-kvinnor-dejtingappar/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "man-vald-partner-saknar-stod-2026",
+      "title": "Män som utsätts för våld av en partner saknar stöd",
+      "category": "Samhälle",
+      "date": "2025-10-13",
+      "location": "Sverige",
+      "summary": "Forskning visar att män som utsätts för våld i nära relationer ofta står utan stöd från samhället. Studien lyfter behovet av bättre stödstrukturer för en grupp vars utsatthet sällan uppmärksammas.",
+      "source": "forskning.se",
+      "url": "https://forskning.se/2025/10/13/man-som-utsatts-for-vald-av-en-partner-saknar-stod/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    }
+  ]
+}

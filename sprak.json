@@ -1,0 +1,117 @@
+{
+  "topic": "Språk",
+  "description": "Forskning om språkinlärning, svenskan, språkteknik och flerspråkighet. Uppdateras varje vecka.",
+  "schema_version": 1,
+  "last_updated": "2026-07-23",
+  "item_count": 9,
+  "items": [
+    {
+      "id": "onskvarda-svarigheter-glosinlarning-2026",
+      "title": "Svåra repetitioner ger starkare glosminne",
+      "category": "Inlärning",
+      "date": "2026-03-15",
+      "location": "",
+      "summary": "En experimentell studie visar att så kallade önskvärda svårigheter – att anstränga sig att plocka fram glosor ur minnet vid repetition – stärker långtidsinlärningen av ord på främmande språk. Resultaten talar för aktiv framplockning snarare än passiv omläsning när gamla glosor ska fräschas upp.",
+      "source": "Journal of Experimental Psychology: Learning, Memory, and Cognition",
+      "url": "https://doi.org/10.1037/xlm0001491",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "datorspel-ordforrad-motivation-2026",
+      "title": "Datorspel bygger ordförråd på köpet",
+      "category": "Inlärning",
+      "date": "2026-02-10",
+      "location": "",
+      "summary": "Studien undersöker hur språkstudenter lär sig ord i förbifarten genom digitala spel och finner att speltid, motivation och språkängslan förutsäger hur mycket ordförråd som fastnar. Spelande framstår som en informell men verksam väg in i ett nytt språk.",
+      "source": "Frontiers in Psychology",
+      "url": "https://doi.org/10.3389/fpsyg.2026.1798613",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "textatervinning-svensk-press-2026",
+      "title": "Gamla nyheter och återvunnen poesi i svensk press",
+      "category": "Svenskan",
+      "date": "2026-01-20",
+      "location": "",
+      "summary": "Med storskalig textanalys kartläggs hur svenskspråkiga tidningar under lång tid återanvände nyhetstexter och dikter som vandrade mellan publikationer. Studien ger en ny bild av hur texter, formuleringar och språkbruk spreds i den svenska pressens historia.",
+      "source": "De Gruyter",
+      "url": "https://doi.org/10.1515/9783111639420-005",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "larare-tva-nationalsprak-flersprakighet-2026",
+      "title": "Lärares syn på flerspråkighet i ett land med två nationalspråk",
+      "category": "Flerspråkighet",
+      "date": "2026-04-05",
+      "location": "",
+      "summary": "Studien undersöker hur lärare uppfattar elevers flerspråkighet i en kontext med två nationalspråk, där bland annat svenskans ställning vid sidan av majoritetsspråket aktualiseras. Lärarnas attityder visar sig vara avgörande för hur elevernas hela språkliga repertoar tas tillvara i klassrummet.",
+      "source": "Apples – Journal of Applied Language Studies",
+      "url": "https://doi.org/10.47862/apples.155612",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "sprakmodeller-har-lart-sig-sprak-2026",
+      "title": "Har AI-modellerna verkligen lärt sig använda språk?",
+      "category": "Språkteknik",
+      "date": "2026-05-12",
+      "location": "",
+      "summary": "I en uppmärksammad debattartikel argumenteras för att stora språkmodeller faktiskt har lärt sig att använda språk – inte bara att härma det – vilket utmanar etablerade teorier inom lingvistiken. Frågan om vad modellernas färdigheter säger om mänskligt språk splittrar forskarvärlden.",
+      "source": "Behavioral and Brain Sciences",
+      "url": "https://doi.org/10.1017/s0140525x26104804",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "tvasprakighet-motstandskraft-aldrande-2026",
+      "title": "Tvåspråkighet skyddade äldres tankeförmåga efter covid-19",
+      "category": "Flerspråkighet",
+      "date": "2026-03-01",
+      "location": "",
+      "summary": "Enligt studien uppvisade tvåspråkiga äldre bättre motståndskraft i exekutiva funktioner efter genomgången covid-19 än enspråkiga jämnåriga. Fynden stärker tanken att livslång flerspråkighet bygger upp en kognitiv reserv som hjälper hjärnan att stå emot påfrestningar.",
+      "source": "Proceedings of the National Academy of Sciences",
+      "url": "https://doi.org/10.1073/pnas.2532470123",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "tvasprakiga-skolbarn-wales-2026",
+      "title": "Så tänker tvåspråkiga skolbarn i Wales",
+      "category": "Flerspråkighet",
+      "date": "2026-06-01",
+      "location": "",
+      "summary": "Studien följer barn i walesiska grundskolor som håller på att bli tvåspråkiga och undersöker hur deras exekutiva funktioner – som impulskontroll och arbetsminne – utvecklas. Resultaten bidrar till den pågående debatten om huruvida tvåspråkighet ger kognitiva fördelar redan i skolåldern.",
+      "source": "Bilingualism: Language and Cognition",
+      "url": "https://doi.org/10.1017/s1366728926101357",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "enggano-hotat-sprak-bevarande-2026",
+      "title": "Öbor räddar sitt hotade språk med egna metoder",
+      "category": "Forskning",
+      "date": "2026-04-20",
+      "location": "",
+      "summary": "På den indonesiska ön Enggano driver lokalsamhället själv arbetet med att dokumentera och återuppliva sitt hotade språk, från kodifiering av skriftspråk till undervisning. Studien visar hur språkbevarande och skydd av biokulturell mångfald går hand i hand när initiativet kommer underifrån.",
+      "source": "Journal of Marine and Island Cultures",
+      "url": "https://doi.org/10.21463/jmic.2026.15.1.16",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "frammande-sprak-effekt-beslut-2026",
+      "title": "Fattar du klokare beslut på ett främmande språk?",
+      "category": "Forskning",
+      "date": "2026-05-25",
+      "location": "",
+      "summary": "Studien prövar om den så kallade främmandespråkseffekten – att beslut blir mindre känslostyrda på ett andraspråk – påverkas av hur likt det främmande språket är ens modersmål. Resultaten nyanserar bilden av hur språkval formar både känslomässig resonans och beslutsfattande.",
+      "source": "Language and Cognition",
+      "url": "https://doi.org/10.1017/langcog.2026.10077",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    }
+  ]
+}

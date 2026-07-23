@@ -1,0 +1,117 @@
+{
+  "topic": "Rymden",
+  "description": "Raketuppskjutningar, rymdsonder, astronomiska upptäckter och rymdindustri. Uppdateras varje vecka.",
+  "schema_version": 1,
+  "last_updated": "2026-07-23",
+  "item_count": 9,
+  "items": [
+    {
+      "id": "ariane-6-amazon-leo-tyngsta-lasten-2026",
+      "title": "Ariane 6 lyfte med Arianespaces tyngsta last hittills för Amazon Leo",
+      "category": "Uppskjutningar",
+      "date": "2026-06-17",
+      "location": "Kourou, Franska Guyana",
+      "summary": "En Ariane 6-raket sköts upp från Kourou med en omgång satelliter till Amazons bredbandskonstellation Leo, den tyngsta nyttolast Arianespace någonsin skickat upp. Uppdraget stärker Europas roll i utbyggnaden av kommersiella satellitnät.",
+      "source": "Spaceflight Now",
+      "url": "https://spaceflightnow.com/2026/06/17/live-coverage-arianespace-to-launch-its-heaviest-payload-to-date-with-amazon-leo-flight/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "new-glenn-explosion-cape-canaveral-2026",
+      "title": "Blue Origins New Glenn exploderade under motortest inför fjärde flygningen",
+      "category": "Uppskjutningar",
+      "date": "2026-05-28",
+      "location": "Cape Canaveral, Florida, USA",
+      "summary": "En New Glenn-raket förstördes i ett stort eldklot under en statisk eldprovning vid Launch Complex 36, utan personskador. Explosionen hotar tidplanen för NASA:s Artemis-program och Blue Origins månlandare Blue Moon.",
+      "source": "Space.com",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/blue-origins-new-glenn-rocket-explodes-in-massive-fireball-during-prelaunch-test",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "parker-solar-probe-28e-passage-2026",
+      "title": "Parker Solar Probe genomförde sin 28:e nära passage av solen",
+      "category": "Rymdsonder",
+      "date": "2026-06-11",
+      "location": "",
+      "summary": "NASA:s solsond Parker Solar Probe fullbordade sitt 28:e perihelium och fortsätter att samla in unika data om solens korona och solvinden. Sonden är fortsatt i god kondition efter sina rekordnära passager.",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/blogs/parker-solar-probe/2026/06/11/parker-solar-probe-makes-28th-close-pass-of-sun/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "jwst-tva-olika-skymningar-exoplanet-2026",
+      "title": "James Webb-teleskopet avslöjar två helt olika skymningar på en främmande planet",
+      "category": "Astronomi",
+      "date": "2026-06-11",
+      "location": "",
+      "summary": "Med James Webb-teleskopet har astronomer kunnat mäta tydliga skillnader mellan morgon- och kvällssidan på en exoplanet, med olika temperaturer och molnighet. Resultaten ger ny inblick i väder och atmosfärcirkulation på planeter utanför solsystemet.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/06/260611024559.htm",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "3i-atlas-interstellar-komet-ursprung-2026",
+      "title": "NASA spårar ursprunget till den interstellära kometen 3I/ATLAS",
+      "category": "Astronomi",
+      "date": "2026-06-24",
+      "location": "",
+      "summary": "Forskare analyserar observationer av 3I/ATLAS, den tredje kända interstellära besökaren i solsystemet, för att förstå var den kommer ifrån. Analyserna tyder på att kometen bildades i utkanten av ett gammalt planetsystem kring en annan stjärna.",
+      "source": "Space.com",
+      "url": "https://www.space.com/astronomy/comets/nasa-looks-for-the-origins-of-interstellar-comet-3i-atlas-space-photo-of-the-day-for-june-24-2026",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "elt-viktig-milstolpe-chile-2026",
+      "title": "Jätteteleskopet ELT når en viktig milstolpe i bygget",
+      "category": "Forskning",
+      "date": "2026-07-13",
+      "location": "Cerro Armazones, Chile",
+      "summary": "Bygget av Extremely Large Telescope, som blir världens största optiska teleskop, har passerat en central milstolpe i Chiles Atacamaöken. När ELT står klart ska det bland annat studera exoplaneter och universums första galaxer.",
+      "source": "Space.com",
+      "url": "https://www.space.com/astronomy/extremely-large-telescope-reaches-a-major-milestone-space-photo-of-the-day-for-july-13-2026",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "ssc-firefly-uppskjutningsramp-esrange-2026",
+      "title": "SSC och Firefly börjar bygga uppskjutningsramp för orbitala raketer på Esrange",
+      "category": "Industri",
+      "date": "2026-07-01",
+      "location": "Esrange, Kiruna, Sverige",
+      "summary": "SSC Space och amerikanska Firefly Aerospace har inlett byggandet av en uppskjutningsramp vid Launch Complex 3C på Esrange, med en första orbital uppskjutning av Alpha-raketen planerad till 2028. SSC har även tecknat ett avtal värt 209 miljoner kronor med Försvarets materielverk om uppskjutning av svenska satelliter.",
+      "source": "Evertiq",
+      "url": "https://evertiq.se/news/2026-07-01-ssc-space-och-firefly-inleder-byggandet-av-uppskjutningsramp-pa-esrange",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "regeringen-satsar-400-miljoner-esrange-2026",
+      "title": "Regeringen satsar 400 miljoner kronor på svensk rymdförmåga och Esrange",
+      "category": "Forskning",
+      "date": "2026-03-31",
+      "location": "Stockholm, Sverige",
+      "summary": "Regeringen tillför 400 miljoner kronor för att stärka Sverige som rymdnation, varav merparten går till SSC för att bygga ut uppskjutningskapaciteten på Esrange. Satsningen ska säkra ett oberoende svenskt tillträde till rymden för både civila och militära behov.",
+      "source": "Regeringen.se",
+      "url": "https://www.regeringen.se/pressmeddelanden/2026/03/ytterligare-steg-for-sverige-som-rymdnation/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "sateliot-finansiering-satellit-till-mobil-2026",
+      "title": "Sateliot utökar finansieringen för satellittjänster direkt till mobiltelefoner",
+      "category": "Industri",
+      "date": "2026-07-17",
+      "location": "",
+      "summary": "Spanska satellitoperatören Sateliot har utökat sin finansieringsrunda för att kunna erbjuda uppkoppling från satellit direkt till vanliga mobiltelefoner. Satsningen speglar den snabbt växande marknaden för direct-to-device-tjänster inom rymdindustrin.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-17/sateliot-expands-funding-to-offer-satellite-service-to-phones",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    }
+  ]
+}

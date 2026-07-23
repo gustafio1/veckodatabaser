@@ -1,0 +1,117 @@
+{
+  "topic": "Löpning",
+  "description": "Lopp och maraton, svensk löparelit, träningsforskning och utrustning. Uppdateras varje vecka.",
+  "schema_version": 1,
+  "last_updated": "2026-07-23",
+  "item_count": 9,
+  "items": [
+    {
+      "id": "stockholm-marathon-kiptoo-vinner-2026",
+      "title": "Edwin Kiptoo vann Stockholm Marathon överlägset – rekordmånga deltagare",
+      "category": "Tävlingar",
+      "date": "2026-05-30",
+      "location": "Stockholm",
+      "summary": "Kenyanen Edwin Kiptoo vann herrklassen på 2.10,46, strax över banrekordet, medan Rebeca Chesir tog damsegern på 2.30,58. Loppet lockade rekordmånga anmälda med runt 25 000 startande.",
+      "source": "SVT Sport",
+      "url": "https://www.svt.se/sport/marathon/edwin-kiptoo-vinner-stockholm-marathon-2026-overlagset",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "goteborgsvarvet-hassan-bahta-vinnare-2026",
+      "title": "Suldan Hassan och Meraf Bahta vann Göteborgsvarvet",
+      "category": "Svenskt",
+      "date": "2026-05-23",
+      "location": "Göteborg",
+      "summary": "Suldan Hassan försvarade sin titel på herrsidan med 1.03,30, en sekund före Sondre Nordstad Moen. Meraf Bahta tog damsegern på 1.13,03 – den första svenska segern i loppet sedan 2002.",
+      "source": "Svenska Friidrottsförbundet",
+      "url": "https://www.friidrott.se/tavling-landslag/nyhetsarkiv-tavling-landslag/hassan-och-bahta-vinnare-av-goteborgsvarvet/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "almgren-trea-oslo-5000-sasongsbasta-2026",
+      "title": "Andreas Almgren trea i Oslo på näst snabbaste tiden genom karriären",
+      "category": "Elit",
+      "date": "2026-06-10",
+      "location": "Oslo",
+      "summary": "I Diamond League-galan i Oslo sprang Andreas Almgren 5000 meter på 12.48,61, sitt säsongsbästa och den näst snabbaste tid han någonsin noterat. Det räckte till en tredjeplats.",
+      "source": "Svenska Friidrottsförbundet",
+      "url": "https://www.friidrott.se/tavling-landslag/nyhetsarkiv-tavling-landslag/almgren-trea-i-oslo-pa-sin-nast-basta-tid-ett-bra-lopp/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "almgren-jagar-dubbla-dromgranser-2026",
+      "title": "Almgren jagar dubbla drömgränser inför EM i Birmingham",
+      "category": "Elit",
+      "date": "2026-06-02",
+      "location": "",
+      "summary": "Andreas Almgren siktar på personliga rekord på både 1500 och 5000 meter under 2026-säsongen. Huvudmålet är EM-guld på 10 000 meter i Birmingham i augusti.",
+      "source": "SVT Sport",
+      "url": "https://www.svt.se/sport/friidrott/andreas-almgren-jagar-dubbla-dromgranser-inte-manga-har-gjort-det",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "prefontaine-classic-varldsrekord-bevakning-2026",
+      "title": "Prefontaine Classic 2026: flera världsrekord under bevakning i Eugene",
+      "category": "Tävlingar",
+      "date": "2026-07-03",
+      "location": "Eugene",
+      "summary": "Inför årets Prefontaine Classic pekas fem grenar ut som möjliga världsrekordförsök, med Faith Kipyegons mile som hetaste tips. Fem världsrekord har redan slagits på galan sedan 2023.",
+      "source": "LetsRun.com",
+      "url": "https://www.letsrun.com/news/2026/07/2026-pre-classic-preview-incredible-miles-loaded-100s-which-events-are-on-wr-watch/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "lidingoloppet-rusning-platser-tar-slut-2026",
+      "title": "Rusning till Lidingöloppet 2026 – platserna tar slut i förtid",
+      "category": "Svenskt",
+      "date": "2026-01-28",
+      "location": "Lidingö",
+      "summary": "Anmälningarna till Lidingöloppet ökade med 65 procent jämfört med i fjol, med särskilt stark tillströmning av kvinnliga deltagare. Arrangören överväger ett deltagartak för att hålla kvaliteten uppe.",
+      "source": "Mitt i",
+      "url": "https://www.mitti.se/nyheter/rusning-till-lidingoloppet-2026--platser-tar-slut-6.3.341462.8d878f45b9",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "intervaller-for-hart-samre-effekt-2026",
+      "title": "Ny studie: du springer dina intervaller för hårt",
+      "category": "Träning",
+      "date": "2026-03-31",
+      "location": "",
+      "summary": "Forskning i Medicine & Science in Sports & Exercise visar att en ansträngning på 7 av 10 ger lika god effekt som en hårdare insats på intervallpassen. Löpare som gick på känsla utan klocka hamnade automatiskt på rätt intensitet.",
+      "source": "Runner's World",
+      "url": "https://runnersworld.se/blogg/du-springer-dina-intervaller-for-hart-och-det-gor-dig-samre/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "metabolt-tak-uthallighet-forskning-2026",
+      "title": "Forskningens svar: så mycket orkar en löpare egentligen",
+      "category": "Träning",
+      "date": "2025-12-08",
+      "location": "",
+      "summary": "En studie i Current Biology på extrema uthållighetsidrottare fann ett biologiskt tak där kroppen över tid bara klarar cirka 2,5 gånger basalmetabolismen. Kroppen prioriterar överlevnad framför prestation när belastningen blir för hög.",
+      "source": "Runner's World",
+      "url": "https://runnersworld.se/blogg/sa-mycket-orkar-en-lopare-egentligen-forskningens-nya-svar/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "loplabbet-skoguide-race-superskor-2026",
+      "title": "Löplabbets skoguide 2026: årets bästa tävlingsskor",
+      "category": "Utrustning",
+      "date": "2026-03-15",
+      "location": "",
+      "summary": "Löplabbet har testat och valt ut sju race day-superskor för 2026, alla lättare än fjolårets modeller med maximal mellansula och styv kolfiberplatta. Skorna rekommenderas för tävling och nyckelpass.",
+      "source": "Löplabbet",
+      "url": "https://www.loplabbet.se/landningssida/loplabbets-skoguide-2026-race",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    }
+  ]
+}

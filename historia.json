@@ -1,0 +1,105 @@
+{
+  "topic": "Historia",
+  "description": "Historisk forskning, arkeologiska fynd, svensk historia, böcker och jubileer. Uppdateras varje vecka.",
+  "schema_version": 1,
+  "last_updated": "2026-07-23",
+  "item_count": 8,
+  "items": [
+    {
+      "id": "herlaugshaugen-skeppsgrav-2026",
+      "title": "Herlaugshaugen: skeppsgrav överbryggar gapet mellan östanglisk och skandinavisk gravtradition",
+      "category": "Arkeologi",
+      "date": "2026-06-15",
+      "location": "Norge",
+      "summary": "En ny analys av den norska skeppsgraven Herlaugshaugen kopplar samman den östangliska och den skandinaviska skeppsgravstraditionen. Fyndet flyttar fram dateringen för nordiska monumentala skeppsbegravningar.",
+      "source": "Antiquity",
+      "url": "https://doi.org/10.15184/aqy.2026.10330",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "damhusskatten-vikingasilver-2026",
+      "title": "Damhusskatten ger nya insikter om det tidigaste vikingatida silvermyntet",
+      "category": "Arkeologi",
+      "date": "2026-05-20",
+      "location": "Danmark",
+      "summary": "Forskare har analyserat Damhusskatten och kastar nytt ljus över några av de allra tidigaste vikingatida silvermynten. Studien belyser hur silver präglades och cirkulerade i det tidiga Norden.",
+      "source": "Archaeometry",
+      "url": "https://doi.org/10.1111/arcm.70168",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "stavangerstenen-runskrift-2026",
+      "title": "Stavangerstenen: nya insikter om vikingatidens runskrift och minnestraditioner",
+      "category": "Forskning",
+      "date": "2026-03-10",
+      "location": "Norge",
+      "summary": "En ny studie av Stavangerstenen undersöker vikingatidens skriftkultur och minnespraxis genom den yngre futharken. Runologerna diskuterar också systemets uttrycksmässiga begränsningar.",
+      "source": "Humanities Commons",
+      "url": "https://doi.org/10.17613/ekj7s-jc211",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "offrade-djur-jarnalder-mellansverige-2026",
+      "title": "Offrade djur i järnålderns kremeringar i Mellansverige",
+      "category": "Svenskt",
+      "date": "2026-04-01",
+      "location": "Mellansverige",
+      "summary": "En osteologisk studie kartlägger vilka djur som offrades och brändes tillsammans med människor i mellansvenska järnåldersgravar. Resultaten belyser gravritualer och djurens roll i dödskulten.",
+      "source": "Journal of Nordic Archaeological Science",
+      "url": "https://doi.org/10.65612/jonas.v6i.66136",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "stora-karlso-vargar-bat-2026",
+      "title": "Nådde vargarna på Stora Karlsö ön naturligt eller med båt?",
+      "category": "Svenskt",
+      "date": "2026-06-01",
+      "location": "Stora Karlsö, Gotland",
+      "summary": "En genetisk och zooarkeologisk undersökning prövar om forntida vargar tog sig till den gotländska ön Stora Karlsö på egen hand eller fördes dit av människor. Fynden ger inblick i relationen mellan människa och rovdjur.",
+      "source": "PNAS",
+      "url": "https://doi.org/10.1073/pnas.2607054123",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "lipidanalys-vikingatida-keramik-2026",
+      "title": "Kök och kulturkontakt: lipidanalys visar avsaknad av fisk i vikingatida keramik i England",
+      "category": "Forskning",
+      "date": "2026-05-01",
+      "location": "England",
+      "summary": "Analys av fettrester i keramik från vikingatidens England visar oväntat lite spår av fisk och andra vattenlevande produkter. Resultaten nyanserar bilden av matvanor och kulturkontakter under den nordiska bosättningen.",
+      "source": "Antiquity",
+      "url": "https://doi.org/10.15184/aqy.2026.10288",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "far-moderslinjer-danmark-jarnalder-2026",
+      "title": "Mitokondriegenom avslöjar moderslinjer hos får från yngre järnålder i Danmark",
+      "category": "Arkeologi",
+      "date": "2026-04-19",
+      "location": "Danmark",
+      "summary": "Genom mitokondriegenom har forskare kartlagt moderslinjer hos får från yngre järnålderns Danmark. Studien belyser fårhållning och djurhushållning i det förhistoriska Norden.",
+      "source": "bioRxiv",
+      "url": "https://doi.org/10.64898/2026.04.19.719464",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "medeltidens-skandinavien-social-ekonomi-2026",
+      "title": "Medeltidens Skandinavien: bidrag till social och ekonomisk historia",
+      "category": "Böcker",
+      "date": "2026-06-01",
+      "location": "",
+      "summary": "En ny samling forskningsbidrag behandlar social och ekonomisk historia i det medeltida Skandinavien. Verket samlar aktuella perspektiv på samhälle, handel och ekonomi under perioden.",
+      "source": "Scandinavian Economic History Review",
+      "url": "https://doi.org/10.1080/03585522.2026.2698043",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    }
+  ]
+}

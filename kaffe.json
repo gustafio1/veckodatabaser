@@ -1,0 +1,117 @@
+{
+  "topic": "Kaffe",
+  "description": "Forskning om kaffe och hälsa, bryggning, koffein, smak och odling. Uppdateras varje vecka.",
+  "schema_version": 1,
+  "last_updated": "2026-07-23",
+  "item_count": 9,
+  "items": [
+    {
+      "id": "kaffe-timing-mortalitet-ckm-2026",
+      "title": "När på dagen du dricker kaffe kan påverka överlevnaden",
+      "category": "Hälsa",
+      "date": "2026-03-10",
+      "location": "",
+      "summary": "En kohort- och experimentstudie fann att tidpunkten för kaffeintag påverkar dödlighetsrisken hos personer med kardiovaskulärt-njur-metabolt syndrom, där kaffe på morgonen kopplades till lägre risk.",
+      "source": "The FASEB Journal",
+      "url": "https://doi.org/10.1096/fj.202504046r",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "kaffe-te-kognition-jama-2026",
+      "title": "Kaffe, te och den åldrande hjärnan",
+      "category": "Hälsa",
+      "date": "2026-05-19",
+      "location": "",
+      "summary": "En analys i JAMA belyser sambandet mellan kaffe- och tekonsumtion och kognitiv funktion, och nyanserar hur regelbundet intag kan hänga ihop med bibehållen tankeförmåga.",
+      "source": "JAMA",
+      "url": "https://doi.org/10.1001/jama.2026.5316",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "kaffe-hypertoni-debatt-nej-2026",
+      "title": "Höjer kaffe blodtrycket? Nya data säger nej",
+      "category": "Hälsa",
+      "date": "2026-04-02",
+      "location": "",
+      "summary": "I en debattartikel argumenterar forskare för att regelbunden kaffekonsumtion inte ökar risken för kronisk hypertoni, tvärtemot en vanlig uppfattning.",
+      "source": "American Journal of Hypertension",
+      "url": "https://doi.org/10.1093/ajh/hpag028",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "koffein-abstinens-hjarnnatverk-fmri-2026",
+      "title": "Så reagerar hjärnan när koffeinet plötsligt tar slut",
+      "category": "Koffein",
+      "date": "2026-02-25",
+      "location": "",
+      "summary": "Med vilo-fMRI visade forskare hur koffeinintag och akut abstinens förändrar hjärnans funktionella kopplingar, humör och kognition.",
+      "source": "European Journal of Neuroscience",
+      "url": "https://doi.org/10.1111/ejn.70511",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "kaffe-bryggmetoder-arom-halsa-oversikt-2026",
+      "title": "Vilken bryggmetod ger den bästa koppen? En stor genomgång",
+      "category": "Bryggning",
+      "date": "2026-01-28",
+      "location": "",
+      "summary": "En omfattande översikt jämför hur traditionella och moderna bryggmetoder påverkar kaffets arom, kemi, hälsoeffekter och säkerhet för att maximera bryggkvaliteten.",
+      "source": "eFood",
+      "url": "https://doi.org/10.1002/efd2.70137",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "kaffe-porost-flode-massoverforing-2026",
+      "title": "Bryggning som fysiklektion: flöde och extraktion i kaffebädden",
+      "category": "Bryggning",
+      "date": "2026-06-11",
+      "location": "",
+      "summary": "Forskare använder kaffebryggning för att illustrera fysikaliska principer om flöde i porösa medier och massöverföring, vilket också förklarar hur extraktionen styrs.",
+      "source": "European Journal of Physics",
+      "url": "https://doi.org/10.1088/1361-6404/ae614b",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "espresso-koffeinfritt-sotning-smak-2026",
+      "title": "Mellan beska och sötma: hur avkoffeinering formar espresson",
+      "category": "Smak",
+      "date": "2026-03-30",
+      "location": "",
+      "summary": "En sensorisk studie visar hur avkoffeinering och tillsatta sötningsmedel förändrar smakupplevelsen av espresso, särskilt balansen mellan beska och sötma.",
+      "source": "Journal of Food Science",
+      "url": "https://doi.org/10.1111/1750-3841.71157",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "kaffe-sortklassning-ims-maskininlarning-2026",
+      "title": "En enda böna räcker för att avslöja kaffesorten",
+      "category": "Smak",
+      "date": "2026-05-06",
+      "location": "",
+      "summary": "Genom att kombinera jon-mobilitetsspektrometri på enskilda bönor med maskininlärning kunde forskare snabbt och träffsäkert klassificera olika kaffesorter.",
+      "source": "ACS Measurement Science Au",
+      "url": "https://doi.org/10.1021/acsmeasuresciau.6c00039",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "arabica-varmekanslighet-skord-klimat-2026",
+      "title": "Hur värmen hotar arabicabönans skördar",
+      "category": "Odling",
+      "date": "2026-06-24",
+      "location": "",
+      "summary": "Studien kartlägger arabicakaffets temperaturkänslighet och visar hur klimatvariationer påverkar skördarna, med betydelse för framtida odling i ett varmare klimat.",
+      "source": "Agronomy Journal",
+      "url": "https://doi.org/10.1002/agj2.70458",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    }
+  ]
+}

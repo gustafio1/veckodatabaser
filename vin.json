@@ -1,0 +1,117 @@
+{
+  "topic": "Vin",
+  "description": "Forskning om vinframställning, odling, smak och hälsa. Uppdateras varje vecka.",
+  "schema_version": 1,
+  "last_updated": "2026-07-23",
+  "item_count": 9,
+  "items": [
+    {
+      "id": "arom-ekologiskt-vs-konventionellt-vitt-vin-2026",
+      "title": "Doftar ekologiskt vitvin annorlunda? Jämförelse av aromämnen",
+      "category": "Smak",
+      "date": "2026-03-15",
+      "location": "",
+      "summary": "Forskare kartlade och jämförde nyckelaromämnen i ekologiskt och konventionellt framställda vitviner. Studien identifierade skillnader i aromprofil som kan kopplas till odlings- och framställningssätt.",
+      "source": "npj Science of Food",
+      "url": "https://doi.org/10.1038/s41538-026-00811-w",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "kanslighet-for-aromer-och-fel-hos-vanliga-vindrickare-2026",
+      "title": "Hur lite krävs för att känna en vindoft eller ett fel?",
+      "category": "Smak",
+      "date": "2026-04-20",
+      "location": "",
+      "summary": "Studien mätte tröskelvärden för när vanliga, icke-professionella vindrickare uppfattar utvalda aromer och vinfel. Resultaten visar stora skillnader i känslighet mellan olika doftämnen.",
+      "source": "Journal of Sensory Studies",
+      "url": "https://doi.org/10.1111/joss.70126",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "riesling-samjasning-med-vildjast-och-beta-glukosidas-2026",
+      "title": "Vildjäst med enzymkraft lyfter aromen i Riesling",
+      "category": "Vinframställning",
+      "date": "2026-05-10",
+      "location": "",
+      "summary": "Genom att samjäsa Saccharomyces cerevisiae med icke-Saccharomyces-jäst som har hög beta-glukosidasaktivitet kunde forskarna frigöra fler bundna aromämnen och förbättra kvaliteten på Rieslingvin.",
+      "source": "Current Microbiology",
+      "url": "https://doi.org/10.1007/s00284-026-04887-1",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "vildjast-formar-estrar-och-arom-i-vin-oversikt-2026",
+      "title": "Så formar vildjäst vinets fruktiga estrar – en forskningsöversikt",
+      "category": "Forskning",
+      "date": "2026-07-01",
+      "location": "",
+      "summary": "En systematisk översikt sammanfattar hur icke-Saccharomyces-jästar bildar estrar och modulerar aromen under vinjäsning. Genomgången visar vilka jäststammar som ger tydligast fruktig karaktär.",
+      "source": "Fermentation",
+      "url": "https://doi.org/10.3390/fermentation12070307",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "solpaneler-i-vingarden-mot-klimatforandringar-2026",
+      "title": "Solpaneler över vinstockarna kan mildra klimatstress",
+      "category": "Odling",
+      "date": "2026-05-01",
+      "location": "",
+      "summary": "Studien undersöker hur agrivoltaiska system, där solpaneler placeras över vingården, kan skydda vinrankor mot värme och torka i ett förändrat klimat. Tekniken kan kombinera energiproduktion med hållbar vinodling.",
+      "source": "Advanced Energy and Sustainability Research",
+      "url": "https://doi.org/10.1002/aesr.70185",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "druvsorters-torktolerans-och-aterhamtning-2026",
+      "title": "Vissa druvsorter klarar torka och återhämtar sig bättre",
+      "category": "Odling",
+      "date": "2026-06-01",
+      "location": "",
+      "summary": "Forskarna jämförde hur olika druvsorter anpassar sig fysiologiskt till torka och hur väl de återhämtar sig efter bevattning. Resultaten pekar ut sorter som är mer motståndskraftiga mot vattenbrist.",
+      "source": "Frontiers in Plant Science",
+      "url": "https://doi.org/10.3389/fpls.2026.1757730",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "mattligt-vinintag-och-typ-2-diabetes-2026",
+      "title": "Måttligt vindrickande och typ 2-diabetes – vad säger forskningen?",
+      "category": "Hälsa",
+      "date": "2026-06-15",
+      "location": "",
+      "summary": "Översikten granskar sambandet mellan måttlig vinkonsumtion och risken för typ 2-diabetes. Författarna diskuterar möjliga skyddande mekanismer men betonar att nyttan är beroende av mängd och sammanhang.",
+      "source": "Nutrients",
+      "url": "https://doi.org/10.3390/nu18122006",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "vin-biologiskt-aldrande-och-medelhavskost-2026",
+      "title": "Bortom alkoholen: vin, åldrande och medelhavskontexten",
+      "category": "Hälsa",
+      "date": "2026-05-20",
+      "location": "",
+      "summary": "Artikeln diskuterar hur vin, bortom sitt alkoholinnehåll, kan påverka biologiskt åldrande inom ramen för en medelhavsdiet. Författarna lyfter både bioaktiva ämnen och vikten av dryckesmönster.",
+      "source": "International Journal of Public Health",
+      "url": "https://doi.org/10.3389/ijph.2026.1609910",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "information-styr-betalningsvilja-for-alkoholreducerat-vin-2026",
+      "title": "Rätt information får oss att gilla alkoholreducerat vin mer",
+      "category": "Forskning",
+      "date": "2026-06-15",
+      "location": "",
+      "summary": "Ett experiment i Italien visade att information om vinet påverkar både den upplevda smaken och betalningsviljan för delvis alkoholreducerat vin. Konsumenternas uppfattning styrdes alltså inte bara av smaken i glaset.",
+      "source": "Foods",
+      "url": "https://doi.org/10.3390/foods15122056",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    }
+  ]
+}

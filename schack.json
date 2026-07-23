@@ -1,0 +1,105 @@
+{
+  "topic": "Schack",
+  "description": "Stora turneringar, elitspelare, onlineschack, svenskt schack och talanger. Uppdateras varje vecka.",
+  "schema_version": 1,
+  "last_updated": "2026-07-23",
+  "item_count": 8,
+  "items": [
+    {
+      "id": "sindarov-vinner-kandidatturneringen-2026",
+      "title": "Sindarov vinner kandidatturneringen och utmanar Gukesh om VM-titeln",
+      "category": "Turneringar",
+      "date": "2026-04-15",
+      "location": "",
+      "summary": "Uzbekiske stormästaren Javokhir Sindarov vann kandidatturneringen 2026 med rekordmarginal och säkrade segern redan med en rond kvar att spela. Han ställs nu mot regerande världsmästaren Gukesh Dommaraju i VM-matchen senare i år.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/4/15/uzbek-chess-grandmaster-sindarov-sets-up-world-title-match-with-gukesh",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "pragg-vinner-norway-chess-2026",
+      "title": "Praggnanandhaa och Assaubayeva mästare i Norway Chess 2026",
+      "category": "Turneringar",
+      "date": "2026-06-05",
+      "location": "Stavanger, Norge",
+      "summary": "Indiske stormästaren R Praggnanandhaa vann Norway Chess 2026 efter att bland annat ha besegrat Magnus Carlsen i klassiskt parti, medan Bibisara Assaubayeva tog hem damklassen. Segern lyfte Praggnanandhaa markant på världsrankingen.",
+      "source": "Norway Chess",
+      "url": "https://norwaychess.no/en/2026/06/05/norway-chess-2026-concludes-with-praggnanandhaa-and-assaubayeva-as-champions/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "carlsen-freestyle-vm-weissenhaus-2026",
+      "title": "Carlsen vann första officiella VM i freestyleschack",
+      "category": "Turneringar",
+      "date": "2026-02-16",
+      "location": "Weissenhaus, Tyskland",
+      "summary": "Magnus Carlsen besegrade Fabiano Caruana i en dramatisk final och blev därmed den förste officiella FIDE-världsmästaren i freestyleschack (Chess960). Åtta av världens främsta stormästare deltog i turneringen på Weissenhaus vid Östersjökusten.",
+      "source": "FIDE",
+      "url": "https://www.fide.com/magnus-carlsen-wins-2026-fide-freestyle-world-championship/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "gukesh-kris-chennai-grand-masters-2026",
+      "title": "Gukesh i formsvacka – förlorade mot Arjun Erigaisi i Chennai",
+      "category": "Elit",
+      "date": "2026-07-20",
+      "location": "Chennai, Indien",
+      "summary": "Världsmästaren Gukesh Dommaraju förlorade mot landsmannen Arjun Erigaisi i femte ronden av Chennai Grand Masters efter att ha förspillt en vinstställning i tidsnöd. Förlusten sänkte Gukesh till plats 30 på världsrankingen inför höstens VM-match mot Sindarov.",
+      "source": "Chess.com",
+      "url": "https://www.chess.com/news/view/2026-chennai-grand-masters-round-5",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "carlsen-ensam-over-2800-julilistan-2026",
+      "title": "Carlsen tappade 18 ratingpoäng men är ensam kvar över 2800",
+      "category": "Elit",
+      "date": "2026-07-07",
+      "location": "",
+      "summary": "På FIDE:s julilista 2026 föll Magnus Carlsen 18 poäng till 2823 men behåller förstaplatsen han haft i 15 år, med 30 poängs marginal till Caruana och Nakamura. Praggnanandhaa klättrade 15 poäng efter segern i Norway Chess.",
+      "source": "Chess.com",
+      "url": "https://www.chess.com/news/view/july-2026-fide-ratings",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "lichess-titled-arenas-hosten-2026",
+      "title": "Lichess presenterar Titled Arenas för juli till september",
+      "category": "Online",
+      "date": "2026-07-06",
+      "location": "",
+      "summary": "Lichess har offentliggjort schemat för sina Titled Arena-turneringar under tredje kvartalet 2026, med sex prisbelönta onlineevenemang för titelhållare, däribland en Chess960-arena i september. Förstapriset i varje arena är 500 dollar.",
+      "source": "Lichess",
+      "url": "https://lichess.org/@/Lichess/blog/titled-arenas-announcement-july-to-september-2026/5oiZT9uR",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "rekord-schack-sm-jonkoping-2026",
+      "title": "Deltagarrekord med över 1300 starter i Schack-SM i Jönköping",
+      "category": "Svenskt",
+      "date": "2026-07-08",
+      "location": "Jönköping, Sverige",
+      "summary": "Schack-SM 2026 i Jönköping samlade rekordmånga 1336 anmälda spelare, vilket slog fjolårets rekord från Uppsala. Mästerskapet komprimerades i år till en vecka och avgjordes i Idrottshuset med klasser i klassiskt schack, snabbschack och blixt.",
+      "source": "Sveriges Schackförbund",
+      "url": "https://schack.se/nyhet/sverige/schack-sm/2026/07/over-1300-starter-i-schack-sm-i-jonkoping/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "faustino-oro-jagar-gm-rekordet-2026",
+      "title": "12-årige Faustino Oro jagar rekordet som yngste stormästaren",
+      "category": "Talanger",
+      "date": "2026-03-07",
+      "location": "",
+      "summary": "Argentinske underbarnet Faustino Oro, 12 år, nådde femteplatsen på Chess.coms blixtranking med ratingen 3295 och har redan två av tre GM-inteckningar. Tar han sin sista inteckning i tid slår han Abhimanyu Mishras rekord som historiens yngste stormästare.",
+      "source": "Chess.com",
+      "url": "https://www.chess.com/news/view/faustino-oro-hits-5-on-chess-com-ahead-chasing-gm-title",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    }
+  ]
+}

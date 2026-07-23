@@ -1,0 +1,117 @@
+{
+  "topic": "Musik",
+  "description": "Nya album, konserter, festivaler, svensk musik och musikbranschen. Uppdateras varje vecka.",
+  "schema_version": 1,
+  "last_updated": "2026-07-23",
+  "item_count": 9,
+  "items": [
+    {
+      "id": "madonna-confessions-ii-slapp-2026",
+      "title": "Madonna släpper uppföljaren Confessions II",
+      "category": "Släpp",
+      "date": "2026-07-03",
+      "location": "",
+      "summary": "Madonna ger ut sitt första studioalbum på sju år, en uppföljare till Confessions on a Dance Floor från 2005, producerad tillsammans med Stuart Price. Första singeln I Feel So Free framfördes live på Coachella med Sabrina Carpenter.",
+      "source": "Gold Derby",
+      "url": "https://www.goldderby.com/music/2026/madonna-new-album-2026-details-release-date/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "rockslapp-juli-jack-white-stones-2026",
+      "title": "Rocktät julimånad med Jack White och Rolling Stones",
+      "category": "Släpp",
+      "date": "2026-06-16",
+      "location": "",
+      "summary": "Juli 2026 bjuder på flera stora rocksläpp, bland annat Jack Whites nya album Frozen Charlotte och Rolling Stones Foreign Tongues den 10 juli. Även Deep Purple ger ut nytt album, Splat!, den 3 juli.",
+      "source": "Ultimate Classic Rock",
+      "url": "https://ultimateclassicrock.com/july-2026-new-music-releases/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "bad-bunny-strawberry-arena-stockholm-2026",
+      "title": "Bad Bunny intar Strawberry Arena i Stockholm",
+      "category": "Konserter",
+      "date": "2026-07-11",
+      "location": "Stockholm",
+      "summary": "Bad Bunny spelar två utsålda kvällar på Strawberry Arena i Solna den 10 och 11 juli som en del av världsturnén DeBÍ TiRAR MáS FOToS. Det är ett av den svenska konsertsommarens största evenemang.",
+      "source": "Songkick",
+      "url": "https://www.songkick.com/concerts/42589877-bad-bunny-at-strawberry-arena",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "turnenyheter-garth-brooks-ringo-starr-2026",
+      "title": "Garth Brooks och Ringo Starr bland juli månads turnényheter",
+      "category": "Konserter",
+      "date": "2026-07-09",
+      "location": "",
+      "summary": "Garth Brooks har presenterat turnén Blame It All On My Roots och 86-årige Ringo Starr ger sig ut på höstturné i Nordamerika med sitt All Starr Band. Även rapparen Ken Carson och kompositören Danny Elfman har annonserat nya turnéer.",
+      "source": "The Ticket Blog",
+      "url": "https://www.theticketblog.com/post/latest-tour-news-july-2026-garth-brooks-ringo-starr-fall-dates-ken-carson-more-announced",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "way-out-west-goteborg-lineup-2026",
+      "title": "The Cure, Lorde och Zara Larsson till Way Out West",
+      "category": "Festivaler",
+      "date": "2026-05-26",
+      "location": "Göteborg",
+      "summary": "Way Out West hålls i Slottsskogen i Göteborg 13–15 augusti med The Cure, Lorde, Gorillaz och Nick Cave & The Bad Seeds som internationella dragplåster. Bland de svenska akterna finns Zara Larsson, The Hives, Veronica Maggio och Lykke Li, och över 70 000 besökare väntas.",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/vast/guide-way-out-west-2026-i-goteborg-artister-datum-och-tider",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "festivalsommaren-sverige-guide-2026",
+      "title": "Festivalsommaren 2026 – från Sweden Rock till Roskilde",
+      "category": "Festivaler",
+      "date": "2026-06-05",
+      "location": "",
+      "summary": "Sommarens festivalkarta rymmer bland annat Sweden Rock i Sölvesborg, Rosendal Garden Party i Stockholm med TLC och David Byrne samt europeiska jättar som Glastonbury, Roskilde och Tomorrowland. Guiden listar även sommarens stora konserter och albumsläpp.",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/kultur/sommarens-konserter-festivaler-och-musikslapp-2026",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "allsang-pa-skansen-artister-2026",
+      "title": "Klart med sommarens artister i Allsång på Skansen",
+      "category": "Svenskt",
+      "date": "2026-06-08",
+      "location": "Stockholm",
+      "summary": "Allsång på Skansen startar den 23 juni med Pernilla Wahlgren som programledare för tredje året i rad. Under åtta tisdagar gästar bland andra Hooja, Petra Marklund, The Ark, Icona Pop, Oskar Linnros, Eva Dahlgren och Carola.",
+      "source": "Musikindustrin",
+      "url": "https://www.musikindustrin.se/2026/06/08/har-ar-sommarens-artister-i-allsang-pa-skansen/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "zara-larsson-stateside-etta-pop-airplay-2026",
+      "title": "Zara Larsson etta på Billboards Pop Airplay-lista",
+      "category": "Svenskt",
+      "date": "2026-06-15",
+      "location": "",
+      "summary": "Låten Stateside med PinkPantheress och Zara Larsson har klättrat till förstaplatsen på Billboards amerikanska Pop Airplay-lista. Det är ännu en internationell framgång för den svenska popstjärnan under 2026.",
+      "source": "Billboard",
+      "url": "https://www.billboard.com/music/chart-beat/pinkpantheress-zara-larsson-stateside-number-1-pop-airplay-1236271618/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "spotify-loud-and-clear-rekordutbetalningar-2026",
+      "title": "Spotify betalade ut rekordhöga 11 miljarder dollar",
+      "category": "Bransch",
+      "date": "2026-03-11",
+      "location": "",
+      "summary": "Spotifys rapport Loud & Clear 2026 visar att bolaget betalade ut 11 miljarder dollar i royalties under 2025, varav ungefär hälften gick till oberoende artister och bolag. Över 13 800 artister tjänade minst 100 000 dollar på plattformen och 85 procent av de nya sexsiffriga inkomsttagarna finns utanför USA.",
+      "source": "Hypebot",
+      "url": "https://www.hypebot.com/spotify-loud-clear-report-2026-11b-paid-as-global-musical-middle-class-expands/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "topic": "Friluftsliv",
+  "description": "Vandringsleder, friluftsutrustning, naturvård, allemansrätt och äventyr. Uppdateras varje vecka.",
+  "schema_version": 1,
+  "last_updated": "2026-07-23",
+  "item_count": 8,
+  "items": [
+    {
+      "id": "pusselleden-invigd-sigtuna-2026",
+      "title": "Pusselleden invigs – ny vandringsled och konstupplevelse i Sigtuna",
+      "category": "Vandring",
+      "date": "2026-06-10",
+      "location": "Sigtuna, Uppland",
+      "summary": "Sigtuna kommun har invigt Pusselleden, en ny vandringsled som kombinerar naturupplevelser med konst längs sträckan. Leden ska göra det enklare för både boende och besökare att komma ut i naturen.",
+      "source": "Sigtuna kommun",
+      "url": "https://www.sigtuna.se/nyheter/nyheter/2026-06-10-pusselleden-invigs---en-ny-vandringsled-och-konstupplevelse-i-sigtuna.html",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "fjallvandra-guidernas-basta-tips-2026",
+      "title": "Lokala guider tipsar om sommarens bästa fjällvandringar",
+      "category": "Vandring",
+      "date": "2026-06-22",
+      "location": "Svenska fjällen",
+      "summary": "Utemagasinet har samlat lokala fjällguiders bästa tips på vandringar i Norrbotten, Västerbotten, Jämtland och Dalarna, från dagsturer till flerdagarsvandringar. Bland förslagen finns Sarek, Vindelfjällen, Funäsfjällen och Södra Kungsleden.",
+      "source": "Utemagasinet",
+      "url": "https://www.utemagasinet.se/nyheter/20260622/fjall/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "stort-test-trailskor-sommaren-2026",
+      "title": "Stort test av trailskor inför vandringssommaren",
+      "category": "Utrustning",
+      "date": "2026-06-08",
+      "location": "",
+      "summary": "Utemagasinet har genomfört ett stort test av trailskor lagom till sommarens vandrings- och löparsäsong. Testet jämför aktuella modeller för att hjälpa friluftsutövare att välja rätt sko för stig och fjäll.",
+      "source": "Utemagasinet",
+      "url": "https://www.utemagasinet.se/nyheter/20260608/stort-test-av-trailskor/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "miljarder-till-vardefull-natur-2026",
+      "title": "2,5 miljarder kronor gick till värdefull natur under 2025",
+      "category": "Naturvård",
+      "date": "2026-04-29",
+      "location": "Sverige",
+      "summary": "Naturvårdsverket redovisar att 2,5 miljarder kronor satsades på att skydda och stärka värdefull natur under 2025, med resultat som en ny nationalpark, restaurerade våtmarker och upprustade vandringsleder. Myndigheten betonar att naturvårdens nyttor sträcker sig till både hälsa, klimat och jordbruk.",
+      "source": "Naturvårdsverket",
+      "url": "https://www.naturvardsverket.se/om-oss/aktuellt/nyheter-och-pressmeddelanden/2026/april/25-miljarder-gick-till-vardefull-natur-2025/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "allemansrattens-dag-20-september-2026",
+      "title": "Allemansrättens dag firas den 20 september",
+      "category": "Naturvård",
+      "date": "2026-07-20",
+      "location": "Sverige",
+      "summary": "Svenska Kanotförbundet uppmärksammar att Allemansrättens dag firas den 20 september och lyfter allemansrättens betydelse för paddling och annat friluftsliv. Dagen ska öka kunskapen om de rättigheter och skyldigheter som följer med att vistas i naturen.",
+      "source": "Svenska Kanotförbundet",
+      "url": "https://kanot.com/sakerhet--miljo/nyheter-sakerhet--miljo/miljo/2026-07-20-allemansrattens-dag-20-september",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "haparanda-sommarinfo-allemansratten-2026",
+      "title": "Haparanda påminner om allemansrätten inför sommaren",
+      "category": "Svenskt",
+      "date": "2026-06-22",
+      "location": "Haparanda, Norrbotten",
+      "summary": "Haparanda stad har gått ut med sommarinformation om vad allemansrätten innebär för den som vandrar, campar och plockar bär i kommunens natur. Budskapet är att njuta av naturen utan att störa eller förstöra.",
+      "source": "Haparanda stad",
+      "url": "https://www.haparanda.se/nyheter/nyheter/2026-06-22-sommarinformation-om-allemansratten",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "namdoskargarden-nationalpark-arsredovisning-2026",
+      "title": "Ny marin nationalpark lyfts fram i Naturvårdsverkets årsredovisning",
+      "category": "Svenskt",
+      "date": "2026-02-20",
+      "location": "Nämdöskärgården, Stockholms skärgård",
+      "summary": "I sin årsredovisning för 2025 lyfter Naturvårdsverket invigningen av Nämdöskärgårdens nationalpark, Sveriges första nationalpark med marint fokus i Östersjön. Parken omfattar 25 300 hektar varav 97 procent är hav och ger området det starkaste skydd naturen kan få.",
+      "source": "Naturvårdsverket",
+      "url": "https://www.naturvardsverket.se/om-oss/aktuellt/nyheter-och-pressmeddelanden/2026/februari/naturvardsverkets-arsredovisning-2025--satsning-pa-tillsyn-52-000-nya-laddpunkter-och-en-ny-nationalpark/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "paddlingsexpeditioner-sommaren-2026",
+      "title": "Sju paddlingsexpeditioner att följa under sommaren 2026",
+      "category": "Äventyr",
+      "date": "2026-05-25",
+      "location": "",
+      "summary": "Paddling Magazine listar sommarens mest spännande paddlingsexpeditioner, däribland en rekordjakt på Missourifloden, en 2 500 kilometer lång rundpaddling av Island och 90-årige Dale Sanders rekordförsök. Artikeln visar bredden i årets långfärds- och expeditionspaddling.",
+      "source": "Paddling Magazine",
+      "url": "https://paddlingmag.com/stories/news-events/expeditions-summer-2026/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    }
+  ]
+}

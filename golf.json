@@ -1,0 +1,117 @@
+{
+  "topic": "Golf",
+  "description": "Majors och tourtävlingar, svenska golfare, tävlingar och utrustning. Uppdateras varje vecka.",
+  "schema_version": 1,
+  "last_updated": "2026-07-23",
+  "item_count": 9,
+  "items": [
+    {
+      "id": "ryan-fox-vinner-the-open-royal-birkdale-2026",
+      "title": "Ryan Fox vinner 154:e The Open på Royal Birkdale",
+      "category": "Majors",
+      "date": "2026-07-19",
+      "location": "Southport, England",
+      "summary": "Nyzeeländaren Ryan Fox vann den 154:e upplagan av The Open Championship på Royal Birkdale. Segern är den största i hans karriär och årets sista major på herrsidan.",
+      "source": "Golf Channel",
+      "url": "https://www.golfchannel.com/pga-tour/live/british-open-2026-live-updates-leaderboard-scores-highlights-news-from-final-round",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "wyndham-clark-vinner-us-open-shinnecock-2026",
+      "title": "Wyndham Clark tar sin andra US Open-titel på Shinnecock Hills",
+      "category": "Majors",
+      "date": "2026-06-21",
+      "location": "Shinnecock Hills, New York, USA",
+      "summary": "Wyndham Clark vann US Open 2026 med ett slag på Shinnecock Hills och tog därmed sin andra US Open-titel. Amerikanen stod emot både en tuff bana och en högljudd publik under finalrundan.",
+      "source": "USGA / usopen.com",
+      "url": "https://www.usopen.com/2026/articles/second-wynd--clark-wins-by-one-at-shinnecock-hills-.html",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "haeran-ryu-vinner-evian-championship-2026",
+      "title": "Haeran Ryu vinner Amundi Evian Championship efter särspel",
+      "category": "Majors",
+      "date": "2026-07-12",
+      "location": "Évian-les-Bains, Frankrike",
+      "summary": "Sydkoreanskan Haeran Ryu besegrade Brooke Henderson i särspel och vann Amundi Evian Championship, hennes andra majortitel. Avgörandet beskrevs som en av säsongens mest dramatiska finaler på LPGA-touren.",
+      "source": "LPGA",
+      "url": "https://www.lpga.com/news/2026/haeran-ryu-outlasts-brooke-henderson-in-playoff-to-win-second-major-title-at-amundi-evian-championship",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "tom-kim-vinner-genesis-scottish-open-2026",
+      "title": "Tom Kim bryter torkan och vinner Genesis Scottish Open",
+      "category": "Touren",
+      "date": "2026-07-12",
+      "location": "The Renaissance Club, Skottland",
+      "summary": "Tom Kim vann Genesis Scottish Open på The Renaissance Club, hans första titel på över 1 000 dagar. Tävlingen samsanktioneras av PGA Tour och DP World Tour och fungerar som generalrepetition inför The Open.",
+      "source": "PGA Tour",
+      "url": "https://www.pgatour.com/article/news/betting-dfs/2026/07/12/prize-money-purse-payouts-breakdown-fund-genesis-scottish-open-The-Renaissance-club1",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "liv-golf-andalucia-4aces-valderrama-2026",
+      "title": "4Aces GC nära segern när LIV Golf gästade Valderrama",
+      "category": "Touren",
+      "date": "2026-06-07",
+      "location": "Real Club Valderrama, Sotogrande, Spanien",
+      "summary": "Thomas Detry och Dustin Johnson ledde 4Aces GC till en andraplats i lagtävlingen när LIV Golf Andalucía avgjordes på anrika Valderrama. Tävlingen var en av höjdpunkterna på LIV-tourens Europavistelse i juni.",
+      "source": "LIV Golf",
+      "url": "https://www.livgolf.com/news/4aces-gc-2026-liv-golf-andalucia-results",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "aberg-trasig-driver-infor-the-open-2026",
+      "title": "Åbergs driver gick sönder på resan till The Open",
+      "category": "Svenskt",
+      "date": "2026-07-14",
+      "location": "Southport, England",
+      "summary": "Ludvig Åbergs driverskaft och hans launch monitor skadades under flygresan till Storbritannien inför The Open på Royal Birkdale. Svensken tvingades lösa utrustningsproblemen på plats dagarna före majorstarten.",
+      "source": "Golf Digest",
+      "url": "https://www.golfdigest.com/story/british-open-2026-ludvig-aberg-travel",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "grant-stark-63-dow-championship-2026",
+      "title": "Grant och Stark sköt 63 i jakten på Dow Championship-titeln",
+      "category": "Svenskt",
+      "date": "2026-06-27",
+      "location": "Midland, Michigan, USA",
+      "summary": "Det svenska paret Linn Grant och Maja Stark noterade en runda på 63 slag i partävlingen Dow Championship och höll sig kvar i toppstriden. Duon, med förflutet som lagkamrater, är en av LPGA-tourens starkaste svenska konstellationer.",
+      "source": "LPGA",
+      "url": "https://www.lpga.com/news/2026/grant-stark-post-blistering-63-to-keep-campus-runaways-in-dow-championship-hunt",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "nya-drivers-2026-taylormade-ping-2026",
+      "title": "Här är de nya driverssläppen som präglar 2026",
+      "category": "Utrustning",
+      "date": "2026-07-01",
+      "location": "",
+      "summary": "Golf Monthly går igenom årets nya drivers, vilka spelare på tourerna som redan satt dem i bagen och vad som väntas komma senare under 2026. Bland nyheterna märks bland annat nya modeller från TaylorMade och Ping.",
+      "source": "Golf Monthly",
+      "url": "https://www.golfmonthly.com/news/new-2026-drivers-what-we-know-so-far-and-whos-using-them",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "golfsasongen-2026-viktiga-datum-sverige-2026",
+      "title": "Datumen att hålla koll på under golfsäsongen 2026",
+      "category": "Tävlingar",
+      "date": "2026-04-15",
+      "location": "Sverige",
+      "summary": "Golfbladet listar de viktigaste datumen för golfsäsongen 2026, från majorveckorna till tävlingar på svensk mark. Guiden hjälper svenska golffans att planera sommarens tittande och besök.",
+      "source": "Golfbladet",
+      "url": "https://golfbladet.se/datum-att-halla-koll-pa-under-golfsasongen-2026/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    }
+  ]
+}

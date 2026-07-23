@@ -1,0 +1,117 @@
+{
+  "topic": "Filosofi",
+  "description": "Nya filosofiböcker, debatt, forskning, evenemang och klassiker i nytt ljus. Uppdateras varje vecka.",
+  "schema_version": 1,
+  "last_updated": "2026-07-23",
+  "item_count": 9,
+  "items": [
+    {
+      "id": "routledge-basta-filosofibockerna-2026",
+      "title": "Routledge listar årets viktigaste nya filosofiböcker",
+      "category": "Böcker",
+      "date": "2026-01-15",
+      "location": "",
+      "summary": "Förlaget Routledge presenterar sin guide till de mest läsvärda nya filosofiböckerna 2026, med titlar som spänner från etik och politisk filosofi till medvetandefilosofi. Listan ger en överblick över trenderna i årets akademiska och populärfilosofiska utgivning.",
+      "source": "Routledge Blog",
+      "url": "https://blog.routledge.com/humanities-and-media-arts/best-philosophy-books-to-read-this-year/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "warburton-nya-filosofibocker-fivebooks-2026",
+      "title": "Nigel Warburton väljer ut de bästa nya filosofiböckerna",
+      "category": "Böcker",
+      "date": "2026-03-10",
+      "location": "",
+      "summary": "Filosofen och författaren Nigel Warburton uppdaterar löpande sina rekommendationer av aktuella filosofiböcker för Five Books. Urvalet lyfter fram nyutgivna verk som gör samtida filosofi tillgänglig för en bred läsekrets.",
+      "source": "Five Books",
+      "url": "https://fivebooks.com/best-books/new-philosophy-books-nigel-warburton/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "birch-ai-medvetande-centristiskt-manifest-2026",
+      "title": "Jonathan Birch lanserar ett centristiskt manifest om AI-medvetande",
+      "category": "Debatt",
+      "date": "2026-05-20",
+      "location": "",
+      "summary": "Filosofen Jonathan Birch vid LSE argumenterar i en uppmärksammad text för en medelväg i debatten om artificiellt medvetande: varken avfärdande skepsis eller övertro. Manifestet har blivit en referenspunkt i den pågående diskussionen om AI-system kan ha upplevelser och moralisk status.",
+      "source": "PhilPapers",
+      "url": "https://philpapers.org/archive/BIRACA-4.pdf",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "3quarksdaily-ai-och-medvetande-debatt-2026",
+      "title": "AI och medvetande: debatten intensifieras i essä hos 3 Quarks Daily",
+      "category": "Debatt",
+      "date": "2026-02-09",
+      "location": "",
+      "summary": "En essä på 3 Quarks Daily granskar frågan om stora språkmodeller kan vara medvetna och vad det i så fall skulle innebära etiskt. Texten speglar hur AI-medvetande under 2026 gått från spekulation till en central fråga i medvetandefilosofin.",
+      "source": "3 Quarks Daily",
+      "url": "https://3quarksdaily.com/3quarksdaily/2026/02/ai-and-consciousness.html",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "apa-priser-varen-2026",
+      "title": "Amerikanska filosofförbundet tillkännager vårens pristagare 2026",
+      "category": "Forskning",
+      "date": "2026-06-18",
+      "location": "",
+      "summary": "American Philosophical Association har offentliggjort mottagarna av sina priser och stipendier våren 2026, vilka belönar framstående böcker, artiklar och insatser inom filosofisk forskning. Daily Nous sammanfattar samtliga pristagare och deras arbeten.",
+      "source": "Daily Nous",
+      "url": "https://dailynous.com/2026/06/18/apa-prizes-spring-2026-edition/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "sussex-ai-medvetande-etik-forskning-2026",
+      "title": "Sussex-centret efterlyser forskning om AI-medvetande och etik",
+      "category": "Forskning",
+      "date": "2026-04-01",
+      "location": "Brighton, Storbritannien",
+      "summary": "Sussex Centre for Consciousness Science har öppnat en utlysning för bidrag om AI-medvetande och dess etiska konsekvenser. Initiativet samlar filosofer och kognitionsforskare kring frågan hur vi bör hantera möjligheten av medvetna maskiner.",
+      "source": "University of Sussex",
+      "url": "https://www.sussex.ac.uk/research/centres/sussex-centre-for-consciousness-science/ai-consciousness-and-ethics",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "howthelightgetsin-hay-festival-2026",
+      "title": "HowTheLightGetsIn 2026: världens största filosofifestival återvänder till Hay",
+      "category": "Evenemang",
+      "date": "2026-05-22",
+      "location": "Hay-on-Wye, Storbritannien",
+      "summary": "Filosofi- och musikfestivalen HowTheLightGetsIn arrangeras åter i Hay-on-Wye med debatter mellan ledande filosofer, forskare och författare om bland annat AI, medvetande och moral. Festivalen kombinerar akademiska samtal med ett brett kulturprogram.",
+      "source": "IAI TV",
+      "url": "https://iai.tv/live/howthelightgetsin-hay-2026",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "body-mind-filosofifestival-dublin-2026",
+      "title": "Filosofifestivalen Body & Mind utforskar kropp och medvetande",
+      "category": "Evenemang",
+      "date": "2026-01-24",
+      "location": "Dublin, Irland",
+      "summary": "Filosofifestivalen 2026 på temat kropp och själ bjuder på föreläsningar och publiksamtal om medvetandets natur och kroppens roll i tänkandet. Evenemanget riktar sig till både akademiker och en filosofiintresserad allmänhet.",
+      "source": "Eventbrite",
+      "url": "https://www.eventbrite.ie/e/body-mind-philosophy-festival-2026-tickets-1979886973234",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "philodemus-herculaneum-rulle-ai-2026",
+      "title": "AI läser förkolnad Herculaneum-rulle: ny text av Philodemos framme i ljuset",
+      "category": "Klassiker",
+      "date": "2026-06-26",
+      "location": "Neapel, Italien",
+      "summary": "Med hjälp av AI och röntgenteknik har forskare inom Vesuvius Challenge för första gången läst en hel förkolnad papyrusrulle från Herculaneum, som visade sig innehålla ett filosofiskt verk av epikuréen Philodemos. Genombrottet öppnar för att hundratals förlorade antika filosofitexter kan återvinnas.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/06/26/science/papyrus-scroll-vesuvius-ai-scli-intl",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    }
+  ]
+}

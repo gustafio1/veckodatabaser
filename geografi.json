@@ -1,0 +1,117 @@
+{
+  "topic": "Geografi",
+  "description": "Kartor och kartografi, upptäckter, klimat- och landskapsförändringar och platser. Uppdateras varje vecka.",
+  "schema_version": 1,
+  "last_updated": "2026-07-23",
+  "item_count": 9,
+  "items": [
+    {
+      "id": "sanborn-kartor-webbtjanst-2026",
+      "title": "Historiska Sanborn-kartor blir modern webbkarttjänst",
+      "category": "Kartor",
+      "date": "2026-02-10",
+      "location": "USA",
+      "summary": "Forskare beskriver hur de klassiska Sanborn-brandförsäkringskartorna digitaliserats och publicerats som en modern webbaserad karttjänst. Projektet visar hur historisk kartografi kan göras sökbar och användbar i dagens GIS-miljöer.",
+      "source": "GeoHumanities",
+      "url": "https://doi.org/10.1080/2373566X.2026.2635972",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "ai-kartlagger-undervattensberg-2026",
+      "title": "AI kartlägger världens undervattensberg",
+      "category": "Kartor",
+      "date": "2026-03-02",
+      "location": "",
+      "summary": "Med svagt övervakad djupinlärning har forskare tagit fram en global detektering och morfologisk karakterisering av seamounts, berg på havsbotten. Metoden förbättrar kartläggningen av havsbottnens topografi där stora områden fortfarande är okarterade.",
+      "source": "Journal of Geophysical Research",
+      "url": "https://doi.org/10.1029/2025JH000848",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "globala-djuphavsmal-utforskning-2026",
+      "title": "Nya globala mål ska styra utforskningen av djuphavsbotten",
+      "category": "Upptäckter",
+      "date": "2026-04-14",
+      "location": "",
+      "summary": "En internationell forskargrupp presenterar Global Deep Sea Exploration Goals, en representativ strategi för att visuellt observera djuphavsbotten. Bara en bråkdel av havsbotten har hittills setts med kamera, och planen ska göra framtida upptäckter mer systematiska.",
+      "source": "Science Advances",
+      "url": "https://doi.org/10.1126/sciadv.aea8731",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "ortnamn-yogyakarta-planering-2026",
+      "title": "Ortnamn avslöjar landskapets historia i Yogyakarta",
+      "category": "Upptäckter",
+      "date": "2026-01-20",
+      "location": "Yogyakarta, Indonesien",
+      "summary": "En studie avkodar platsnamn i den indonesiska specialregionen Yogyakarta och visar hur toponymer bär information om terräng, vatten och markanvändning. Forskarna menar att namngivningen av platser kan vägleda hållbar fysisk planering i tropikerna.",
+      "source": "IOP Conference Series",
+      "url": "https://doi.org/10.1088/1755-1315/1607/1/012018",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "rekordsmaltning-glaciarer-centralasien-2026",
+      "title": "Rekordstor glaciärsmältning i Centralasien 2025",
+      "category": "Klimat",
+      "date": "2026-05-05",
+      "location": "Centralasien",
+      "summary": "Ny forskning dokumenterar en rekordartad massförlust för Centralasiens glaciärer under 2025. Utvecklingen hotar på sikt vattenförsörjningen i en region där miljontals människor är beroende av smältvatten från bergen.",
+      "source": "Environmental Research Letters",
+      "url": "https://doi.org/10.1088/1748-9326/ae6712",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "havsniva-omritar-kustens-avrinning-2026",
+      "title": "Stigande hav ritar om kusternas avrinningsområden",
+      "category": "Klimat",
+      "date": "2026-06-08",
+      "location": "",
+      "summary": "När havsnivån stiger fångas allt mer avrinning upp av havet, vilket förändrar kustnära avrinningsområdens yta, form och antal. Studien visar att kartor över vattendelare vid kusten måste uppdateras i takt med klimatförändringarna.",
+      "source": "Water Resources Research",
+      "url": "https://doi.org/10.1029/2025WR042166",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "glaciarer-ny-alesund-fjarranalys-2026",
+      "title": "Satellitdata visar glaciärernas reträtt vid Ny-Ålesund",
+      "category": "Forskning",
+      "date": "2026-07-01",
+      "location": "Ny-Ålesund, Svalbard",
+      "summary": "Med hjälp av fjärranalys har forskare kvantifierat hur glaciärerna kring Ny-Ålesund på Svalbard dragit sig tillbaka och tunnats ut mellan 2000 och 2024. Studien ger en detaljerad bild av landskapsförändringarna i en av Arktis snabbast uppvärmda regioner.",
+      "source": "Environmental Research Communications",
+      "url": "https://doi.org/10.1088/2515-7620/ae7b02",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "lavadelta-la-palma-kustlinje-2026",
+      "title": "La Palmas nya lavadeltan förändras i snabb takt",
+      "category": "Platser",
+      "date": "2026-03-25",
+      "location": "La Palma, Kanarieöarna",
+      "summary": "Vulkanutbrottet 2021 skapade helt ny mark där lavan mötte havet, och ny forskning visar hur dessa lavadeltans kustlinjer nu snabbt omformas av vågor och erosion. Ön är ett unikt exempel på hur nya landskap föds och förändras inför våra ögon.",
+      "source": "Earth Surface Processes and Landforms",
+      "url": "https://doi.org/10.1002/esp.70318",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "patagonien-upsala-perito-moreno-2026",
+      "title": "27 år av förändring vid Patagoniens jätteglaciärer",
+      "category": "Platser",
+      "date": "2026-04-30",
+      "location": "Patagonien, Argentina",
+      "summary": "En 27-årig fjärranalysstudie kvantifierar reträtten hos glaciärerna Upsala och Perito Moreno i Patagonien. Resultaten visar stora kontraster mellan de två ikoniska glaciärerna, som hör till Sydamerikas mest besökta naturplatser.",
+      "source": "Progress in Physical Geography",
+      "url": "https://doi.org/10.1177/03091333261445026",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    }
+  ]
+}

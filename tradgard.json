@@ -1,0 +1,105 @@
+{
+  "topic": "Trädgård",
+  "description": "Forskning om odling, biologisk mångfald, jord, pollinatörer och hälsa. Uppdateras varje vecka.",
+  "schema_version": 1,
+  "last_updated": "2026-07-23",
+  "item_count": 8,
+  "items": [
+    {
+      "id": "naturbaserad-rorelse-psykisk-halsa-2026",
+      "title": "Trädgårdsarbete och annan naturbaserad rörelse stärker den psykiska hälsan",
+      "category": "Hälsa",
+      "date": "2026-04-15",
+      "location": "",
+      "summary": "En kartläggande översikt visar att fysisk aktivitet i naturen, som trädgårdsarbete, ger tydliga vinster för välbefinnande och psykisk hälsa. Forskarna ger konkreta rekommendationer för hur aktiviteterna bäst utformas i praktiken.",
+      "source": "Mental Health Science",
+      "url": "https://doi.org/10.1002/mhs2.70045",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "koloniodlingar-arter-ekosystemtjanster-berlin-2026",
+      "title": "Kolonilotter i Berlin visar sig vara både vackra och nyttiga för naturen",
+      "category": "Biologisk mångfald",
+      "date": "2026-05-20",
+      "location": "Berlin, Tyskland",
+      "summary": "Studien kartlade artrikedomen i Berlins kolonilotter och fann att de levererar en rad ekosystemtjänster utöver skörden. Blandningen av pryd- och nyttoväxter gör lotterna till värdefulla refuger för biologisk mångfald i staden.",
+      "source": "Plant-Environment Interactions",
+      "url": "https://doi.org/10.1002/pei3.70173",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "tradgardar-biofili-positiva-kanslor-vilda-djur-2026",
+      "title": "Den egna trädgården väcker positiva känslor för vilda djur",
+      "category": "Biologisk mångfald",
+      "date": "2026-03-10",
+      "location": "",
+      "summary": "Forskarna visar att hemträdgårdar odlar fram biofili och positiva känslor gentemot vilda arter. Hur mycket trädgårdsarbetet påverkar känslorna beror på artens ekologiska funktion, till exempel om den pollinerar eller bekämpar skadedjur.",
+      "source": "People and Nature",
+      "url": "https://doi.org/10.1002/pan3.70283",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "plojningsfritt-tacktgrodor-kompost-jordhalsa-2026",
+      "title": "Fem år utan plöjning: täckgrödor och kompost bygger friskare jord",
+      "category": "Jord",
+      "date": "2026-02-18",
+      "location": "",
+      "summary": "En femårig fältstudie visar att kombinationen av plöjningsfri odling, täckgrödor och kompost märkbart förbättrar jordhälsan. Resultaten är direkt användbara för den som vill bygga bördig och levande trädgårdsjord över tid.",
+      "source": "Soil Science Society of America Journal",
+      "url": "https://doi.org/10.1002/saj2.70234",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "lekplatser-jordmikrobiom-halsosam-barndom-2026",
+      "title": "Levande jord på lekplatser kan stärka barns mikrobiom och hälsa",
+      "category": "Jord",
+      "date": "2026-06-05",
+      "location": "",
+      "summary": "Forskarna beskriver hur lekplatser fungerar som mikrobiella gränssnitt och föreslår strategier för att berika jordens mikroliv. Rikare jordmikrobiom kan bidra till ett friskare immunförsvar och en hälsosammare barndom.",
+      "source": "mSystems",
+      "url": "https://doi.org/10.1128/msystems.01662-25",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "utvardering-sorter-pollinatorstradgardar-2026",
+      "title": "Vilka sorter lockar flest pollinatörer? Ny utvärdering ger svar",
+      "category": "Pollinatörer",
+      "date": "2026-05-02",
+      "location": "",
+      "summary": "Studien jämförde olika växtsorter för att se vilka som är mest attraktiva för pollinatörer i trädgården. Resultaten hjälper odlare att välja sorter som verkligen gynnar bin och andra nyttoinsekter.",
+      "source": "Ecosphere",
+      "url": "https://doi.org/10.1002/ecs2.70566",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "globala-drivkrafter-vaxt-pollinator-tradgardar-2026",
+      "title": "Vad avgör hur specialiserade trädgårdens pollinatörer blir",
+      "category": "Pollinatörer",
+      "date": "2026-04-28",
+      "location": "",
+      "summary": "En global analys kartlägger vad som styr hur specialiserade samspelen mellan växter och pollinatörer blir i trädgårdar. Insikterna kan hjälpa trädgårdsägare att skapa nätverk som är mer robusta mot störningar.",
+      "source": "Ecology and Evolution",
+      "url": "https://doi.org/10.1002/ece3.73341",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "drakfrukt-odlingssubstrat-takttradgardar-skord-2026",
+      "title": "Rätt odlingssubstrat ger bättre skörd av drakfrukt på taket",
+      "category": "Odling",
+      "date": "2026-06-12",
+      "location": "",
+      "summary": "Forskarna testade olika odlingsmedier för drakfrukt i takträdgårdar och såg tydliga skillnader i tillväxt och skörd. Studien pekar ut vilka substrat som fungerar bäst för odling i urbana och begränsade utrymmen.",
+      "source": "New Zealand Journal of Crop and Horticultural Science",
+      "url": "https://doi.org/10.1002/nzc2.70035",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    }
+  ]
+}

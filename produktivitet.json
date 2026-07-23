@@ -1,0 +1,117 @@
+{
+  "topic": "Produktivitet",
+  "description": "Produktivitetsmetoder, verktyg, forskning om fokus, arbetsliv och AI. Uppdateras varje vecka.",
+  "schema_version": 1,
+  "last_updated": "2026-07-23",
+  "item_count": 9,
+  "items": [
+    {
+      "id": "fyradagarsvecka-bevisen-vaxer-2026",
+      "title": "Fyradagarsveckan vinner mark i takt med att bevisen växer",
+      "category": "Arbetsliv",
+      "date": "2026-06-10",
+      "location": "",
+      "summary": "Allt fler företag inför fyradagarsvecka när nya pilotprojekt visar bibehållen produktivitet och lägre utbrändhet. Artikeln går igenom de senaste resultaten från internationella försök.",
+      "source": "Under30CEO",
+      "url": "https://www.under30ceo.com/four-day-work-week-evidence-grows/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "todoist-ai-rostinmatning-2026",
+      "title": "Todoist låter användare lägga till uppgifter genom att prata med appens AI",
+      "category": "Verktyg",
+      "date": "2026-01-21",
+      "location": "",
+      "summary": "Todoist har lanserat en ny AI-funktion som gör det möjligt att lägga till uppgifter i att-göra-listan via röstkommandon. Uppdateringen är en del av appens bredare satsning på AI-stödd uppgiftshantering.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/01/21/todoists-app-now-lets-you-add-tasks-to-your-to-do-list-by-speaking-to-its-ai/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "mobilpauser-kognitiv-prestation-studie-2026",
+      "title": "Ny studie: mobilanvändning under korta pauser påverkar kognitiv prestation",
+      "category": "Forskning",
+      "date": "2026-05-20",
+      "location": "",
+      "summary": "Forskarna Yildirim och Rummel har undersökt hur smartphoneanvändning under korta arbetspauser påverkar koncentration och sinnesstämning. Resultaten tyder på att mobilpauser inte ger samma kognitiva återhämtning som andra pausaktiviteter.",
+      "source": "Psychological Reports",
+      "url": "https://journals.sagepub.com/doi/10.1177/00332941261431151",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "notion-uppdatering-april-tio-funktioner-2026",
+      "title": "Notions stora våruppdatering: tio nya funktioner för anteckningar och AI",
+      "category": "Verktyg",
+      "date": "2026-04-15",
+      "location": "",
+      "summary": "Notion har rullat ut ett tiotal nya funktioner under våren, med fokus på djupare AI-integration i arbetsytor och databaser. Genomgången förklarar vad nyheterna faktiskt innebär för vardagsanvändaren.",
+      "source": "Fazm Blog",
+      "url": "https://fazm.ai/blog/notion-update-april-2026-new-features",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "timeblocking-mot-timeboxing-debatt-2026",
+      "title": "Produktivitetsdebatten 2026: time blocking mot timeboxing",
+      "category": "Metoder",
+      "date": "2026-03-12",
+      "location": "",
+      "summary": "En genomgång av årets stora metoddebatt där time blocking ställs mot timeboxing som strategi för fokuserat arbete. Artikeln jämför metodernas styrkor och visar när respektive teknik passar bäst.",
+      "source": "Calendar",
+      "url": "https://www.calendar.com/blog/the-productivity-debate-of-2026-time-blocking-vs-time-boxing/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "skarmtid-exekutiva-funktioner-frontiers-2026",
+      "title": "Skärmtid och mobilberoende kopplas till sämre exekutiva funktioner hos unga",
+      "category": "Forskning",
+      "date": "2026-02-05",
+      "location": "",
+      "summary": "En ny studie i Frontiers in Psychology undersöker sambandet mellan skärmtid, smartphoneberoende och exekutiv-motorisk funktion hos högstadieelever. Fynden bidrar till forskningen om hur mobilanvändning påverkar fokus och arbetsminne.",
+      "source": "Frontiers in Psychology",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1694094/full",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "ai-produktivitetsverktyg-vad-fungerar-2026",
+      "title": "AI-produktivitetsverktyg 2026: vad som förändrats och vad som faktiskt fungerar",
+      "category": "AI",
+      "date": "2026-06-02",
+      "location": "",
+      "summary": "En översikt av årets utveckling inom AI-drivna produktivitetsverktyg, från autonoma agenter till smartare kalender- och e-postassistenter. Artikeln skiljer på hajp och funktioner som ger verklig tidsbesparing.",
+      "source": "AIxelerate",
+      "url": "https://www.aixelerate.com/2026/ai-productivity-tools-updates-2026/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "fyradagarsvecka-forskning-visar-2026",
+      "title": "Fyradagarsveckan 2026: vad forskningen faktiskt visar",
+      "category": "Arbetsliv",
+      "date": "2026-05-08",
+      "location": "",
+      "summary": "En granskning av forskningsläget kring förkortad arbetsvecka, med resultat från storskaliga pilotprogram om produktivitet, personalomsättning och välmående. Artikeln nyanserar bilden av vilka branscher som lyckas bäst med modellen.",
+      "source": "SUCCESS",
+      "url": "https://www.success.com/4-day-work-week-research-2026",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "tidshanteringsmetoder-som-fungerar-2026",
+      "title": "15 tidshanteringsmetoder som faktiskt fungerar 2026",
+      "category": "Metoder",
+      "date": "2026-04-22",
+      "location": "",
+      "summary": "En praktisk genomgång av femton beprövade tidshanteringsmetoder, från Pomodoro och Eisenhower-matrisen till modern AI-stödd tidsspårning. Guiden hjälper läsaren att matcha metod med arbetsstil.",
+      "source": "Rize Blog",
+      "url": "https://rize.io/blog/time-management-methods",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    }
+  ]
+}

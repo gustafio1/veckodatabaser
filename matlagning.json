@@ -1,0 +1,105 @@
+{
+  "topic": "Matlagning",
+  "description": "Livsmedelsvetenskap, tekniker, jäsning och smakforskning. Uppdateras varje vecka.",
+  "schema_version": 1,
+  "last_updated": "2026-07-23",
+  "item_count": 8,
+  "items": [
+    {
+      "id": "tillagningsmetoder-mineraler-lever-2026",
+      "title": "Stekt, sous vide eller kokt lever? Så påverkas mineralupptaget",
+      "category": "Tekniker",
+      "date": "2026-05-20",
+      "location": "",
+      "summary": "Forskarna jämförde panstekning, sous vide, kokning och fritering av nöt-, lamm- och kycklinglever och fann att tillagningsmetoden tydligt styr hur väl kroppen kan ta upp järn, zink och andra mineraler. Sous vide bevarade mineralinnehållet bäst medan kokning gav störst förluster till kokvattnet.",
+      "source": "Food Science & Nutrition",
+      "url": "https://doi.org/10.1002/fsn3.72011",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "kokning-avgiftar-chaya-blad-2026",
+      "title": "Kokning avgiftar cyanidrika chayablad utan att offra näringen",
+      "category": "Livsmedelsvetenskap",
+      "date": "2026-06-01",
+      "location": "",
+      "summary": "En studie visar att kokning effektivt bryter ner de naturligt cyanidbildande ämnena i chayablad och gör dem säkra att äta. Samtidigt behölls en stor del av vitaminerna och mineralerna, vilket gör det traditionella bladet till en näringsrik grönsak.",
+      "source": "Foods",
+      "url": "https://doi.org/10.3390/foods15112028",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "fermenterad-vitlok-funktionell-mat-2026",
+      "title": "Fermenterad vitlök som funktionellt vapen mot undernäring",
+      "category": "Jäsning",
+      "date": "2026-05-15",
+      "location": "",
+      "summary": "Översikten kartlägger hur fermentering av vitlök förändrar dess mikrobiella ekologi och koncentrerar bioaktiva ämnen som svartvitlökens antioxidanter. Författarna föreslår fermenterad vitlök som en billig funktionell livsmedelsstrategi med möjliga kliniska hälsofördelar.",
+      "source": "Frontiers in Nutrition",
+      "url": "https://doi.org/10.3389/fnut.2026.1839155",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "surdeg-omdefinierar-bagerijast-2026",
+      "title": "Surdegar skriver om historien bakom bagerijästen",
+      "category": "Jäsning",
+      "date": "2026-04-29",
+      "location": "",
+      "summary": "Genom att analysera jäststammar från surdegar runt om i världen visar forskarna att bagerijästen har en mer mångfacetterad domesticeringshistoria än man tidigare trott. Fynden pekar på att surdegen bevarat vild genetisk mångfald som gått förlorad i industrijäst.",
+      "source": "bioRxiv",
+      "url": "https://doi.org/10.64898/2026.04.29.721752",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "textur-styr-gillande-vaxtburgare-2026",
+      "title": "Det är texturen, inte smaken, som avgör om vi gillar växtburgaren",
+      "category": "Smak",
+      "date": "2026-06-01",
+      "location": "",
+      "summary": "I ett experiment med AI-genererade recept på alternativa proteinburgare visade det sig att texturen på egen hand driver hur mycket människor gillar produkten, oberoende av smaken. Resultatet pekar ut munkänslan som den viktigaste faktorn att förbättra i köttalternativ.",
+      "source": "Foods",
+      "url": "https://doi.org/10.3390/foods15112026",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "maillard-karamelldoft-molekyl-2026",
+      "title": "Molekylär modellering avslöjar hur karamelldoften bildas",
+      "category": "Livsmedelsvetenskap",
+      "date": "2026-03-15",
+      "location": "",
+      "summary": "Med avancerade simuleringar kartlade forskarna steg för steg hur karamellaromen 5-metyl-2-furanmetanol bildas när glutaminsyra och glukos reagerar i Maillardreaktionen. Studien ger en detaljerad kemisk förklaring till doften som uppstår vid bryning och rostning.",
+      "source": "Current Research in Food Science",
+      "url": "https://doi.org/10.1016/j.crfs.2026.101454",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "kycklingfett-oxidation-buljong-arom-2026",
+      "title": "Härsket kycklingfett formar aromen i buljongen",
+      "category": "Smak",
+      "date": "2026-05-10",
+      "location": "",
+      "summary": "Genom att kombinera GC-MS-analys med molekylsimulering visade forskarna att graden av fettoxidation i kycklingfett kraftigt påverkar vilka aromämnen som bildas i Maillardreaktionen i benbuljong. Lagom oxiderat fett gav rikare kött- och rostade toner, medan för mycket oxidation gav bismak.",
+      "source": "Journal of the Science of Food and Agriculture",
+      "url": "https://doi.org/10.1002/jsfa.70634",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "surdeg-jarnupptag-manniska-oversikt-2026",
+      "title": "Surdegsjäsning kan förbättra järnupptaget från brödet",
+      "category": "Forskning",
+      "date": "2026-04-20",
+      "location": "",
+      "summary": "En systematisk översikt av interventionsstudier på människor undersökte hur surdegs- respektive vanlig jäsning och minskad fytatmängd påverkar järnupptag och järnstatus. Resultaten tyder på att fytatnedbrytning under surdegsjäsning kan öka mängden järn kroppen kan ta upp från bröd.",
+      "source": "Frontiers in Nutrition",
+      "url": "https://doi.org/10.3389/fnut.2026.1778997",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    }
+  ]
+}

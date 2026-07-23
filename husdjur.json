@@ -1,0 +1,117 @@
+{
+  "topic": "Husdjur",
+  "description": "Forskning om hundar, katter, beteende och hälsa. Uppdateras varje vecka.",
+  "schema_version": 1,
+  "last_updated": "2026-07-23",
+  "item_count": 9,
+  "items": [
+    {
+      "id": "lek-starker-band-hund-agare-2026",
+      "title": "Lek gör bandet mellan hund och ägare starkare",
+      "category": "Hundar",
+      "date": "2026-03-15",
+      "location": "",
+      "summary": "En studie visar att gemensamma lekstunder mätbart förbättrar relationen mellan hund och ägare. Regelbunden lek stärker samspelet och den känslomässiga kopplingen dem emellan.",
+      "source": "Royal Society Open Science",
+      "url": "https://doi.org/10.1098/rsos.252294",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "aktiva-hundar-aldras-mentalt-langsammare-2026",
+      "title": "Aktiva hundar behåller hjärnan skarp längre",
+      "category": "Hälsa",
+      "date": "2026-04-10",
+      "location": "",
+      "summary": "Hundar som ägnat livet åt hundsport och gemensam aktivitet med sin ägare drabbas av mildare åldersrelaterad kognitiv nedgång. Ras och livslång fysisk aktivitet påverkade graden av demensliknande symtom.",
+      "source": "Frontiers in Veterinary Science",
+      "url": "https://doi.org/10.3389/fvets.2026.1833531",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "feromon-diffusor-lugnar-katter-2026",
+      "title": "Ny feromondoftare hjälper katter att känna sig hemma",
+      "category": "Katter",
+      "date": "2026-05-05",
+      "location": "",
+      "summary": "En passiv diffusor med kattens ansiktsferomon (F3) fick katter att anpassa sig snabbare till nya miljöer. Resultatet pekar på ett enkelt sätt att minska stress vid flytt eller förändringar i hemmet.",
+      "source": "Journal of Feline Medicine and Surgery",
+      "url": "https://doi.org/10.1177/1098612x261422953",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "kattens-personlighet-forutsager-jakt-2026",
+      "title": "Kattens personlighet avslöjar hur långt den strövar och jagar",
+      "category": "Katter",
+      "date": "2026-02-20",
+      "location": "",
+      "summary": "Ägares beskrivningar av kattens personlighet kunde förutsäga hur stort område katten rörde sig över och hur mycket den jagade. Djärva och aktiva katter hade större revir och fångade mer byte.",
+      "source": "Ecology and Evolution",
+      "url": "https://doi.org/10.1002/ece3.73520",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "manniskor-missar-kattens-stress-2026",
+      "title": "Många har svårt att läsa av en stressad katt",
+      "category": "Beteende",
+      "date": "2026-06-12",
+      "location": "",
+      "summary": "Hur väl människor känner igen stress hos katter utifrån visuella signaler berodde på observatörens erfarenhet och egenskaper. Studien belyser varför kattägare ibland missar tidiga tecken på obehag.",
+      "source": "Scientific Reports",
+      "url": "https://doi.org/10.1038/s41598-026-44812-x",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "hund-katt-agande-minskar-stress-2026",
+      "title": "Hund- och kattägande kopplas till lägre upplevd stress",
+      "category": "Hälsa",
+      "date": "2026-03-28",
+      "location": "",
+      "summary": "En jämförande analys fann att både hund- och kattägande hänger samman med lägre upplevd stress, men via delvis olika mekanismer. Sällskapsdjuren tycks bidra till välbefinnande på skilda sätt.",
+      "source": "PLOS ONE",
+      "url": "https://doi.org/10.1371/journal.pone.0350098",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "husdjur-och-kanslomassigt-valmaende-2026",
+      "title": "Så påverkar hundar och katter vårt känslomässiga välmående",
+      "category": "Forskning",
+      "date": "2026-04-22",
+      "location": "",
+      "summary": "En genomgång av samspelet mellan människa och djur beskriver hur interaktioner med hundar och katter stödjer känslomässig hälsa. Forskarna kartlägger vilka former av kontakt som ger störst effekt.",
+      "source": "Frontiers in Psychology",
+      "url": "https://doi.org/10.3389/fpsyg.2026.1768288",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "olika-typer-av-husdjursagare-2026",
+      "title": "Stor internationell studie delar in husdjursägare i typer",
+      "category": "Forskning",
+      "date": "2026-05-18",
+      "location": "",
+      "summary": "Med en storskalig internationell kartläggning av bandet mellan människa och djur identifierade forskarna olika typer av husdjursägare. Indelningen kan hjälpa till att förstå hur relationen till djuret ser ut i praktiken.",
+      "source": "Frontiers in Veterinary Science",
+      "url": "https://doi.org/10.3389/fvets.2026.1748135",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "husdjur-och-halsa-hos-aldre-2026",
+      "title": "Husdjur kopplas till bättre humör och tänkande hos äldre",
+      "category": "Hälsa",
+      "date": "2026-06-30",
+      "location": "",
+      "summary": "En tvärsnittsstudie av äldre vuxna undersökte sambandet mellan husdjursägande och depression, ångest, välbefinnande och kognitiv funktion. Resultaten pekar på positiva samband för flera aspekter av hälsan.",
+      "source": "JMIR Aging",
+      "url": "https://doi.org/10.2196/76289",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    }
+  ]
+}

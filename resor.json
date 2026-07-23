@@ -1,0 +1,105 @@
+{
+  "topic": "Resor",
+  "description": "Forskning om resmål, hållbart resande, flyg och tågresor. Uppdateras varje vecka.",
+  "schema_version": 1,
+  "last_updated": "2026-07-23",
+  "item_count": 8,
+  "items": [
+    {
+      "id": "hamndresor-till-udda-resmal-2026",
+      "title": "Hämndresandet fortsätter – men nu till udda och mindre kända resmål",
+      "category": "Resmål",
+      "date": "2026-06-15",
+      "location": "",
+      "summary": "Ny forskning undersöker varför resenärer efter pandemiåren i allt högre grad väljer okonventionella resmål bortom turistklassikerna, och vilka psykologiska mekanismer som driver besluten. Resultaten tyder på att längtan efter unika upplevelser styr mer än pris och bekvämlighet.",
+      "source": "International Journal of Tourism Research",
+      "url": "https://doi.org/10.1002/jtr.70351",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "turistbojkotter-varfor-2026",
+      "title": "Därför bojkottar resenärer vissa resmål – och därför låter andra bli",
+      "category": "Forskning",
+      "date": "2026-06-20",
+      "location": "",
+      "summary": "Studien kartlägger hur turister resonerar när de väljer att bojkotta ett land eller resmål av etiska eller politiska skäl, och hur destinationer kan bemöta bojkotter. Moraliska överväganden vägs ofta mot personliga reseplaner på överraskande sätt.",
+      "source": "International Journal of Tourism Research",
+      "url": "https://doi.org/10.1002/jtr.70340",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "overturism-marknadsforing-strategier-2026",
+      "title": "Så försöker överfulla resmål styra bort turistströmmarna",
+      "category": "Resmål",
+      "date": "2026-05-10",
+      "location": "",
+      "summary": "En systematisk genomgång visar vilka marknadsföringsstrategier destinationer använder mot överturism – från att lyfta fram mindre kända platser till att avskräcka besök under högsäsong. Forskarna presenterar en karta över vilka åtgärder som faktiskt fungerar.",
+      "source": "Journal of Vacation Marketing",
+      "url": "https://doi.org/10.1177/13567667261423653",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "halverat-flygande-nya-normer-2026",
+      "title": "Frivilligt halverat flygande håller i sig – tecken på nya resenormer",
+      "category": "Flyg",
+      "date": "2026-07-01",
+      "location": "",
+      "summary": "Forskare som frivilligt halverat sitt flygande har hållit fast vid vanan över tid, vilket enligt studien tyder på att nya, varaktiga mobilitetsnormer kan etableras. Fynden är intressanta för alla som funderar på att flyga mindre utan att sluta resa.",
+      "source": "Environmental Research Letters",
+      "url": "https://doi.org/10.1088/1748-9326/ae5e94",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "tagresor-europa-alternativ-flyg-2026",
+      "title": "Tåg genom Europa i stället för flyg – så mycket utsläpp, tid och pengar handlar det om",
+      "category": "Tåg",
+      "date": "2026-01-15",
+      "location": "",
+      "summary": "Studien räknar på vad det faktiskt kostar i växthusgasutsläpp, restid och pengar att ta sig markvägen genom Europa i stället för att flyga. Utsläppsvinsterna är stora, men tids- och kostnadsskillnaderna varierar kraftigt mellan olika rutter.",
+      "source": "Public Health in Practice",
+      "url": "https://doi.org/10.1016/j.puhip.2025.100702",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "klimatfornekelse-turister-norge-2026",
+      "title": "Turister i Norge blundar för klimatpåverkan från sina egna resor",
+      "category": "Hållbarhet",
+      "date": "2026-06-05",
+      "location": "",
+      "summary": "En norsk studie visar hur turister hanterar det obekväma glappet mellan klimatmedvetenhet och det egna resandet – ofta genom olika former av förnekelse och bortförklaringar. Resultaten belyser varför gröna attityder sällan syns i faktiskt resebeteende.",
+      "source": "Tourist Studies",
+      "url": "https://doi.org/10.1177/14687976261447923",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "fjordnorge-klimat-kostnad-kanslighet-2026",
+      "title": "Vad får turister att välja bort norska fjordarna – vädret eller priset?",
+      "category": "Resmål",
+      "date": "2026-04-10",
+      "location": "",
+      "summary": "Forskare har undersökt hur känsliga besökare i Fjordnorge är för förändringar i klimat och kostnader, och vad som skulle få dem att ändra sina resplaner. Studien ger en fingervisning om hur nordiska naturdestinationer påverkas när både väder och priser förändras.",
+      "source": "International Journal of Tourism Research",
+      "url": "https://doi.org/10.1002/jtr.70254",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "hoghastighetstag-bilsamhalle-kanada-2026",
+      "title": "Kan höghastighetståg locka resenärer i ett bilberoende samhälle?",
+      "category": "Tåg",
+      "date": "2026-05-20",
+      "location": "",
+      "summary": "En kanadensisk enkätstudie undersöker om höghastighetståg kan konkurrera med bil och flyg på långa sträckor i ett starkt bilberoende samhälle. Restid, pris och stationernas tillgänglighet avgör om resenärerna är beredda att byta färdmedel.",
+      "source": "Transportation Research Part A",
+      "url": "https://doi.org/10.1016/j.tra.2026.105143",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    }
+  ]
+}

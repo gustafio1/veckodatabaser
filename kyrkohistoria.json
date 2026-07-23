@@ -1,0 +1,117 @@
+{
+  "topic": "Kyrkohistoria",
+  "description": "Kyrkohistorisk forskning, jubileer, kristen arkeologi, böcker och kulturarv. Uppdateras varje vecka.",
+  "schema_version": 1,
+  "last_updated": "2026-07-23",
+  "item_count": 9,
+  "items": [
+    {
+      "id": "iznik-nicaeakyrkans-lamningar-utgravda-2026",
+      "title": "Möjliga lämningar av kyrkan som hyste konciliet i Nicaea utgrävda i İznik",
+      "category": "Arkeologi",
+      "date": "2026-07-10",
+      "location": "İznik, Turkiet",
+      "summary": "Arkeologer har frilagt murfundament och golvbeläggningar som tros tillhöra Sankt Neophytos-kyrkan, där det första konciliet i Nicaea sammanträdde år 325. Fynden visar att en senare basilika uppfördes direkt ovanpå den äldre byggnaden.",
+      "source": "HeritageDaily",
+      "url": "https://www.heritagedaily.com/2026/07/archaeologists-find-possible-remains-of-church-that-hosted-the-first-council-of-nicaea/158563",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "pave-leo-nicaea-1700-symposium-2026",
+      "title": "Påve Leo XIV: Nicaea är en kompass mot kristen enhet 1700 år senare",
+      "category": "Jubileer",
+      "date": "2025-06-09",
+      "location": "Vatikanstaten",
+      "summary": "Vid ett symposium i Vatikanen med anledning av konciliet i Nicaeas 1700-årsjubileum beskrev påve Leo XIV det antika kyrkomötet som en kompass mot full synlig enhet mellan kristna. Han lyfte fram den gemensamma nicenska tron, synodalitet och ett gemensamt påskdatum som centrala teman.",
+      "source": "OSV News",
+      "url": "https://www.osvnews.com/full-text-pope-leo-xivs-address-to-conference-on-council-of-nicaeas-1700th-anniversary/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "codex-h-forlorade-sidor-atervunna-2026",
+      "title": "Förlorade sidor ur 500-talshandskrift med Paulus brev återvunna med ny teknik",
+      "category": "Forskning",
+      "date": "2026-04-23",
+      "location": "Glasgow, Storbritannien",
+      "summary": "Forskare under ledning av Garrick Allen vid University of Glasgow har med multispektral avbildning återvunnit 42 tidigare okända sidor ur Codex H, en 500-talshandskrift av Paulus brev som styckades till bokbindningsmaterial på Athos under 1200-talet. Fynden avslöjar tidiga kapitelindelningar och hur skrivare annoterade bibeltexten.",
+      "source": "Medievalists.net",
+      "url": "https://www.medievalists.net/2026/04/lost-pages-medieval-manuscript-recovered/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "oderzo-basilika-under-fiskmarknad-2026",
+      "title": "Tidigkristen basilika med mosaikgolv funnen under före detta fiskmarknad i Italien",
+      "category": "Arkeologi",
+      "date": "2026-07-03",
+      "location": "Oderzo, Italien",
+      "summary": "I den antika romerska staden Opitergium har arkeologer hittat resterna av en treskeppig tidigkristen basilika från sent 300-tal eller tidigt 400-tal, med omkring 30 kvadratmeter polykroma mosaikgolv och fyra gravar. Platsen ska bevaras och integreras i ett nytt bostadsprojekt.",
+      "source": "HeritageDaily",
+      "url": "https://www.heritagedaily.com/2026/07/ancient-basilica-found-beneath-former-fish-market/158508",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "norge-stavkyrkor-miljonsatsning-2026",
+      "title": "Norge satsar miljoner på att bevara sina medeltida stavkyrkor",
+      "category": "Kulturarv",
+      "date": "2026-03-05",
+      "location": "Norge",
+      "summary": "Norges klimat- och miljödepartement anslår fem miljoner kronor 2026 till landets 28 bevarade stavkyrkor, bland annat till 3D-laserskanning av Borgunds stavkyrka, tjärning av flera kyrkor och dendrokronologisk forskning vid NTNU. Ungefär hälften av stavkyrkorna används fortfarande som församlingskyrkor.",
+      "source": "Medievalists.net",
+      "url": "https://www.medievalists.net/2026/03/norway-invests-millions-to-preserve-its-medieval-stave-churches/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "silence-of-the-gods-recension-2026",
+      "title": "Ny bok kartlägger Europas sista hedniska folk och kristnandets slutfas",
+      "category": "Böcker",
+      "date": "2026-03-06",
+      "location": "",
+      "summary": "Historikern Francis Youngs bok Silence of the Gods (Cambridge University Press) skildrar Östeuropas sista förkristna religioner och hur kristnandet av kontinentens utkanter drog ut på tiden ända in i tidigmodern tid. Verket uppmärksammas som ett viktigt bidrag till kyrkohistorien om missionens och religionsskiftets långa förlopp.",
+      "source": "Catholic World Report",
+      "url": "https://www.catholicworldreport.com/2026/03/06/francis-youngs-silence-of-the-gods/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "wadi-el-natrun-kloster-utgravt-2026",
+      "title": "Tidigkristet kloster utgrävt i Wadi El-Natrun belyser den tidiga munkrörelsen",
+      "category": "Arkeologi",
+      "date": "2026-03-24",
+      "location": "Wadi El-Natrun, Egypten",
+      "summary": "Arkeologer har frilagt ett cirka 2 000 kvadratmeter stort kloster i lertegel från 300–500-talet med kök, förrådsrum, munkgravar, kors- och geometriska muralmålningar samt koptiska inskrifter med munkars namn. Fyndet illustrerar övergången från isolerade eremitboningar till organiserade klostergemenskaper.",
+      "source": "HeritageDaily",
+      "url": "https://www.heritagedaily.com/2026/03/monastery-discovered-in-egypts-wadi-el-natrun-sheds-light-on-early-monastic-life/157534",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "hagenes-salskinnsmanuskript-norge-2026",
+      "title": "Sälskinnsbunden sångbok kan vara Norges äldsta bevarade bok",
+      "category": "Forskning",
+      "date": "2025-11-09",
+      "location": "Oslo, Norge",
+      "summary": "Hagenes-manuskriptet, en åttasidig kyrklig sångbok med sekvenser för helgonfester, har lämnats in till Norges nationalbibliotek och dateras preliminärt till 1200-talet eller tidigare. Konservatorer och forskare vid Universitetet i Bergen undersöker nu den ovanliga sälskinnsbindningen, och DNA-analyser planeras för att fastställa bokens ursprung.",
+      "source": "Ancient Origins",
+      "url": "https://www.ancient-origins.net/news-history-archaeology/oldest-book-norway-00102289",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "istanbul-nicaea-symposium-1700-ar-2026",
+      "title": "Kyrkoledare i Istanbul högtidlighöll Nicaeas 1700-årsjubileum med gemensamt symposium",
+      "category": "Jubileer",
+      "date": "2025-05-20",
+      "location": "Istanbul, Turkiet",
+      "summary": "Vid ett interkyrkligt symposium i Fener-distriktet i Istanbul samlades armeniska, grekisk-ortodoxa, katolska och syriska kyrkoledare samt internationella teologer för att uppmärksamma 1700-årsminnet av konciliet i Nicaea. Deltagarna diskuterade den nicenska trosbekännelsens tillkomst och dess ekumeniska betydelse i dag.",
+      "source": "United Bible Societies",
+      "url": "https://unitedbiblesocieties.org/a-historic-gathering-in-istanbul-1700th-anniversary-of-the-council-of-nicaea-commemorated-with-interchurch-symposium/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "topic": "Cykling",
+  "description": "Proffscykling, svenska cyklister, motionslopp, mountainbike och utrustning. Uppdateras varje vecka.",
+  "schema_version": 1,
+  "last_updated": "2026-07-23",
+  "item_count": 9,
+  "items": [
+    {
+      "id": "pogacar-gula-trojan-etapp-3-2026",
+      "title": "Pogačar vann etapp 3 och tog gula tröjan från Vingegaard",
+      "category": "Proffs",
+      "date": "2026-07-06",
+      "location": "Les Angles, Frankrike",
+      "summary": "Tadej Pogačar attackerade på slutstigningen mot Les Angles och distanserade Jonas Vingegaard för att ta etappsegern. Med bonussekunderna övertog han samtidigt den gula ledartröjan i Tour de France 2026.",
+      "source": "Cyclingnews",
+      "url": "https://www.cyclingnews.com/pro-cycling/racing/tour-de-france-stage-3-tadej-pogacar-blasts-away-from-jonas-vingegaard-on-final-section-of-les-angles-ascent-for-victory-and-bonus-seconds/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "evenepoel-etapp-15-vingegaard-kraschade-2026",
+      "title": "Evenepoel vann etapp 15 – Vingegaard kraschade ur touren",
+      "category": "Proffs",
+      "date": "2026-07-19",
+      "location": "Frankrike",
+      "summary": "Remco Evenepoel besegrade Tadej Pogačar i spurten på den femtonde etappen av Tour de France 2026. Etappen överskuggades av att Jonas Vingegaard kraschade och tvingades bryta loppet.",
+      "source": "Olympics.com",
+      "url": "https://www.olympics.com/en/news/tour-de-france-2026-remco-evenepoel-edges-tadej-pogacar-stage-15-jonas-vingegaard-crash",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "waerenskjold-etapp-11-tour-de-france-2026",
+      "title": "Søren Wærenskjold spurtade hem etapp 11 i Tour de France",
+      "category": "Proffs",
+      "date": "2026-07-15",
+      "location": "Frankrike",
+      "summary": "Norrmannen Søren Wærenskjold tog en etappseger på den elfte etappen av Tour de France 2026. Segern var ett styrkebesked för de skandinaviska spurtarna i årets tour.",
+      "source": "Hurbra.se",
+      "url": "https://hurbra.se/soren-waerenskjold-vann-etapp-11-tour-de-france-2026/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "soderqvist-lidl-trek-varkampanj-2026",
+      "title": "Söderqvist tar direkt plats i Lidl-Treks vårkampanj",
+      "category": "Svenskt",
+      "date": "2026-01-28",
+      "location": "",
+      "summary": "Svenske talangen Jakob Söderqvist har flyttats upp till Lidl-Treks WorldTour-lag och får redan under debutsäsongen 2026 en roll i lagets vårklassikerkampanj. Samtidigt kombinerar han proffslivet med studier.",
+      "source": "CyclingFlash",
+      "url": "https://cyclingflash.com/news/jakob-soderqvist-immediately-takes-role-in-lidl-trek-spring-campaign-im-still-just-a-student",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "landsvags-sm-balinge-uppsala-2026",
+      "title": "Dagsprogrammet klart för landsvägs-SM i Bålinge",
+      "category": "Svenskt",
+      "date": "2026-06-01",
+      "location": "Bålinge, Uppsala",
+      "summary": "Svenska Cykelförbundet har presenterat dagsprogrammet för landsvägs-SM 2026 som avgörs i Bålinge utanför Uppsala. Där koras svenska mästare i både linjelopp och tempo under sommaren.",
+      "source": "Svenska Cykelförbundet",
+      "url": "https://scf.se/landsvag/klart-med-datum-till-landsvags-sm-i-balinge-utanfor-uppsala/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "vatternrundan-regnig-start-2026",
+      "title": "Regnigt när 17 200 cyklister startade Vätternrundan",
+      "category": "Motionslopp",
+      "date": "2026-06-13",
+      "location": "Motala",
+      "summary": "Omkring 17 200 deltagare gav sig ut på den 315 kilometer långa Vätternrundan i regnigt väder under lördagen. Trots vädret rullade det klassiska motionsloppet runt Vättern på som planerat.",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/orebro/regnigt-nar-17-200-startade-i-vatternrundan-under-lordagen",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "vatternrundan-okar-deltagare-2026",
+      "title": "Vätternrundan ökar i antal deltagare 2026",
+      "category": "Motionslopp",
+      "date": "2026-06-10",
+      "location": "Motala",
+      "summary": "Vätternrundan noterar ett ökat deltagarantal inför 2026 års upplaga av cykelveckan i Motala. Uppgången är ett styrketecken för Sveriges största motionslopp på cykel.",
+      "source": "Motala & Vadstena Tidning",
+      "url": "https://www.mvt.se/nyheter/motala/artikel/vatternrundan-okar-i-deltagare-2026/jn36pemr",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "lenzerheide-xco-varldscup-2026",
+      "title": "Dramatisk XCO-avslutning i världscupen i Lenzerheide",
+      "category": "MTB",
+      "date": "2026-06-21",
+      "location": "Lenzerheide, Schweiz",
+      "summary": "Luca Martin vann herrarnas elit-XCO i mountainbikevärldscupen i Lenzerheide efter en dramatisk avslutning mot Adrien Boichis. Tävlingarna avgjordes under världscuphelgen den 19–21 juni.",
+      "source": "Pinkbike",
+      "url": "https://www.pinkbike.com/news/2026-lenzerheide-xc-world-cup-elite-results.html",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "eurobike-nya-cyklar-teknik-2026",
+      "title": "Eurobike 2026: nya cyklar och teknik som stack ut",
+      "category": "Utrustning",
+      "date": "2026-07-01",
+      "location": "Frankfurt, Tyskland",
+      "summary": "På cykelmässan Eurobike i Frankfurt visades årets mest intressanta nyheter, från nya aerocyklar till smarta komponenter. Cyclingnews lyfter fram fem nya cyklar som stack ut ur mängden.",
+      "source": "Cyclingnews",
+      "url": "https://www.cyclingnews.com/bikes/eurobike-2026-five-new-bikes-that-caught-my-eye/",
+      "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    }
+  ]
+}

@@ -27,15 +27,17 @@
   .panel-head b{font-size:14px;}
   .panel-head span{font-size:11px;color:var(--muted);}
   .rows{display:flex;flex-direction:column;gap:2px;}
-  button.row{display:flex;justify-content:space-between;align-items:center;gap:10px;padding:8px 10px;border-radius:10px;border:none;font-family:inherit;font-size:14px;text-align:left;transition:.15s;background:transparent;color:var(--text);width:100%;}
-  button.row .l{display:inline-flex;align-items:center;gap:10px;}
-  button.row .ic{font-size:18px;line-height:1;}
-  button.row .r{font-size:12px;font-weight:600;color:var(--muted);}
-  button.row.act{cursor:pointer;font-weight:600;}
-  button.row.act .r{color:var(--accent2);}
-  button.row.act:hover{background:var(--card-h);}
-  button.row.soon{opacity:.45;cursor:default;}
-  button.row.sel{background:var(--chip);}
+  .row{display:flex;justify-content:space-between;align-items:center;gap:10px;padding:8px 10px;border-radius:10px;border:none;font-family:inherit;font-size:14px;text-align:left;transition:.15s;background:transparent;color:var(--text);width:100%;}
+  .row .l{display:inline-flex;align-items:center;gap:10px;}
+  .row .ic{font-size:18px;line-height:1;}
+  .row .r{font-size:12px;font-weight:600;color:var(--muted);}
+  .row.act{cursor:pointer;font-weight:600;}
+  .row.act .r{color:var(--accent2);}
+  .row.act:hover{background:var(--card-h);}
+  .row.soon{opacity:.45;cursor:default;}
+  .row.sel{background:var(--chip);}
+  .row a.r.lnk{text-decoration:none;padding:4px 8px;margin:-4px -8px;border-radius:8px;}
+  .row a.r.lnk:hover{background:var(--chip);}
   .list-head{display:flex;align-items:baseline;gap:14px;margin:36px 0 4px;}
   .list-head h3{font-size:16px;}
   #reset{background:none;border:none;color:var(--accent2);font-size:13px;font-weight:600;cursor:pointer;padding:0;font-family:inherit;display:none;}
@@ -143,13 +145,13 @@ function renderCats(){
     <div class="panel-head"><b>${c.name}</b><span>${c.subjects.length} ämnen</span></div>
     <div class="rows">${c.subjects.map(s=>{
       const act=!!s.slug;
-      return `<button class="row ${act?"act":"soon"}${sel===s.id?" sel":""}" data-id="${act?s.id:""}">
+      return `<div class="row ${act?"act":"soon"}${sel===s.id?" sel":""}" data-id="${act?s.id:""}">
         <span class="l"><span class="ic">${s.icon}</span><span>${s.name}</span></span>
-        <span class="r">${act?"→":"snart"}</span>
-      </button>`;}).join("")}</div>
+        ${act?`<a class="r lnk" href="${s.slug}.html${s.updated?`?v=${s.updated}`:""}" title="Öppna ${s.name}">→</a>`:`<span class="r">snart</span>`}
+      </div>`;}).join("")}</div>
   </div>`).join("");
-  document.querySelectorAll("button.row.act").forEach(b=>{
-    b.addEventListener("click",()=>{const id=b.dataset.id;sel=sel===id?null:id;renderCats();renderCards();});
+  document.querySelectorAll(".row.act").forEach(b=>{
+    b.addEventListener("click",e=>{if(e.target.closest("a"))return;const id=b.dataset.id;sel=sel===id?null:id;renderCats();renderCards();});
   });
 }
 function renderCards(){
@@ -171,7 +173,7 @@ Promise.all(FLAT.map(s=>
     .then(r=>r.ok?r.json():null)
     .then(d=>{if(d){s.count=d.item_count;s.updated=d.last_updated;}})
     .catch(()=>{})
-)).then(()=>{updateMeta();renderCards();});
+)).then(()=>{updateMeta();renderCats();renderCards();});
 </script>
 </body>
 </html>

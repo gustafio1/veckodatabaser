@@ -2,8 +2,8 @@
   "topic": "Kyrkohistoria",
   "description": "Kyrkohistorisk forskning, jubileer, kristen arkeologi, böcker och kulturarv. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-07-23",
-  "item_count": 9,
+  "last_updated": "2026-07-24",
+  "item_count": 14,
   "items": [
     {
       "id": "iznik-nicaeakyrkans-lamningar-utgravda-2026",
@@ -111,6 +111,66 @@
       "source": "United Bible Societies",
       "url": "https://unitedbiblesocieties.org/a-historic-gathering-in-istanbul-1700th-anniversary-of-the-council-of-nicaea-commemorated-with-interchurch-symposium/",
       "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "sohag-bysantinskt-kloster-utgravt-2026",
+      "title": "Bysantinskt klosterkomplex grävs ut i Sohag i Egypten",
+      "category": "Nyhet",
+      "date": "2026-07-10",
+      "location": "Sohag, Egypten",
+      "summary": "Arkeologer har grävt ut ett bysantinskt klosterboendekomplex vid Al-Qarya bi-Al-Duweir i Övre Egypten, med välplanerade lerteglsbyggnader, en centralkyrka och koptiskt inskriptionsmaterial som visar hur organiserat det tidiga munklivet var.",
+      "source": "Egypts antikvitetsministerium",
+      "url": "https://arkeonews.net/",
+      "added_on": "2026-07-24",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "gravkyrkan-tradgard-fynd-2026",
+      "title": "Nya fynd under Gravkyrkan i Jerusalem styrker berättelsen om en trädgård vid korsfästelsen",
+      "category": "Nyhet",
+      "date": "2026-04-01",
+      "location": "Jerusalem",
+      "summary": "Utgrävningar under Gravkyrkan (Church of the Holy Sepulchre) har funnit cirka 2000 år gamla lämningar av olivträd och vinrankor, vilket ger stöd åt den bibliska uppgiften om en trädgård nära platsen för Jesu korsfästelse och gravläggning.",
+      "source": "Archaeology News Online Magazine",
+      "url": "https://archaeologymag.com/2025/04/ancient-garden-found-at-jesus-burial-site/",
+      "added_on": "2026-07-24",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "tracing-scribes-scrolls-dodahavsrullarna-2026",
+      "title": "Nytt forskningsprojekt ska spåra Dödahavsrullarnas ursprung med AI och kemi",
+      "category": "Nyhet",
+      "date": "2026-06-30",
+      "location": "Israel/Nederländerna",
+      "summary": "Projektet \"Tracing Scribes and Scrolls\", finansierat med 2,5 miljoner euro av European Research Council och lett från Groningens universitet i samarbete med Israels antikvitetsmyndighet, ska med kemisk, paleografisk och AI-baserad analys av 250 rullprover kartlägga var och av vilka Dödahavsrullarna skrevs.",
+      "source": "Times of Israel",
+      "url": "https://www.timesofisrael.com/new-study-revolutionizes-dead-sea-scrolls-dating-might-rewrite-israels-history/",
+      "added_on": "2026-07-24",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "helgon-lattsam-teologisk-betraktelse-bok-2026",
+      "title": "Ny bok tecknar helgonhistorien från apostlarna till Carlo Acutis",
+      "category": "Bok",
+      "date": "2026-07-10",
+      "location": "Sverige",
+      "summary": "I \"Helgon – en lättsam teologisk betraktelse\" av Ulf Aspenberg vandrar läsaren genom kyrkohistorien från de första helgonen till internetgenerationens Carlo Acutis, med både kanoniserade och lokalt vördade gestalter.",
+      "source": "Katolskt Magasin",
+      "url": "https://katolsktmagasin.se/2026/07/10/bok-helgon-en-lattsam-teologisk-betraktelse/",
+      "added_on": "2026-07-24",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "london-aldsta-basilika-fynd-2026",
+      "title": "Londons äldsta basilika funnen gömd under kontorsbyggnad",
+      "category": "Nyhet",
+      "date": "2026-05-01",
+      "location": "London, Storbritannien",
+      "summary": "Arkeologer har lokaliserat resterna av Londinium-eran romerska basilikan under en kontorsbyggnad i centrala London – en av de äldsta offentliga byggnaderna i staden och en viktig pusselbit för att förstå den romerska bakgrunden till Englands tidiga kyrkohistoria.",
+      "source": "Världens Historia",
+      "url": "https://varldenshistoria.se/kultur/arkeologi/gomd-under-en-kontorsbyggnad-arkeologer-fann-londons-aldsta-basilika",
+      "added_on": "2026-07-24",
       "collected_week": "2026-W30"
     }
   ]

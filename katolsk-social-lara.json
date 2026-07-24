@@ -2,8 +2,8 @@
   "topic": "Katolska kyrkans sociala lära",
   "description": "Den katolska kyrkans sociala lära – principerna och temana som vägleder ett rättvist samhälle. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-07-21",
-  "item_count": 63,
+  "last_updated": "2026-07-24",
+  "item_count": 68,
   "items": [
     {
       "id": "liv-och-vardighet",
@@ -759,6 +759,66 @@
       "source": "Vatican News",
       "url": "https://www.vaticannews.va/en/pope/news/2026-04/pope-leo-xiv-italy-inps-national-social-security-right-work.html",
       "added_on": "2026-07-21",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "ratten-att-migrera",
+      "title": "Rätten att migrera och plikten att ta emot",
+      "category": "Princip",
+      "date": "2026-07-24",
+      "location": "",
+      "summary": "Katolsk social lära lär att människor har rätt att söka bättre livsvillkor genom migration när hemlandet inte kan erbjuda dem ett värdigt liv, samtidigt som mottagande samhällen har en plikt att välkomna och integrera dem inom ramen för det gemensamma bästa.",
+      "source": "Katolska kyrkans katekes / Kompendiet",
+      "url": "https://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/rc_pc_justpeace_doc_20060526_compendio-dott-soc_en.html",
+      "added_on": "2026-07-24",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "fredens-uppbyggnad",
+      "title": "Freden som frukt av rättvisa och kärlek",
+      "category": "Princip",
+      "date": "2026-07-24",
+      "location": "",
+      "summary": "Enligt katolsk social lära är sann fred inte enbart frånvaro av krig utan ett aktivt verk av rättvisa, sanning och kärlek mellan människor och folk – en princip som löper från Pacem in Terris till dagens påvliga fredsbudskap.",
+      "source": "Katolska kyrkans katekes / Kompendiet",
+      "url": "https://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/rc_pc_justpeace_doc_20060526_compendio-dott-soc_en.html",
+      "added_on": "2026-07-24",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "personalism-katolsk-social-lara",
+      "title": "Personalismen som grund för den sociala läran",
+      "category": "Princip",
+      "date": "2026-07-24",
+      "location": "",
+      "summary": "Katolsk social lära utgår från personalismen: varje människa är ett unikt subjekt med okränkbar värdighet, aldrig enbart ett medel, vilket ligger till grund för principer som solidaritet och subsidiaritet.",
+      "source": "Katolska kyrkans katekes / Kompendiet",
+      "url": "https://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/rc_pc_justpeace_doc_20060526_compendio-dott-soc_en.html",
+      "added_on": "2026-07-24",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "frihet-ordnad-mot-sanningen",
+      "title": "Friheten måste ordnas mot sanningen",
+      "category": "Princip",
+      "date": "2026-07-24",
+      "location": "",
+      "summary": "I Centesimus Annus varnade Johannes Paulus II för en frihet utan sanning som förfaller till godtycke; en sund samhällsordning kräver att den mänskliga friheten riktas mot det sant goda och det gemensamma bästa.",
+      "source": "Centesimus Annus (1991)",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html",
+      "added_on": "2026-07-24",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "leo-xiv-capp-luxemburg-2026",
+      "title": "Leo XIV till Centesimus Annus Pro Pontifice-konferensen: sociala läran visar vägen till fredlig samexistens",
+      "category": "Nyhet",
+      "date": "2026-01-01",
+      "location": "Luxemburg",
+      "summary": "I ett budskap till stiftelsen Centesimus Annus Pro Pontifices europeiska konferens i Luxemburg framhöll påve Leo XIV att kyrkans sociala lära visar samhällen vägen till äkta respekt och fredlig samexistens.",
+      "source": "Vatican News",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-01/pope-leo-xiv-centesimus-annus-pro-pontefice-message.html",
+      "added_on": "2026-07-24",
       "collected_week": "2026-W30"
     }
   ]

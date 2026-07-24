@@ -9,3 +9,6 @@ desktop.ini
 
 # Testfiler
 *_dupe_probe.txt
+
+# Claude-instruktioner (lokala, ska inte publiceras)
+CLAUDE.md

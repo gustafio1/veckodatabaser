@@ -3,9 +3,9 @@
   <channel>
     <title>Veckodatabaser</title>
     <link>https://www.veckodatabaser.se/</link>
-    <description>Veckovis bevakning: kultur, psykologi, IT, religion, sport, ledarskap, personlig utveckling och katolsk social lära.</description>
+    <description>Veckovis bevakning av 40 ämnesdatabaser: teknik, kultur, sport, tro och tanke, utveckling, samhälle och livsstil.</description>
     <language>sv-SE</language>
-    <lastBuildDate>Tue, 21 Jul 2026 16:56:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 20:59:50 +0000</lastBuildDate>
     <atom:link href="https://www.veckodatabaser.se/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Europe Smash i Malmö 13–23 augusti</title>
@@ -16,12 +16,76 @@
       <description>Ett av årets stora WTT-stopp, Europe Smash, spelas i Malmö 13–23 augusti 2026 med världseliten på plats. (Källa: SVT Sport)</description>
     </item>
     <item>
-      <title>Gåvans logik</title>
-      <link>https://www.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html</link>
-      <guid isPermaLink="false">https://www.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html</guid>
-      <category>Katolsk social lära</category>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Benedikt XVI:s tanke i Caritas in Veritate att ekonomin inte bara kan bygga på byte och kontrakt utan också behöver gratuitet – gåva och broderskap – som en inre princip i det ekonomiska livet. (Källa: Caritas in Veritate / Vatican)</description>
+      <title>Nyfikenhetens lag (The Law of Curiosity)</title>
+      <link>https://www.maxwellleadership.com/blog/</link>
+      <guid isPermaLink="false">https://www.maxwellleadership.com/blog/</guid>
+      <category>Ledarskap</category>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Tillväxt stimuleras av att fråga varför. Nyfikna människor slutar aldrig lära sig – de utforskar, experimenterar och ser möjligheter där andra ser rutin. (Källa: John C. Maxwell – The 15 Invaluable Laws of Growth)</description>
+    </item>
+    <item>
+      <title>Konsekvensens lag (The Law of Consistency)</title>
+      <link>https://www.maxwellleadership.com/blog/</link>
+      <guid isPermaLink="false">https://www.maxwellleadership.com/blog/</guid>
+      <category>Ledarskap</category>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Ur De 15 ovärderliga tillväxtlagarna: motivation får dig igång, men disciplin håller dig växande. Små saker gjorda konsekvent varje dag slår stora insatser gjorda sporadiskt. (Källa: John C. Maxwell – The 15 Invaluable Laws of Growth)</description>
+    </item>
+    <item>
+      <title>Trovärdighetens lag i kommunikation (The Law of Credibility)</title>
+      <link>https://www.elavateglobal.com/leadership-blogs/john-maxwells-16-invaluable-laws-of-communication-overview</link>
+      <guid isPermaLink="false">https://www.elavateglobal.com/leadership-blogs/john-maxwells-16-invaluable-laws-of-communication-overview</guid>
+      <category>Ledarskap</category>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Ur De 16 obestridliga kommunikationslagarna: ditt mest effektiva budskap är det du lever. Åhörarna lyssnar på ditt liv innan de lyssnar på dina ord – trovärdighet ger budskapet dess tyngd. (Källa: John C. Maxwell – The 16 Undeniable Laws of Communication)</description>
+    </item>
+    <item>
+      <title>Citat: &quot;En minuts eftertanke&quot; (A minute of thought)</title>
+      <link>https://www.inc.com/peter-economy/44-inspiring-john-c-maxwell-quotes-that-will-take-you-to-leadership-success.html</link>
+      <guid isPermaLink="false">https://www.inc.com/peter-economy/44-inspiring-john-c-maxwell-quotes-that-will-take-you-to-leadership-success.html</guid>
+      <category>Ledarskap</category>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <description>&quot;En minuts eftertanke är mer värd än en timmes prat.&quot; Maxwell betonar att reflektion och genomtänkta beslut slår ständig aktivitet och tomma ord. (Källa: John C. Maxwell)</description>
+    </item>
+    <item>
+      <title>Så tänker framgångsrika människor (How Successful People Think)</title>
+      <link>https://store.maxwellleadership.com/collections/all-books</link>
+      <guid isPermaLink="false">https://store.maxwellleadership.com/collections/all-books</guid>
+      <category>Ledarskap</category>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Maxwells bok om elva tankesätt som utmärker framgångsrika människor, bl.a. storbildstänkande, fokuserat tänkande, reflekterande tänkande och osjälviskt tänkande. Förändra ditt tänkande så förändras ditt liv. (Källa: John C. Maxwell – How Successful People Think)</description>
+    </item>
+    <item>
+      <title>Modellernas lag (The Law of Modeling)</title>
+      <link>https://www.maxwellleadership.com/blog/</link>
+      <guid isPermaLink="false">https://www.maxwellleadership.com/blog/</guid>
+      <category>Ledarskap</category>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Det är svårt att utvecklas när du bara har dig själv att följa. Hitta mentorer och förebilder som ligger före dig – deras exempel visar vägen och förkortar din inlärningskurva. (Källa: John C. Maxwell – The 15 Invaluable Laws of Growth)</description>
+    </item>
+    <item>
+      <title>Fokus när allt faller isär (How to Stay Focused in Chaos)</title>
+      <link>https://www.maxwellleadership.com/podcast/maxwell-leadership-podcast-focused-falling-apart/</link>
+      <guid isPermaLink="false">https://www.maxwellleadership.com/podcast/maxwell-leadership-podcast-focused-falling-apart/</guid>
+      <category>Ledarskap</category>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Från Maxwell Leadership Podcast (juni 2026): när ledare dras åt många håll är det tankesätt och vanor – inte omständigheter – som ger stabilitet. Ledarens lugn och fokus sprider hopp till teamet i kaotiska tider. (Källa: Maxwell Leadership Podcast (2026))</description>
+    </item>
+    <item>
+      <title>Bidragets lag (The Law of Contribution)</title>
+      <link>https://www.maxwellleadership.com/blog/</link>
+      <guid isPermaLink="false">https://www.maxwellleadership.com/blog/</guid>
+      <category>Ledarskap</category>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Ur De 15 ovärderliga tillväxtlagarna: att växa själv gör det möjligt att få andra att växa. Den yttersta poängen med personlig utveckling är att kunna ge vidare – som en flod, inte en reservoar. (Källa: John C. Maxwell – The 15 Invaluable Laws of Growth)</description>
+    </item>
+    <item>
+      <title>Kvinna knivhuggen under mässa i Irland</title>
+      <link>https://religionmediacentre.org.uk/morning-news-bulletin/religion-news-22-july-2026/</link>
+      <guid isPermaLink="false">https://religionmediacentre.org.uk/morning-news-bulletin/religion-news-22-july-2026/</guid>
+      <category>Religion</category>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+      <description>En kvinna knivhöggs under en pågående mässa i Irland, en attack som väckt bestörtning och förnyad diskussion om säkerheten i gudstjänstlokaler. (Källa: Religion Media Centre)</description>
     </item>
     <item>
       <title>Arbetets subjektiva dimension</title>
@@ -32,20 +96,20 @@
       <description>Johannes Paulus II:s distinktion i Laborem Exercens: arbetets främsta värde ligger inte i det som produceras (den objektiva dimensionen) utan i att det utförs av en person. Därför går arbetet före kapitalet. (Källa: Laborem Exercens / Vatican)</description>
     </item>
     <item>
-      <title>Rätten att organisera sig – fackföreningar</title>
-      <link>https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html</link>
-      <guid isPermaLink="false">https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html</guid>
-      <category>Katolsk social lära</category>
+      <title>Muslimer och judar möts i toppmötet 'Together We Rebuild'</title>
+      <link>https://religionmediacentre.org.uk/morning-news-bulletin/religion-news-21-july-2026</link>
+      <guid isPermaLink="false">https://religionmediacentre.org.uk/morning-news-bulletin/religion-news-21-july-2026</guid>
+      <category>Religion</category>
       <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Sedan Rerum Novarum försvarar den sociala läran arbetarnas rätt att bilda föreningar och fackförbund för att skydda sina rättigheter. Laborem Exercens kallar facken en &#x27;oumbärlig&#x27; röst i kampen för social rättvisa. (Källa: Rerum Novarum / Laborem Exercens)</description>
+      <description>Muslimska och judiska ledare i Storbritannien höll ett gemensamt toppmöte under rubriken 'Together We Rebuild', en fortsättning på arbetet att bygga broar mellan samfunden efter bildandet av det muslimsk-judiska ledarskapsrådet. (Källa: Religion Media Centre)</description>
     </item>
     <item>
-      <title>Mellanliggande organ och civilsamhället</title>
-      <link>https://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/rc_pc_justpeace_doc_20060526_compendio-dott-soc_en.html</link>
-      <guid isPermaLink="false">https://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/rc_pc_justpeace_doc_20060526_compendio-dott-soc_en.html</guid>
-      <category>Katolsk social lära</category>
+      <title>Svensk krimserie i topp när Netflix presenterar augustiutbudet</title>
+      <link>https://www.filmtopp.se/lista/netflix-netflix-nya-filmer-och-serier-i-augusti-2026-premiar-for-svensk-krimserie</link>
+      <guid isPermaLink="false">https://www.filmtopp.se/lista/netflix-netflix-nya-filmer-och-serier-i-augusti-2026-premiar-for-svensk-krimserie</guid>
+      <category>Film &amp; TV</category>
       <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Familjer, föreningar, församlingar och andra gemenskaper mellan individen och staten. Subsidiariteten kräver att dessa &#x27;mellanliggande organ&#x27; respekteras och stöds, eftersom de bär upp delaktighet och det gemensamma bästa. (Källa: Compendium of the Social Doctrine of the Church)</description>
+      <description>Netflix släpper i augusti den svenska kriminalthrillern Blodsoffer med Jakob Oftebro och Peter Andersson, om en kriminalare och hans pensionerade polispappa som jagar en seriemördare. Månaden bjuder även på säsong 2 av Hundra år av ensamhet och sista säsongen av Outer Banks. (Källa: Filmtopp)</description>
     </item>
     <item>
       <title>Leo XIV om socialförsäkring och rätten till arbete (2026)</title>
@@ -56,84 +120,116 @@
       <description>I ett tal till den italienska socialförsäkringsmyndigheten INPS betonade Leo XIV att trygghetssystemen måste främja ekonomisk rättvisa och rätten till arbete – ett konkret uttryck för lärans krav på arbetets värdighet. (Källa: Vatican News)</description>
     </item>
     <item>
-      <title>Gummibandets lag (The Law of the Rubber Band)</title>
-      <link>https://readingraphics.com/book-summary-the-15-invaluable-laws-of-growth/</link>
-      <guid isPermaLink="false">https://readingraphics.com/book-summary-the-15-invaluable-laws-of-growth/</guid>
-      <category>Ledarskap</category>
-      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Ur De 15 ovärderliga tillväxtlagarna: precis som ett gummiband är användbart först när det spänns, växer du bara när du sträcker dig bortom din komfortzon. Utan spänning mellan var du är och var du vill vara stannar utvecklingen. (Källa: John C. Maxwell – The 15 Invaluable Laws of Growth)</description>
+      <title>Gåvans logik</title>
+      <link>https://www.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html</link>
+      <guid isPermaLink="false">https://www.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html</guid>
+      <category>Katolsk social lära</category>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Benedikt XVI:s tanke i Caritas in Veritate att ekonomin inte bara kan bygga på byte och kontrakt utan också behöver gratuitet – gåva och broderskap – som en inre princip i det ekonomiska livet. (Källa: Caritas in Veritate / Vatican)</description>
     </item>
     <item>
-      <title>Smärtans lag (The Law of Pain)</title>
-      <link>https://readingraphics.com/book-summary-the-15-invaluable-laws-of-growth/</link>
-      <guid isPermaLink="false">https://readingraphics.com/book-summary-the-15-invaluable-laws-of-growth/</guid>
-      <category>Ledarskap</category>
-      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
-      <description>God hantering av dåliga erfarenheter leder till stor tillväxt. Motgång och smärta är oundvikliga, men hur du väljer att svara på dem avgör hur mycket du utvecklas. (Källa: John C. Maxwell – The 15 Invaluable Laws of Growth)</description>
+      <title>Rätten att organisera sig – fackföreningar</title>
+      <link>https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html</link>
+      <guid isPermaLink="false">https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html</guid>
+      <category>Katolsk social lära</category>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Sedan Rerum Novarum försvarar den sociala läran arbetarnas rätt att bilda föreningar och fackförbund för att skydda sina rättigheter. Laborem Exercens kallar facken en 'oumbärlig' röst i kampen för social rättvisa. (Källa: Rerum Novarum / Laborem Exercens)</description>
     </item>
     <item>
-      <title>Avvägningarnas lag (The Law of Trade-Offs)</title>
-      <link>https://readingraphics.com/book-summary-the-15-invaluable-laws-of-growth/</link>
-      <guid isPermaLink="false">https://readingraphics.com/book-summary-the-15-invaluable-laws-of-growth/</guid>
-      <category>Ledarskap</category>
-      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Tillväxt kräver att man avstår för att nå högre. Du måste ofta ge upp något på kort sikt – bekvämligheter, vanor eller trygghet – för att vinna något mer värdefullt på lång sikt. (Källa: John C. Maxwell – The 15 Invaluable Laws of Growth)</description>
+      <title>Mellanliggande organ och civilsamhället</title>
+      <link>https://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/rc_pc_justpeace_doc_20060526_compendio-dott-soc_en.html</link>
+      <guid isPermaLink="false">https://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/rc_pc_justpeace_doc_20060526_compendio-dott-soc_en.html</guid>
+      <category>Katolsk social lära</category>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Familjer, föreningar, församlingar och andra gemenskaper mellan individen och staten. Subsidiariteten kräver att dessa 'mellanliggande organ' respekteras och stöds, eftersom de bär upp delaktighet och det gemensamma bästa. (Källa: Compendium of the Social Doctrine of the Church)</description>
     </item>
     <item>
-      <title>Reflektionens lag (The Law of Reflection)</title>
-      <link>https://lifeandleadership.com/book-summaries/maxwell-the-15-invaluable-laws-of-growth/</link>
-      <guid isPermaLink="false">https://lifeandleadership.com/book-summaries/maxwell-the-15-invaluable-laws-of-growth/</guid>
-      <category>Ledarskap</category>
-      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Ur De 15 ovärderliga tillväxtlagarna: att pausa och reflektera låter dig lära av erfarenheten. Utan eftertanke blir upplevelser bara händelser – reflektionen förvandlar dem till lärdomar. (Källa: John C. Maxwell – The 15 Invaluable Laws of Growth)</description>
+      <title>Siri Benjegård bidrog med tre brons på ungdoms-EM</title>
+      <link>https://skanesport.se/2026/07/20/svenskt-medaljregn-pa-ungdoms-em-med-eslovs-siri-benjegard-i-laget/</link>
+      <guid isPermaLink="false">https://skanesport.se/2026/07/20/svenskt-medaljregn-pa-ungdoms-em-med-eslovs-siri-benjegard-i-laget/</guid>
+      <category>Sport</category>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Eslövstalangen Siri Benjegård var med om tre av Sveriges medaljer på ungdoms-EM: brons i flicksingel kadett, lagbrons med flickornas kadettlag och brons i mixeddubbel tillsammans med Emil Ellermann. (Källa: Skånesport)</description>
     </item>
     <item>
-      <title>Citat: &quot;Nära nog att relatera&quot; (Close enough to relate, far enough to motivate)</title>
-      <link>https://www.inc.com/peter-economy/44-inspiring-john-c-maxwell-quotes-that-will-take-you-to-leadership-success.html</link>
-      <guid isPermaLink="false">https://www.inc.com/peter-economy/44-inspiring-john-c-maxwell-quotes-that-will-take-you-to-leadership-success.html</guid>
-      <category>Ledarskap</category>
-      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
-      <description>&quot;Ledare måste vara nära nog för att relatera till andra, men tillräckligt långt före för att motivera dem.&quot; Balansen mellan närhet och riktning är kärnan i inflytande. (Källa: John C. Maxwell)</description>
+      <title>Gukesh i formsvacka – förlorade mot Arjun Erigaisi i Chennai</title>
+      <link>https://www.chess.com/news/view/2026-chennai-grand-masters-round-5</link>
+      <guid isPermaLink="false">https://www.chess.com/news/view/2026-chennai-grand-masters-round-5</guid>
+      <category>Schack</category>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Världsmästaren Gukesh Dommaraju förlorade mot landsmannen Arjun Erigaisi i femte ronden av Chennai Grand Masters efter att ha förspillt en vinstställning i tidsnöd. Förlusten sänkte Gukesh till plats 30 på världsrankingen inför höstens VM-match mot Sindarov. (Källa: Chess.com)</description>
     </item>
     <item>
-      <title>Citat: &quot;Inte titlar eller flödesscheman&quot; (Leadership is not about titles)</title>
-      <link>https://www.inc.com/peter-economy/44-inspiring-john-c-maxwell-quotes-that-will-take-you-to-leadership-success.html</link>
-      <guid isPermaLink="false">https://www.inc.com/peter-economy/44-inspiring-john-c-maxwell-quotes-that-will-take-you-to-leadership-success.html</guid>
-      <category>Ledarskap</category>
-      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
-      <description>&quot;Ledarskap handlar inte om titlar, positioner eller flödesscheman. Det handlar om att ett liv påverkar ett annat.&quot; Maxwell påminner om att verkligt ledarskap är personligt och relationellt. (Källa: John C. Maxwell)</description>
+      <title>Allemansrättens dag firas den 20 september</title>
+      <link>https://kanot.com/sakerhet--miljo/nyheter-sakerhet--miljo/miljo/2026-07-20-allemansrattens-dag-20-september</link>
+      <guid isPermaLink="false">https://kanot.com/sakerhet--miljo/nyheter-sakerhet--miljo/miljo/2026-07-20-allemansrattens-dag-20-september</guid>
+      <category>Friluftsliv</category>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Svenska Kanotförbundet uppmärksammar att Allemansrättens dag firas den 20 september och lyfter allemansrättens betydelse för paddling och annat friluftsliv. Dagen ska öka kunskapen om de rättigheter och skyldigheter som följer med att vistas i naturen. (Källa: Svenska Kanotförbundet)</description>
     </item>
     <item>
-      <title>Citat: &quot;Väx själv för att kunna leda&quot; (Grow yourself to grow others)</title>
-      <link>https://www.maxwellleadership.com/blog/</link>
-      <guid isPermaLink="false">https://www.maxwellleadership.com/blog/</guid>
-      <category>Ledarskap</category>
-      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
-      <description>&quot;Om du vill leda andra måste du fortsätta växa själv – du kan bara ge det du har.&quot; Ledarens egen utveckling sätter taket för vad hen kan tillföra andra. (Källa: John C. Maxwell)</description>
+      <title>Emil Ellermann tog EM-silver i kadettsingel</title>
+      <link>https://nosbtf.sbtf.se/ellermann-till-uem-final-och-sju-medaljer-till-sverige/</link>
+      <guid isPermaLink="false">https://nosbtf.sbtf.se/ellermann-till-uem-final-och-sju-medaljer-till-sverige/</guid>
+      <category>Sport</category>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Emil Ellermann var störste svenske medaljören på ungdoms-EM med silver i pojksingel kadett efter finalplats, plus brons i både pojkdubbel (med Peadar Sheridan) och mixeddubbel (med Siri Benjegård). (Källa: Nordöstra Svealands Bordtennisförbund)</description>
     </item>
     <item>
-      <title>Energihantering framför tidshantering</title>
-      <link>https://welloclock.com/blog-list/how-to-boost-productivity-naturally-proven-methods-2026</link>
-      <guid isPermaLink="false">https://welloclock.com/blog-list/how-to-boost-productivity-naturally-proven-methods-2026</guid>
-      <category>Personlig utveckling</category>
-      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Planera arbetet efter din energi i stället för klockan: lägg krävande uppgifter när du är som piggast och rutinuppgifter i energisvackor. Hållbar produktivitet bygger på att förvalta fysiska och mentala resurser – sömn, pauser, mat och rörelse – inte bara loggade timmar. (Källa: Welloclock)</description>
+      <title>Sju svenska medaljer på ungdoms-EM i bordtennis</title>
+      <link>https://nosbtf.sbtf.se/ellermann-till-uem-final-och-sju-medaljer-till-sverige/</link>
+      <guid isPermaLink="false">https://nosbtf.sbtf.se/ellermann-till-uem-final-och-sju-medaljer-till-sverige/</guid>
+      <category>Sport</category>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Sverige tog totalt sju medaljer på ungdoms-EM i Gondomar – bästa resultatet sedan 2009 och bara andra gången på 2000-talet med så stor medaljskörd. Bland medaljerna fanns lagbrons för både pojkar och flickor i kadettklassen samt dubbelbrons för Adam Wallin/Noa Dahlström i juniorklassen. (Källa: Nordöstra Svealands Bordtennisförbund)</description>
     </item>
     <item>
-      <title>Uppmärksamhetshantering (Attention Management)</title>
-      <link>https://www.theknowledgeacademy.com/blog/attention-management-strategies/</link>
-      <guid isPermaLink="false">https://www.theknowledgeacademy.com/blog/attention-management-strategies/</guid>
-      <category>Personlig utveckling</category>
-      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Skydda din uppmärksamhet aktivt i stället för att bara schemalägga tid: stäng av notiser, bestäm fasta tider för e-post och sociala medier och välj medvetet vad som får ditt fokus. Maura Thomas metod betonar att kontroll över uppmärksamheten – inte kalendern – är nyckeln till meningsfullt arbete. (Källa: Maura Thomas, Attention Management)</description>
+      <title>Sirius drar ifrån i Allsvenskan – 35 poäng efter omgång 13</title>
+      <link>https://hurbra.se/allsvenskan-resultat-20-juli-2026/</link>
+      <guid isPermaLink="false">https://hurbra.se/allsvenskan-resultat-20-juli-2026/</guid>
+      <category>Sport</category>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Serieledaren Sirius besegrade Elfsborg med 3-1 och toppar Allsvenskan med 35 poäng efter 13 omgångar. Bakom Uppsalalaget trängs AIK, Djurgården, Malmö FF, GAIS och Västerås inom två poäng; i omgångens avslutning kryssade både Kalmar–MFF (2-2) och Örgryte–Djurgården (0-0). (Källa: Hurbra.se)</description>
     </item>
     <item>
-      <title>Identitetsbaserade vanor</title>
-      <link>https://jamesclear.com/identity-based-habits</link>
-      <guid isPermaLink="false">https://jamesclear.com/identity-based-habits</guid>
-      <category>Personlig utveckling</category>
-      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Utgå från vem du vill vara i stället för vad du vill uppnå: säg &quot;jag är en person som tränar&quot; snarare än &quot;jag ska gå ner i vikt&quot;. Varje liten handling blir en röst på din önskade identitet, vilket gör vanorna mer hållbara än rena resultatmål. (Källa: James Clear, Atomic Habits)</description>
+      <title>Spanien världsmästare efter 1-0 mot Argentina i VM-finalen</title>
+      <link>https://www.fotbollsvm.se/resultat/</link>
+      <guid isPermaLink="false">https://www.fotbollsvm.se/resultat/</guid>
+      <category>Sport</category>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Spanien vann fotbolls-VM 2026 efter 1-0 mot Argentina i finalen på MetLife Stadium. Ferran Torres avgjorde i förlängningen med ett skott i krysset. (Källa: Fotbollsvm.se)</description>
+    </item>
+    <item>
+      <title>Evenepoel vann etapp 15 – Vingegaard kraschade ur touren</title>
+      <link>https://www.olympics.com/en/news/tour-de-france-2026-remco-evenepoel-edges-tadej-pogacar-stage-15-jonas-vingegaard-crash</link>
+      <guid isPermaLink="false">https://www.olympics.com/en/news/tour-de-france-2026-remco-evenepoel-edges-tadej-pogacar-stage-15-jonas-vingegaard-crash</guid>
+      <category>Cykling</category>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Remco Evenepoel besegrade Tadej Pogačar i spurten på den femtonde etappen av Tour de France 2026. Etappen överskuggades av att Jonas Vingegaard kraschade och tvingades bryta loppet. (Källa: Olympics.com)</description>
+    </item>
+    <item>
+      <title>Ryan Fox vinner 154:e The Open på Royal Birkdale</title>
+      <link>https://www.golfchannel.com/pga-tour/live/british-open-2026-live-updates-leaderboard-scores-highlights-news-from-final-round</link>
+      <guid isPermaLink="false">https://www.golfchannel.com/pga-tour/live/british-open-2026-live-updates-leaderboard-scores-highlights-news-from-final-round</guid>
+      <category>Golf</category>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Nyzeeländaren Ryan Fox vann den 154:e upplagan av The Open Championship på Royal Birkdale. Segern är den största i hans karriär och årets sista major på herrsidan. (Källa: Golf Channel)</description>
+    </item>
+    <item>
+      <title>Rublev vann Nordea Open i Båstad</title>
+      <link>https://www.atptour.com/en/news/bastad-atp-250-2026-history-draw-schedule</link>
+      <guid isPermaLink="false">https://www.atptour.com/en/news/bastad-atp-250-2026-history-draw-schedule</guid>
+      <category>Sport</category>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Förstaseedade Andrej Rublev vann ATP 250-turneringen Nordea Open i Båstad, som spelades 13–19 juli. Svenske Max Dahlin fick turneringens sista wildcard till huvudtablån. (Källa: ATP Tour)</description>
+    </item>
+    <item>
+      <title>Badosa tog titeln i WTA-turneringen i Båstad</title>
+      <link>https://tennisconnected.com/2026-atp-wta-summer-swing-preview-umag-gstaad-bastad-iasi-and-athens/</link>
+      <guid isPermaLink="false">https://tennisconnected.com/2026-atp-wta-summer-swing-preview-umag-gstaad-bastad-iasi-and-athens/</guid>
+      <category>Sport</category>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Paula Badosa vann WTA 125-turneringen i Båstad efter finalseger mot Simona Waltert med 7-5, 7-5 – spanjorskans första titel på nästan två år. (Källa: Tennis Connected)</description>
     </item>
     <item>
       <title>Veckogenomgång (Weekly Review)</title>
@@ -144,20 +240,28 @@
       <description>Avsätt 30–60 minuter varje vecka för att tömma inkorgar, gå igenom pågående projekt, bocka av klart och planera nästa veckas viktigaste uppgifter. Regelbunden genomgång ger överblick, minskar stress och hindrar att saker faller mellan stolarna. (Källa: David Allen, Getting Things Done)</description>
     </item>
     <item>
-      <title>Feynman-tekniken</title>
-      <link>https://fs.blog/feynman-technique/</link>
-      <guid isPermaLink="false">https://fs.blog/feynman-technique/</guid>
-      <category>Personlig utveckling</category>
-      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Lär dig något på djupet genom att förklara det med enkla ord, som för en tolvåring: skriv ner förklaringen, hitta luckorna där du fastnar, gå tillbaka till källan och förenkla igen. Tekniken avslöjar snabbt skillnaden mellan att känna igen något och att faktiskt förstå det. (Källa: Farnam Street)</description>
-    </item>
-    <item>
       <title>Premortem-analys</title>
       <link>https://hbr.org/2007/09/performing-a-project-premortem</link>
       <guid isPermaLink="false">https://hbr.org/2007/09/performing-a-project-premortem</guid>
       <category>Personlig utveckling</category>
       <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
       <description>Föreställ dig innan projektstart att projektet har misslyckats totalt och lista alla tänkbara orsaker – åtgärda sedan de största riskerna i förväg. Gary Kleins metod motverkar överoptimism och gör planer betydligt mer robusta. (Källa: Gary Klein, Harvard Business Review)</description>
+    </item>
+    <item>
+      <title>Uppmärksamhetshantering (Attention Management)</title>
+      <link>https://www.theknowledgeacademy.com/blog/attention-management-strategies/</link>
+      <guid isPermaLink="false">https://www.theknowledgeacademy.com/blog/attention-management-strategies/</guid>
+      <category>Personlig utveckling</category>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Skydda din uppmärksamhet aktivt i stället för att bara schemalägga tid: stäng av notiser, bestäm fasta tider för e-post och sociala medier och välj medvetet vad som får ditt fokus. Maura Thomas metod betonar att kontroll över uppmärksamheten – inte kalendern – är nyckeln till meningsfullt arbete. (Källa: Maura Thomas, Attention Management)</description>
+    </item>
+    <item>
+      <title>Gummibandets lag (The Law of the Rubber Band)</title>
+      <link>https://readingraphics.com/book-summary-the-15-invaluable-laws-of-growth/</link>
+      <guid isPermaLink="false">https://readingraphics.com/book-summary-the-15-invaluable-laws-of-growth/</guid>
+      <category>Ledarskap</category>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Ur De 15 ovärderliga tillväxtlagarna: precis som ett gummiband är användbart först när det spänns, växer du bara när du sträcker dig bortom din komfortzon. Utan spänning mellan var du är och var du vill vara stannar utvecklingen. (Källa: John C. Maxwell – The 15 Invaluable Laws of Growth)</description>
     </item>
     <item>
       <title>Avslutningsritual för arbetsdagen (Shutdown Ritual)</title>
@@ -168,6 +272,30 @@
       <description>Avsluta varje arbetsdag med en fast rutin: gå igenom dagens lösa trådar, skriv ner morgondagens plan och markera dagen som stängd med en tydlig signal. Ritualen hjälper hjärnan att släppa jobbet, minskar kvällsgrubbel och förbättrar återhämtningen. (Källa: Cal Newport, Deep Work)</description>
     </item>
     <item>
+      <title>Energihantering framför tidshantering</title>
+      <link>https://welloclock.com/blog-list/how-to-boost-productivity-naturally-proven-methods-2026</link>
+      <guid isPermaLink="false">https://welloclock.com/blog-list/how-to-boost-productivity-naturally-proven-methods-2026</guid>
+      <category>Personlig utveckling</category>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Planera arbetet efter din energi i stället för klockan: lägg krävande uppgifter när du är som piggast och rutinuppgifter i energisvackor. Hållbar produktivitet bygger på att förvalta fysiska och mentala resurser – sömn, pauser, mat och rörelse – inte bara loggade timmar. (Källa: Welloclock)</description>
+    </item>
+    <item>
+      <title>Reflektionens lag (The Law of Reflection)</title>
+      <link>https://lifeandleadership.com/book-summaries/maxwell-the-15-invaluable-laws-of-growth/</link>
+      <guid isPermaLink="false">https://lifeandleadership.com/book-summaries/maxwell-the-15-invaluable-laws-of-growth/</guid>
+      <category>Ledarskap</category>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Ur De 15 ovärderliga tillväxtlagarna: att pausa och reflektera låter dig lära av erfarenheten. Utan eftertanke blir upplevelser bara händelser – reflektionen förvandlar dem till lärdomar. (Källa: John C. Maxwell – The 15 Invaluable Laws of Growth)</description>
+    </item>
+    <item>
+      <title>Citat: &quot;Väx själv för att kunna leda&quot; (Grow yourself to grow others)</title>
+      <link>https://www.maxwellleadership.com/blog/</link>
+      <guid isPermaLink="false">https://www.maxwellleadership.com/blog/</guid>
+      <category>Ledarskap</category>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <description>&quot;Om du vill leda andra måste du fortsätta växa själv – du kan bara ge det du har.&quot; Ledarens egen utveckling sätter taket för vad hen kan tillföra andra. (Källa: John C. Maxwell)</description>
+    </item>
+    <item>
       <title>Att-inte-göra-lista (Not-To-Do List)</title>
       <link>https://tim.blog/2007/08/16/the-not-to-do-list-9-habits-to-stop-now/</link>
       <guid isPermaLink="false">https://tim.blog/2007/08/16/the-not-to-do-list-9-habits-to-stop-now/</guid>
@@ -176,156 +304,28 @@
       <description>Skriv en lista över beteenden och åtaganden du aktivt ska undvika – t.ex. kolla mejl före frukost, ta möten utan agenda eller säga ja av artighet. Att medvetet välja bort lågvärdesaktiviteter frigör ofta mer tid än nya produktivitetsverktyg. (Källa: Tim Ferriss)</description>
     </item>
     <item>
-      <title>Moonshot AI Kimi K3 – ny öppen frontlinjemodell</title>
-      <link>https://llm-stats.com/llm-updates</link>
-      <guid isPermaLink="false">https://llm-stats.com/llm-updates</guid>
-      <category>IT</category>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Kinesiska Moonshot AI släppte Kimi K3 den 16 juli 2026, en av de senaste stora modellanseringarna i sommarens intensiva AI-våg. (Källa: LLM-Stats)</description>
-    </item>
-    <item>
-      <title>Se – döma – handla</title>
-      <link>https://www.vatican.va/content/john-xxiii/en/encyclicals/documents/hf_j-xxiii_enc_15051961_mater.html</link>
-      <guid isPermaLink="false">https://www.vatican.va/content/john-xxiii/en/encyclicals/documents/hf_j-xxiii_enc_15051961_mater.html</guid>
-      <category>Katolsk social lära</category>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Metoden att först iaktta den konkreta situationen, sedan bedöma den i ljuset av evangeliet och den sociala läran, och till sist handla. Utvecklad av kardinal Cardijn och upptagen av Johannes XXIII i Mater et Magistra som den sociala lärans arbetssätt. (Källa: Mater et Magistra / Vatican)</description>
-    </item>
-    <item>
-      <title>Slit-och-släng-kulturen</title>
-      <link>https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html</link>
-      <guid isPermaLink="false">https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html</guid>
-      <category>Katolsk social lära</category>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Franciskus begrepp för en kultur som behandlar både ting och människor – ofödda, gamla, arbetslösa, migranter – som förbrukningsvaror. Ett av hans mest använda uttryck för det som strider mot människans värdighet och det gemensamma bästa. (Källa: Evangelii Gaudium / Laudato Si&#x27;)</description>
-    </item>
-    <item>
-      <title>Ekologisk omvändelse</title>
-      <link>https://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html</link>
-      <guid isPermaLink="false">https://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html</guid>
-      <category>Katolsk social lära</category>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Kallelsen att låta mötet med Kristus prägla förhållandet till skapelsen – en inre omvändelse som visar sig i ändrad livsstil och ansvar för miljön. Begreppet myntades av Johannes Paulus II och fördjupas i Laudato Si&#x27;. (Källa: Laudato Si&#x27; / Vatican)</description>
-    </item>
-    <item>
-      <title>WOOP-metoden</title>
-      <link>https://www.psychologytoday.com/us/blog/the-peter-drucker-files/202512/supercharge-your-2026-self-development</link>
-      <guid isPermaLink="false">https://www.psychologytoday.com/us/blog/the-peter-drucker-files/202512/supercharge-your-2026-self-development</guid>
+      <title>Feynman-tekniken</title>
+      <link>https://fs.blog/feynman-technique/</link>
+      <guid isPermaLink="false">https://fs.blog/feynman-technique/</guid>
       <category>Personlig utveckling</category>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Formulera ett mål i fyra steg: Wish (önskan), Outcome (bästa utfallet), Obstacle (inre hinder) och Plan (om-då-plan för hindret). Metoden, utvecklad av forskaren Gabriele Oettingen, kombinerar positiv visualisering med realistisk hinderplanering och ökar chansen att du fullföljer målet. (Källa: Psychology Today)</description>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Lär dig något på djupet genom att förklara det med enkla ord, som för en tolvåring: skriv ner förklaringen, hitta luckorna där du fastnar, gå tillbaka till källan och förenkla igen. Tekniken avslöjar snabbt skillnaden mellan att känna igen något och att faktiskt förstå det. (Källa: Farnam Street)</description>
     </item>
     <item>
-      <title>Ivy Lee-metoden (6 uppgifter)</title>
-      <link>https://www.psychologytoday.com/us/blog/the-peter-drucker-files/202512/supercharge-your-2026-self-development</link>
-      <guid isPermaLink="false">https://www.psychologytoday.com/us/blog/the-peter-drucker-files/202512/supercharge-your-2026-self-development</guid>
-      <category>Personlig utveckling</category>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Skriv varje kväll ner de sex viktigaste uppgifterna för nästa dag, rangordnade efter prioritet. Arbeta uppifrån och ner, en uppgift i taget, och flytta det oavklarade till nästa dags lista. Den enkla rutinen tvingar fram tydliga prioriteringar och minskar beslutströtthet. (Källa: Psychology Today)</description>
+      <title>Smärtans lag (The Law of Pain)</title>
+      <link>https://readingraphics.com/book-summary-the-15-invaluable-laws-of-growth/</link>
+      <guid isPermaLink="false">https://readingraphics.com/book-summary-the-15-invaluable-laws-of-growth/</guid>
+      <category>Ledarskap</category>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <description>God hantering av dåliga erfarenheter leder till stor tillväxt. Motgång och smärta är oundvikliga, men hur du väljer att svara på dem avgör hur mycket du utvecklas. (Källa: John C. Maxwell – The 15 Invaluable Laws of Growth)</description>
     </item>
     <item>
-      <title>Aldrig missa två gånger</title>
-      <link>https://www.upskillist.com/blog/how-to-build-self-discipline-for-focus/</link>
-      <guid isPermaLink="false">https://www.upskillist.com/blog/how-to-build-self-discipline-for-focus/</guid>
-      <category>Personlig utveckling</category>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Att missa en dag med en vana är mänskligt, men gör aldrig ett uppehåll två dagar i rad. Regeln skyddar mot att ett enskilt snedsteg växer till ett totalt avbrott och gör det lätt att snabbt komma tillbaka på banan. (Källa: Upskillist)</description>
-    </item>
-    <item>
-      <title>Regelbunden motion för självkontroll</title>
-      <link>https://www.upskillist.com/blog/how-to-build-self-discipline-for-focus/</link>
-      <guid isPermaLink="false">https://www.upskillist.com/blog/how-to-build-self-discipline-for-focus/</guid>
-      <category>Personlig utveckling</category>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Fysisk träning stärker inte bara kroppen utan även den mentala självregleringen. Regelbunden motion förbättrar emotionell kontroll, koncentration och den disciplin som krävs för att hålla fokus på längre sikt. (Källa: Upskillist)</description>
-    </item>
-    <item>
-      <title>Pareto-principen (80/20-regeln)</title>
-      <link>https://www.asianefficiency.com/mindsets/focus-self-discipline/</link>
-      <guid isPermaLink="false">https://www.asianefficiency.com/mindsets/focus-self-discipline/</guid>
-      <category>Personlig utveckling</category>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Ungefär 80 % av resultaten kommer från 20 % av insatserna. Identifiera de få uppgifter som ger störst effekt och lägg din energi där i stället för att sprida dig tunt över allt. Att fokusera på de vitala fåtaliga uppgifterna ökar produktiviteten dramatiskt. (Källa: Asian Efficiency)</description>
-    </item>
-    <item>
-      <title>Parkinsons lag (kortare deadlines)</title>
-      <link>https://www.asianefficiency.com/mindsets/focus-self-discipline/</link>
-      <guid isPermaLink="false">https://www.asianefficiency.com/mindsets/focus-self-discipline/</guid>
-      <category>Personlig utveckling</category>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Arbete tenderar att svälla ut och fylla den tid som finns tillgänglig. Sätt medvetet snävare deadlines för dina uppgifter, så tvingas du arbeta mer fokuserat och undviker att en enkel uppgift drar ut över hela dagen. (Källa: Asian Efficiency)</description>
-    </item>
-    <item>
-      <title>Stoisk kvällsreflektion</title>
-      <link>https://www.psychologytoday.com/us/blog/the-peter-drucker-files/202512/supercharge-your-2026-self-development</link>
-      <guid isPermaLink="false">https://www.psychologytoday.com/us/blog/the-peter-drucker-files/202512/supercharge-your-2026-self-development</guid>
-      <category>Personlig utveckling</category>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Avsluta dagen med några minuters stoisk reflektion: vad gick bra, vad kunde gjorts bättre och vad ligger utanför din kontroll. Genom att fokusera på det du faktiskt kan påverka bygger du sinnesro och motståndskraft, i linje med både stoisk filosofi och modern KBT. (Källa: Psychology Today)</description>
-    </item>
-    <item>
-      <title>Mental visualisering</title>
-      <link>https://positivepsychology.com/self-discipline-exercises/</link>
-      <guid isPermaLink="false">https://positivepsychology.com/self-discipline-exercises/</guid>
-      <category>Personlig utveckling</category>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Föreställ dig i förväg och i detalj hur du genomför en handling eller uppnår ett mål. Mental repetition aktiverar liknande hjärnbanor som den faktiska handlingen, stärker självförtroendet och förbereder dig inför krävande situationer. (Källa: Positive Psychology)</description>
-    </item>
-    <item>
-      <title>OpenAI Codex-tangentbord med Work Louder</title>
-      <link>https://9to5mac.com/2026/06/29/openai-teases-codex-branded-hardware-collaboration-coming-heres-what-to-expect/</link>
-      <guid isPermaLink="false">https://9to5mac.com/2026/06/29/openai-teases-codex-branded-hardware-collaboration-coming-heres-what-to-expect/</guid>
-      <category>IT</category>
-      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <description>OpenAI teamade upp med Work Louder för att göra en Codex-specifik version av tangentbordet Creator Micro 2, företagets första hårdvarusamarbete, med lansering den 15 juli 2026. (Källa: 9to5Mac)</description>
-    </item>
-    <item>
-      <title>Lenovo Legion R9000P – första laptopen med inkjet-printad OLED</title>
-      <link>https://www.notebookcheck.net/Newsarchive-2026-07.1332035.0.html</link>
-      <guid isPermaLink="false">https://www.notebookcheck.net/Newsarchive-2026-07.1332035.0.html</guid>
-      <category>IT</category>
-      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Lenovo lanserade världens första bärbara dator med inkjet-printad OLED-panel, en 240 Hz IJP-skärm från TCL CSOT i gaminglaptopen Legion R9000P. (Källa: Notebookcheck)</description>
-    </item>
-    <item>
-      <title>Spanien till VM-final efter 2-0 mot Frankrike</title>
-      <link>https://www.fotbollskanalen.se/artiklar/sverige/fotbolls-vm-2026-attondelsfinaler-avspark-spelschema-slutspel-tv-tider-resultatet</link>
-      <guid isPermaLink="false">https://www.fotbollskanalen.se/artiklar/sverige/fotbolls-vm-2026-attondelsfinaler-avspark-spelschema-slutspel-tv-tider-resultatet</guid>
-      <category>Sport</category>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Spanien besegrade Frankrike med 2-0 i semifinalen på AT&amp;T Stadium i Dallas och är klart för VM-finalen. Motståndaren avgörs i semifinalen mellan England och Argentina. (Källa: Fotbollskanalen)</description>
-    </item>
-    <item>
-      <title>Astell&amp;Kern SP4000T – flaggskeppsspelare med rörsteg</title>
-      <link>https://www.gearpatrol.com/audio/best-tech-audio-hi-fi-releases-2026-july-week-2/</link>
-      <guid isPermaLink="false">https://www.gearpatrol.com/audio/best-tech-audio-hi-fi-releases-2026-july-week-2/</guid>
-      <category>IT</category>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Nästa generation av Astell&amp;Kerns bärbara hifi-flaggskepp, vars största nyhet är ett integrerat förstärkarsteg med fyra vakuumrör. (Källa: Gear Patrol)</description>
-    </item>
-    <item>
-      <title>Marantz CD 70 – ny CD-spelare i instegsklassen</title>
-      <link>https://www.gearpatrol.com/audio/best-tech-audio-hi-fi-releases-2026-july-week-2/</link>
-      <guid isPermaLink="false">https://www.gearpatrol.com/audio/best-tech-audio-hi-fi-releases-2026-july-week-2/</guid>
-      <category>IT</category>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Marantz nya instegs-CD-spelare och direkta efterföljare till CD6007 från 2020, presenterad i mitten av juli 2026. (Källa: Gear Patrol)</description>
-    </item>
-    <item>
-      <title>McIntosh – ny hemmabiokomponent i referensklass</title>
-      <link>https://www.gearpatrol.com/audio/best-tech-audio-hi-fi-releases-2026-july-week-2/</link>
-      <guid isPermaLink="false">https://www.gearpatrol.com/audio/best-tech-audio-hi-fi-releases-2026-july-week-2/</guid>
-      <category>IT</category>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <description>McIntosh presenterade en ny hemmabiokomponent för cirka 15 000 USD, ett av de mest påkostade hifi-släppen i juli 2026. (Källa: Gear Patrol)</description>
-    </item>
-    <item>
-      <title>Vi väljer fortfarande vänner som på stenåldern</title>
-      <link>https://phys.org/news/2026-07-friends-stone-age.html</link>
-      <guid isPermaLink="false">https://phys.org/news/2026-07-friends-stone-age.html</guid>
-      <category>Psykologi</category>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
-      <description>Studie i Evolution &amp; Human Behavior visar att människor väljer vänner av samma kön delvis utifrån egenskaper som gjort någon till en värdefull samarbetspartner i förhistoriska miljöer – attraktivitet, prosocialitet och dominans var starkaste unika prediktorer. (Källa: Phys.org / Evolution &amp; Human Behavior)</description>
+      <title>Citat: &quot;Nära nog att relatera&quot; (Close enough to relate, far enough to motivate)</title>
+      <link>https://www.inc.com/peter-economy/44-inspiring-john-c-maxwell-quotes-that-will-take-you-to-leadership-success.html</link>
+      <guid isPermaLink="false">https://www.inc.com/peter-economy/44-inspiring-john-c-maxwell-quotes-that-will-take-you-to-leadership-success.html</guid>
+      <category>Ledarskap</category>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
+      <description>&quot;Ledare måste vara nära nog för att relatera till andra, men tillräckligt långt före för att motivera dem.&quot; Balansen mellan närhet och riktning är kärnan i inflytande. (Källa: John C. Maxwell)</description>
     </item>
   </channel>
 </rss>

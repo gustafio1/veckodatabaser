@@ -17,16 +17,55 @@ import json, os, re, random, datetime, html, email.utils
 HERE = os.path.dirname(os.path.abspath(__file__))
 SITE_URL = "https://www.veckodatabaser.se"
 
-# slug -> (ikon, kort etikett, färg)
+# slug -> (ikon, kort etikett, färg) — alla 40 ämnesdatabaser
 TOPICS = {
+    # Teknik & vetenskap
     "it":                    ("\U0001F4BB", "IT",                  "#4f8cff"),
-    "katolsk-social-lara":   ("⛪",     "Katolsk social lära", "#c9a227"),
+    "ai":                    ("\U0001F916", "AI",                  "#7c6cff"),
+    "rymden":                ("\U0001F680", "Rymden",              "#5964d2"),
+    "vetenskap":             ("\U0001F52C", "Vetenskap",           "#38b6d6"),
+    "programmering":         ("⌨️", "Programmering",     "#2e86ab"),
+    # Kultur & nöje
     "kultur":                ("\U0001F3AD", "Kultur",              "#ff7ab8"),
-    "ledarskap":             ("\U0001F9ED", "Ledarskap",           "#19c3a6"),
-    "personlig-utveckling":  ("\U0001F331", "Personlig utveckling","#5fd35f"),
-    "psykologi":             ("\U0001F9E0", "Psykologi",           "#b07cff"),
-    "religion":              ("✝️","Religion",            "#e0aa3e"),
+    "film":                  ("\U0001F3AC", "Film & TV",           "#c73e6e"),
+    "musik":                 ("\U0001F3B5", "Musik",               "#d94fd1"),
+    "litteratur":            ("\U0001F4D6", "Litteratur",          "#b5763c"),
+    "konst":                 ("\U0001F3A8", "Konst & design",      "#e5533d"),
+    "foto":                  ("\U0001F4F7", "Fotografi",           "#8d6e63"),
+    # Sport & fritid
     "sport":                 ("⚽",     "Sport",               "#ff924c"),
+    "lopning":               ("\U0001F3C3", "Löpning",             "#ef6c00"),
+    "friluftsliv":           ("\U0001F3D5️", "Friluftsliv",   "#6b8e23"),
+    "cykling":               ("\U0001F6B4", "Cykling",             "#43a047"),
+    "golf":                  ("⛳",     "Golf",                "#7cb342"),
+    "schack":                ("♟️", "Schack",            "#78909c"),
+    # Tro & tanke
+    "religion":              ("✝️","Religion",            "#e0aa3e"),
+    "katolsk-social-lara":   ("⛪",     "Katolsk social lära", "#c9a227"),
+    "filosofi":              ("\U0001F4DC", "Filosofi",            "#9575cd"),
+    "kyrkohistoria":         ("\U0001F3DB️", "Kyrkohistoria", "#a1887f"),
+    # Sinne & utveckling
+    "psykologi":             ("\U0001F9E0", "Psykologi",           "#b07cff"),
+    "personlig-utveckling":  ("\U0001F331", "Personlig utveckling","#5fd35f"),
+    "ledarskap":             ("\U0001F9ED", "Ledarskap",           "#19c3a6"),
+    "produktivitet":         ("⏱️", "Produktivitet",     "#00acc1"),
+    "mindfulness":           ("\U0001F9D8", "Mindfulness",         "#4db6ac"),
+    "relationer":            ("\U0001F49E", "Relationer",          "#f06292"),
+    # Samhälle & värld
+    "ekonomi":               ("\U0001F4C8", "Ekonomi & börs",      "#388e3c"),
+    "entreprenorskap":       ("\U0001F4BC", "Entreprenörskap",     "#ab47bc"),
+    "historia":              ("\U0001F3FA", "Historia",            "#bf8040"),
+    "geografi":              ("\U0001F5FA️", "Geografi",      "#26a69a"),
+    "resor":                 ("✈️", "Resor",             "#039be5"),
+    "sprak":                 ("\U0001F5E3️", "Språk",         "#7e57c2"),
+    # Livsstil & hem
+    "halsa":                 ("❤️","Hälsa",               "#e53950"),
+    "traning":               ("\U0001F4AA", "Träning",             "#f4511e"),
+    "matlagning":            ("\U0001F373", "Matlagning",          "#fb8c00"),
+    "kaffe":                 ("☕",     "Kaffe",               "#795548"),
+    "vin":                   ("\U0001F377", "Vin",                 "#8e2f48"),
+    "tradgard":              ("\U0001F33B", "Trädgård",            "#9e9d24"),
+    "husdjur":               ("\U0001F415", "Husdjur",             "#6d8b74"),
 }
 
 IMG_EXTS = (".jpg", ".jpeg", ".png", ".gif", ".webp", ".avif", ".bmp")
@@ -297,8 +336,8 @@ def build_rss(news, limit=40):
         '  <channel>\n'
         '    <title>Veckodatabaser</title>\n'
         f'    <link>{SITE_URL}/</link>\n'
-        '    <description>Veckovis bevakning: kultur, psykologi, IT, religion, '
-        'sport, ledarskap, personlig utveckling och katolsk social lära.</description>\n'
+        '    <description>Veckovis bevakning av 40 ämnesdatabaser: teknik, kultur, '
+        'sport, tro och tanke, utveckling, samhälle och livsstil.</description>\n'
         '    <language>sv-SE</language>\n'
         f'    <lastBuildDate>{now}</lastBuildDate>\n'
         f'    <atom:link href="{SITE_URL}/rss.xml" rel="self" type="application/rss+xml"/>\n'

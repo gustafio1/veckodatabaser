@@ -2,8 +2,8 @@
   "topic": "Musik",
   "description": "Nya album, konserter, festivaler, svensk musik och musikbranschen. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-07-23",
-  "item_count": 9,
+  "last_updated": "2026-07-26",
+  "item_count": 14,
   "items": [
     {
       "id": "madonna-confessions-ii-slapp-2026",
@@ -111,6 +111,66 @@
       "source": "Hypebot",
       "url": "https://www.hypebot.com/spotify-loud-clear-report-2026-11b-paid-as-global-musical-middle-class-expands/",
       "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "stim-nya-ledningen-2026",
+      "title": "Stim stärker ledningen med fyra nya tillsättningar",
+      "category": "Bransch",
+      "date": "2026-07-03",
+      "location": "",
+      "summary": "Stim tillsatte Adina Broström, Claudia Salazar, Jenny Möllberg och Paul Stuart i ledningen, i ett läge där AI och nya affärsmodeller snabbt förändrar musikmarknaden.",
+      "source": "Musikindustrin",
+      "url": "https://www.musikindustrin.se/2026/07/03/fyra-nya-i-stims-ledning/",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "pophouse-iron-maiden-2026",
+      "title": "Pophouse köper andel i Iron Maidens rättigheter",
+      "category": "Bransch",
+      "date": "2026-07-14",
+      "location": "",
+      "summary": "Björn Ulvaeus Pophouse Entertainment förvärvade hälften av Iron Maidens förlags- och masterrättigheter samt namn- och bildrättigheter, med planer på en digital Eddie-upplevelse.",
+      "source": "Billboard",
+      "url": "https://www.billboard.com/pro/iron-maiden-sells-half-their-catalog-pophouse-entertainment/",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "svenska-musikmuseet-vastervik-2026",
+      "title": "Svenska Musikmuseet ska öppna i Västervik 2027",
+      "category": "Bransch",
+      "date": "2026-07-10",
+      "location": "Västervik",
+      "summary": "Planerna för ett nytt nationellt musikmuseum på Slottsholmen i Västervik presenterades, med målet att berätta historien om det svenska musikundret från Jussi Björling till Zara Larsson.",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/smaland/vastervik-har-en-unik-musikhistoria",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "tidal-ai-royalty-policy-2026",
+      "title": "Tidal slutar betala royalty för helt AI-genererad musik",
+      "category": "Bransch",
+      "date": "2026-07-15",
+      "location": "",
+      "summary": "Streamingtjänsten Tidal blev först bland de stora aktörerna att stoppa royaltyutbetalningar för musik som ett detekteringssystem bedömer som helt AI-genererad.",
+      "source": "PYMNTS",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/tidal-eliminates-royalties-for-fully-ai-generated-music/",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "marie-bergman-musikstipendium-2026",
+      "title": "Marie Bergman får Konstnärsnämndens stora musikstipendium",
+      "category": "Pris",
+      "date": "2026-07-26",
+      "location": "",
+      "summary": "Visartisten Marie Bergman tilldelades stipendiet på 300 000 kronor för över 50 år på scen och sin roll som pionjär inom svensk vis- och singer/songwriter-tradition.",
+      "source": "Pressen.se",
+      "url": "https://www.pressen.se/1344113281.html",
+      "added_on": "2026-07-26",
       "collected_week": "2026-W30"
     }
   ]

@@ -2,8 +2,8 @@
   "topic": "Kultur",
   "description": "Nya kulturevenemang i Sverige – festivaler, konserter, utställningar och scenkonst. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-07-21",
-  "item_count": 55,
+  "last_updated": "2026-07-26",
+  "item_count": 60,
   "items": [
     {
       "id": "sweden-rock-2026",
@@ -718,6 +718,71 @@
       "source": "Riksteatern",
       "url": "https://www.riksteatern.se/pa-scen/riksteaterns-nationella-turneer-hosten-2026/",
       "added_on": "2026-07-21",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "visfestivalen-vastervik-2026",
+      "title": "Visfestivalen i Västervik 2026",
+      "category": "Festival",
+      "event_date": "2026-07-09",
+      "event_date_end": "2026-07-11",
+      "location": "Västervik",
+      "summary": "Vistraditionen firades vid Stegeholms slottsruin med bland andra Louise Hoffsten, Titiyo och trubaduren William Sundman Sääf på scenen under tre sommarkvällar.",
+      "source": "Västerviks kommun",
+      "url": "https://www.vastervik.se/Uppleva-och-gora/Kultur-sevardheter/Visfestivalen/",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "anders-emma-zorn-opera-vattnas-2026",
+      "title": "Anders och Emma Zorn – operaurpremiär i Vattnäs",
+      "category": "Scenkonst",
+      "event_date": "2026-07-10",
+      "event_date_end": "2026-07-25",
+      "location": "Mora",
+      "summary": "Vattnäs Konsertlada gav urpremiär åt en ny opera om konstnärsparet Anders och Emma Zorns stormiga äktenskap, med musik av Matthew Peterson och libretto av Anna Larsson.",
+      "source": "Mora Tidning",
+      "url": "https://www.moratidning.se/mora/premiar-for-opera-om-emma-och-anders-zorns-stormiga-aktenskap",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "stockholm-thaifestival-2026",
+      "title": "Stockholm Thaifestival i Kungsträdgården",
+      "category": "Festival",
+      "event_date": "2026-07-21",
+      "event_date_end": "2026-07-25",
+      "location": "Stockholm",
+      "summary": "Kungsträdgården fylldes av thailändsk streetfood, dans och livemusik när Stockholm Thaifestival hölls i sin hittills största upplaga, med fritt inträde under fem dagar.",
+      "source": "Thaifestivalen",
+      "url": "https://www.thaifestivalen.se/",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "midsommarnattsdrom-stallebrottet-2026",
+      "title": "En midsommarnattsdröm – sommarteater på Stallebrottet",
+      "category": "Scenkonst",
+      "event_date": "2026-07-11",
+      "event_date_end": "2026-07-25",
+      "location": "Bohus-Malmön",
+      "summary": "Katharina och Robin Kellers uppsättning av Shakespeares klassiker fick sommarpremiär på klipphällarna vid Stallebrottet, förlagd till en campingplats med bröllopskaos i huvudrollen.",
+      "source": "Stallebrottet",
+      "url": "https://stallebrottet.se/en-midsommarnattsdrom-william-shakespeare/",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "korsettkriget-hallwylska-2026",
+      "title": "Korsettkriget – ny utställning på Hallwylska museet",
+      "category": "Utställning",
+      "event_date": "2026-03-13",
+      "event_date_end": "2027-01-10",
+      "location": "Stockholm",
+      "summary": "Utställningen skildrar kampen mot den snörda livstilen kring förra sekelskiftet, med klänningar och korsetter ur museets samlingar tillsammans med nyskapade plagg av designern Ove Harder Finseth.",
+      "source": "Hallwylska museet",
+      "url": "https://hallwylskamuseet.se/pa-gang/utstallningar/korsettkriget/",
+      "added_on": "2026-07-26",
       "collected_week": "2026-W30"
     }
   ]

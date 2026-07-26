@@ -2,8 +2,8 @@
   "topic": "Film & TV",
   "description": "Biopremiärer, streaming, TV-serier, svensk film och filmfestivaler. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-07-23",
-  "item_count": 9,
+  "last_updated": "2026-07-26",
+  "item_count": 15,
   "items": [
     {
       "id": "sju-biopremiarer-juli-2026",
@@ -111,6 +111,78 @@
       "source": "Variety",
       "url": "https://variety.com/2026/film/global/lone-scherfig-levan-akin-cannes-ruben-ostlund-film-i-vast-1236748422/",
       "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "enola-holmes-3-netflix-2026",
+      "title": "Enola Holmes 3 har premiär på Netflix",
+      "category": "Streaming",
+      "date": "2026-07-01",
+      "location": "",
+      "summary": "Millie Bobby Brown återvänder som Enola Holmes i en tredje film där jakten på en gåtfull komplott för henne till Malta, med Henry Cavill tillbaka som Sherlock Holmes.",
+      "source": "Netflix Tudum",
+      "url": "https://www.netflix.com/tudum/articles/enola-holmes-3-release-date-cast-news",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "vaiana-live-action-biopremiar-2026",
+      "title": "Vaiana i skådespelarform har biopremiär i Sverige",
+      "category": "Biopremiär",
+      "date": "2026-07-10",
+      "location": "",
+      "summary": "Disneys live action-nytolkning av Vaiana, med Dwayne Johnson som Maui, fick biopremiär på svenska biografer efter att först ha visats i USA i juni.",
+      "source": "Filmstaden",
+      "url": "https://www.filmstaden.se/film/vaiana/",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "supergirl-biopremiar-2026",
+      "title": "Supergirl har biopremiär",
+      "category": "Biopremiär",
+      "date": "2026-07-10",
+      "location": "",
+      "summary": "DC:s nya superhjälteäventyr Supergirl fick biopremiär i juli, ett av bara sju bredare biosläpp i en annars svag premiärmånad.",
+      "source": "Filmtopp",
+      "url": "https://www.filmtopp.se/lista/biopremiarer-i-juli-2026-hojdpunkterna-bland-manadens-nya-biofilmer",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "super-mario-bros-2-biopremiar-2026",
+      "title": "Super Mario Bros. Movie 2 har biopremiär",
+      "category": "Biopremiär",
+      "date": "2026-07-01",
+      "location": "",
+      "summary": "Uppföljaren till den rekordframgångsrika Mario-filmen fick biopremiär i juli, med ett rymdtema från Nintendo och Illumination.",
+      "source": "MovieZine",
+      "url": "https://www.moviezine.se/nyheter/sju-biopremiarer-i-juli",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "the-odyssey-nolan-biopremiar-2026",
+      "title": "Christopher Nolans The Odyssey har biopremiär",
+      "category": "Biopremiär",
+      "date": "2026-07-17",
+      "location": "",
+      "summary": "Christopher Nolans efterlängtade tolkning av Homeros epos fick världspremiär på bio, med Matt Damon, Tom Holland, Zendaya och Robert Pattinson i rollistan.",
+      "source": "Britannica",
+      "url": "https://www.britannica.com/topic/The-Odyssey-film-by-Nolan",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "viaplay-juli-2026-nyheter",
+      "title": "Viaplay fyller på med runt 80 nya titlar i juli",
+      "category": "Streaming",
+      "date": "2026-07-01",
+      "location": "",
+      "summary": "Viaplay presenterade sitt julinummer med bland annat kriminaldramat The Oslo Killing, dramaserien Mr Loverman och samtliga säsonger av Rescue Me.",
+      "source": "MovieZine",
+      "url": "https://www.moviezine.se/nyheter/nya-filmer-serier-viaplay-sverige-juli-2026",
+      "added_on": "2026-07-26",
       "collected_week": "2026-W30"
     }
   ]

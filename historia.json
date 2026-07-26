@@ -2,8 +2,8 @@
   "topic": "Historia",
   "description": "Historisk forskning, arkeologiska fynd, svensk historia, böcker och jubileer. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-07-23",
-  "item_count": 8,
+  "last_updated": "2026-07-26",
+  "item_count": 16,
   "items": [
     {
       "id": "herlaugshaugen-skeppsgrav-2026",
@@ -99,6 +99,102 @@
       "source": "Scandinavian Economic History Review",
       "url": "https://doi.org/10.1080/03585522.2026.2698043",
       "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "vikingatida-textilproduktion-soften-2026",
+      "title": "Storskalig vikingatida textilproduktionsplats funnen i Danmark",
+      "category": "Arkeologi",
+      "date": "2026-06-24",
+      "location": "Danmark",
+      "summary": "Arkeologer vid Moesgaard Museum har grävt ut en 100 000 kvadratmeter stor anläggning i Søften nära Aarhus med över 80 grophus för linberedning och textilhantverk. Fyndet visar att vikingatida bosättningar kunde vara högspecialiserade produktionscentra kopplade till internationella handelsnätverk.",
+      "source": "NPR / Moesgaard Museum",
+      "url": "https://www.npr.org/2026/06/24/g-s1-129750/viking-textile-production-site",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "romerska-denarer-halle-saxen-anhalt-2026",
+      "title": "Sällsynt skatt av romerska republikanska denarer funnen i Halle",
+      "category": "Fynd",
+      "date": "2026-07-15",
+      "location": "Tyskland",
+      "summary": "En amatörarkeolog har hittat fem romerska republikanska silvermynt i Halle, vilket räknas som det första säkert dokumenterade myntfyndet av sitt slag i förbundslandet Sachsen-Anhalt. Fyndet ger nya belägg för kontakter mellan den romerska världen och samhällen bortom imperiets gränser kring vår tideräknings början.",
+      "source": "Arkeonews",
+      "url": "https://arkeonews.net/rare-hoard-of-roman-republican-denarii-discovered-in-halle-germany/",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "assyrisk-stele-nineve-2026",
+      "title": "Sällsynt assyrisk kungastele funnen vid Nineves solport",
+      "category": "Fynd",
+      "date": "2026-06-25",
+      "location": "Irak",
+      "summary": "Ett irakisk-amerikanskt arkeologteam har grävt fram en 2600 år gammal stele från kung Assurbanipals tid vid Nineves Shamash-port. Stenen bär reliefer och kilskrift som dokumenterar kungens byggnadsverk och räknas som ett av de viktigaste assyriska kungamonumenten som hittats på decennier.",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/news/mena/2026/06/25/rare-stele-of-assyrian-king-who-reigned-2600-years-ago-unearthed-in-iraqs-nineveh/",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "iliaden-papyrus-mumie-oxyrhynchos-2026",
+      "title": "Fragment av Homeros Iliaden hittat i egyptisk mumies inlindning",
+      "category": "Fynd",
+      "date": "2026-07-13",
+      "location": "Egypten",
+      "summary": "I en 1600 år gammal mumie i Oxyrhynchos har forskare för första gången funnit en grekisk litterär text - ett fragment av Iliadens skeppskatalog - medvetet inlagd som en del av balsameringsritualen. Tidigare fynd av papyrus i samma position har enbart innehållit magiska eller rituella texter.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260713084918.htm",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "ai-digitalisering-handskrifter-kb-2026",
+      "title": "AI ska tolka svenska handskrifter i nytt digitaliseringsprojekt",
+      "category": "Nyhet",
+      "date": "2026-03-31",
+      "location": "Sverige",
+      "summary": "Riksarkivet, Kungliga biblioteket och Riksantikvarieämbetet inleder ett tvåårigt projekt, finansierat av Kungl. Vitterhetsakademien med drygt 10 miljoner kronor, för att med AI-baserad handskriftsigenkänning göra flera hundra år gamla dokument, från isländska lexikon till 1700-talsporträtt, sökbara och tillgängliga.",
+      "source": "Kungl. Vitterhetsakademien",
+      "url": "https://www.vitterhetsakademien.se/nyheter/nyheter/2026-03-31-nytt-projekt-digitalisering-av-unik-historia-med-ai.html",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "rod-pyramiden-dammar-dahshur-2026",
+      "title": "Två forntida dammar kan ha försett Röda pyramidens bygge med vatten",
+      "category": "Forskning",
+      "date": "2026-07-23",
+      "location": "Egypten",
+      "summary": "En ny studie i npj Heritage Science omtolkar två 600-700 meter långa stenkonstruktioner vid Wadi Dahshur, tidigare tolkade som transportramper, som dammar och ett vattenavledningssystem från farao Sneferus tid omkring 2550 f.Kr. Fyndet pekar på avancerad vattenhantering vid pyramidbyggena.",
+      "source": "npj Heritage Science / HeritageDaily",
+      "url": "https://www.heritagedaily.com/2026/07/ancient-water-management-system-proposed-near-egypts-red-pyramid/158700",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "romersk-mosaik-devon-2026",
+      "title": "Sällsynt romersk mosaikgolv och badhus grävs fram i Devon",
+      "category": "Fynd",
+      "date": "2026-07-21",
+      "location": "Storbritannien",
+      "summary": "Vid en romersk villa mellan Halberton och Sampford Peverell i Devon har arkeologer friläggt ett välbevarat polykromt mosaikgolv från 300-talet samt ett badhus. Fyndet, den västligaste kända mosaiken av sitt slag i romerska Britannien, tyder på att platsen beboddes av en förmögen romersk-brittisk familj.",
+      "source": "Archaeology Wiki",
+      "url": "https://www.archaeology.wiki/blog/2026/07/21/roman-villa-with-intricate-mosaic-and-bath-house/",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "svenska-runstenar-internationellt-2026",
+      "title": "Svensk runforskning och landets runstensbestånd uppmärksammas internationellt",
+      "category": "Nyhet",
+      "date": "2026-03-01",
+      "location": "Sverige",
+      "summary": "Riksantikvarieämbetet lyfter fram hur svensk runforskning och Sveriges unikt stora bestånd av runstenar rönt internationellt intresse. Runologer berättar att nya runstenar, oberörda i över tusen år, fortfarande återupptäcks och att inskrifterna vittnar om allt från krig och heder till kärlek och sorg.",
+      "source": "Riksantikvarieämbetet",
+      "url": "https://www.raa.se/nyheter/2026/03/svenska-runor-uppmarksammas-internationellt/",
+      "added_on": "2026-07-26",
       "collected_week": "2026-W30"
     }
   ]

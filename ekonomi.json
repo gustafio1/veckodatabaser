@@ -2,8 +2,8 @@
   "topic": "Ekonomi & börs",
   "description": "Forskning om börs, makroekonomi, räntor och hushållens ekonomi. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-07-23",
-  "item_count": 9,
+  "last_updated": "2026-07-26",
+  "item_count": 17,
   "items": [
     {
       "id": "skuldkvot-mot-aktievardering-debt-equity-spread-2026",
@@ -111,6 +111,102 @@
       "source": "Real Estate Economics",
       "url": "https://doi.org/10.1111/1540-6229.70031",
       "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "fed-inflationsprognos-varningsflagga-2026",
+      "title": "Feds inflationsprognos inför julimötet visar oväntad varningsflagga",
+      "category": "Nyhet",
+      "date": "2026-07-20",
+      "location": "",
+      "summary": "Fed:s senaste inflationsprognos inför räntebeskedet i slutet av juli pekar på förnyad prisuppgång, och marknadens sannolikhet för en räntehöjning steg kraftigt på bara en vecka enligt terminsmarknaden. Utvecklingen skapar osäkerhet om hur länge Fed kan hålla räntan still.",
+      "source": "The Motley Fool",
+      "url": "https://www.fool.com/investing/2026/07/20/federal-reserve-july-inflation-forecast-red-flag/",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "scb-kpi-inflation-juni-2026",
+      "title": "Svensk inflation föll till 0,7 procent i juni – KPIF ner till 1,3 procent",
+      "category": "Nyhet",
+      "date": "2026-07-15",
+      "location": "",
+      "summary": "SCB:s utfall för juni visar att inflationstakten enligt KPI sjönk till 0,7 procent, dämpad av lägre mat- och transportpriser, medan det räntejusterade måttet KPIF föll till 1,3 procent. Siffrorna stärker bilden av en avtagande prisuppgång i Sverige.",
+      "source": "SCB (Statistiska centralbyrån)",
+      "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/konsumentprisindex-kpi/pong/statistiknyhet/konsumentprisindex-kpi-juni-2026",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "nya-bolaneregler-april-2026-amorteringskrav",
+      "title": "Slopat amorteringskrav och höjt bolånetak – nya bolåneregler sedan april",
+      "category": "Nyhet",
+      "date": "2026-04-01",
+      "location": "",
+      "summary": "Sedan den 1 april gäller nya bolåneregler i Sverige: det skärpta amorteringskravet för högt belånade hushåll är borttaget och bolånetaket har höjts från 85 till 90 procent av bostadens värde, vilket sänker kravet på kontantinsats.",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/ekonomi/nya-bolaneregler-fran-den-1-april",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "scb-stickprov-hushallens-skulder-2026",
+      "title": "Regeringen ger SCB i uppdrag att kartlägga hushållens skulder i detalj",
+      "category": "Nyhet",
+      "date": "2026-05-05",
+      "location": "",
+      "summary": "Regeringen vill att SCB genom stickprov ska samla in mer detaljerade uppgifter om hushållens skulder och likvida tillgångar, för att bättre kunna analysera hushållens motståndskraft mot ekonomiska chocker. Lagändringen föreslås träda i kraft den 1 augusti.",
+      "source": "Regeringen.se",
+      "url": "https://www.regeringen.se/pressmeddelanden/2026/05/scb-ska-samla-in-statistik-om-hushallens-skulder/",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "ai-bubbla-varning-varderingar-2026",
+      "title": "Investeringsdirektör varnar för hög risk för AI-bubbla på börsen",
+      "category": "Fynd",
+      "date": "2026-07-19",
+      "location": "",
+      "summary": "Höga värderingar, särskilt bland amerikanska teknikbolag som satsar hundratals miljarder dollar på AI-infrastruktur, gör att flera investeringsdirektörer nu bedömer risken för en AI-driven börsbubbla som förhöjd, samtidigt som grundstämningen bland investerare förblir optimistisk.",
+      "source": "EFN",
+      "url": "https://efn.se/investeringsdirektoren-hog-risk-for-ai-bubbla",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "stockholmsborsen-juli-2026-teknikrally",
+      "title": "Stockholmsbörsen vände upp i juli – teknik starkast sektor",
+      "category": "Nyhet",
+      "date": "2026-07-24",
+      "location": "Sverige",
+      "summary": "Efter en svag inledning på månaden steg OMXS30 och det breda OMXSPI-indexet kraftigt i slutet av juli, med teknoksektorn som starkaste bransch med en enskild uppgång på över 2 procent.",
+      "source": "Placera.se / Hurbra.se",
+      "url": "https://hurbra.se/stockholmsborsen-24-juli-2026/",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "svenska-sparare-indexfonder-2026",
+      "title": "Svenska sparare väljer allt oftare billiga globala indexfonder",
+      "category": "Fynd",
+      "date": "2026-07-10",
+      "location": "Sverige",
+      "summary": "Nya jämförelser visar att svenska småsparare i allt högre grad föredrar breda, lågavgiftsbelagda globala indexfonder framför aktivt förvaltade alternativ, samtidigt som användarvänliga digitala sparplattformar vinner mark mot etablerade banker.",
+      "source": "Börskollen",
+      "url": "https://www.borskollen.se/nyheter/27/enklaste-sparandet-for-2026-kniper-andraplatsen-pa-prestigelistan",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "guldpris-rekordniva-2026",
+      "title": "Guldpriset nära rekordnivåer – säker hamn i oroligt börsklimat",
+      "category": "Nyhet",
+      "date": "2026-07-02",
+      "location": "",
+      "summary": "Guldpriset har återhämtat sig till över 4 000 dollar per uns under sommaren, drivet av geopolitisk oro och investerares fortsatta efterfrågan på säkra tillgångar mitt i en volatil börsutveckling.",
+      "source": "MarketScreener Sverige",
+      "url": "https://se.marketscreener.com/nyheter/guldprognos-for-2026-overstiger-4-000-uns-for-forsta-g-ngen-ce7d5dded08af022",
+      "added_on": "2026-07-26",
       "collected_week": "2026-W30"
     }
   ]

@@ -2,8 +2,8 @@
   "topic": "Husdjur",
   "description": "Forskning om hundar, katter, beteende och hälsa. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-07-23",
-  "item_count": 9,
+  "last_updated": "2026-07-26",
+  "item_count": 15,
   "items": [
     {
       "id": "lek-starker-band-hund-agare-2026",
@@ -111,6 +111,78 @@
       "source": "JMIR Aging",
       "url": "https://doi.org/10.2196/76289",
       "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "hundmammor-inte-skorare-av-valpning-2026",
+      "title": "Hundmammor blir inte skörare av att ha fått valpar",
+      "category": "Hundar",
+      "date": "2026-07-21",
+      "location": "",
+      "summary": "En studie av äldre rottweilertikar visar att hundar som fått valpar inte blir skörare på äldre dagar – tvärtom var de som fött valpar friskare och mer motståndskraftiga senare i livet. Resultatet utmanar tanken att reproduktion alltid innebär en hälsokostnad för honor.",
+      "source": "Medical Xpress",
+      "url": "https://medicalxpress.com/news/2026-07-motherhood-late-life-frailty-companion.html",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "nytt-fragoformular-katters-livskvalitet-2026",
+      "title": "Nytt frågeformulär ska mäta katters livskvalitet",
+      "category": "Katter",
+      "date": "2026-07-01",
+      "location": "",
+      "summary": "Forskare vid Waltham Petcare Science Institute har tagit fram och vetenskapligt validerat frågeformuläret FelQoL, som ger ägare och veterinärer ett tydligare sätt att bedöma katters fysiska och känslomässiga välbefinnande. Verktyget bygger på data från över 1300 kattägare i USA och Storbritannien och visar bland annat att ålder, hälsa och miljö starkt påverkar en katts livskvalitet.",
+      "source": "PR Newswire",
+      "url": "https://www.prnewswire.com/news-releases/breakthrough-in-feline-welfare-new-tool-for-assessing-cat-wellbeing-is-scientifically-validated-302815770.html",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "gelbehandling-lindrar-artros-hundar-2026",
+      "title": "Ny geleinjektion visar lovande resultat mot artros hos hundar",
+      "category": "Hälsa",
+      "date": "2026-07-14",
+      "location": "",
+      "summary": "En klinisk studie publicerad i tidskriften Veterinary Record visar att en injicerbar kollagen-elastin-gel gav statistiskt säkerställda förbättringar hos hundar med artros och misstänkt korsbandsskada i knäleden. 55 procent av hundarna i studien uppnådde minst 25 procents förbättring på en etablerad smärtskala efter behandlingen.",
+      "source": "GlobeNewswire / Veterinary Record",
+      "url": "https://www.globenewswire.com/news-release/2026/07/14/3326789/0/en/PetVivo-Holdings-Announces-Publication-of-Peer-Reviewed-Clinical-Study-Evaluating-Spryng-in-Veterinary-Record.html",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "katters-hjarnor-aldras-som-manniskors-2026",
+      "title": "Katters hjärnor åldras påfallande likt människans",
+      "category": "Forskning",
+      "date": "2026-06-15",
+      "location": "",
+      "summary": "En internationell studie i tidskriften Biology Open visar att katters hjärnor genomgår liknande åldersförändringar som människors, med krympande hjärnvävnad och förstorade hjärnkammare. Forskarna menar att tamkatter därför kan fungera som en naturlig modell för att studera åldrande och åldersrelaterade hjärnsjukdomar hos människor.",
+      "source": "Biology Open",
+      "url": "https://journals.biologists.com/bio/article/15/6/bio062604/372023/Cat-brains-age-like-humans-translating-time-shows",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "hundens-tassval-avslojar-stress-2026",
+      "title": "Hundens tassval kan avslöja stresskänslighet",
+      "category": "Beteende",
+      "date": "2026-06-21",
+      "location": "",
+      "summary": "Forskare vid universitetet i Bari i Italien har tagit fram en ny skala för att mäta vilken tass hundar helst använder, så kallad motorisk lateralitet. Målet är att tränare, veterinärer och hundhem i förlängningen ska kunna använda tassval som ett enkelt sätt att tidigt upptäcka särskilt stresskänsliga och skotträdda hundar.",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/inrikes/ny-forskning-hundens-favorittass-kan-avsloja-hur-den-mar",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "kattcancer-genstudie-hjalper-manniskor-2026",
+      "title": "Stor gentestudie av kattcancer kan hjälpa både katter och människor",
+      "category": "Hälsa",
+      "date": "2026-05-23",
+      "location": "",
+      "summary": "I den hittills största kartläggningen av sitt slag har forskare gentestat nästan 500 kattumörer och hittat påtagliga likheter med cancerformer hos hundar och människor. Studien, publicerad i Science, pekar bland annat ut en muterad gen som gjorde att vissa cellgifter fungerade bättre mot juvertumörer hos katt, vilket kan öppna för nya behandlingar även inom human cancervård.",
+      "source": "Science",
+      "url": "https://www.science.org/doi/10.1126/science.ady6651",
+      "added_on": "2026-07-26",
       "collected_week": "2026-W30"
     }
   ]

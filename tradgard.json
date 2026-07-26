@@ -2,8 +2,8 @@
   "topic": "Trädgård",
   "description": "Forskning om odling, biologisk mångfald, jord, pollinatörer och hälsa. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-07-23",
-  "item_count": 8,
+  "last_updated": "2026-07-26",
+  "item_count": 15,
   "items": [
     {
       "id": "naturbaserad-rorelse-psykisk-halsa-2026",
@@ -99,6 +99,90 @@
       "source": "New Zealand Journal of Crop and Horticultural Science",
       "url": "https://doi.org/10.1002/nzc2.70035",
       "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "pesticidodlingar-ekologiska-fallor-pollinatorer-kashmir-2026",
+      "title": "Bekämpningsmedelstunga äppelodlingar blir \"ekologiska fällor\" för pollinatörer",
+      "category": "Forskning",
+      "date": "2026-07-09",
+      "location": "",
+      "summary": "En studie i Kashmirdalen visar att äppelodlingar med kalenderstyrd kemisk bekämpning hade 68 procent färre insekter och 55 procent lägre artrikedom än obesprutade jämförelseytor i närheten. Forskarna menar att blommande växter nära odlingarna blir ekologiska fällor som lockar pollinatörer men sedan skadar dem via bekämpningsmedlen.",
+      "source": "PLOS One",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0350940",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "konstgodsel-dold-kostnad-jordens-mikrober-2026",
+      "title": "Konstgödsel har en dold kostnad för jordens mikrober",
+      "category": "Forskning",
+      "date": "2026-07-08",
+      "location": "",
+      "summary": "En ny forskningsgenomgång visar att stora mängder konstgödsel minskar mångfalden och funktionen hos jordens mikroorganismer, bland annat genom att göra jorden surare och störa samarbetet mellan växtrötter och mykorrhizasvamp. Forskarna menar att minskad gödsling kan gynna både jordhälsan och lantbrukets ekonomi på sikt.",
+      "source": "The Conversation / phys.org",
+      "url": "https://theconversation.com/fertilizers-carry-a-hidden-cost-for-soils-crucial-microbes-using-less-as-prices-rise-might-pay-off-for-farms-in-unexpected-ways-283123",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "gamla-vaxtpopulationer-ledtradar-klimatanpassning-2026",
+      "title": "Gamla växtpopulationer ger nya ledtrådar om klimatanpassning",
+      "category": "Forskning",
+      "date": "2026-05-11",
+      "location": "",
+      "summary": "Forskare vid University of Virginia har studerat växtpopulationer i utbredningsområdenas varmaste kant, vilka överlevt tidigare klimatförändringar sedan istiden. Studien visar att både de sydligaste och nordligaste populationerna kan vara mer värmetåliga än de däremellan, en insikt som kan användas för att stärka utsatta trädgårds- och odlingsväxter inför ett varmare klimat.",
+      "source": "phys.org",
+      "url": "https://phys.org/news/2026-05-populations-clues-climate-resilience.html",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "dronarbilder-marktackning-stadsodlingar-biologisk-mangfald-2026",
+      "title": "Ny drönarbildsdatabas kartlägger marktäckning i koloniträdgårdar",
+      "category": "Forskning",
+      "date": "2026-04-08",
+      "location": "",
+      "summary": "Forskare har publicerat ett dataset med över 2500 drönarbilder från fem koloniträdgårdar i München, där marken delats in i kategorier som gräs, örter, jord och flis. Datasetet ska göra det lättare att med maskininlärning kartlägga hur olika marktäckning i stadsodlingar hänger ihop med biologisk mångfald.",
+      "source": "Scientific Data (Nature)",
+      "url": "https://www.nature.com/articles/s41597-026-07152-z",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "slu-flera-grodor-motstandskraftigt-jordbruk-2026",
+      "title": "Fler grödor i samma odling kan göra jordbruket mer motståndskraftigt",
+      "category": "Forskning",
+      "date": "2026-06-03",
+      "location": "",
+      "summary": "Forskning från SLU visar att odling av flera grödor samtidigt eller i växtföljd kan minska behovet av kemiska bekämpningsmedel och stärka jordhälsan. Forskaren Raj Chongtham menar att diversifierad odling handlar om att låta grödor och ekosystemprocesser samverka, särskilt vid stress som torka.",
+      "source": "SLU",
+      "url": "https://www.slu.se/nyheter/2026/06/fler-grodor-kan-gora-jordbruket-mer-motstandskraftigt",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "kalifornien-biologisk-mangfald-stadstradgardar-initiativ-2026",
+      "title": "Nytt kaliforniskt initiativ ska kartlägga biologisk mångfald i stadsträdgårdar",
+      "category": "Nyhet",
+      "date": "2026-05-26",
+      "location": "",
+      "summary": "California Native Plant Society lanserade i maj ett tvåårigt medborgarforskningsinitiativ där trädgårdsägare rapporterar inhemska växter och djur i sina trädgårdar via appen iNaturalist. Målet är att koppla samman medborgarforskning, offentlig politik och lokala insatser för att gynna den biologiska mångfalden i städer.",
+      "source": "California Native Plant Society",
+      "url": "https://www.cnps.org/news-releases/california-native-plant-society-announces-the-biodiversity-in-urban-gardens-initiative-46344",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "framtidens-mat-flerariga-gronsaker-jordbruksverket-2026",
+      "title": "Fleråriga grönsaker kan bli en del av framtidens mat",
+      "category": "Nyhet",
+      "date": "2026-04-16",
+      "location": "",
+      "summary": "Jordbruksverket har kartlagt vilka fleråriga grönsaker, som kål, ramslök och cikoria, som räknas som nya livsmedel inom EU. Fleråriga grönsaker är ofta motståndskraftiga mot sjukdomar och konkurrerar bra mot ogräs, vilket gör dem intressanta både för odlare och för matberedskapen.",
+      "source": "Jordbruksverket",
+      "url": "https://jordbruksverket.se/jordbruket-miljon-och-klimatet/forskning-och-fakta-om-ekologisk-produktion/arkiv/2026-04-16-framtidens-mat---vilka-flerariga-gronsaker-ar-nya-livsmedel",
+      "added_on": "2026-07-26",
       "collected_week": "2026-W30"
     }
   ]

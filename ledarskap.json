@@ -2,8 +2,8 @@
   "topic": "Ledarskap – John Maxwell",
   "description": "Ledarskapsprinciper och lärdomar från John C. Maxwell, inklusive De 21 oeftergivliga ledarskapslagarna. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-07-24",
-  "item_count": 71,
+  "last_updated": "2026-07-26",
+  "item_count": 76,
   "items": [
     {
       "id": "lockets-lag",
@@ -855,6 +855,66 @@
       "source": "John C. Maxwell",
       "url": "https://www.inc.com/peter-economy/44-inspiring-john-c-maxwell-quotes-that-will-take-you-to-leadership-success.html",
       "added_on": "2026-07-24",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "betydelsens-lag-lagarbete",
+      "title": "Betydelsens lag (The Law of Significance)",
+      "category": "Princip",
+      "date": "2026-07-20",
+      "location": "",
+      "summary": "Från \"The 17 Indisputable Laws of Teamwork\": ingen når verkligt betydelsefulla resultat helt på egen hand. Ensam storhet är en myt – de mest bestående prestationerna kräver alltid ett fungerande lag runt sig.",
+      "source": "John C. Maxwell, The 17 Indisputable Laws of Teamwork",
+      "url": "https://www.goodreads.com/book/show/874718.The_17_Indisputable_Laws_of_Teamwork",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "kompletteringens-lag-lagarbete",
+      "title": "Kompletteringens lag (The Law of the Niche)",
+      "category": "Princip",
+      "date": "2026-07-20",
+      "location": "",
+      "summary": "Varje medarbetare har en plats i laget där hen bidrar mest. Maxwells poäng i \"The 17 Indisputable Laws of Teamwork\" är att en ledares uppgift är att hjälpa varje person hitta sin rätta roll, inte tvinga alla att passa samma mall.",
+      "source": "John C. Maxwell, The 17 Indisputable Laws of Teamwork",
+      "url": "https://www.goodreads.com/book/show/874718.The_17_Indisputable_Laws_of_Teamwork",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "bok-talent-is-never-enough",
+      "title": "Talent räcker aldrig ensamt (Talent Is Never Enough)",
+      "category": "Bok",
+      "date": "2026-07-20",
+      "location": "",
+      "summary": "Maxwell argumenterar för att medfödd talang bara är en startpunkt – det är val som tro på sig själv, initiativförmåga, disciplin och karaktär som avgör om talangen någonsin realiseras fullt ut.",
+      "source": "John C. Maxwell",
+      "url": "https://www.goodreads.com/book/show/157939.Talent_Is_Never_Enough",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "bok-failing-forward",
+      "title": "Att misslyckas framåt (Failing Forward)",
+      "category": "Bok",
+      "date": "2026-07-20",
+      "location": "",
+      "summary": "Boken vänder på vår syn på misslyckanden och visar hur attityd, reflektion och förändringsvilja gör att motgångar blir språngbrädor snarare än stopp. Skillnaden mellan de som lyckas och de som ger upp ligger sällan i hur många gånger man misslyckas, utan i hur man reagerar på det.",
+      "source": "John C. Maxwell",
+      "url": "https://www.shortform.com/summary/failing-forward-summary-john-c-maxwell",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "citat-advance-others",
+      "title": "Citat: \"Hur långt vi för andra framåt\" (How far we advance others)",
+      "category": "Citat",
+      "date": "2026-07-20",
+      "location": "",
+      "summary": "\"The bottom line in leadership isn't how far we advance ourselves but how far we advance others.\" Maxwell sammanfattar här ledarskapets kärna: det slutgiltiga måttet är inte den egna karriären utan hur mycket man hjälper andra att växa.",
+      "source": "John C. Maxwell",
+      "url": "https://www.inc.com/peter-economy/44-inspiring-john-c-maxwell-quotes-that-will-take-you-to-leadership-success.html",
+      "added_on": "2026-07-26",
       "collected_week": "2026-W30"
     }
   ]

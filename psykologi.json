@@ -2,8 +2,8 @@
   "topic": "Psykologi – Vänskap",
   "description": "Ny forskning och insikter om vänskap, relationer och social anknytning. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-07-18",
-  "item_count": 47,
+  "last_updated": "2026-07-26",
+  "item_count": 52,
   "items": [
     {
       "id": "vanskap-folkhalsotillgang-2026",
@@ -568,6 +568,66 @@
       "url": "https://www.managedhealthcareexecutive.com/view/more-than-half-of-americans-are-lonely-survey-shows",
       "added_on": "2026-07-18",
       "collected_week": "2026-W29"
+    },
+    {
+      "id": "vanskapsprojekt-ojamlikhet-nyanlanda-2026",
+      "title": "Ojämlikhet sätter gränser för vänskap mellan nyanlända och etablerade svenskar",
+      "category": "Forskning",
+      "date": "2026-07-20",
+      "location": "",
+      "summary": "En studie från Umeå universitet om vänskapsprojektet Vän i Umeå visar att skillnader i inkomst, status och kontaktnät ständigt gör sig påminda även i annars nära vänskapsrelationer. Trots detta beskriver de intervjuade att mötena skapat viktiga och långvariga band.",
+      "source": "Umeå universitet",
+      "url": "https://www.umu.se/nyheter/ojamlikheter-skapar-hinder-for-vanskapsprojekt_10629922/",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "svaga-band-okar-polarisering-pnas-2026",
+      "title": "Fler kontakter men svaga band kan öka polariseringen i samhället",
+      "category": "Forskning",
+      "date": "2026-06-29",
+      "location": "",
+      "summary": "En studie i PNAS av forskare från Cornell, Warszawas tekniska universitet och ETH Zürich visar att det inte är antalet nära vänner som driver polarisering, utan statusdrivna dynamiker i våra många svaga kontakter. Fler ytliga relationer kan alltså paradoxalt nog splittra oss mer.",
+      "source": "PNAS / Cornell Chronicle",
+      "url": "https://news.cornell.edu/stories/2026/07/more-social-connections-weaker-ties-lead-greater-polarization",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "fyra-vanner-gransen-nytta-aldre",
+      "title": "Fyra nära vänner räcker för välmåendet hos äldre, visar studie",
+      "category": "Forskning",
+      "date": "2026-07-15",
+      "location": "",
+      "summary": "Forskning publicerad i Ageing & Society finner att fler vänner ger avtagande nytta för äldres psykiska hälsa – runt fyra nära vänner är brytpunkten där ensamhet, oro och stress inte minskar ytterligare. Kvaliteten i relationerna väger tyngre än antalet.",
+      "source": "Ageing & Society / Newcastle University",
+      "url": "https://www.cambridge.org/core/journals/ageing-and-society/article/friendships-loneliness-and-psychological-wellbeing-in-older-adults-a-limit-to-the-benefit-of-the-number-of-friends/27B597694C72769283D6E666939F7C15",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "sociala-flodet-ensamhetsfalla-frammande-2026",
+      "title": "Kontakt med okända i sociala medier hänger ihop med mer ensamhet",
+      "category": "Forskning",
+      "date": "2026-05-07",
+      "location": "",
+      "summary": "En studie från Oregon State University på över 1 500 vuxna visar att det är kontakten med personer man inte känner i verkligheten som hänger samman med ökad ensamhet på sociala medier – kontakt med redan kända personer gjorde varken till eller från.",
+      "source": "Public Health Reports / ScienceX",
+      "url": "https://sciencex.com/news/2026-05-social-loneliness-people-center.html",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "anknytningsteori-i-praktiken-expertoversikt-2026",
+      "title": "Stor expertöversikt visar hur anknytningsteori kan användas i praktiken",
+      "category": "Forskning",
+      "date": "2026-04-28",
+      "location": "",
+      "summary": "Omkring femtio internationella forskare, däribland från Stockholms universitet, sammanfattar i Journal of Child Psychology and Psychiatry aktuell kunskap om anknytning. Fokus ligger på att stärka barns omsorgsrelationer i praktiken snarare än att fastna i kategoriska anknytningsstilar.",
+      "source": "Stockholms universitet",
+      "url": "https://www.su.se/enheter/psykologiska-institutionen/nyheter/nyhetsartiklar/2026-04-28-ny-studie-sa-kan-anknytningsteori-anvandas-i-praktiken",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
     }
   ]
 }

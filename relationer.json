@@ -2,8 +2,8 @@
   "topic": "Relationer",
   "description": "Forskning om kärlek, familj, dejting och social gemenskap. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-07-23",
-  "item_count": 8,
+  "last_updated": "2026-07-26",
+  "item_count": 13,
   "items": [
     {
       "id": "oarlighet-parforhallanden-forskning-2026",
@@ -99,6 +99,66 @@
       "source": "forskning.se",
       "url": "https://forskning.se/2025/10/13/man-som-utsatts-for-vald-av-en-partner-saknar-stod/",
       "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "dating-recession-ifs-2026",
+      "title": "\"Dejtingrecessionen\": allt färre unga vuxna dejtar aktivt",
+      "category": "Forskning",
+      "date": "2026-07-01",
+      "location": "",
+      "summary": "En stor amerikansk rapport från Institute for Family Studies visar att majoriteten av unga vuxna som vill gifta sig knappt dejtat alls det senaste året – 74 procent av kvinnorna och 64 procent av männen. Ekonomisk oro och bristande relationssjälvförtroende pekas ut som huvudorsaker till glappet mellan viljan att bilda familj och den faktiska dejtingaktiviteten.",
+      "source": "Institute for Family Studies",
+      "url": "https://ifstudies.org/report-brief/state-of-our-unions-2026-the-dating-recession",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "familjeband-fordjupats-inte-forsvagats-malmo",
+      "title": "Familjebanden har fördjupats snarare än försvagats, visar ny studie",
+      "category": "Familj",
+      "date": "2025-08-20",
+      "location": "",
+      "summary": "Trots föreställningen att välfärdsstaten skulle ha försvagat svenska familjeband visar en studie vid Malmö universitet, byggd på djupintervjuer med mor- och farföräldrar, vuxna barn och barnbarn, att omsorgen mellan generationer snarare blivit mer emotionellt laddad och närvarande – fast i nya former.",
+      "source": "forskning.se / Malmö universitet",
+      "url": "https://forskning.se/2025/08/20/starka-band-mellan-generationer-i-ny-form/",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "mindre-ar-mer-dejtingprofiler-su-2026",
+      "title": "\"Mindre är mer\"-effekten: för detaljerade dejtingprofiler kan skada chansen",
+      "category": "Dejting",
+      "date": "2026-02-12",
+      "location": "",
+      "summary": "Forskning från Stockholms universitet, kopplad till boken Kärlekskoden av Per Carlbring och Lars Ström, visar att chansen att vi gillar någon faktiskt kan minska om vi läst en alltför detaljerad profil i förväg – då letar vi efter fel saker istället för att uppleva personen som den är.",
+      "source": "Stockholms universitet",
+      "url": "https://www.su.se/enheter/psykologiska-institutionen/nyheter/nyhetsartiklar/2026-02-12-alla-hjartans-dag-karlekskoden",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "skargarden-natdejting-familjebildning-2026",
+      "title": "Nätdejting ger rekordsnabb familjebildning – även i skärgården",
+      "category": "Dejting",
+      "date": "2026-07-10",
+      "location": "",
+      "summary": "En reportageserie om par som mötts via dejtingappar visar hur relationer som startar online idag är lika stabila som de som uppstår genom vänner eller arbete. Numera vänder sig även glesbygds- och skärgårdsbor till mobilen för att hitta en partner, vilket förändrar mönstren för hur svenska familjer bildas.",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/vetenskap/de-fick-fulltraff-i-karlek-rekordsnabb-familjebildning-vanligt-via-natdejting",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "gottman-69-procent-konflikter-olosta",
+      "title": "69 procent av parkonflikter går aldrig att lösa – och det är okej",
+      "category": "Kärlek",
+      "date": "2026-06-15",
+      "location": "",
+      "summary": "Ett av forskaren John Gottmans mest förbisedda fynd är att sju av tio återkommande konflikter i en parrelation, som rör personlighet eller djupt rotade värderingar, aldrig går att lösa helt. De par som håller längst är inte de som löser allt, utan de som lär sig hantera olösta frågor med respekt istället för att undvika eller fastna i dem.",
+      "source": "Gottman Institute / Psychology Today",
+      "url": "https://www.psychologytoday.com/us/blog/social-instincts/202512/why-69-percent-of-couples-conflict-will-never-go-away",
+      "added_on": "2026-07-26",
       "collected_week": "2026-W30"
     }
   ]

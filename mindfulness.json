@@ -2,8 +2,8 @@
   "topic": "Mindfulness",
   "description": "Forskning om meditation, metoder, appar, retreater och mindfulness i vardagen. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-07-23",
-  "item_count": 9,
+  "last_updated": "2026-07-26",
+  "item_count": 14,
   "items": [
     {
       "id": "sju-dagars-meditation-forandrar-hjarnan-2026",
@@ -111,6 +111,66 @@
       "source": "The Conversation",
       "url": "https://theconversation.com/mindfulness-is-gaining-traction-in-american-schools-but-it-isnt-clear-what-students-are-learning-261247",
       "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "mindfulness-suddar-ut-radslor-lund",
+      "title": "Mindfulness kan sudda ut inlärd rädsla, visar app-studie",
+      "category": "Forskning",
+      "date": "2020-01-30",
+      "location": "",
+      "summary": "Forskare vid Lunds och Uppsala universitet lät deltagare öva mindfulness via mobilapp några minuter om dagen och fann att gruppen, till skillnad från en kontrollgrupp, inte återfick en tidigare inlärd rädsloreaktion dagen efter. Resultaten publicerades i Scientific Reports och tyder på att metoden kan förstärka behandling av ångest och PTSD.",
+      "source": "Lunds universitet / Scientific Reports",
+      "url": "https://www.lu.se/artikel/mindfulness-suddar-ut-gamla-radslor",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "mindfulness-nackdelar-atta-procent-acta-psychiatrica",
+      "title": "Mindfulness kan ge ångest och depression hos vissa, visar genomgång",
+      "category": "Forskning",
+      "date": "2020-09-13",
+      "location": "",
+      "summary": "En genomgång av över 80 studier i Acta Psychiatrica Scandinavica visar att drygt åtta procent av dem som mediterar upplever negativa effekter som ångest eller depression, i sällsynta fall även psykos. Forskarna liknar mindfulness vid en medicin – bra för de flesta, men inte helt utan biverkningar för alla.",
+      "source": "Acta Psychiatrica Scandinavica / SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/inrikes/studie-mindfulness-kan-leda-till-angest-och-depression",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "healthy-minds-app-distansstudie-uw-madison",
+      "title": "Meditationsapp på distans ger samma effekt som fysiska mindfulnessprogram",
+      "category": "Appar",
+      "date": "2026-06-10",
+      "location": "",
+      "summary": "Forskare vid University of Wisconsin–Madisons Center for Healthy Minds visar att deras app Healthy Minds Program, helt utan fysiska träffar, kan minska symtom på depression, ångest och stress samt öka känslan av social samhörighet – i nivå med traditionella mindfulnessprogram på plats.",
+      "source": "Center for Healthy Minds, UW-Madison",
+      "url": "https://centerhealthyminds.org/news/mobile-mental-health-program-goes-beyond-mindfulness-shows-promise-in-reducing-negative-mental-health-symptoms",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "hjarnan-vid-avancerad-meditation-harvard-2026",
+      "title": "Så påverkas hjärnan av avancerad meditation, enligt Harvardforskare",
+      "category": "Forskning",
+      "date": "2026-01-15",
+      "location": "",
+      "summary": "Harvards Meditation Research Program vid Massachusetts General Hospital undersöker vad som händer i hjärnan hos erfarna meditatörer som når djupare, mer ovanliga medvetandetillstånd. Vanlig mindfulness minskar stress och förbättrar humöret, men forskarna menar att avancerad meditation kan ge betydligt större effekter som ännu bara börjar kartläggas vetenskapligt.",
+      "source": "Harvard Gazette",
+      "url": "https://news.harvard.edu/gazette/story/2026/01/your-brain-on-advanced-meditation",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "mindfulness-gruppdynamik-aldre-forskning-2026",
+      "title": "Gruppdynamiken avgörande när äldre provar mindfulnessträning",
+      "category": "Forskning",
+      "date": "2026-03-27",
+      "location": "",
+      "summary": "En svensk studie visar att mindfulnessprogram för äldre uppskattas och upplevs skapa lugn och bättre vardagligt mående. Överraskande nog spelade gruppdynamiken stor roll – flera deltagare nådde djupare meditation och starkare välbefinnande när övningarna gjordes tillsammans med andra snarare än enskilt.",
+      "source": "forskning.se",
+      "url": "https://forskning.se/2026/03/27/mindfulnesstraning-aldres-maende/",
+      "added_on": "2026-07-26",
       "collected_week": "2026-W30"
     }
   ]

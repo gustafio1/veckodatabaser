@@ -2,8 +2,8 @@
   "topic": "Språk",
   "description": "Forskning om språkinlärning, svenskan, språkteknik och flerspråkighet. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-07-23",
-  "item_count": 9,
+  "last_updated": "2026-07-26",
+  "item_count": 16,
   "items": [
     {
       "id": "onskvarda-svarigheter-glosinlarning-2026",
@@ -111,6 +111,90 @@
       "source": "Language and Cognition",
       "url": "https://doi.org/10.1017/langcog.2026.10077",
       "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "flersprakighet-bromsar-hjarnans-aldrande-2026",
+      "title": "Fler språk du talar, yngre ser hjärnan ut",
+      "category": "Forskning",
+      "date": "2026-07-06",
+      "location": "",
+      "summary": "Forskare bakom en AI-baserad hjärnåldersklocka fann att antalet talade språk hängde ihop med en yngre hjärna – upp till 13 år yngre hos den som talar fyra språk. Studien byggde på magnetencefalografi och presenterades vid FENS Forum 2026, men forskarna betonar att sambandet ännu inte bevisar orsak och verkan.",
+      "source": "U.S. News & World Report",
+      "url": "https://www.usnews.com/news/health-news/articles/2026-07-06/learning-languages-could-net-you-a-younger-brain-study-says",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "gemensam-grammatikmotor-tvasprakig-hjarna-2026",
+      "title": "En och samma grammatikmotor för båda språken i tvåspråkig hjärna",
+      "category": "Forskning",
+      "date": "2026-06-15",
+      "location": "",
+      "summary": "Med hjärnavbildningstekniken MEG visar NYU-forskare att spansk-engelska tvåspråkiga använder samma neurala nätverk för grammatik oavsett vilket av sina två språk de talar. Fyndet utmanar tanken att hjärnan har separata grammatikmotorer för varje språk.",
+      "source": "New York University / Journal of Neuroscience",
+      "url": "https://www.nyu.edu/about/news-publications/news/2026/june/bilingualism-is-driven-by-a-single-neurological--grammar-engine-.html",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "tvasprakigt-forsprang-forsvinner-lagstadiet-2026",
+      "title": "Tvåspråkiga barns försprång i engelska försvinner i lågstadiet",
+      "category": "Flerspråkighet",
+      "date": "2026-01-09",
+      "location": "",
+      "summary": "En longitudinell studie av över 800 nederländska skolbarn visar att tvåspråkiga elever har bättre ordförråd och grammatik i engelska som främmande språk i förskoleklass och årskurs 1 – men att enspråkiga barn hinner ikapp redan till årskurs 3. Resultaten nyanserar bilden av att tvåspråkighet alltid ger ett bestående försprång vid inlärning av ytterligare språk.",
+      "source": "System (ScienceDirect)",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0346251X26000035",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "utredning-starka-svenska-spraket-2026",
+      "title": "Ny utredning ska stärka svenskans ställning i utsatta områden",
+      "category": "Svenskan",
+      "date": "2026-06-28",
+      "location": "",
+      "summary": "Regeringen har tillsatt en utredning, ledd av Mauricio Rojas, som ska kartlägga svenska språkets ställning i områden med stort utanförskap och föreslå åtgärder för att stärka språket. Uppdraget kopplar samman språkfrågan med integration och samhällets sammanhållning och ska redovisas senast i augusti 2027.",
+      "source": "Regeringen.se",
+      "url": "https://www.regeringen.se/pressmeddelanden/2026/06/ny-utredning-ska-starka-det-svenska-sprakets-stallning/",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "duolingo-ai-chatbot-engagemang-2026",
+      "title": "AI-chatt lockar unga att stanna kvar i språkappen",
+      "category": "Språkteknik",
+      "date": "2026-07-23",
+      "location": "",
+      "summary": "Ny appanalys visar att användare mellan 17 och 25 år lägger mer tid än på länge i Duolingo, och att de som använder appens AI-chattbot mest också ökar sin användning ytterligare. Siffrorna dämpar farhågorna om att fristående AI-chattbotar skulle tömma språkinlärningsapparna på användare.",
+      "source": "GlobeNewswire (Apptopia)",
+      "url": "https://www.globenewswire.com/news-release/2026/07/23/3332056/0/en/Apptopia-AI-s-Threat-to-Leading-Language-App-May-Be-Overstated.html",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "komi-jazva-parallellkorpus-sprakteknik-2026",
+      "title": "Ny parallellkorpus ska testa AI-översättning för hotat uralspråk",
+      "category": "Språkteknik",
+      "date": "2026-06-04",
+      "location": "",
+      "summary": "Forskare har byggt en parallellkorpus med 457 meningspar mellan ryska och komi-jazva, ett akut hotat uralskt minoritetsspråk, för att utvärdera hur väl stora språkmodeller klarar översättning utan eller med bara ett fåtal exempel. Resultaten varierar kraftigt mellan olika modeller och visar hur svårt maskinöversättning fortfarande är för språk med lite digitalt textmaterial.",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2606.06420",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "hjarnan-grupperar-brytning-horselerfarenhet-2026",
+      "title": "Hjärnan sorterar brytning olika beroende på språkbakgrund",
+      "category": "Forskning",
+      "date": "2026-01-31",
+      "location": "",
+      "summary": "En EEG-studie visar att hjärnan omedvetet grupperar talare efter brytning, men att känsligheten för detta skiljer sig åt mellan infödda engelsktalare, andraspråkstalare och personer med mandarin som arvspråk. Fyndet pekar på att språklig erfarenhet formar hur automatiskt hjärnan uppfattar och kategoriserar accenter.",
+      "source": "Brain Sciences",
+      "url": "https://doi.org/10.3390/brainsci16020174",
+      "added_on": "2026-07-26",
       "collected_week": "2026-W30"
     }
   ]

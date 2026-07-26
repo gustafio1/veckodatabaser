@@ -2,8 +2,8 @@
   "topic": "Resor",
   "description": "Forskning om resmål, hållbart resande, flyg och tågresor. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-07-23",
-  "item_count": 8,
+  "last_updated": "2026-07-26",
+  "item_count": 15,
   "items": [
     {
       "id": "hamndresor-till-udda-resmal-2026",
@@ -99,6 +99,90 @@
       "source": "Transportation Research Part A",
       "url": "https://doi.org/10.1016/j.tra.2026.105143",
       "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "machupicchu-besokstak-2026",
+      "title": "Peru inför strikt besökstak vid Machu Picchu",
+      "category": "Resmål",
+      "date": "2026-05-28",
+      "location": "",
+      "summary": "Peru har infört ett dagligt besökstak på mellan 4 500 och 5 600 personer vid Machu Picchu och delat upp anläggningen i tre fasta rundturer för att skydda ruinerna. Åtgärden ingår i en ny förvaltningsplan fram till 2031 och är ett svar på växande överturism vid världsarvet.",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/alexledsom/2026/05/28/machu-picchu-joins-governments-worldwide-to-curb-overtourism-in-2026/",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "edinburgh-turistskatt-2026",
+      "title": "Edinburgh inför Skottlands första turistskatt",
+      "category": "Nyhet",
+      "date": "2026-07-24",
+      "location": "",
+      "summary": "Sedan den 24 juli tar Edinburgh ut en avgift på fem procent på boendekostnaden för besökare, med ett tak vid fem nätter. Intäkterna, som väntas ge upp mot 50 miljoner pund om året, ska gå till infrastruktur, kultur och bostadsfrågor i staden.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/travel/2026/07/24/edinburghs-tourist-tax-has-now-launched-heres-how-much-you-have-to-pay",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "nattag-europa-karta-205-linjer-2026",
+      "title": "Ny karta visar Europas 205 nattågslinjer – fem nya rutter i år",
+      "category": "Tåg",
+      "date": "2026-06-04",
+      "location": "",
+      "summary": "Lobbygruppen Back-on-Track har släppt sin årliga karta över Europas nattåg, som nu omfattar 205 reguljära linjer. Bland nyheterna finns en förbindelse Hamburg–Paris och nya polska linjer mot Prag och München, samtidigt som tio äldre linjer har lagts ner.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/travel/2026/06/04/love-night-trains-this-new-map-shows-all-the-sleeper-services-running-across-europe-in-202",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "flygskam-matskala-forskning-2026",
+      "title": "Forskare har tagit fram en skala för att mäta flygskam",
+      "category": "Forskning",
+      "date": "2026-02-01",
+      "location": "",
+      "summary": "En ny studie utvecklar och validerar en fempunktsskala för att mäta flygskam utifrån både miljömedvetenhet och sociala normer, testad på nära 1 200 personer i två länder. Skalan ska göra det lättare att jämföra hur utbrett fenomenet är mellan olika grupper och länder.",
+      "source": "Transportation Research Part A",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0965856425004355",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "regenerativ-turism-valbefinnande-2026",
+      "title": "Regenerativ turism lyfts fram som svar på coronaårens turistkris",
+      "category": "Forskning",
+      "date": "2026-07-01",
+      "location": "",
+      "summary": "En ledarartikel i Frontiers in Sustainable Tourism argumenterar för regenerativ turism – resande som aktivt förbättrar platser och lokalsamhällen i stället för att bara minska skada – som ett sätt att stärka både besökares och värdsamhällens välbefinnande efter pandemins uppsving.",
+      "source": "Frontiers in Sustainable Tourism",
+      "url": "https://www.frontiersin.org/journals/sustainable-tourism/articles/10.3389/frsut.2026.1893479/full",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "japan-avgangsskatt-tredubblad-2026",
+      "title": "Japan tredubblar sin avgångsskatt för att dämpa överturism",
+      "category": "Flyg",
+      "date": "2026-07-01",
+      "location": "",
+      "summary": "Från den 1 juli har Japans avgångsskatt för utresande höjts från 1 000 till 3 000 yen per person, vilket väntas mer än fördubbla skatteintäkterna. Pengarna ska finansiera infrastruktur och åtgärder mot trängsel vid landets mest besökta platser.",
+      "source": "Travel And Tour World",
+      "url": "https://www.travelandtourworld.com/news/article/jwh58j86grwe/",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "eu-enkel-tagbiljett-granser-2026",
+      "title": "EU vill göra det möjligt att köpa en enda biljett för hela tågresan över gränser",
+      "category": "Tåg",
+      "date": "2026-05-13",
+      "location": "",
+      "summary": "EU-kommissionen har lagt fram ett förslag om att resenärer ska kunna boka en enda biljett för en tågresa som går över flera länder och operatörer, med starkare passagerarrättigheter vid förseningar. Förslaget måste godkännas av rådet och parlamentet innan järnvägsbolagen får ett år på sig att anpassa sina system.",
+      "source": "Courthouse News Service",
+      "url": "https://www.courthousenews.com/one-trip-one-ticket-new-eu-rules-aim-to-ease-train-travel/",
+      "added_on": "2026-07-26",
       "collected_week": "2026-W30"
     }
   ]

@@ -2,8 +2,8 @@
   "topic": "Friluftsliv",
   "description": "Vandringsleder, friluftsutrustning, naturvård, allemansrätt och äventyr. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-07-23",
-  "item_count": 8,
+  "last_updated": "2026-07-26",
+  "item_count": 15,
   "items": [
     {
       "id": "pusselleden-invigd-sigtuna-2026",
@@ -99,6 +99,90 @@
       "source": "Paddling Magazine",
       "url": "https://paddlingmag.com/stories/news-events/expeditions-summer-2026/",
       "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "trailskor-test-utemagasinet-2026",
+      "title": "Stort test av tio trailskor inför vandringssommaren",
+      "category": "Utrustning",
+      "date": "2026-07-16",
+      "location": "",
+      "summary": "Utemagasinet har testat tio aktuella modeller av trailskor för lättare vandring och stigspring, med fokus på komfort, grepp och slitstyrka. Testet lyfter fram både traditionella och lättviktiga modeller som passar för sommarens turer.",
+      "source": "Utemagasinet",
+      "url": "https://www.utemagasinet.se/nyheter/20260716/stort-test-av-trailskor/",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "orseryds-naturreservat-blekinge-2026",
+      "title": "Nytt naturreservat invigt vid Bräkneån i Blekinge",
+      "category": "Naturvård",
+      "date": "2026-07-15",
+      "location": "Ronneby",
+      "summary": "Örseryds naturreservat norr om Bräkne-Hoby skyddar nu tre kilometer av Bräkneåns dalgång med branta raviner och översvämmade ängsmarker, och blir samtidigt ett nytt utflyktsmål för friluftslivet i Blekinge.",
+      "source": "Länsstyrelsen Blekinge",
+      "url": "https://www.lansstyrelsen.se/blekinge/om-oss/nyheter-och-press/nyheter---blekinge/2026-07-15-nytt-naturreservat-att-upptacka.html",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "angerans-naturreservat-overklagas-2026",
+      "title": "Beslutet om nytt naturreservat vid Ängerån överklagas",
+      "category": "Naturvård",
+      "date": "2026-07-20",
+      "location": "Ljusdal",
+      "summary": "Det planerade naturreservatet kring Ängerån i Ljusdals kommun, som skulle skydda ett uppskattat fiske- och friluftsområde, har överklagats och får därför inte laga kraft som väntat. Ärendet visar på den återkommande konflikten mellan naturskydd och lokala markägarintressen.",
+      "source": "Ljusdals-Posten",
+      "url": "https://www.ljusdalsposten.se/ljusdal/beslutet-om-angerans-naturreservat-overklagas",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "upprop-allemansratten-nationalparker-2026",
+      "title": "Över 50 000 har skrivit under upprop för naturreservat och allemansrätt",
+      "category": "Allemansrätt",
+      "date": "2026-07-12",
+      "location": "Norrbotten",
+      "summary": "Ett riksomfattande upprop kräver stopp för nedskärningarna i skötseln av nationalparker och naturreservat, bevarad allemansrätt och strandskydd samt rätt till friluftsdagar för alla barn. I Norrbotten har statens anslag till naturvård minskat med 44 procent sedan 2022, enligt Svenska Turistföreningen som står bakom kampanjen.",
+      "source": "Kuriren",
+      "url": "https://www.kuriren.nu/debatt/artikel/visa-stod-for-allemansratten-i-norrbotten/jvz9447r",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "skogsbrand-sormlandsleden-2026",
+      "title": "Skogsbrand invid Sörmlandsleden utanför Nyköping",
+      "category": "Nyhet",
+      "date": "2026-07-16",
+      "location": "Nyköping",
+      "summary": "En skogsbrand bröt ut nära Sörmlandsleden och krävde helikopterinsats för att bekämpas. Vandrare uppmanas tills vidare vara försiktiga i det brandskadade området på grund av rasrisk och nedfallande träd.",
+      "source": "Sveriges Radio P4 Sörmland",
+      "url": "https://www.sverigesradio.se/artikel/6484970",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "expedition-helags-sylarna-2026",
+      "title": "Guidad expedition till Helags och Sylarna lockar äventyrare i sommar",
+      "category": "Äventyr",
+      "date": "2026-07-15",
+      "location": "Härjedalen",
+      "summary": "En guidad fjällexpedition tar under fem dagar deltagare till topparna av både Helags och Storsylen i den svenska fjällvärlden. Resan speglar den växande efterfrågan på guidade äventyrsvandringar i högfjället under sommaren.",
+      "source": "Topo Travel",
+      "url": "https://topotravel.se/resor/expedition/expedition-helags-sylarna-2026/",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "vandringsleder-jamtland-atgarder-2026",
+      "title": "Stora satsningar på statens vandringsleder i Jämtland i sommar",
+      "category": "Naturvård",
+      "date": "2026-05-26",
+      "location": "Jämtland",
+      "summary": "Länsstyrelsen genomför under sommaren en omfattande upprustning av flera statliga fjälleder, med grusning, nya spänger och ombyggda vadställen. Arbetet innebär tillfälliga avstängningar av vissa ledsträckor och parkeringar, vilket vandrare behöver planera för.",
+      "source": "Länsstyrelsen Jämtland",
+      "url": "https://www.lansstyrelsen.se/jamtland/besoksmal/aktuellt-i-fjallvarlden/aktuellt-i-fjallvarlden/2026-05-26-omfattande-atgarder-langs-statliga-vandringsleder-i-jamtlands-lan-under-sommaren.html",
+      "added_on": "2026-07-26",
       "collected_week": "2026-W30"
     }
   ]

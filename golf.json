@@ -2,8 +2,8 @@
   "topic": "Golf",
   "description": "Majors och tourtävlingar, svenska golfare, tävlingar och utrustning. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-07-23",
-  "item_count": 9,
+  "last_updated": "2026-07-26",
+  "item_count": 14,
   "items": [
     {
       "id": "ryan-fox-vinner-the-open-royal-birkdale-2026",
@@ -111,6 +111,66 @@
       "source": "Golfbladet",
       "url": "https://golfbladet.se/datum-att-halla-koll-pa-under-golfsasongen-2026/",
       "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "jenny-shin-vinner-scottish-open-2026",
+      "title": "Jenny Shin bryter tio års segertorka i Women's Scottish Open",
+      "category": "Tävling",
+      "date": "2026-07-26",
+      "location": "Dundonald Links, Skottland",
+      "summary": "Sydkoreanska Jenny Shin höll ihop en nervig avslutande runda och vann Women's Scottish Open på nio under par, två slag före A Lim Kim – hennes första LPGA-seger på över tio år.",
+      "source": "Golf Digest",
+      "url": "https://www.golfdigest.com/story/champagne-tears-bagpipes-how-jenny-shin-ended-10-year-victory-drought-at-2026-womens-scottish-open",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "jackson-koivun-tar-taten-3m-open-2026",
+      "title": "Koivun sätter rekord och tar täten i 3M Open",
+      "category": "Tävling",
+      "date": "2026-07-25",
+      "location": "Blaine, Minnesota",
+      "summary": "21-årige Jackson Koivun noterade ett banrekord med 28 slag på de sista nio hålen och gick in i söndagens finalrunda med tre slags marginal, samtidigt som Scottie Scheffler klättrade uppåt på listan bakifrån.",
+      "source": "Golf Channel",
+      "url": "https://www.golfchannel.com/pga-tour/news/jackson-koivun-leads-3m-open-tournament-record",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "lucas-herbert-leder-liv-golf-uk-2026",
+      "title": "Herbert siktar på ny galoppseger i LIV Golf UK",
+      "category": "Tävling",
+      "date": "2026-07-25",
+      "location": "Rocester, England",
+      "summary": "Australiern Lucas Herbert, som öppnade turneringen med en rond på 61, ledde LIV Golf UK med tre slag in i söndagens final och jagade sin andra säsongsseger utan att någon gång ha lämnat ledningen.",
+      "source": "Golfmagic",
+      "url": "https://www.golfmagic.com/tour/liv-golf/lucas-herbert-leads-liv-golf-uk-cameron-smith-matches-incredible-birdie-record",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "abergs-basta-majorsasong-2026",
+      "title": "Åberg kallar 2026 sitt bästa majorår",
+      "category": "Nyhet",
+      "date": "2026-07-20",
+      "location": "",
+      "summary": "Ludvig Åberg tog sig till cut i samtliga fyra majors under säsongen 2026, bland annat med en stark fjärdeplats i PGA Championship, och beskriver själv perioden som den starkaste majorsäsongen i sin karriär hittills.",
+      "source": "Svensk Golf",
+      "url": "https://www.svenskgolf.se/tournytt/mitt-basta-majorar-i-karriaren/",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "taylormade-nya-tourputters-2026",
+      "title": "TaylorMade uppdaterar sina populära tourputters",
+      "category": "Utrustning",
+      "date": "2026-06-04",
+      "location": "",
+      "summary": "TaylorMade lanserar en uppdaterad Spider Tour-familj med ny brändliknande PVD-finish samt storhuvudmodellen Spider ZT Max, putterserien som redan används av stjärnor som Rory McIlroy och Scottie Scheffler på touren.",
+      "source": "Svensk Golf",
+      "url": "https://www.svenskgolf.se/utrustning/taylormade-uppdaterar-populara-tourputters/",
+      "added_on": "2026-07-26",
       "collected_week": "2026-W30"
     }
   ]

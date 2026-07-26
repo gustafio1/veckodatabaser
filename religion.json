@@ -2,8 +2,8 @@
   "topic": "Religion – Nyheter",
   "description": "Religiösa nyheter från Vatikanen, kyrkor och trossamfund världen över. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-07-24",
-  "item_count": 76,
+  "last_updated": "2026-07-26",
+  "item_count": 85,
   "items": [
     {
       "id": "leo-xiv-tyska-studenter-2026",
@@ -915,6 +915,114 @@
       "source": "Buddhistdoor Global",
       "url": "https://www.buddhistdoor.net/news/",
       "added_on": "2026-07-24",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "leo-xiv-mellanostern-eldupphor-vadjan-2026",
+      "title": "Leo XIV vädjar om vapenvila i hela Mellanöstern",
+      "category": "Nyhet",
+      "date": "2026-07-26",
+      "location": "Castel Gandolfo, Italien",
+      "summary": "Under angelusbönen i Castel Gandolfo uppmanade påve Leo XIV alla parter i Mellanöstern att upphöra med attackerna och återuppta förhandlingar, efter en vecka med dödligt våld i Gaza, på Västbanken och kring Iran-kriget.",
+      "source": "Vatican News",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-07/pope-leo-xiv-appeal-middleast-negotiations-just-solution-peace.html",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "vatikanen-kina-biskop-chifeng-2026",
+      "title": "Ny biskop vigd i Chifeng inom Vatikanens Kina-avtal",
+      "category": "Nyhet",
+      "date": "2026-07-22",
+      "location": "Chifeng, Inre Mongoliet, Kina",
+      "summary": "Biskop Joseph Chang Yanfeng vigdes den 22 juli i Chifeng inom ramen för det provisoriska avtalet mellan Heliga stolen och Kina, och fyllde ett biskopssäte som stått vakant i nästan tjugo år.",
+      "source": "Vatican News",
+      "url": "https://www.vaticannews.va/en/vatican-city/news/2026-07/bishoop-chifeng-china-ordination.html",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "iran-tehran-kyrka-konfiskering-2026",
+      "title": "FN-experter kräver att Iran återlämnar beslagtagen kyrka i Teheran",
+      "category": "Nyhet",
+      "date": "2026-07-18",
+      "location": "Teheran, Iran",
+      "summary": "FN-experter uppmanar Iran att upphäva beslaget av S:t Petrus evangeliska kyrka i Teheran, sedan tjugo armeniska och assyriska familjer tvingats lämna sina hem på kyrkoområdet och rivning befaras.",
+      "source": "OHCHR",
+      "url": "https://www.ohchr.org/en/press-releases/2026/07/iran-un-experts-urge-reversal-tehran-church-compound-seizure-and-return-its",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "icc-global-forfoljelseindex-2026",
+      "title": "Ny rapport: religiös nationalism driver ökad kristen förföljelse",
+      "category": "Nyhet",
+      "date": "2026-07-07",
+      "location": "",
+      "summary": "International Christian Concerns nya globala förföljelseindex för 2026 pekar ut växande religiös nationalism, gränsöverskridande repression och statlig kontroll av trossamfund som de drivande trenderna bakom förföljelsen av kristna världen över.",
+      "source": "Christian News Network",
+      "url": "https://christiannews.net/2026/07/07/icc-releases-2026-global-persecution-index/",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "pakistan-blind-kristen-blasfemi-frikand-2026",
+      "title": "Blind kristen man frikänd i pakistanskt blasfemimål",
+      "category": "Nyhet",
+      "date": "2026-07-08",
+      "location": "Lahore, Pakistan",
+      "summary": "En domstol i Lahore friade den synskadade katoliken Nadeem Masih från en blasfemianklagelse som kunnat leda till dödsstraff, sedan åklagarsidan inte lyckats styrka anklagelsen efter tio månader i häkte.",
+      "source": "International Christian Concern",
+      "url": "https://persecution.org/2026/07/08/lahore-court-acquits-blind-christian-man-in-falsified-blasphemy-case/",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "kina-pastor-ezra-jin-frigiven-2026",
+      "title": "Kinesisk pastor frigiven efter diplomatiskt ingripande",
+      "category": "Nyhet",
+      "date": "2026-07-23",
+      "location": "Peking, Kina / Los Angeles, USA",
+      "summary": "Pastor Ezra Jin Mingri, grundare av Pekingbaserade Zion Church, frigavs efter månader i kinesiskt fängelse sedan Vita huset gripit in i hans fall, och återförenades med sin familj i USA efter åtta års separation.",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/07/23/trump-xi-ezra-jin-mingri-pastor-released/431afdca-86fb-11f1-9cec-0fb26676f07e_story.html",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "car-katolsk-fader-skjuten-2026",
+      "title": "Katolsk präst i Centralafrikanska republiken skjuten till döds",
+      "category": "Nyhet",
+      "date": "2026-07-22",
+      "location": "Zémio, Centralafrikanska republiken",
+      "summary": "Fader Crépin Martial Monga, känd för sitt fredsarbete i Bangassou-stiftet, sköts ihjäl av okända beväpnade män dagen efter att ha döpt 175 personer; ingen grupp har tagit på sig dådet.",
+      "source": "International Christian Concern",
+      "url": "http://persecution.org/2026/07/22/priest-killed-after-baptizing-175-people/",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "new-york-synagogor-attacker-juli-2026",
+      "title": "Nya antisemitiska attacker mot synagogor i New York",
+      "category": "Nyhet",
+      "date": "2026-07-20",
+      "location": "Queens och Manhattan, New York, USA",
+      "summary": "Synagogor i Queens utsattes för attacker med avföring och olja, och två personer knivhöggs nära synagogor på Manhattan, i vad polisen utreder som hatbrott mot det judiska samfundet.",
+      "source": "JNS",
+      "url": "https://www.jns.org/news/u-s-news/nypd-probing-two-attacks-of-oil-thrown-at-queens-synagogues-as-hate-crimes",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "interfaith-protest-cufi-palestina-2026",
+      "title": "Interreligiös koalition protesterar mot kristsionistiskt toppmöte",
+      "category": "Nyhet",
+      "date": "2026-07-08",
+      "location": "USA",
+      "summary": "Omkring 200 personer inom Interfaith Action for Palestine demonstrerade i början av juli mot organisationen Christians United for Israel och USA:s militära stöd till Israel.",
+      "source": "Religion News Service",
+      "url": "https://religionnews.com/2026/07/08/pro-palestinian-interfaith-coalition-protests-christian-zionist-summit/",
+      "added_on": "2026-07-26",
       "collected_week": "2026-W30"
     }
   ]

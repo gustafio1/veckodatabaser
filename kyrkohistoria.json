@@ -2,8 +2,8 @@
   "topic": "Kyrkohistoria",
   "description": "Kyrkohistorisk forskning, jubileer, kristen arkeologi, böcker och kulturarv. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-07-24",
-  "item_count": 14,
+  "last_updated": "2026-07-26",
+  "item_count": 22,
   "items": [
     {
       "id": "iznik-nicaeakyrkans-lamningar-utgravda-2026",
@@ -171,6 +171,102 @@
       "source": "Världens Historia",
       "url": "https://varldenshistoria.se/kultur/arkeologi/gomd-under-en-kontorsbyggnad-arkeologer-fann-londons-aldsta-basilika",
       "added_on": "2026-07-24",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "tyana-oktagonala-kyrka-gravar-turkiet-2026",
+      "title": "Arton gravar frilagda i oktagonal kyrka i antika Tyana",
+      "category": "Arkeologi",
+      "date": "2026-07-11",
+      "location": "Tyana, Turkiet",
+      "summary": "Arkeologer i Kemerhisar har grävt fram 18 av uppskattningsvis 42 gravar i en oktagonal kyrka från senromersk tid. Fynden visar att kyrkan använts som begravningsplats i flera skeden och ger ny kunskap om tidig kristen gravsed i Kappadokien.",
+      "source": "Türkiye Today",
+      "url": "https://www.turkiyetoday.com/culture/archaeologists-unearth-18-tombs-at-ancient-tyana-church-3223708",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "hippos-susita-dopfat-marmor-golan-2026",
+      "title": "Marmorkar i bysantinsk katedral avslöjar dopritualer på Golanhöjderna",
+      "category": "Arkeologi",
+      "date": "2026-04-03",
+      "location": "Susita/Hippos, Golanhöjderna",
+      "summary": "Forskare från Haifa universitet har identifierat ett 1300 år gammalt marmorkar som troligen användes vid dop i en katedral som rasade i en jordbävning år 749. Fyndet ger nya ledtrådar om ritualer i den tidiga kristna kyrkan i regionen.",
+      "source": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/marble-bowl-buried-1300-years-ago-in-golan-church-sheds-light-on-ancient-baptisms/",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "augustinus-forlorade-predikningar-manuskript-2026",
+      "title": "Två okända predikningar av Augustinus återfunna i polskt manuskript",
+      "category": "Forskning",
+      "date": "2026-06-22",
+      "location": "Pelplin, Polen",
+      "summary": "En tysk forskare vid Würzburgs universitet har identifierat två tidigare okända predikningar av kyrkofadern Augustinus i ett 1100-talsmanuskript som ursprungligen tillhörde klostret Bad Doberan. En vetenskaplig utgåva väntas publiceras senare under 2026.",
+      "source": "Medievalists.net",
+      "url": "https://www.medievalists.net/2026/06/lost-writings-of-saint-augustine-found-in-medieval-manuscript/",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "maronitiska-kronikan-syriskt-manuskript-sinai-2026",
+      "title": "Okänd kristen världskrönika från 700-talet upptäckt i Sinai",
+      "category": "Forskning",
+      "date": "2026-02-12",
+      "location": "Sankta Katarina-klostret, Sinai, Egypten",
+      "summary": "En forskare vid Institutet för medeltidsforskning har hittat ett tidigare okänt arabiskt manuskript av den så kallade Maronitiska krönikan från år 713 i Sankta Katarina-klostrets samlingar. Texten är en av de äldsta bevarade skildringarna av kristet liv strax före den arabisk-islamiska expansionen.",
+      "source": "SyriacPress",
+      "url": "https://syriacpress.com/blog/2026/02/12/rare-syriac-manuscript-discovered-at-st-catherines-monastery-reveals-early-christian-history/",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "tio-forlorade-medeltidstexter-atertfunna-2026",
+      "title": "Tio förlorade medeltida texter som återupptäckts efter århundraden",
+      "category": "Forskning",
+      "date": "2026-07-25",
+      "location": "",
+      "summary": "Medievalists.net sammanfattar tio medeltida skrifter, flera med kyrkohistorisk betydelse, som dykt upp igen efter att ha legat gömda i allt från omärkta lådor till bokband och en klosterhåla stängd i nästan 900 år. Artikeln visar hur digitalisering och ny teknik gör fler sådana fynd möjliga.",
+      "source": "Medievalists.net",
+      "url": "https://www.medievalists.net/2026/07/10-lost-medieval-texts-rediscovered-centuries-later/",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "svenska-kyrkan-utlandet-400-ar-jubileum-2026",
+      "title": "Svenska kyrkan i utlandet firar 400-årsjubileum",
+      "category": "Jubileum",
+      "date": "2026-05-10",
+      "location": "Lund och Uppsala, Sverige",
+      "summary": "Under 2026 uppmärksammar Svenska kyrkan att det gått 400 år sedan den första utlandsförsamlingen grundades, med jubileumsgudstjänster i bland annat Lunds och Uppsala domkyrkor. Firandet lyfter kyrkans historiska internationella arbete och dess utveckling fram till idag.",
+      "source": "Svenska kyrkan",
+      "url": "https://www.svenskakyrkan.se/iutlandet/400",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "gagnef-medeltida-tragolv-fynd-2026",
+      "title": "Unikt medeltida kyrkgolv hittat återanvänt i lada i Gagnef",
+      "category": "Arkeologi",
+      "date": "2026-05-15",
+      "location": "Gagnef, Sverige",
+      "summary": "Ett ovanligt välbevarat trägolv från en medeltida kyrka har återfunnits återanvänt som byggmaterial i en lada i Gagnefs kyrkby. Årsringsanalys visar att virket höggs redan på 1280- och 1300-talen, vilket gör fyndet unikt för svensk kyrkoarkeologi.",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/dalarna/unikt-fynd-i-gagnefs-kyrkby-medeltida-golv-hittades-i-lada",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "sodra-rada-timmerkyrka-invigd-2026",
+      "title": "Nedbrunna Södra Råda kyrka återuppbyggd med medeltida metoder",
+      "category": "Kulturarv",
+      "date": "2026-06-06",
+      "location": "Gullspång, Sverige",
+      "summary": "Efter att ha förstörts i en anlagd brand 2001 har Södra Råda gamla kyrka byggts upp på nytt med samma verktyg och hantverksmetoder som användes på 1300-talet. Den nya timmerkyrkan invigdes i juni 2026 efter ett femtonårigt forskningsprojekt vid Göteborgs universitet.",
+      "source": "Svensk Historia",
+      "url": "https://svenskhistoria.se/forskare-byggde-kyrka-med-medeltida-metoder/",
+      "added_on": "2026-07-26",
       "collected_week": "2026-W30"
     }
   ]

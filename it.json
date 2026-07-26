@@ -2,8 +2,8 @@
   "topic": "IT – Nya produkter",
   "description": "Nya IT- och teknikprodukter: hårdvara, mjukvara, AI och gaming. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-07-21",
-  "item_count": 66,
+  "last_updated": "2026-07-26",
+  "item_count": 73,
   "items": [
     {
       "id": "nvidia-rtx-spark-2026",
@@ -795,6 +795,90 @@
       "source": "Gear Patrol",
       "url": "https://www.gearpatrol.com/audio/best-tech-audio-hi-fi-releases-2026-july-week-2/",
       "added_on": "2026-07-21",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "samsung-galaxy-z-fold8-unpacked-2026",
+      "title": "Samsung Galaxy Z Fold8, Fold8 Ultra och Flip8",
+      "category": "Lansering",
+      "date": "2026-07-22",
+      "location": "",
+      "summary": "Samsung höll sitt Galaxy Unpacked-event i London den 22 juli och presenterade de vikbara mobilerna Galaxy Z Fold8, Z Fold8 Ultra och Z Flip8 tillsammans med nya smartklockor. Det var första gången på 14 år som Samsung höll ett stort lanseringsevent i Storbritannien.",
+      "source": "Samsung Newsroom Sverige",
+      "url": "https://news.samsung.com/se/samsung-galaxy-z-fold8-ultra-fold8-och-flip8-vikbara-telefoner-for-alla-livsstilar",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "google-gemini-3-6-flash-2026",
+      "title": "Google släpper Gemini 3.6 Flash",
+      "category": "AI-modell",
+      "date": "2026-07-21",
+      "location": "",
+      "summary": "Google släppte den 21 juli tre nya Gemini-modeller, med arbetshästen Gemini 3.6 Flash i spetsen, och teasade samtidigt en kommande Gemini 4. Den nya modellen ska klara flerstegsuppgifter med färre verktygsanrop och därmed använda betydligt färre tokens än föregångaren.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "black-forest-labs-flux-3-2026",
+      "title": "Black Forest Labs visar multimodala FLUX 3",
+      "category": "AI-modell",
+      "date": "2026-07-23",
+      "location": "",
+      "summary": "Den tyska AI-startupen Black Forest Labs presenterade den 23 juli FLUX 3, en modell som med samma vikter kan generera bilder och 20 sekunder långa videoklipp med synkat ljud, och som även har utökats till att styra robotar. Tekniken testas redan i produktion hos biltillverkaren Audi.",
+      "source": "VentureBeat",
+      "url": "https://venturebeat.com/technology/black-forest-labs-launches-flux-3-capable-of-generating-images-and-20-second-video-with-audio-but-in-limited-release-to-start",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "casana-smart-seat-2026",
+      "title": "Casana Smart Seat – toalettsits mäter blodtryck",
+      "category": "Produkt",
+      "date": "2026-07-21",
+      "location": "",
+      "summary": "Hälsoteknikbolaget Casana lanserade den 21 juli Smart Seat, en toalettsits som automatiskt mäter blodtryckstrender, puls, syremättnad och andningsfrekvens i hemmet utan kamera eller mikrofon. Sitsen kostar 199 dollar för första året och känner av upp till fem hushållsmedlemmar automatiskt.",
+      "source": "PR Newswire",
+      "url": "https://www.prnewswire.com/news-releases/casana-introduces-the-first-smart-toilet-seat-to-monitor-blood-pressure-trends-and-vital-signs-at-home-302830379.html",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "augmental-mouthpad-vox-2026",
+      "title": "Augmental lanserar tungstyrda MouthPad och Vox",
+      "category": "Produkt",
+      "date": "2026-07-22",
+      "location": "",
+      "summary": "Tillgänglighetsbolaget Augmental lanserade den 22 juli sin tungstyrda datormus MouthPad till allmänheten i USA, tillsammans med betan av den bärbara mikrofonen Vox som fungerar som ett osynligt tangentbord. Produkterna är riktade till personer med nedsatt rörlighet i händer och armar.",
+      "source": "PR Newswire",
+      "url": "https://www.prnewswire.com/news-releases/mouthpad-the-first-ever-tongue-trackpad-launches-to-the-public-alongside-new-wearable-vox-302832412.html",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "spotify-talk-to-spotify-2026",
+      "title": "Spotify testar AI-assistenten \"Talk to Spotify\"",
+      "category": "Mjukvara",
+      "date": "2026-07-14",
+      "location": "",
+      "summary": "Spotify började den 14 juli testa funktionen \"Talk to Spotify\", som låter Premium-användare prata eller skriva med appen för att hitta musik och poddar och förfina förslagen med följdfrågor. Betan rullas först ut i USA, Irland och Sverige.",
+      "source": "Spotify Newsroom",
+      "url": "https://newsroom.spotify.com/2026-07-14/talk-to-spotify-announcement-beta/",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "dispatch-xbox-launch-2026",
+      "title": "Superhjälteserien Dispatch kommer till Xbox",
+      "category": "Spel",
+      "date": "2026-07-29",
+      "location": "",
+      "summary": "Superhjältekomedin Dispatch, som tidigare bara funnits till Playstation, PC och Switch 2, lanseras den 29 juli även till Xbox Series X/S med stöd för Play Anywhere. Spelet handlar om en före detta superhjälte som tvingas leda ett kontor fullt av forna skurkar.",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/07/dispatch-for-xbox-series-launches-july-29",
+      "added_on": "2026-07-26",
       "collected_week": "2026-W30"
     }
   ]

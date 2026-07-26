@@ -2,8 +2,8 @@
   "topic": "Programmering",
   "description": "Nyheter för utvecklare: språk, ramverk, verktyg, AI-kodning och öppen källkod. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-07-23",
-  "item_count": 9,
+  "last_updated": "2026-07-26",
+  "item_count": 16,
   "items": [
     {
       "id": "typescript-7-nativ-kompilator-2026",
@@ -111,6 +111,90 @@
       "source": "Phoronix",
       "url": "https://www.phoronix.com/news/Linux-7.0-Is-Next",
       "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "npm-v12-installationsskript-blockeras-2026",
+      "title": "npm 12 blockerar installationsskript som standard",
+      "category": "Öppen källkod",
+      "date": "2026-07-08",
+      "location": "",
+      "summary": "npm version 12 har lanserats med det största säkerhetsomtaget i verktygets historia – preinstall-, install- och postinstall-skript från paket körs inte längre automatiskt vid npm install om de inte uttryckligen godkänts. Ändringen är ett direkt svar på en våg av leverantörskedjeattacker mot paket som Axios och Mastra AI under det senaste året.",
+      "source": "The Hacker News",
+      "url": "https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "asyncapi-npm-forsorjningskedja-attack-2026",
+      "title": "Npm-paketen i AsyncAPI kapades i ny leverantörskedjeattack",
+      "category": "Säkerhet",
+      "date": "2026-07-15",
+      "location": "",
+      "summary": "Microsoft avslöjade en koordinerad attack mot npm-paketen i @asyncapi-organisationen där angripare stal publiceringsuppgifter via ett sårbart GitHub Actions-arbetsflöde och spred skadlig kod som kringgick vanliga skydd som --ignore-scripts. Händelsen är ytterligare ett exempel på hur öppen källkods-ekosystemet utsätts för alltmer sofistikerade attacker mot leveranskedjan.",
+      "source": "Microsoft Security Blog",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/07/15/unpacking-asyncapi-npm-supply-chain-compromise-import-time-payload-delivery/",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "google-antigravity-cli-2-3-2026",
+      "title": "Google uppdaterar Antigravity CLI med köade agentjobb",
+      "category": "AI-kodning",
+      "date": "2026-07-13",
+      "location": "",
+      "summary": "Google fortsätter bygga ut Antigravity CLI, som ersätter Gemini CLI som bolagets terminalverktyg för AI-agenter. Version 2.3 lägger till stöd för köade meddelanden, konfigurerbar körning och bättre hantering av asynkrona arbetsflöden med flera samverkande agenter.",
+      "source": "Google Antigravity Changelog",
+      "url": "https://antigravity.google/changelog",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "claude-opus-5-github-copilot-2026",
+      "title": "Claude Opus 5 tillgänglig i GitHub Copilot",
+      "category": "AI-kodning",
+      "date": "2026-07-24",
+      "location": "",
+      "summary": "Anthropics nya toppmodell Claude Opus 5 har börjat rullas ut i GitHub Copilot för Pro+-, Max-, Business- och Enterprise-användare. Modellen är inriktad på långa, komplexa agentiska kodningsuppgifter som kräver flerstegsresonemang och tillförlitlig verktygsanvändning.",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot/",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "kotlin-2-4-20-beta2-2026",
+      "title": "Kotlin 2.4.20 Beta 2 testar egen native-kompilator",
+      "category": "Språk",
+      "date": "2026-07-22",
+      "location": "",
+      "summary": "JetBrains har släppt en betaversion av Kotlin 2.4.20 med en experimentell native image-kompilator tänkt att ge snabbare start och bättre prestanda än den vanliga kotlinc-kommandoraden. Uppdateringen innehåller också förbättringar för Kotlin/Native, Kotlin/Wasm och standardbiblioteket.",
+      "source": "Kotlin (JetBrains)",
+      "url": "https://kotlinlang.org/docs/whatsnew-eap.html",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "dotnet-framework-sakerhetsuppdatering-juli-2026",
+      "title": ".NET Framework får akut säkerhetsuppdatering",
+      "category": "Verktyg",
+      "date": "2026-07-14",
+      "location": "",
+      "summary": "Microsofts julipatchning för .NET och .NET Framework åtgärdar bland annat en allvarlig sårbarhet för fjärrkörning av kod (CVE-2026-56158) samt ett fel där synkrona HttpWebRequest-anrop kunde hänga sig vid vissa TLS-konfigurationer. Utvecklare uppmanas installera uppdateringarna omgående.",
+      "source": "Microsoft Learn",
+      "url": "https://learn.microsoft.com/en-us/dotnet/framework/release-notes/2026/07-14-july-cumulative-update",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "qwen-3-8-max-alibaba-2026",
+      "title": "Alibaba visar Qwen3.8-Max med 2,4 biljoner parametrar",
+      "category": "AI-kodning",
+      "date": "2026-07-19",
+      "location": "",
+      "summary": "Alibaba har visat en förhandsversion av Qwen3.8-Max, bolagets första multimodala modell över en biljon parametrar, med 2,4 biljoner parametrar totalt. Modellen finns redan tillgänglig genom kodningsverktygen Qoder och QoderWork, men öppna vikter utlovas senare utan fastställt datum.",
+      "source": "MarkTechPost",
+      "url": "https://www.marktechpost.com/2026/07/19/alibaba-previews-qwen3-8-max-a-2-4-trillion-parameter-multimodal-model-days-after-moonshots-kimi-k3-open-weight-launch/",
+      "added_on": "2026-07-26",
       "collected_week": "2026-W30"
     }
   ]

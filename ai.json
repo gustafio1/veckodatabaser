@@ -2,8 +2,8 @@
   "topic": "AI & maskininlärning",
   "description": "Nyheter om nya AI-modeller, verktyg, forskning, företag och reglering. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-07-23",
-  "item_count": 9,
+  "last_updated": "2026-07-26",
+  "item_count": 17,
   "items": [
     {
       "id": "openai-gpt-5-6-lansering-2026",
@@ -111,6 +111,102 @@
       "source": "Gibson Dunn",
       "url": "https://www.gibsondunn.com/eu-ai-act-omnibus-agreement-postponed-high-risk-deadlines-and-other-key-changes/",
       "added_on": "2026-07-23",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "anthropic-claude-opus-5-lansering-2026",
+      "title": "Anthropic lanserar Claude Opus 5",
+      "category": "Företag",
+      "date": "2026-07-24",
+      "location": "",
+      "summary": "Anthropic släppte Claude Opus 5, en modell som ska ligga nära Claude Fable 5 i kapacitet men kosta hälften så mycket, med stöd för att växla mellan snabbare och mer kapabla lägen. Modellen har ett kontextfönster på en miljon token och positioneras som ny toppnotering inom kodning och kunskapsarbete.",
+      "source": "Anthropic / Axios",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "deepseek-v4-generellt-tillganglig-2026",
+      "title": "DeepSeek V4 blir allmänt tillgänglig med ny prismodell",
+      "category": "Nyhet",
+      "date": "2026-07-20",
+      "location": "Kina",
+      "summary": "Kinesiska DeepSeek gick den 20 juli från förhandsversion till fullständig lansering av V4-modellerna, med en miljon tokens kontext och skärpt prestanda inom kod och matematik. Samtidigt infördes branschens första prissystem med dyrare API-anrop under kinesisk kontorstid, och äldre modellnamn slutade fungera den 24 juli.",
+      "source": "DeepSeek",
+      "url": "https://deepseek.ai/blog/deepseek-v4-ga-surge-pricing-migration",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "google-gemini-3-6-flash-lansering-2026",
+      "title": "Google lanserar Gemini 3.6 Flash och skvallrar om Gemini 4",
+      "category": "Nyhet",
+      "date": "2026-07-21",
+      "location": "",
+      "summary": "Google släppte Gemini 3.6 Flash, en snabbare och billigare arbetsmodell med en miljon tokens kontext som använder omkring 17 procent färre utdatatoken än föregångaren. Samtidigt lanserades Gemini 3.5 Flash-Lite och en säkerhetsinriktad Flash Cyber-variant, och Google antydde att nästa stora modell Gemini 4 är på väg.",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/07/21/gemini-3-6-flash-launch/",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "moonshot-kimi-k3-oppna-vikter-2026",
+      "title": "Moonshot AI:s jättemodell Kimi K3 får öppna vikter",
+      "category": "Forskning",
+      "date": "2026-07-24",
+      "location": "Kina",
+      "summary": "Kinesiska Moonshot AI presenterade Kimi K3, en modell med 2,8 biljoner parametrar som beskrivs som den största öppna vikt-modellen hittills och konkurrerar med ledande amerikanska system. De fullständiga modellvikterna, omkring 1,4 terabyte, publiceras under en modifierad MIT-licens den 27 juli.",
+      "source": "TechTimes",
+      "url": "https://www.techtimes.com/articles/321499/20260724/kimi-k3-open-weights-drop-july-27-near-frontier-coding-undisclosed-hallucination-risk.htm",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "sap-forvarvar-prior-labs-2026",
+      "title": "SAP slutför förvärvet av tyska AI-bolaget Prior Labs",
+      "category": "Företag",
+      "date": "2026-07-17",
+      "location": "Tyskland",
+      "summary": "SAP slutförde köpet av Freiburgbaserade Prior Labs, en pionjär inom AI-modeller för tabelldata, och lovar investera över en miljard euro de kommande fyra åren för att bygga ett ledande forskningslabb inom området. Affären ska stärka SAP:s satsning på AI för strukturerad företagsdata.",
+      "source": "SAP News Center",
+      "url": "https://news.sap.com/2026/07/sap-completes-prior-labs-acquisition/",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "sakana-ai-fugu-cyber-lansering-2026",
+      "title": "Sakana AI lanserar cybersäkerhetsmodellen Fugu-Cyber",
+      "category": "Forskning",
+      "date": "2026-07-21",
+      "location": "",
+      "summary": "Japanska Sakana AI släppte Fugu-Cyber, en säkerhetsinriktad variant av sin agent-orkestreringsmodell Fugu, med rapporterade resultat på 86,9 procent på sårbarhetstestet CyberGym och 72,1 procent på hotanalysbenchmarken CTI-REALM. Tillgången är kraftigt begränsad med manuellt godkännande och ingen åtkomst för EU/EES.",
+      "source": "MarkTechPost",
+      "url": "https://www.marktechpost.com/2026/07/25/sakana-ai-releases-fugu-cyber-orchestration-model-cybergym-cti-realm/",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "black-forest-labs-flux-3-lansering-2026",
+      "title": "Black Forest Labs visar multimodala bild- och videomodellen FLUX 3",
+      "category": "Nyhet",
+      "date": "2026-07-23",
+      "location": "Tyskland",
+      "summary": "Tyska Black Forest Labs presenterade FLUX 3, en modell som slår samman generering av bild, video, ljud och robotstyrning i ett och samma system. Video- och handlingsfunktionerna släpps först till utvalda partner via API, medan en öppen vikt-version av bildmodellen väntas senare i år.",
+      "source": "Digital Applied",
+      "url": "https://www.digitalapplied.com/blog/flux-3-black-forest-labs-multimodal-launch",
+      "added_on": "2026-07-26",
+      "collected_week": "2026-W30"
+    },
+    {
+      "id": "eu-tvingar-google-oppna-android-ai-2026",
+      "title": "EU tvingar Google öppna Android för konkurrerande AI-assistenter",
+      "category": "Reglering",
+      "date": "2026-07-16",
+      "location": "EU",
+      "summary": "EU-kommissionen fattade bindande beslut enligt Digital Markets Act som tvingar Google att ge konkurrerande AI-assistenter samma tillgång som Gemini till elva funktioner i Android, samt dela anonymiserad sökdata med konkurrenter. Google har protesterat och menar att kraven riskerar användarnas integritet och säkerhet.",
+      "source": "Europeiska kommissionen",
+      "url": "https://digital-markets-act.ec.europa.eu/commission-provides-guidance-google-ai-interoperability-android-and-sharing-google-search-data-under-2026-07-16_en",
+      "added_on": "2026-07-26",
       "collected_week": "2026-W30"
     }
   ]

@@ -2,8 +2,8 @@
   "topic": "Matlagning",
   "description": "Livsmedelsvetenskap, tekniker, jäsning och smakforskning. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-07-26",
-  "item_count": 15,
+  "last_updated": "2026-08-02",
+  "item_count": 20,
   "items": [
     {
       "id": "tillagningsmetoder-mineraler-lever-2026",
@@ -184,6 +184,66 @@
       "url": "https://www.nature.com/articles/s44172-024-00334-w",
       "added_on": "2026-07-26",
       "collected_week": "2026-W30"
+    },
+    {
+      "id": "precisionsjasning-nya-livsmedel-oversikt-2026",
+      "title": "Ny översikt: precisionsjäsning kan forma framtidens mat",
+      "category": "Forskning",
+      "date": "2026-02-24",
+      "location": "",
+      "summary": "En forskningsöversikt beskriver hur precisionsjäsning, där mikroorganismer skräddarsys för att producera specifika proteiner, enzymer och smakämnen, kan ge mer hållbara livsmedel med mindre mark- och vattenanvändning än konventionellt jordbruk.",
+      "source": "Journal of Basic Microbiology",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/jobm.70160",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "nasta-generationens-fermenterad-mat-funktionalitet-2026",
+      "title": "Forskare kartlägger nästa generations fermenterade livsmedel",
+      "category": "Forskning",
+      "date": "2026-04-01",
+      "location": "",
+      "summary": "En genomgång av modern fermentationsforskning visar hur ny bioteknik gör det möjligt att skräddarsy smak, textur och näringsinnehåll i fermenterad mat, samtidigt som forskarna lyfter fram nya frågor kring livsmedelssäkerhet som tekniken för med sig.",
+      "source": "Frontiers in Microbiology",
+      "url": "https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2026.1869717/full",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "surdegsjasning-arabinoxylan-smak-2026",
+      "title": "Forskare kartlägger vad som verkligen händer när surdeg jäser",
+      "category": "Forskning",
+      "date": "2026-03-15",
+      "location": "",
+      "summary": "Genom att berika mjöl med höga halter av fibern arabinoxylan har forskare visat att surdegsbröd kan få både högre näringsvärde och ett bredare smakspektrum, vilket ger nya ledtrådar om den komplexa biologin bakom surdegsjäsning.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260315225130.htm",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "alkoholfri-whisky-smakutveckling-2026",
+      "title": "Smakforskning ligger bakom nya alkoholfria whiskyalternativ",
+      "category": "Teknik",
+      "date": "2026-04-15",
+      "location": "",
+      "summary": "Genom att jäsa fram komplexa smakämnen med särskilt anpassade jäststammar och temperaturer försöker producenter efterlikna whiskyns karaktär utan alkohol, ett område där smakforskningen just nu utvecklas snabbt.",
+      "source": "Northern Beverages",
+      "url": "https://northernbeverages.se/2026/04/15/alkoholfri-whisky-smak/",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "maillardreaktionen-grillsmak-kemi-2026",
+      "title": "Så skapar Maillardreaktionen grillmatens smak och färg",
+      "category": "Teknik",
+      "date": "2026-06-01",
+      "location": "",
+      "summary": "En genomgång av kemin bakom grillning beskriver hur Maillardreaktionen mellan proteiner och sockerarter vid hög värme bildar hundratals nya smakämnen, som pyraziner och furaner, och skapar den rostade smak vi förknippar med grillat kött.",
+      "source": "Kulinarisk vetenskapsöversikt",
+      "url": "https://grillio.com/blog/maillard-reaction/",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
     }
   ]
 }

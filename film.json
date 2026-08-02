@@ -2,8 +2,8 @@
   "topic": "Film & TV",
   "description": "Biopremiärer, streaming, TV-serier, svensk film och filmfestivaler. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-07-26",
-  "item_count": 15,
+  "last_updated": "2026-08-02",
+  "item_count": 23,
   "items": [
     {
       "id": "sju-biopremiarer-juli-2026",
@@ -184,6 +184,102 @@
       "url": "https://www.moviezine.se/nyheter/nya-filmer-serier-viaplay-sverige-juli-2026",
       "added_on": "2026-07-26",
       "collected_week": "2026-W30"
+    },
+    {
+      "id": "way-out-west-film-2026",
+      "title": "Way Out West avslöjar filmprogrammet – 31 filmer och 18 premiärer",
+      "category": "Festival",
+      "date": "2026-08-13",
+      "location": "Göteborg",
+      "summary": "Musikfestivalens filmdel bjuder på totalt 31 långfilmer under tre dagar, varav arton är premiärer med sex världspremiärer, nio nordiska och tre svenska premiärer. Filmprogrammet kompletteras av samtalsserien WOW Talks på Slottsskogen.",
+      "source": "Filmtopp",
+      "url": "https://www.filmtopp.se/lista/alla-filmpremiarer-pa-way-out-west-2026-har-ar-filmtopp-hojdpunkter",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "det-gronaste-graset-biopremiar-2026",
+      "title": "Malmökomedin Det grönaste gräset har biopremiär",
+      "category": "Premiär",
+      "date": "2026-08-07",
+      "location": "Malmö",
+      "summary": "Kim Sundbecks långfilmsdebut, en romantisk komedi om paret Sasja och Olivia i Malmöstadsdelen Möllan med Vilhelm Blomgren och Anna Asp i huvudrollerna, får ordinarie biopremiär samtidigt som Malmöfestivalen invigs. Filmen hade världspremiär på Bergmanveckan på Fårö i juni.",
+      "source": "Film i Skåne",
+      "url": "https://filmiskane.se/sv/artiklar/se-trailern-till-det-gronaste-graset-mollan-romcom-inviger-bergmanveckan",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "sodertalje-filmfestival-2026",
+      "title": "Södertälje får sin egen filmfestival med gratisvisningar",
+      "category": "Festival",
+      "date": "2026-08-08",
+      "location": "Södertälje",
+      "summary": "En nystartad filmfestival fyller stadskärnan med utomhusbio på Stora Torget och temavisningar på flera hotell, allt kostnadsfritt. Bland gästerna finns Södertäljekompositören Glen Gabriel och regissören Paul Raschid.",
+      "source": "Telgenytt",
+      "url": "https://telgenytt.se/nu-far-sodertalje-sin-egen-filmfestival/",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "lilla-filmfestivalen-bastad-30-ar-2026",
+      "title": "Lilla Filmfestivalen i Båstad firade 30 år",
+      "category": "Festival",
+      "date": "2026-08-02",
+      "location": "Båstad",
+      "summary": "Den Bo Widerberg-grundade festivalen på Bio Scala jubilerade med gäster som Stefan Jarl och Jonas Åkerlund samt visningar av bland annat Björn Runges nya film och John Skoogs Värn. Skoog tilldelades även årets Bo Widerberg-stipendium.",
+      "source": "Film i Skåne",
+      "url": "https://filmiskane.se/sv/artiklar/lilla-filmfestivalen-i-bastad-firar-30-ar",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "hbo-max-augusti-2026-46-titlar",
+      "title": "HBO Max fyller på med 46 nya filmer och serier i augusti",
+      "category": "Streaming",
+      "date": "2026-08-01",
+      "location": "",
+      "summary": "Tjänsten laddar för hösten med bland annat samtliga Bad Boys- och Planet of the Apes-filmer, Stephen King-skräcken The Monkey och nya dokusatsningen Monsters of God. DC-serien Lanterns med Kyle Chandler och Aaron Pierre lyfts fram som en av augustis höjdpunkter.",
+      "source": "MovieZine",
+      "url": "https://www.moviezine.se/nyheter/nytt-pa-hbo-max-i-augusti-lat-hamndlust-och-sadistisk-terror-radda-dig-fran-regnet",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "disney-plus-augusti-2026-alien-earth",
+      "title": "Disney+ satsar på Alien: Earth bland augustinyheterna",
+      "category": "Streaming",
+      "date": "2026-08-01",
+      "location": "",
+      "summary": "Tjänsten lägger till 26 nya titlar under augusti, med skräckserien Alien: Earth som huvudattraktion när den har premiär med två avsnitt den 13 augusti. Även thrillern Eenie Meanie med Samara Weaving pekas ut som ett tips.",
+      "source": "MovieZine",
+      "url": "https://www.moviezine.se/nyheter/26-nya-filmer-och-serier-pa-disney-i-augusti",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "viaplay-augusti-2026-99-titlar",
+      "title": "Viaplay fyller på med 99 nya filmer och serier i augusti",
+      "category": "Streaming",
+      "date": "2026-08-01",
+      "location": "",
+      "summary": "Bland augustinyheterna märks återkomsten av Paradise Hotel, nya säsonger av Svenska Truckers och Doc samt dramaserien The Miniature Wife. St. Denis Medical säsong två har också premiär i månadens utbud.",
+      "source": "MovieZine",
+      "url": "https://www.moviezine.se/nyheter/99-filmer-och-tv-serier-kommer-till-viaplay-i-augusti",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "bio-nyheter-helgen-1-augusti-2026",
+      "title": "Fem nya biofilmer denna helg – skräckuppföljare mest hajpad",
+      "category": "Premiär",
+      "date": "2026-08-01",
+      "location": "",
+      "summary": "Helgens biopremiärer bjuder på nästa kapitel i skräckserien Conjuring, dokumentären Nunnan – 25 år i kloster om en kvinna som vigt sitt liv åt klosterlivet, samt ytterligare ett par nya titlar på repertoaren.",
+      "source": "MovieZine",
+      "url": "https://www.moviezine.se/nyheter/5-nya-filmer-har-premiar-pa-bio-till-helgen-en-efterlangtad-skrackuppfoljare-ar-mest-hajpad",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
     }
   ]
 }

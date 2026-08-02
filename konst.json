@@ -2,8 +2,8 @@
   "topic": "Konst & design",
   "description": "Konstutställningar, design, arkitektur, auktioner och konstvärlden. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-07-26",
-  "item_count": 14,
+  "last_updated": "2026-08-02",
+  "item_count": 21,
   "items": [
     {
       "id": "moderna-museet-nisabas-hus-maleri-2026",
@@ -172,6 +172,90 @@
       "url": "https://www.svt.se/kultur/goteborgs-konstmuseum-byggs-om-for-1-miljard",
       "added_on": "2026-07-26",
       "collected_week": "2026-W30"
+    },
+    {
+      "id": "openart-orebro-rishog-debatt-2026",
+      "title": "Rishög för 93 000 kronor väcker konstdebatt i Örebro",
+      "category": "Debatt",
+      "date": "2026-07-29",
+      "location": "Örebro",
+      "summary": "Konstnären Marja-Leena Sillanpääs verk på konstbiennalen OpenArt har blivit årets mest kritiserade, sedan Sverigedemokrater ifrågasatt att kommunen betalat 93 000 kronor för vad de kallar en rishög. Konstnären svarar nu på kritiken och menar att bilden av att konstnärer tjänar stora pengar på offentliga uppdrag är missvisande.",
+      "source": "Nerikes Allehanda",
+      "url": "https://www.na.se/utskallda-konstnaren-svarar-pa-kritiken/",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "bukowskis-sommarauktioner-2026",
+      "title": "Bukowskis kör flera temaauktioner under sensommaren",
+      "category": "Auktion",
+      "date": "2026-07-27",
+      "location": "Stockholm",
+      "summary": "Auktionshuset Bukowskis har under slutet av juli och början av augusti flera parallella nätauktioner igång, bland annat med grafik av Hans Wigert, kinesiskt exportporslin och äldre silver, en fortsättning på en stark säsong efter vårens rekordnoteringar.",
+      "source": "Bukowskis",
+      "url": "https://www.bukowskis.com/en/auctions/live",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "mvrdv-rotterdam-rocks-tavling-2026",
+      "title": "MVRDV vinner arkitekttävling om nytt klimatlandmärke i Rotterdam",
+      "category": "Arkitektur",
+      "date": "2026-07-21",
+      "location": "Rotterdam, Nederländerna",
+      "summary": "Nederländska MVRDV har vunnit tävlingen om 'Rotterdam Rocks', ett 240 miljoner euro stort landmärke format som sju staplade klippblock utmed floden Maas, med hotell, utställningsytor och utsiktsplattform.",
+      "source": "Dezeen",
+      "url": "https://www.dezeen.com/2026/07/21/mvrdv-rotterdam-rocks-shift-competition/",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "varldens-hogsta-trahybridtorn-sydney-2026",
+      "title": "Världens högsta trähybridtorn har nått sin fulla höjd i Sydney",
+      "category": "Arkitektur",
+      "date": "2026-07-23",
+      "location": "Sydney, Australien",
+      "summary": "Skyskrapan Atlassian Central, ritad av SHoP och BVN, har toppat ut på 180 meter och blir därmed världens högsta hybridbyggnad i trä, mer än dubbelt så hög som föregående rekordhållare i Milwaukee.",
+      "source": "Dezeen",
+      "url": "https://www.dezeen.com/2026/07/23/world-tallest-timber-tower-atlassian-central-sydney/",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "skulptur-i-pilane-20-ar-tony-cragg-2026",
+      "title": "Skulptur i Pilane firar 20 år med elva verk av Tony Cragg",
+      "category": "Utställning",
+      "date": "2026-07-20",
+      "location": "Tjörn",
+      "summary": "Utomhusutställningen Skulptur i Pilane på Tjörn firar 20-årsjubileum med temat 'Sculptural Landscape', där brittiske skulptören Tony Cragg visar elva stora verk bland gravrösen, kompletterat av verk av bland andra Jaume Plensa och Ann Wolff.",
+      "source": "Pilane",
+      "url": "https://pilane.org/",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "nathalia-edenmont-retrospektiv-vida-museum-2026",
+      "title": "Nathalia Edenmont visar stor retrospektiv på Vida Museum & Konsthall",
+      "category": "Utställning",
+      "date": "2026-07-04",
+      "location": "Öland",
+      "summary": "Den svensk-ukrainska fotobaserade konstnären Nathalia Edenmont visar en retrospektiv med äldre fotografier och nya verk, däribland en tre meter hög äggskulptur i carraramarmor, kring teman som liv, död och förgänglighet.",
+      "source": "Ölandsbladet",
+      "url": "https://www.olandsbladet.se/kultur/tank-om-flyget-kraschar-nathalia-edenmont-om-radslan-att-inte-hinna-klart",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "farzaneh-rad-call-for-print-grafikens-hus-2026",
+      "title": "Farzaneh Rad tilldelas Grafikens Hus pris Call for Print",
+      "category": "Pris",
+      "date": "2026-07-08",
+      "location": "Stockholm",
+      "summary": "Konstnären och formgivaren Farzaneh Rad har vunnit Grafikens Hus utmärkelse Call for Print, som riktar sig till yrkesverksamma konstnärer från BIPOC-communityn för att bredda den svenska konstscenen. Hon tar under hösten fram en grafisk upplaga med tryckaren Laurens Rohlfs.",
+      "source": "Sign & Print",
+      "url": "https://signprint.se/2026/07/08/hon-vinner-call-for-print-2026/",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
     }
   ]
 }

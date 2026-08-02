@@ -2,8 +2,8 @@
   "topic": "Rymden",
   "description": "Raketuppskjutningar, rymdsonder, astronomiska upptäckter och rymdindustri. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-07-26",
-  "item_count": 17,
+  "last_updated": "2026-08-02",
+  "item_count": 24,
   "items": [
     {
       "id": "ariane-6-amazon-leo-tyngsta-lasten-2026",
@@ -208,6 +208,90 @@
       "url": "https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-launches-us-space-force-mission-with-less-than-17-hours-notice-a-new-record",
       "added_on": "2026-07-26",
       "collected_week": "2026-W30"
+    },
+    {
+      "id": "nrol-95-spionsatellit-uppskjutning-2026",
+      "title": "SpaceX sköt upp hemligt spionsatellituppdrag åt amerikanska underrättelsemyndigheten NRO",
+      "category": "Uppskjutning",
+      "date": "2026-07-30",
+      "location": "Cape Canaveral, Florida, USA",
+      "summary": "En Falcon 9-raket lyfte från Cape Canaveral med det hemligstämplade uppdraget NROL-95 åt National Reconnaissance Office, årets fjärde NRO-uppskjutning. Varken nyttolastens utformning eller uppgift har offentliggjorts, men förstasteget landade som planerat tillbaka på Cape Canaveral.",
+      "source": "Space.com",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-falcon-9-spy-satellite-launch-nrol-95",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "asteroid-44-nysa-tre-lober-mane-2026",
+      "title": "Asteroiden Nysa kan vara den första kända trelobiga världen och har en egen liten måne",
+      "category": "Upptäckt",
+      "date": "2026-07-29",
+      "location": "",
+      "summary": "Med de skarpaste bilderna någonsin av asteroiden 44 Nysa, tagna med Large Binocular Telescope och VLT, har astronomer upptäckt två djupa dalgångar som tyder på att kroppen egentligen består av tre sammanvuxna lober. Samtidigt hittades en tidigare okänd, cirka en kilometer stor måne i omloppsbana runt den 75 kilometer breda asteroiden.",
+      "source": "Lowell Observatory",
+      "url": "https://lowell.edu/press-release-asteroid-44-nysa-may-be-the-first-known-three-lobed-world/",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "psyche-marsforbiflygning-tidsfoerloppsvideo-2026",
+      "title": "NASA släppte tidsförloppsvideo från Psyche-sondens gravitationsassisterande passage av Mars",
+      "category": "Rymdsonder",
+      "date": "2026-07-27",
+      "location": "",
+      "summary": "NASA har publicerat data och en tidsförloppsvideo från när asteroidsonden Psyche i maj passerade bara någon dryg 2 800 mil från Marsytan för att få fart och kursändring inför mötet med den metallrika asteroiden Psyche 2029. Under förbiflygningen testades sondens kameror, magnetometer och partikeldetektorer, som bland annat fångade månarna Phobos och Deimos.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260727214612.htm",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "roman-teleskopet-tankat-augustiuppskjutning-2026",
+      "title": "Nancy Grace Roman-teleskopet tankat inför uppskjutning i slutet av augusti",
+      "category": "Uppskjutning",
+      "date": "2026-07-27",
+      "location": "Kennedy Space Center, Florida, USA",
+      "summary": "NASA:s nya flaggskeppsteleskop Nancy Grace Roman Space Telescope har bränslefyllts inför den planerade uppskjutningen med en Falcon Heavy-raket den 30 augusti, nio månader tidigare än ursprungligt schema. Teleskopet ska bland annat kartlägga mörk energi och söka efter exoplaneter med ett synfält hundra gånger större än Hubbles.",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/blogs/roman/2026/07/27/nasa-fuels-roman-space-telescope-for-late-august-launch/",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "ispace-mission-3-h3-raket-2026",
+      "title": "Japanska ispace tecknar avtal om att skjuta upp sin tredje månlandare med H3-raketen",
+      "category": "Industri",
+      "date": "2026-07-28",
+      "location": "Japan",
+      "summary": "Månlandningsbolaget ispace och Mitsubishi Heavy Industries har ingått ett avtal om att skjuta upp ispace:s uppdrag Mission 3 år 2028 med den japanska H3-raketen. Det blir första gången en H3-raket skjuter upp en månlandare, och samtidigt debuterar bolagets nya, större landardesign Ultra.",
+      "source": "SpaceNews",
+      "url": "https://spacenews.com/h3-to-launch-next-ispace-lunar-lander-mission/",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "starship-flytande-fem-dagar-efter-flygning-2026",
+      "title": "SpaceX Starships övre steg hittades fortfarande flytande fem dagar efter testflygning 13",
+      "category": "Uppskjutning",
+      "date": "2026-07-29",
+      "location": "Mexikanska golfen",
+      "summary": "Efter den lyckade testflygningen av Starship den 24 juli upptäcktes att raketens övre steg fortfarande flöt kvar i Mexikanska golfen fem dagar senare, ett ovanligt syn som fångades på bild. Fyndet väckte frågor om hur kontrollerat den avslutande delen av flygningen egentligen var.",
+      "source": "Space.com",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-still-floating-5-days-after-flight-space-photo-of-the-day-for-july-29-2026",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "spacex-rymdstyrkan-kontrakt-18-uppskjutningar-2026",
+      "title": "Amerikanska rymdstyrkan tecknar kontrakt värt 1,6 miljarder dollar med SpaceX för 18 uppskjutningar",
+      "category": "Industri",
+      "date": "2026-07-29",
+      "location": "USA",
+      "summary": "US Space Force har gett SpaceX ett nytt kontrakt värt 1,6 miljarder dollar för 18 Falcon 9-uppskjutningar fram till 2027, som en del av Space Development Agencys satsning på en stor konstellation för missilvarning och militär kommunikation. Kontraktet befäster SpaceX position som den dominerande kommersiella leverantören av uppskjutningar för amerikanskt försvar.",
+      "source": "U.S. News & World Report",
+      "url": "https://www.usnews.com/news/top-news/articles/2026-07-29/spacex-gets-1-6-billion-us-space-force-order-for-18-falcon-9-launches",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
     }
   ]
 }

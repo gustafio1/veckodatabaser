@@ -2,8 +2,8 @@
   "topic": "Katolska kyrkans sociala lära",
   "description": "Den katolska kyrkans sociala lära – principerna och temana som vägleder ett rättvist samhälle. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-07-26",
-  "item_count": 75,
+  "last_updated": "2026-08-02",
+  "item_count": 81,
   "items": [
     {
       "id": "liv-och-vardighet",
@@ -904,6 +904,78 @@
       "url": "https://catholicsocialthought.georgetown.edu/",
       "added_on": "2026-07-26",
       "collected_week": "2026-W30"
+    },
+    {
+      "id": "humanae-vitae",
+      "title": "Humanae Vitae (1968)",
+      "category": "Encyklika",
+      "date": "1968-07-25",
+      "location": "",
+      "summary": "Paulus VI:s encyklika om överförandet av mänskligt liv, som försvarar äktenskapets och familjens värdighet och blivit en referenspunkt i kyrkans syn på människans värde.",
+      "source": "Vatican",
+      "url": "https://www.vatican.va/content/paul-vi/en/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "immortale-dei",
+      "title": "Immortale Dei (1885)",
+      "category": "Encyklika",
+      "date": "1885-11-01",
+      "location": "",
+      "summary": "Leo XIII:s encyklika om statens kristna författning, som beskriver relationen mellan kyrka och stat och lade en tidig grund för kyrkans sociallära.",
+      "source": "Vatican",
+      "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_01111885_immortale-dei.html",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "veritatis-splendor",
+      "title": "Veritatis Splendor (1993)",
+      "category": "Encyklika",
+      "date": "1993-08-06",
+      "location": "",
+      "summary": "Johannes Paulus II:s encyklika om moralteologins grunder, som befäster naturrättens roll och friheten ordnad mot sanningen – teman centrala även för den sociala läran.",
+      "source": "Vatican",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_06081993_veritatis-splendor.html",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "casti-connubii",
+      "title": "Casti Connubii (1930)",
+      "category": "Encyklika",
+      "date": "1930-12-31",
+      "location": "",
+      "summary": "Pius XI:s encyklika om det kristna äktenskapet, som betonar familjens värdighet som samhällets grundläggande cell inom den sociala läran.",
+      "source": "Vatican",
+      "url": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_19301231_casti-connubii.html",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "ratten-till-privat-egendom",
+      "title": "Rätten till privat egendom",
+      "category": "Princip",
+      "date": "2026-08-02",
+      "location": "",
+      "summary": "Sociala läran erkänner rätten till privat egendom som ett skydd för mänsklig frihet och initiativkraft, men den är alltid underordnad godsens universella bestämmelse och ägandets sociala funktion.",
+      "source": "Rerum Novarum / Katolska kyrkans katekes",
+      "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "rattfardigt-krig-laran",
+      "title": "Läran om det rättfärdiga kriget",
+      "category": "Princip",
+      "date": "2026-08-02",
+      "location": "",
+      "summary": "Traditionen om det rättfärdiga kriget anger strikta villkor – rätt avsikt, sista utväg, proportionalitet – för när väpnat våld undantagsvis kan vara moraliskt försvarbart, alltid underordnat fredens företräde.",
+      "source": "Katolska kyrkans katekes / Kompendiet",
+      "url": "https://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/rc_pc_justpeace_doc_20060526_compendio-dott-soc_en.html",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
     }
   ]
 }

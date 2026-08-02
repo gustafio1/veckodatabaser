@@ -2,8 +2,8 @@
   "topic": "Filosofi",
   "description": "Nya filosofiböcker, debatt, forskning, evenemang och klassiker i nytt ljus. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-07-26",
-  "item_count": 21,
+  "last_updated": "2026-08-02",
+  "item_count": 27,
   "items": [
     {
       "id": "routledge-basta-filosofibockerna-2026",
@@ -256,6 +256,78 @@
       "url": "https://dailynous.com/2026/07/13/the-demise-of-reading/",
       "added_on": "2026-07-26",
       "collected_week": "2026-W30"
+    },
+    {
+      "id": "dailynous-ai-skriven-filosofi-avvisning-2026",
+      "title": "Filosof argumenterar mot AI-skriven filosofi av epistemologiska skäl",
+      "category": "Debatt",
+      "date": "2026-07-16",
+      "location": "",
+      "summary": "En artikel på Daily Nous hävdar att det finns en meta-epistemologisk grund för att avvisa AI-genererad filosofi, oavsett hur välformulerad texten är.",
+      "source": "Daily Nous",
+      "url": "https://dailynous.com/2026/07/16/a-meta-epistemological-reason-for-rejecting-ai-written-philosophy/",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "medvetandestudier-bibliografi-esen-2026",
+      "title": "Filosofidoktorand bygger omfattande bibliografi över medvetandeforskning",
+      "category": "Forskning",
+      "date": "2026-07-27",
+      "location": "",
+      "summary": "Doktoranden Melinda Gülsüm Esen har sammanställt en digital bibliografi med över 1 300 poster fördelade på nio teman och 63 underämnen inom medvetandefilosofi.",
+      "source": "Daily Nous",
+      "url": "https://dailynous.com/2026/07/27/online-philosophy-resources-monthly-update-11/",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "ted-chiang-ai-inte-medveten-2026",
+      "title": "Ted Chiang: därför är dagens AI inte medveten",
+      "category": "Debatt",
+      "date": "2026-07-30",
+      "location": "",
+      "summary": "Författaren Ted Chiang argumenterar mot föreställningen att dagens AI-system besitter medvetande, ett inlägg som lyfts i filosofidebatten om maskiners inre liv.",
+      "source": "Daily Nous",
+      "url": "https://dailynous.com/2026/07/30/mini-heap-722/",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "rothman-flygpassagerares-etik-2026",
+      "title": "Joshua Rothman skriver om flygpassagerares vardagsetik",
+      "category": "Debatt",
+      "date": "2026-07-30",
+      "location": "",
+      "summary": "I The New Yorker utforskar Joshua Rothman de små moraliska avvägningarna ombord på flygplan – armstöd, säten och hänsyn – som ett vardagsnära ingångsämne till etisk filosofi.",
+      "source": "The New Yorker / Daily Nous",
+      "url": "https://dailynous.com/2026/07/30/mini-heap-722/",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "wedgwood-imperfect-antithesis-bok-2026",
+      "title": "Ny bok belyser filosofen Julia Wedgwoods tänkande",
+      "category": "Bok",
+      "date": "2026-07-27",
+      "location": "",
+      "summary": "Alison Stones \"The Philosophy of Julia Wedgwood: Imperfect Antithesis\" lyfter fram en förbisedd viktoriansk tänkare och hennes bidrag till etik och religionsfilosofi.",
+      "source": "Open Book Publishers / Daily Nous",
+      "url": "https://dailynous.com/2026/07/27/online-philosophy-resources-monthly-update-11/",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "philosophy-camp-oakland-2026",
+      "title": "Philosophy Camp 2026 samlar unga filosofer kring temat \"Fakta och fiktion\"",
+      "category": "Evenemang",
+      "date": "2026-07-13",
+      "location": "Rochester, Michigan, USA",
+      "summary": "Oakland University arrangerade sin årliga Philosophy Camp för gymnasieungdomar 13–17 juli, med temat \"Fact and Fiction\" i fokus för veckans diskussioner och övningar.",
+      "source": "Daily Nous",
+      "url": "https://dailynous.com/2026/07/27/online-philosophy-resources-monthly-update-11/",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
     }
   ]
 }

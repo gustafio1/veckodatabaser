@@ -2,8 +2,8 @@
   "topic": "Schack",
   "description": "Stora turneringar, elitspelare, onlineschack, svenskt schack och talanger. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-07-26",
-  "item_count": 14,
+  "last_updated": "2026-08-02",
+  "item_count": 20,
   "items": [
     {
       "id": "sindarov-vinner-kandidatturneringen-2026",
@@ -172,6 +172,78 @@
       "url": "https://www.chess.com/news/view/aronian-wins-biel-masters-2026",
       "added_on": "2026-07-26",
       "collected_week": "2026-W30"
+    },
+    {
+      "id": "usa-vinner-wr-chess-miami-2026",
+      "title": "USA vann premiären av WR Chess Rapid & Blitz i Miami",
+      "category": "Turnering",
+      "date": "2026-07-28",
+      "location": "Miami, USA",
+      "summary": "USA slog Uzbekistan med 14-10 i den nya lagmatchen WR Chess Rapid & Blitz, trots starka insatser av uzbekerna Abdusattorov och Sindarov. Amerikanernas jämnare lagprestation avgjorde efter tolv ronder rapid och blixt.",
+      "source": "Chess.com",
+      "url": "https://www.chess.com/news/view/usa-wins-2026-wr-chess-rapid-blitz-miami",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "saint-louis-rapid-blitz-inleds-2026",
+      "title": "Saint Louis Rapid & Blitz inleder avgörande skede av Grand Chess Tour",
+      "category": "Turnering",
+      "date": "2026-08-02",
+      "location": "Saint Louis, USA",
+      "summary": "Turens fjärde deltävling samlar tio stormästare, bland dem tourledaren Fabiano Caruana, utmanaren Javokhir Sindarov och Praggnanandhaa, tillsammans med wildcardspelarna Aronian, Dominguez och Awonder Liang om 200 000 dollar i prispengar.",
+      "source": "ChessBase",
+      "url": "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2026-preview",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "firouzja-titled-tuesday-28-juli-2026",
+      "title": "Firouzja vann Titled Tuesday med sju raka segrar",
+      "category": "Onlineschack",
+      "date": "2026-07-28",
+      "location": "",
+      "summary": "Alireza Firouzja tog sin första Titled Tuesday-seger för året med 9,5 av 11 poäng efter en svit på sju raka vinster, och slutade före Arjun Erigaisi på tiebreak. Enda förlusten kom mot en litauisk internationell mästare i tredje ronden.",
+      "source": "Chess.com",
+      "url": "https://www.chess.com/news/view/firouzja-wins-titled-tuesday-july-28-2026",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "geneve-vm-gukesh-sindarov-2026",
+      "title": "Genève blir värdstad för VM-matchen mellan Gukesh och Sindarov",
+      "category": "Nyhet",
+      "date": "2026-07-28",
+      "location": "Genève, Schweiz",
+      "summary": "FIDE meddelade att världsmästarmatchen mellan regerande mästaren Gukesh och utmanaren Sindarov spelas i Genève 25 november-15 december, den yngsta VM-duellen någonsin med två 20-åringar. Det är första gången sedan 2004 som en VM-match hålls i Schweiz.",
+      "source": "ChessBase",
+      "url": "https://en.chessbase.com/post/geneva-to-host-fide-world-championship-match-2026",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "uppsala-schackfestival-2026",
+      "title": "Uppsala Schackfestival drar igång med sju turneringar",
+      "category": "Turnering",
+      "date": "2026-08-07",
+      "location": "Uppsala",
+      "summary": "Uppsala Schackcentrum arrangerar en tio dagar lång festival 7-16 augusti med sju olika tävlingar för allt från nybörjare och unga talanger till rutinerade spelare.",
+      "source": "Uppsala Chess Festival",
+      "url": "https://www.uppsalachessfestival.se/",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "kadettallsvenskan-final-stockholm-2026",
+      "title": "Kadettallsvenskans final avgörs i Stockholm",
+      "category": "Talang",
+      "date": "2026-08-07",
+      "location": "Stockholm",
+      "summary": "De bästa ungdomsspelarna som kvalificerat sig via regionala uttagningar möts i finalen av Kadettallsvenskan på Stockholms Schacksalonger 7-9 augusti, en av landets viktigaste tävlingar för unga talanger.",
+      "source": "Stockholms Schackförbund",
+      "url": "https://www.stockholmsschack.se/kalender/",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
     }
   ]
 }

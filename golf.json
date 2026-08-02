@@ -2,8 +2,8 @@
   "topic": "Golf",
   "description": "Majors och tourtävlingar, svenska golfare, tävlingar och utrustning. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-07-26",
-  "item_count": 14,
+  "last_updated": "2026-08-02",
+  "item_count": 20,
   "items": [
     {
       "id": "ryan-fox-vinner-the-open-royal-birkdale-2026",
@@ -172,6 +172,78 @@
       "url": "https://www.svenskgolf.se/utrustning/taylormade-uppdaterar-populara-tourputters/",
       "added_on": "2026-07-26",
       "collected_week": "2026-W30"
+    },
+    {
+      "id": "shiho-kuwaki-vinner-aig-womens-open-2026",
+      "title": "Shiho Kuwaki vann AIG Women's Open efter dramatisk playoff",
+      "category": "Tävling",
+      "date": "2026-08-02",
+      "location": "Royal Lytham & St Annes, England",
+      "summary": "Japanska Shiho Kuwaki besegrade tyska Esther Henseleit på andra hålet i sudden death och tog sin första major-titel. Henseleit hade tvingat fram omspel med en 40-fots birdieputt på 18:e men slog snett i playoffen och gjorde bogey.",
+      "source": "Sky Sports",
+      "url": "https://www.skysports.com/golf/news/12176/13569167/aig-womens-open-shiho-kuwaki-snatches-play-off-win-over-esther-henseleit-after-remarkable-finish-at-royal-lytham",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "linn-grant-basta-svenska-womens-open-2026",
+      "title": "Linn Grant bäst av svenskorna i årets sista major",
+      "category": "Nyhet",
+      "date": "2026-07-31",
+      "location": "Royal Lytham & St Annes, England",
+      "summary": "Linn Grant gick jämnt med par och låg bäst till bland de fyra svenska spelarna efter två rundor i AIG Women's Open. Maja Stark, Kajsa Arwefjäll och Anna Nordqvist hamnade alla längre ner på leaderboarden efter en tuff start på Royal Lytham.",
+      "source": "Svensk Golf",
+      "url": "https://www.svenskgolf.se/tournytt/grant-bast-av-svenskorna-i-womens-open/",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "arwefjall-klattring-womens-open-2026",
+      "title": "Arwefjäll klättrade 33 placeringar med bogeyfri runda",
+      "category": "Nyhet",
+      "date": "2026-08-01",
+      "location": "Royal Lytham & St Annes, England",
+      "summary": "Kajsa Arwefjäll spelade en helt bogeyfri runda i AIG Women's Open och klättrade hela 33 placeringar på leaderboarden. Insatsen gjorde henne till en av veckans stora svenska ljuspunkter på damsidan.",
+      "source": "Golf Post",
+      "url": "https://www.golfpost.com/bogey-free-arwefjaell-surges-into-aig-womens-open-contention-888228755/",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "wyndham-championship-sista-chansen-fedex-cup-2026",
+      "title": "Wyndham Championship avgör sista platserna till FedEx Cup-slutspelet",
+      "category": "Tävling",
+      "date": "2026-08-06",
+      "location": "Greensboro, North Carolina, USA",
+      "summary": "Säsongens sista reguljära PGA Tour-event spelas på Sedgefield Country Club 6–9 augusti, där endast de 70 bästa i FedEx Cup-ställningen går vidare till slutspelet. Stjärnor som Cameron Young, Aaron Rai och Justin Thomas finns i fältet när det avgörs vilka som får fortsätta säsongen.",
+      "source": "Golf Monthly",
+      "url": "https://www.golfmonthly.com/news/wyndham-championship-field-fedex-cup-playoffs",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "liv-golf-new-york-bedminster-2026",
+      "title": "LIV Golf återvänder till Bedminster för New York-tävlingen",
+      "category": "Tävling",
+      "date": "2026-08-06",
+      "location": "Bedminster, New Jersey, USA",
+      "summary": "LIV Golf gör nytt stopp på Trump National Golf Club Bedminster 6–9 augusti, ett av ligans mer uppmärksammade amerikanska stopp. Tävlingen spelas kort innan lagens slutspel i Michigan senare i augusti.",
+      "source": "LIV Golf",
+      "url": "https://www.livgolf.com/schedule/new-york-2026",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "fedex-cup-slutspel-schema-2026",
+      "title": "FedEx Cup-slutspelet drar igång med rekordstor prispott i Memphis",
+      "category": "Nyhet",
+      "date": "2026-08-13",
+      "location": "Memphis, Tennessee, USA",
+      "summary": "FedEx St. Jude Championship inleder tre veckors slutspel på PGA Tour med 20 miljoner dollar i prispengar, där de topp 70 i FedEx Cup-ställningen är på plats i Memphis. Slutspelet fortsätter med BMW Championship och avslutas med Tour Championship i slutet av augusti.",
+      "source": "FedEx St. Jude Championship",
+      "url": "https://www.fedexchampionship.com/",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
     }
   ]
 }

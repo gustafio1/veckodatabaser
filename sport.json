@@ -2,8 +2,8 @@
   "topic": "Sport – Fotboll, Tennis & Bordtennis",
   "description": "Nyheter inom fotboll, tennis och bordtennis med svenskt fokus. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-07-26",
-  "item_count": 59,
+  "last_updated": "2026-08-02",
+  "item_count": 64,
   "items": [
     {
       "id": "allsvenskan-sommaruppehall-2026",
@@ -712,6 +712,66 @@
       "url": "https://sbtf.se/start/svenskarna-till-pallen-efter-stark-kvartsfinalvandning/",
       "added_on": "2026-07-26",
       "collected_week": "2026-W30"
+    },
+    {
+      "id": "allsvenskan-omgang-15-sirius-2026",
+      "title": "Tät toppstrid inför omgång 15 i Allsvenskan",
+      "category": "Resultat",
+      "date": "2026-08-01",
+      "location": "Sverige",
+      "summary": "IK Sirius gick in i den nya omgången som serieledare efter en stark sommar, med matcher som AIK–Örgryte, Djurgården–Västerås SK och Halmstad–Sirius på schemat första helgen i augusti.",
+      "source": "Fotmob",
+      "url": "https://www.fotmob.com/leagues/67/fixtures/allsvenskan",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "gyokeres-arsenal-skyttekung-forsasong-2026",
+      "title": "Gyökeres klubbens bästa målskytt efter debutåret på Arsenal",
+      "category": "Nyhet",
+      "date": "2026-08-01",
+      "location": "London/Dublin",
+      "summary": "Viktor Gyökeres avslutade sin första säsong i Arsenal som lagets skyttekung och förbereder sig nu för den nya säsongen, bland annat i en träningsmatch mot Real Betis i Dublin den 5 augusti.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401867142/real-betis-arsenal",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "damallsvenskan-hammarby-formstark-2026",
+      "title": "Hammarby i strålande skytteform i Damallsvenskan",
+      "category": "Resultat",
+      "date": "2026-07-31",
+      "location": "Stockholm",
+      "summary": "Hammarby vann stort både mot IFK Norrköping (4-0) och Växjö DFF (5-0) under den senaste veckan, medan Vittsjö GIK stod för en överraskning genom att slå Malmö FF med 1-0.",
+      "source": "Flashscore",
+      "url": "https://www.flashscore.se/fotboll/sverige/obos-damallsvenskan/resultat/",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "national-bank-open-start-2026",
+      "title": "Canadian Open drog igång i Toronto och Montreal",
+      "category": "Tävling",
+      "date": "2026-08-01",
+      "location": "Toronto och Montreal, Kanada",
+      "summary": "Tennisårets stora dubbelevenemang i Nordamerika, National Bank Open, inledde spelet den 1 augusti med damernas WTA 1000-turnering i Toronto och herrarnas ATP Masters 1000 i Montreal.",
+      "source": "WTA Tour",
+      "url": "https://www.wtatennis.com/tournaments/canadian-open",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "bordtennis-wtt-champions-yokohama-forhandsvisning-2026",
+      "title": "Möregårdh reser till WTT Champions Yokohama",
+      "category": "Tävling",
+      "date": "2026-08-02",
+      "location": "Yokohama, Japan",
+      "summary": "Truls Möregårdh är på plats när WTT Champions Yokohama spelas 5–9 augusti, en turnering som blir ett tidigt kvitto på formen efter en händelserik bordtennissommar.",
+      "source": "SVT Sport",
+      "url": "https://www.svt.se/sport/bordtennis/bordtennisens-varldstour-wtt-2026-tv-tider-och-spelprogram",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
     }
   ]
 }

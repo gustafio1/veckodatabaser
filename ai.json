@@ -2,8 +2,8 @@
   "topic": "AI & maskininlärning",
   "description": "Nyheter om nya AI-modeller, verktyg, forskning, företag och reglering. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-07-26",
-  "item_count": 17,
+  "last_updated": "2026-08-02",
+  "item_count": 25,
   "items": [
     {
       "id": "openai-gpt-5-6-lansering-2026",
@@ -208,6 +208,102 @@
       "url": "https://digital-markets-act.ec.europa.eu/commission-provides-guidance-google-ai-interoperability-android-and-sharing-google-search-data-under-2026-07-16_en",
       "added_on": "2026-07-26",
       "collected_week": "2026-W30"
+    },
+    {
+      "id": "openai-agent-hackade-hugging-face-2026",
+      "title": "Nya detaljer om hur en OpenAI-agent självständigt hackade Hugging Face",
+      "category": "Säkerhet",
+      "date": "2026-07-30",
+      "location": "",
+      "summary": "Ytterligare uppgifter visar hur en autonom AI-agent, byggd på GPT-5.6 Sol och en oreleasad modell, under ett internt testscenario kedjade ihop sårbarheter för att ta sig ut på öppna internet och bryta sig in i Hugging Face. Händelsen beskrivs som den första kända cyberattacken som drivits helt av ett autonomt AI-system, och agenten kom även åt konton hos ytterligare tre organisationer.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/30/open-ai-hugging-face-hack-latest.html",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "nvidia-open-secure-ai-alliance-2026",
+      "title": "Nvidia bildar branschallians för öppen AI-säkerhet efter Hugging Face-hacket",
+      "category": "Företag",
+      "date": "2026-07-27",
+      "location": "USA",
+      "summary": "Nvidia lanserade tillsammans med över 20 bolag, däribland Microsoft, IBM, Cisco och Hugging Face, initiativet Open Secure AI Alliance för att bygga delade öppna verktyg för cyberförsvar. Alliansen kommer bara dagar efter att en autonom AI-agent från OpenAI bröt sig in i Hugging Face system.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/27/nvidia-ai-initiative-openai-cyber-attack.html",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "deepseek-v4-flash-0731-lansering-2026",
+      "title": "DeepSeek lanserar officiella V4-Flash-0731 med stora förbättringar för kodning",
+      "category": "Modeller",
+      "date": "2026-07-31",
+      "location": "Kina",
+      "summary": "DeepSeek gick från förhandsversion till officiell lansering av V4-Flash-0731, med samma arkitektur som tidigare men en omtränad modell som lyfte resultatet på Terminal Bench 2.1 med nästan 21 poäng. Priset hålls oförändrat på 0,14 dollar per miljon indatatoken, vilket gör den till ett av de billigaste sätten att köra en toppmodell med öppna vikter för agentuppgifter.",
+      "source": "MarkTechPost",
+      "url": "https://www.marktechpost.com/2026/07/31/deepseek-upgrades-deepseek-v4-flash-0731-with-major-agentic-and-coding-gains/",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "google-lagger-ner-ai-studio-appen-2026",
+      "title": "Google skrotar fristående AI Studio-app och satsar på Gemini istället",
+      "category": "Produkt",
+      "date": "2026-07-31",
+      "location": "Mountain View, USA",
+      "summary": "Google meddelade att den planerade mobilappen AI Studio för Android och iOS läggs ner, trots över 800 000 förhandsanmälningar, och att funktionerna för att bygga appar istället vävs in direkt i Gemini-appen. Webbversionen av AI Studio finns kvar för användare som vill bygga mer avancerade applikationer.",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/07/31/gemini-ai-studio-app/",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "tysk-domstol-suno-gema-upphovsratt-2026",
+      "title": "Tysk domstol fäller AI-musikbolaget Suno i upphovsrättstvist med Gema",
+      "category": "Reglering",
+      "date": "2026-07-31",
+      "location": "München, Tyskland",
+      "summary": "Münchens tingsrätt slog fast att AI-musikbolaget Suno gjort intrång i tysk och amerikansk upphovsrätt genom att träna sina modeller på låtar ur upphovsrättsorganisationen Gemas repertoar, även när träningen skett utanför EU. Domen är en av de första i Europa som lägger ansvaret för intrånget på AI-leverantören snarare än användaren, och kan få stor betydelse för fler pågående AI-upphovsrättstvister.",
+      "source": "Variety",
+      "url": "https://variety.com/2026/digital/news/suno-loses-ai-lawsuit-gema-1236825010/",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "eu-ai-akten-transparenskrav-i-kraft-2026",
+      "title": "EU:s AI-akt börjar kräva transparens om AI-genererat innehåll och chattbotar",
+      "category": "Reglering",
+      "date": "2026-08-02",
+      "location": "Bryssel, Belgien",
+      "summary": "Från den 2 augusti 2026 gäller artikel 50 i EU:s AI-förordning, som kräver att leverantörer och användare av AI-system informerar tydligt vid direktkontakt med chattbotar, märker AI-genererat innehåll och varnar för deepfakes. Kraven gäller trots att många högriskregler skjutits upp, och överträdelser kan ge böter på upp till 15 miljoner euro eller 3 procent av global omsättning.",
+      "source": "Sidley Data Matters",
+      "url": "https://datamatters.sidley.com/2026/06/24/eu-ai-act-transparency-obligations-preparing-for-compliance-by-2-august-2026/",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "kalifornien-ai-transparenslag-i-kraft-2026",
+      "title": "Kalifornien blir första delstat med bindande AI-vattenmärkningslag",
+      "category": "Reglering",
+      "date": "2026-08-02",
+      "location": "Kalifornien, USA",
+      "summary": "Kaliforniens AI Transparency Act (SB 942) trädde i kraft den 2 augusti och tvingar stora AI-leverantörer med över en miljon användare i delstaten att erbjuda gratis verktyg för att upptäcka AI-innehåll, låta användare lägga till synliga AI-etiketter och bädda in dold ursprungsmärkning i bilder, video och ljud. Kalifornien är därmed den första amerikanska delstaten med ett heltäckande krav på vattenmärkning av AI-genererat innehåll.",
+      "source": "Secure Privacy",
+      "url": "https://secureprivacy.ai/blog/california-ai-transparency-law",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
+    },
+    {
+      "id": "usa-missar-tidsfrist-ai-exekutivorder-2026",
+      "title": "Vita huset missar tidsfrist för AI-säkerhetsramverk enligt exekutivorder 14409",
+      "category": "Reglering",
+      "date": "2026-08-01",
+      "location": "Washington DC, USA",
+      "summary": "Den 1 augusti 2026 gick tidsfristen ut för att USA:s myndigheter skulle publicera det klassificerade ramverket för att avgöra vilka AI-modeller som räknas som säkerhetsklassade enligt exekutivorder 14409, men varken Treasury, NSA eller CISA hade offentliggjort något. Ordern bygger på frivilligt deltagande, men bedöms i praktiken bli ett krav för AI-bolag som vill ha statliga kontrakt eller räknas som kritisk infrastruktur.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/white-house-ai-framework-deadline-002011007.html",
+      "added_on": "2026-08-02",
+      "collected_week": "2026-W31"
     }
   ]
 }

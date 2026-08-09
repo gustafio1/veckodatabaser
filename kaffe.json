@@ -2,8 +2,8 @@
   "topic": "Kaffe",
   "description": "Forskning om kaffe och hälsa, bryggning, koffein, smak och odling. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-02",
-  "item_count": 20,
+  "last_updated": "2026-08-09",
+  "item_count": 26,
   "items": [
     {
       "id": "kaffe-timing-mortalitet-ckm-2026",
@@ -244,6 +244,78 @@
       "url": "https://bioengineer.org/genomic-advances-boost-climate-resilient-coffee-breeding/",
       "added_on": "2026-08-02",
       "collected_week": "2026-W31"
+    },
+    {
+      "id": "kaffe-tas2r43-bitterreceptor-struktur-2026",
+      "title": "Forskare kartlägger receptorn som gör kaffe bittert",
+      "category": "Smak",
+      "date": "2026-04-20",
+      "location": "",
+      "summary": "Forskare vid University of North Carolina har med kryo-elektronmikroskopi löst strukturen hos bitterreceptorn TAS2R43, som känner igen koffein, mozambiosid och andra bittra ämnen i rostat kaffe. Fyndet ger en molekylär karta som kan förklara varför kaffe smakar bittert och öppna för nya sätt att styra smak och läkemedelsutveckling.",
+      "source": "Nature Structural & Molecular Biology",
+      "url": "https://www.nature.com/articles/s41594-026-01776-w",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "kaffe-australien-forskningsprogram-2026",
+      "title": "Australien satsar fyra miljoner dollar på ny kaffeforskning",
+      "category": "Odling",
+      "date": "2026-07-29",
+      "location": "",
+      "summary": "AgriFutures Australia och Southern Cross University har tillsammans med flera partner lanserat ett femårigt nationellt forskningsprogram värt fyra miljoner dollar för att stärka australisk kaffeodling. Satsningen ska förbättra skördeutbyte, testa nya sorter och stärka beredskapen mot skadegörare och sjukdomar.",
+      "source": "BeanScene",
+      "url": "https://www.beanscenemag.com.au/new-multi-million-dollar-australian-coffee-research-program-launched",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "kaffe-koffein-basket-prestation-metaanalys-2026",
+      "title": "Ny analys: koffein kan ge basketspelare bättre prestation",
+      "category": "Koffein",
+      "date": "2026-05-07",
+      "location": "",
+      "summary": "En systematisk genomgång och metaanalys av arton studier i Frontiers in Nutrition visar att koffeinintag kan förbättra både allmän fysisk prestation och vissa basketspecifika färdigheter hos spelare, även om effekten varierar mellan olika typer av moment i spelet.",
+      "source": "Frontiers in Nutrition",
+      "url": "https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2026.1837912/full",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "kaffe-koffein-minne-sompbrist-nus-2026",
+      "title": "Koffein kan reparera minnet efter sömnbrist, visar musförsök",
+      "category": "Koffein",
+      "date": "2026-02-10",
+      "location": "",
+      "summary": "Forskare vid National University of Singapore visar i Neuropsychopharmacology att koffein som ges innan sömnbrist kan återställa den synaptiska aktiviteten i hjärnans CA2-region och därmed motverka den försämring av det sociala minnet som sömnbrist annars orsakar hos möss.",
+      "source": "ScienceDaily / Neuropsychopharmacology",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260529043654.htm",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "kaffe-koffaldehyder-alfa-glukosidas-diabetes-2026",
+      "title": "Nyupptäckta kaffeämnen slog ut diabetesläkemedel i labbtest",
+      "category": "Hälsa",
+      "date": "2026-01-10",
+      "location": "",
+      "summary": "Forskare vid Kunming Institute of Botany i Kina har hittat tre tidigare okända föreningar i rostade kaffebönor, kallade koffaldehyder, som i labbtester blockerade det blodsockerhöjande enzymet alfa-glukosidas kraftigare än läkemedlet akarbos. Fyndet är preliminärt men kan på sikt inspirera nya funktionella livsmedel eller läkemedel mot typ 2-diabetes.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/01/260110211224.htm",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "kaffe-world-coffee-research-genotypning-robusta-2026",
+      "title": "Ny satsning ska modernisera kaffeförädlingen med genetiska verktyg",
+      "category": "Odling",
+      "date": "2026-06-05",
+      "location": "",
+      "summary": "World Coffee Research inleder ett projekt på 1,5 miljoner dollar för att modernisera kaffeförädling med högprecisionsverktyg, bland annat en genotypningsplattform för robusta (Coffea canephora) baserad på 3 500 genetiska markörer. Målet är att korta ner den traditionella förädlingstiden och snabbare ta fram sorter som tål sjukdomar och klimatförändringar.",
+      "source": "World Coffee Research",
+      "url": "https://worldcoffeeresearch.org/news/world-coffee-research-launches-1-5-million-initiative-to-modernize-breeding-tools-for-global-coffee-resilience",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
     }
   ]
 }

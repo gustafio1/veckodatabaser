@@ -2,8 +2,8 @@
   "topic": "Produktivitet",
   "description": "Produktivitetsmetoder, verktyg, forskning om fokus, arbetsliv och AI. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-02",
-  "item_count": 21,
+  "last_updated": "2026-08-09",
+  "item_count": 26,
   "items": [
     {
       "id": "fyradagarsvecka-bevisen-vaxer-2026",
@@ -256,6 +256,66 @@
       "url": "https://www.microsoft.com/en-us/worklab/work-trend-index/breaking-down-infinite-workday",
       "added_on": "2026-08-02",
       "collected_week": "2026-W31"
+    },
+    {
+      "id": "fokuseffektivitet-trearslagsta-2026",
+      "title": "Fokuseffektiviteten på jobbet föll till en tre-årslägsta 2026",
+      "category": "Forskning",
+      "date": "2026-07-15",
+      "location": "",
+      "summary": "Analys av 443 miljoner arbetstimmar visar att andelen tid i fokuserat, ostört arbete sjönk till 60 procent – en tre-årslägsta – samtidigt som AI-användningen på jobbet har ökat kraftigt.",
+      "source": "ActivTrak Productivity Lab",
+      "url": "https://hrexecutive.com/focus-time-hit-a-three-year-low-the-hidden-costs-of-your-workplace-ai-rollout/",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "helgarbete-okar-40-procent-ai-eran",
+      "title": "Helgarbete har ökat med över 40 procent i AI-eran",
+      "category": "Forskning",
+      "date": "2026-07-15",
+      "location": "",
+      "summary": "Samma stora arbetslivsstudie visar att samarbetet mellan anställda ökat med 34 procent och multitaskingen med 12 procent – tecken på att AI snarare intensifierar arbetet än avlastar det.",
+      "source": "ActivTrak Productivity Lab",
+      "url": "https://www.activtrak.com/blog/2026-state-of-the-workplace/",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "distansarbete-fyra-av-tio-tackar-nej",
+      "title": "Fyra av tio skulle tacka nej till jobb utan möjlighet till distansarbete",
+      "category": "Forskning",
+      "date": "2026-05-20",
+      "location": "",
+      "summary": "Ny sammanställning av svensk forskning visar att självvalt distansarbete ofta höjer produktiviteten, men att friheten att själv välja arbetsplats är minst lika viktig som att faktiskt jobba hemifrån.",
+      "source": "Tidningen Näringslivet",
+      "url": "https://www.tn.se/arbetsmarknad/46343/fyra-av-tio-kraver-mojlighet-att-jobba-pa-distans-inte-alltid-produktiva/",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "farre-moten-71-procent-hogre-produktivitet",
+      "title": "40 procent färre möten gav 71 procent högre produktivitet i studie",
+      "category": "Forskning",
+      "date": "2026-02-10",
+      "location": "",
+      "summary": "En studie som återges i Harvard Business Review visar att när företag skar ner mötestiden med 40 procent ökade de anställdas produktivitet med hela 71 procent.",
+      "source": "Harvard Business Review",
+      "url": "https://www.meetingtoll.com/guides/meeting-costs/meeting-waste-statistics-2026",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "schemalagd-mejlkoll-halverar-avbrott-uci",
+      "title": "Schemalagd e-postkoll halverar antalet avbrott, visar UC Irvine-forskning",
+      "category": "Forskning",
+      "date": "2026-04-05",
+      "location": "",
+      "summary": "Forskare vid UC Irvine finner att den som byter från att reagera på notiser till att kolla mejl vid bestämda tider under dagen får 50 procent färre avbrott i arbetet och rapporterar högre produktivitet.",
+      "source": "UC Irvine",
+      "url": "https://get-alfred.ai/blog/email-overload-statistics-2026",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
     }
   ]
 }

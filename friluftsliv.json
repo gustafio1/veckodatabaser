@@ -2,8 +2,8 @@
   "topic": "Friluftsliv",
   "description": "Vandringsleder, friluftsutrustning, naturvård, allemansrätt och äventyr. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-02",
-  "item_count": 22,
+  "last_updated": "2026-08-09",
+  "item_count": 29,
   "items": [
     {
       "id": "pusselleden-invigd-sigtuna-2026",
@@ -268,6 +268,90 @@
       "url": "https://www.lansstyrelsen.se/gavleborg/om-oss/nyheter-och-press/nyheter/nyheter---gavleborg/2026-05-06-forslag-till-nytt-naturreservat-vid-hilleviks--och-trodjefjarden.html",
       "added_on": "2026-08-02",
       "collected_week": "2026-W31"
+    },
+    {
+      "id": "naturreservat-siggeryd-odeshog-invigt",
+      "title": "Nytt naturreservat vid Siggeryd invigt utanför Ödeshög",
+      "category": "Naturreservat",
+      "date": "2026-08-07",
+      "location": "Ödeshög, Östergötland",
+      "summary": "Länsstyrelsen Östergötland invigde naturreservatet Siggeryd söder om Ödeshög, en mindre gård med betesmarker, ängar och skogsbete som den tidigare markägaren vårdat sedan 1980-talet. De nya ägarna ska fortsätta bevara de biologiska och kulturhistoriska värdena.",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/ost/invigning-av-nytt-naturreservat-utanfor-odeshog",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "smhi-extrem-skogsbrandsrisk-augusti",
+      "title": "SMHI varnar för extremt stor skogsbrandsrisk i flera län",
+      "category": "Väder och säkerhet",
+      "date": "2026-08-07",
+      "location": "Bland annat Kalmar län",
+      "summary": "SMHI utfärdade under torsdagen mycket stor till extremt stor risk för skogsbrand i flera delar av landet efter en period av torka och värme. Räddningstjänsten avrådde bestämt från eldning och grillning i naturen, vilket påverkar friluftslivet under sensommaren.",
+      "source": "Corren / SMHI",
+      "url": "https://www.corren.se/nyheter/ostergotland/artikel/smhi-mycket-eller-extremt-stor-risk-for-skogsbrander-i-lanet/lzd548qr",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "fjallraven-classic-2026-start",
+      "title": "Fjällräven Classic 2026 drog igång i Nikkaluokta",
+      "category": "Äventyr och evenemang",
+      "date": "2026-08-06",
+      "location": "Nikkaluokta, Kiruna",
+      "summary": "Den 110 kilometer långa vandringsfestivalen Fjällräven Classic startade den 6 augusti och pågår till den 15 augusti, med incheckning i Kiruna och start i Nikkaluokta. Tusentals deltagare vandrar sträckan mot Abisko under en vecka som kombinerar fjällvandring med folkfest.",
+      "source": "Fjällräven Experience",
+      "url": "https://experience.fjallraven.com/classic",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "hoga-kusten-hike-2026-genomford",
+      "title": "Höga Kusten Hike lockade hundratals vandrare genom världsarvet",
+      "category": "Äventyr och evenemang",
+      "date": "2026-08-08",
+      "location": "Höga Kusten",
+      "summary": "Vandringsäventyret Höga Kusten Hike genomfördes 6–8 augusti med hundratals deltagare som vandrade genom kustberg, djup skog och öppna stränder i världsarvet. Deltagarna kunde välja mellan flera etapplängder, med guider och gemensamma aktiviteter längs vägen.",
+      "source": "Höga Kusten Hike",
+      "url": "https://hogakustenhike.se/",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "fjallraddningar-kungsleden-kebnekaise-augusti",
+      "title": "Flera fjällräddningar på Kungsleden och Kebnekaise under första augustiveckan",
+      "category": "Säkerhet i fjällen",
+      "date": "2026-08-04",
+      "location": "Kebnekaise och Kungsleden, Norrbotten",
+      "summary": "Under första veckan i augusti fick fjällräddningen rycka ut flera gånger i norra fjällkedjan, bland annat till en man som fallit i ett vattendrag vid Áhkká i Stora Sjöfallets nationalpark och till vandrare som skadat fot och knä nära Kebnekaise fjällstation. Flera av de skadade evakuerades med helikopter.",
+      "source": "NSD / SVT Nyheter",
+      "url": "https://www.nsd.se/nyheter/norrbotten/artikel/skadade-vandrare-raddas-pa-kebnekaise-i-natt/rmwgwg8l",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "vandringsskor-basttest-2026-merrell",
+      "title": "Merrell Moab Speed 2 vann test av vandringsskor 2026",
+      "category": "Utrustningstest",
+      "date": "2026-08-05",
+      "location": "",
+      "summary": "I 2026 års jämförelse av vattentåliga vandringsskor för dam och herr korades Merrell Moab Speed 2 Gtx till bäst i test för sin låga vikt och goda grepp, före Haglöfs L.I.M Horizon Hike GTX Low och Lundhags Tived Trail Shoe. Testet vägde in pris, vikt, hållbarhet och vattentäthet.",
+      "source": "OutdoorExperten",
+      "url": "https://www.outdoorexperten.se/sv/magasinet/vandringsskor-dam-bast-i-test",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "vindskydd-brand-vasteras-augusti",
+      "title": "Vindskydd förstört i brand norr om Västerås under eldningsförbud",
+      "category": "Säkerhet i naturen",
+      "date": "2026-08-07",
+      "location": "Norr om Västerås",
+      "summary": "Ett vindskydd vid en grillplats norr om Västerås brann ner på fredagskvällen, mitt under en period med hög brandrisk och skärpta eldningsrestriktioner i regionen. Händelsen påminner om vikten av att följa lokala eldningsförbud vid besök i naturen.",
+      "source": "VLT",
+      "url": "https://www.vlt.se/nyheter/larm-om-brand-i-byggnad",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
     }
   ]
 }

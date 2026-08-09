@@ -2,8 +2,8 @@
   "topic": "Golf",
   "description": "Majors och tourtävlingar, svenska golfare, tävlingar och utrustning. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-02",
-  "item_count": 20,
+  "last_updated": "2026-08-09",
+  "item_count": 27,
   "items": [
     {
       "id": "ryan-fox-vinner-the-open-royal-birkdale-2026",
@@ -244,6 +244,90 @@
       "url": "https://www.fedexchampionship.com/",
       "added_on": "2026-08-02",
       "collected_week": "2026-W31"
+    },
+    {
+      "id": "cameron-young-vinner-wyndham-championship-2026",
+      "title": "Cameron Young vann säsongsavslutande Wyndham Championship",
+      "category": "PGA Tour",
+      "date": "2026-08-09",
+      "location": "Greensboro, USA",
+      "summary": "Cameron Young avgjorde på Sedgefield Country Club med en avslutande 67:a och vann på 22 under par totalt, i den sista tävlingen innan FedEx Cup-slutspelets 70-mannafält fastställdes.",
+      "source": "PGA Tour",
+      "url": "https://www.pgatour.com/tournaments/2026/wyndham-championship/R2026013/overview",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "alex-noren-toppstrid-wyndham-2026",
+      "title": "Alex Norén i toppstrid på Wyndham Championship",
+      "category": "Svensk golf",
+      "date": "2026-08-08",
+      "location": "Greensboro, USA",
+      "summary": "Alex Norén klättrade till delad fjärdeplats efter en rond på 65 slag på Sedgefield Country Club och gick in i söndagens slutrunda i toppstrid, redan säker på slutspelsplats som 48:a i FedEx Cup-ställningen.",
+      "source": "Svensk Golf",
+      "url": "https://www.svenskgolf.se/tournytt/noren-klattrade-efter-65-rond/",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "jackson-koivun-sakrar-slutspelsplats-2026",
+      "title": "Rookien Koivun kämpade till sig slutspelsplats",
+      "category": "PGA Tour",
+      "date": "2026-08-08",
+      "location": "Greensboro, USA",
+      "summary": "21-årige Jackson Koivun gick in i Wyndham Championship som sist kvalificerad, nummer 70, men stärkte sin ställning rejält på Sedgefield efter att tidigare i somras ha vunnit 3M Open i endast sin tredje start som proffs.",
+      "source": "PGA Tour",
+      "url": "https://www.pgatour.com/article/news/latest/2026/08/05/wyndham-championship-sedgefield-country-club-jackson-koivun-storylines-previews",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "ludvig-aberg-vilar-infor-slutspelet-2026",
+      "title": "Åberg vilar tre veckor inför FedEx Cup-slutspelet",
+      "category": "Svensk golf",
+      "date": "2026-08-05",
+      "location": "",
+      "summary": "Redan klar för slutspelet som tia i FedEx Cup-ställningen valde Ludvig Åberg att hoppa över Wyndham Championship för att i stället vila och träna i England och Sverige inför de tre kommande slutspelsveckorna.",
+      "source": "hurbra.se",
+      "url": "https://hurbra.se/ludvig-aberg-wyndham-championship-2026/",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "liv-golf-new-york-niemann-2026",
+      "title": "Niemann jagade nionde LIV-titeln i Bedminster",
+      "category": "LIV Golf",
+      "date": "2026-08-08",
+      "location": "Bedminster, USA",
+      "summary": "Joaquin Niemann tog täten inför sista rundan av LIV Golf New York på Trump National Golf Club Bedminster och siktade på sin nionde karriärseger på LIV-touren och sin andra för säsongen.",
+      "source": "LIV Golf",
+      "url": "https://www.livgolf.com/leaderboard/2026/new-york",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "callaway-quantum-drivers-2026",
+      "title": "Callaway lanserar Quantum-serien med ny klubbteknik",
+      "category": "Utrustning",
+      "date": "2026-08-04",
+      "location": "",
+      "summary": "Callaway har rullat ut sin nya Quantum-serie med fem drivermodeller byggda kring \"Tri-Force Face\", en klubbansikte som kombinerar titan, kolfiber och ett flexibelt polymernät för högre bollhastighet.",
+      "source": "Today's Golfer",
+      "url": "https://www.todays-golfer.com/news-and-events/equipment-news/callaway-quantum-drivers-everything-you-need-to-know/",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "lpga-portland-classic-installer-2026",
+      "title": "LPGA-touren mot Portland efter Women's Open",
+      "category": "LPGA",
+      "date": "2026-08-06",
+      "location": "Portland, USA",
+      "summary": "Efter Shiho Kuwakis majorseger i AIG Women's Open fortsätter LPGA-säsongen mot höstens raka rad av tävlingar, med Standard Portland Classic i mitten av augusti som nästa hållpunkt.",
+      "source": "LPGA",
+      "url": "https://www.lpga.com/tournaments",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
     }
   ]
 }

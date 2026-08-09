@@ -2,8 +2,8 @@
   "topic": "Kultur",
   "description": "Nya kulturevenemang i Sverige – festivaler, konserter, utställningar och scenkonst. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-02",
-  "item_count": 67,
+  "last_updated": "2026-08-09",
+  "item_count": 75,
   "items": [
     {
       "id": "sweden-rock-2026",
@@ -868,6 +868,102 @@
       "url": "https://www.mynewsdesk.com/se/drottningholms-slottsteater/pressreleases/sommarfestival-paa-drottningholms-slottsteater-3457516",
       "added_on": "2026-08-02",
       "collected_week": "2026-W31"
+    },
+    {
+      "id": "malmofestivalen-2026-kultur",
+      "title": "Malmöfestivalen inleds i centrala Malmö",
+      "category": "Festival",
+      "date": "2026-08-07",
+      "location": "Malmö",
+      "summary": "Skandinaviens största stadsfestival drar igång med omkring tusen programpunkter på ett tjugotal scener, med artister som The Ark, Agnes och Angélique Kidjo. Festivalen pågår till den 14 augusti med fri entré till de flesta delar av programmet.",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/skane/det-har-behover-du-veta-infor-malmofestivalen-2026",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "tosca-dalhalla-2026",
+      "title": "Tosca gästspelade i kalkbrottet på Dalhalla",
+      "category": "Föreställning",
+      "date": "2026-08-04",
+      "location": "Rättvik",
+      "summary": "Folkoperans och Norrlandsoperans gemensamma uppsättning av Puccinis Tosca, som spelat för fulla hus i Stockholm, gästade Dalhallas utomhusscen för en kväll. Regissör Eirik Stubø har gjort en intim, avskalad tolkning av den klassiska operan.",
+      "source": "Dalhalla",
+      "url": "https://www.mynewsdesk.com/se/dalhalla/pressreleases/operafoerestaellningen-tosca-spelas-i-dalhalla-2026-3420326",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "allsang-skansen-4-augusti-2026",
+      "title": "Icona Pop och Newkid gästade Allsång på Skansen",
+      "category": "Evenemang",
+      "date": "2026-08-04",
+      "location": "Stockholm",
+      "summary": "Sommarens allsångsprogram på Sollidenscenen bjöd denna vecka på ett blandat gästspel med bland andra Icona Pop, Newkid, Oskar Linnros och Lasse Holm. Programmet fortsätter locka stor publik även när sommaren lider mot sitt slut.",
+      "source": "Musikindustrin",
+      "url": "https://www.musikindustrin.se/2026/06/08/har-ar-sommarens-artister-i-allsang-pa-skansen/",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "dynamike-gatuteater-stockholm-2026",
+      "title": "Akrobatgruppen Dynamike rundade av sin torgturné i Stockholm",
+      "category": "Evenemang",
+      "date": "2026-08-08",
+      "location": "Stockholm",
+      "summary": "Den kanadensiska gruppen Dynamike avslutade en veckas gatuteaterturné på Stockholms torg med en fysisk föreställning som blandar akrobatik, jonglering och balanskonst, som ett förspel till Parkteaterns höstsäsong i Vitabergsparken.",
+      "source": "Kulturhuset Stadsteatern",
+      "url": "https://via.tt.se/pressmeddelande/4483873/augusti-pa-parkteatern-sensommar-med-teater-varldsmusik-folkfest-och-stand-up",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "way-out-west-2026-lineup-utokas",
+      "title": "Way Out West utökar lineupen inför nästa veckas festival",
+      "category": "Nyhet",
+      "date": "2026-08-09",
+      "location": "Göteborg",
+      "summary": "Inför Way Out West i Slottsskogen den 13–15 augusti har arrangörerna lagt till fler namn, bland dem den brittiska poptrion Saint Etienne som gör sin sista Sverigespelning. De flesta biljettkategorier är slutsålda och bara enstaka dagsbiljetter finns kvar.",
+      "source": "Popzine",
+      "url": "https://popzine.se/nyheter/way-out-west-2026-utokar-lineupen-med-stora-namn-och-uppdaterar-biljettlaget",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "absolut-absolut-spritmuseum-2026",
+      "title": "Spritmuseum visar Absolut Vodkas svindlande reklamhistoria",
+      "category": "Utställning",
+      "date": "2026-05-20",
+      "location": "Stockholm",
+      "summary": "Utställningen \"Absolut Absolut\" skildrar hur djärv 80- och 90-talsreklam gjorde den svenska vodkan till ett globalt ikoniskt varumärke, med tusentals annonser, flaskor och en cocktailmaskin att testa på plats.",
+      "source": "Spritmuseum",
+      "url": "https://spritmuseum.se/en/exhibition/absolut-absolut/",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "postmuseum-handskrivet-brev-2026",
+      "title": "Postmuseum lyfter en växande rörelse för det handskrivna brevet",
+      "category": "Utställning",
+      "date": "2026-01-30",
+      "location": "Stockholm",
+      "summary": "Genom internationella samarbeten, brevskrivarkvällar och rollen som Sveriges första \"Letter Keeper\" i The Sunday Letter Project uppmärksammar Postmuseum ett stigande intresse för det handskrivna brevet mitt i en digital vardag.",
+      "source": "Postmuseum",
+      "url": "https://news.cision.com/se/postmuseum/r/langtan-till-det-handskrivna--postmuseum-lyfter-en-vaxande-motrorelse,c4334201",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "vasamuseet-stod-erling-perssons-stiftelse",
+      "title": "Vasamuseet får stort bidrag till ny stöttning av skeppet",
+      "category": "Nyhet",
+      "date": "2026-05-21",
+      "location": "Stockholm",
+      "summary": "Erling-Perssons Stiftelse skjuter till 10 miljoner kronor till arbetet med att ersätta Vasas nuvarande stöttor med 27 nya, ledade vaggor, ett av museets största bevarandeprojekt inför 400-årsjubileet 2028.",
+      "source": "Vasamuseet",
+      "url": "https://www.vasamuseet.se/om-vasamuseet/pressrum/erling-perssons-stiftelse-stottar-skeppet-vasa-med-10-miljoner-kronor",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
     }
   ]
 }

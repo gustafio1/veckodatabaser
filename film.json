@@ -2,8 +2,8 @@
   "topic": "Film & TV",
   "description": "Biopremiärer, streaming, TV-serier, svensk film och filmfestivaler. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-02",
-  "item_count": 23,
+  "last_updated": "2026-08-09",
+  "item_count": 29,
   "items": [
     {
       "id": "sju-biopremiarer-juli-2026",
@@ -280,6 +280,78 @@
       "url": "https://www.moviezine.se/nyheter/5-nya-filmer-har-premiar-pa-bio-till-helgen-en-efterlangtad-skrackuppfoljare-ar-mest-hajpad",
       "added_on": "2026-08-02",
       "collected_week": "2026-W31"
+    },
+    {
+      "id": "hundra-ar-av-ensamhet-del-2-netflix-2026",
+      "title": "\"Hundra år av ensamhet\" avslutas på Netflix",
+      "category": "Streaming",
+      "date": "2026-08-05",
+      "location": "",
+      "summary": "Den hyllade bokadaptionen av Gabriel García Márquez klassiker fick sin andra och avslutande del med alla åtta avsnitt samtidigt den 5 augusti. Första säsongen hade redan 87 procent på Rotten Tomatoes, och uppföljaren beskrivs som en episk avslutning på Buendía-familjens öde.",
+      "source": "Filmtopp / Collider",
+      "url": "https://www.filmtopp.se/nyhet/netflix-nu-fortsatter-en-av-2020-talets-basta-netflix-serier-har-90-i-tittarbetyg",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "the-last-house-netflix-premiar-2026",
+      "title": "\"The Last House\" klättrar till Netflix globala topp",
+      "category": "Premiär",
+      "date": "2026-08-07",
+      "location": "",
+      "summary": "Sci-fi-skräckthrillern om en familj som blir fastlåst i sitt eget hus efter ett extremt regnoväder släpptes världen över den 7 augusti och blev enligt FlixPatrol snabbt Netflix mest sedda film globalt, trots ett svalare kritikermottagande.",
+      "source": "Collider / CBR",
+      "url": "https://collider.com/the-last-house-netflix-sci-fi-thriller-streaming-success-august-2026/",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "my-life-with-the-walter-boys-sasong-3-2026",
+      "title": "\"My Life with the Walter Boys\" tillbaka med tredje säsongen",
+      "category": "Streaming",
+      "date": "2026-08-06",
+      "location": "",
+      "summary": "Den populära tonårsserien fick sin tredje säsong med tio nya avsnitt den 6 augusti, där handlingen tar vid direkt efter förra säsongens cliffhanger med Jackie, Cole och familjen Walter.",
+      "source": "Netflix Tudum / Sortiraparis",
+      "url": "https://www.netflix.com/tudum/articles/my-life-with-the-walter-boys-season-3",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "svt-play-klassiker-7-augusti-2026",
+      "title": "SVT Play fyller på med filmklassiker inför helgen",
+      "category": "Streaming",
+      "date": "2026-08-07",
+      "location": "",
+      "summary": "SVT Play lade den 7 augusti till filmer som \"De tre musketörerna – Milady\", spionfilmen \"Ett annat land\" med Colin Firth och Rupert Everett samt svenska \"Raskenstam\", i den fortsatta sommarsatsningen med över 200 filmpremiärer under säsongen.",
+      "source": "Filmtopp / Filmparadiset",
+      "url": "https://www.filmtopp.se/lista/svtplay-basta-nya-premiarerna-pa-svt-play-i-helgen-dessa-fem-parlor-sticker-ut",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "sodertalje-filmfestival-premiar-2026",
+      "title": "Södertälje får sin egen filmfestival",
+      "category": "Festival",
+      "date": "2026-08-08",
+      "location": "Södertälje",
+      "summary": "Lördagen den 8 augusti hade den helt nya, kostnadsfria Södertälje Filmfestival premiär med visningar på Stora Torget, flera hotell och en interaktiv filmupplevelse på The Dock Hotel, med bland annat \"Barbie\" och \"Mamma Mia!\" på programmet.",
+      "source": "Mynewsdesk / Telgenytt",
+      "url": "https://www.mynewsdesk.com/se/winn-hotel-group/pressreleases/interaktiv-filmupplevelse-naer-soedertaelje-filmfestival-har-premiaer-paa-the-dock-hotel-3459828",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "monsters-of-god-hbo-max-premiar-2026",
+      "title": "SXSW-prisade \"Monsters of God\" har premiär på HBO Max",
+      "category": "Premiär",
+      "date": "2026-08-07",
+      "location": "",
+      "summary": "Regissören Eric Goodes nya dokumentärserie om den globala handeln med reptiler fick svensk premiär på HBO Max den 7 augusti, efter att ha vunnit publikpriset på SXSW Film & TV Festival tidigare i år.",
+      "source": "MovieZine",
+      "url": "https://www.moviezine.se/nyheter/24-nya-filmer-och-tv-serier-far-premiar-pa-hbo-max-i-augusti",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
     }
   ]
 }

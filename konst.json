@@ -2,8 +2,8 @@
   "topic": "Konst & design",
   "description": "Konstutställningar, design, arkitektur, auktioner och konstvärlden. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-02",
-  "item_count": 21,
+  "last_updated": "2026-08-09",
+  "item_count": 30,
   "items": [
     {
       "id": "moderna-museet-nisabas-hus-maleri-2026",
@@ -256,6 +256,114 @@
       "url": "https://signprint.se/2026/07/08/hon-vinner-call-for-print-2026/",
       "added_on": "2026-08-02",
       "collected_week": "2026-W31"
+    },
+    {
+      "id": "kalmar-konstmuseum-guidning-stadsparken",
+      "title": "Kalmar konstmuseum bjöd på konstvandring i Stadsparken",
+      "category": "Utställning",
+      "date": "2026-08-06",
+      "location": "Kalmar",
+      "summary": "Som en del av Kalmar stadsfest höll museets visningsvärd en guidad promenad bland skulpturerna i Stadsparken och berättade om sina favoritverk. Det fria arrangemanget visar hur konstmuseer allt oftare tar med sig samlingen ut i stadsrummet under sommaren.",
+      "source": "Kalmar.com / Kalmar konstmuseum",
+      "url": "https://kalmar.com/evenemang/evenemang/2025-05-30-guidad-visning-between-drawing",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "goteborgs-konstmuseum-ombyggnad-klartecken",
+      "title": "Klartecken för miljardombyggnad av Göteborgs konstmuseum",
+      "category": "Nyhet",
+      "date": "2026-03-26",
+      "location": "Göteborg",
+      "summary": "Göteborgs kommunfullmäktige har fattat de sista besluten som krävs för att museet ska kunna byggas om och till för omkring 1,1 miljarder kronor. Museet stänger 2028 och planeras öppna igen 2032 med betydligt större ytor för både publik och samling.",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/kultur/goteborgs-konstmuseum-byggs-om-for-1-miljard",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "millesgarden-tal-r-elefanten-i-rummet",
+      "title": "Tal R fyller Millesgården med en rosa elefant",
+      "category": "Utställning",
+      "date": "2026-05-23",
+      "location": "Lidingö",
+      "summary": "Den danske konstnären Tal R möter Carl Milles vita gipsavgjutningar med en monumental rosa elefant och nya målningar om hemmet och relationerna som formas där. Utställningen pågår sommaren ut och är ett av Stockholmsregionens mest omtalade konstbesök just nu.",
+      "source": "Millesgården",
+      "url": "https://www.millesgarden.se/utstallningar/mer-om-aktuell-utstallning-tal-r-elefanten-i-rummet",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "liljevalchs-when-we-see-us",
+      "title": "Liljevalchs drar unga besökare med hundra år av svart måleri",
+      "category": "Utställning",
+      "date": "2026-08-31",
+      "location": "Stockholm",
+      "summary": "Vandringsutställningen \"When We See Us\" visar 148 målningar av 115 konstnärer från Afrika och den afrikanska diasporan och har enligt SVT lyckats locka en ovanligt ung publik till Liljevalchs. Utställningen har tidigare visats i Kapstaden, Basel och Bryssel.",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/kultur/liljevalchs-lockar-fler-unga-med-historisk-vandringsutstallning",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "artipelag-fredrik-wretman-bronsskulpturer",
+      "title": "Hundra bronsfigurer bildar skulpturhav på Artipelag",
+      "category": "Utställning",
+      "date": "2026-03-14",
+      "location": "Värmdö",
+      "summary": "Fredrik Wretman fyller Artipelags stora utställningshall med ett hundratal balanserande bronsfigurer i en installation som blandar antik skulptur med samtida uttryck. Verket visas parallellt med Apichaya Wanthiangs separatutställning.",
+      "source": "Artipelag",
+      "url": "https://artipelag.se/en/whats-on/exhibition/fredrik-wretman-i-c-3-d-2-its-all-in-your-head-2/",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "formland-autumn-2026-herning",
+      "title": "Nordens största inredningsmässa öppnar med ny hallstruktur",
+      "category": "Design",
+      "date": "2026-08-16",
+      "location": "Herning, Danmark",
+      "summary": "Formland Autumn slår upp portarna med ett helt nytt mässkoncept indelat i sju temahallar samt utställningen \"A Material Turn\" om cirkulär design från Aalborgs designlabb. Mässan är en viktig mötesplats även för svenska inredningsbranschen inför höstsäsongen.",
+      "source": "Formland",
+      "url": "https://www.formland.com/",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "utmarkt-svensk-form-sara-kulturhus",
+      "title": "Utmärkt och Ung Svensk Form visas tillsammans för första gången",
+      "category": "Design",
+      "date": "2026-08-27",
+      "location": "Skellefteå",
+      "summary": "Under Society Expo 2026 visas de två nationella designutmärkelserna parallellt i Sara kulturhus, med en prisceremoni den 27 augusti där nästa års mottagare av Utmärkt Svensk Form presenteras. Utställningsarkitekturen är själv byggd av unga formgivares stipendiematerial.",
+      "source": "Svensk Form (Mynewsdesk)",
+      "url": "https://www.mynewsdesk.com/se/svenskform/pressreleases/svensk-form-och-sara-kulturhus-samlar-tvaa-nationella-designutstaellningar-under-society-expo-2026-3438003",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "stockholms-auktionsverk-lena-cronqvist-rekord",
+      "title": "Nytt världsrekord för Lena Cronqvist-skulptur på auktion",
+      "category": "Auktion",
+      "date": "2026-05-21",
+      "location": "Stockholm",
+      "summary": "Skulpturen \"Flicka med flätor och parasoll\" klubbades för nära 1,9 miljoner kronor på Stockholms Auktionsverks vårauktion, ett nytt rekord för en enskild skulptur av konstnären. Försäljningen var en av flera miljonnoteringar under en av auktionshusets starkaste säsonger på flera år.",
+      "source": "NWT / Stockholms Auktionsverk",
+      "url": "https://www.nwt.se/2026/05/21/rekord-for-lena-cronqvist-skulptur-pa-auktion-36b16/",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "wanas-konst-2026-sasong",
+      "title": "Wanås Konst 2026 väver samman berättelser i skogen",
+      "category": "Utställning",
+      "date": "2026-05-27",
+      "location": "Knislinge",
+      "summary": "Årets säsong på skulpturparken Wanås bjuder bland annat på Chiachio & Giannones textila verk, en ny paviljong av Carla Zaccagnini och Isabella Rossellinis djurfilmer, enligt en recension i Norra Skåne. Programmet visar hur parken fortsätter kombinera internationell samtidskonst med det skånska landskapet.",
+      "source": "Norra Skåne (NSK)",
+      "url": "https://www.nsk.se/kultur/wanas-2026-en-mangfald-av-berattelser-och-upplevelser",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
     }
   ]
 }

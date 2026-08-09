@@ -2,8 +2,8 @@
   "topic": "Rymden",
   "description": "Raketuppskjutningar, rymdsonder, astronomiska upptäckter och rymdindustri. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-02",
-  "item_count": 24,
+  "last_updated": "2026-08-09",
+  "item_count": 32,
   "items": [
     {
       "id": "ariane-6-amazon-leo-tyngsta-lasten-2026",
@@ -292,6 +292,102 @@
       "url": "https://www.usnews.com/news/top-news/articles/2026-07-29/spacex-gets-1-6-billion-us-space-force-order-for-18-falcon-9-launches",
       "added_on": "2026-08-02",
       "collected_week": "2026-W31"
+    },
+    {
+      "id": "iss-rymdpromenad-96-solpanel-2026",
+      "title": "Astronauter genomförde rymdpromenad för att förbereda ny solpanel på ISS",
+      "category": "Rymdstation",
+      "date": "2026-08-06",
+      "location": "Internationella rymdstationen",
+      "summary": "NASA-astronauterna Jessica Meir och Anil Menon utförde en sex och en halv timme lång rymdpromenad, den 96:e amerikanska EVA:n vid ISS, för att montera fästen inför installationen av stationens sjunde och sista utfällbara solpanel. Det var Menons allra första rymdpromenad, medan Meir genomförde sin sjätte.",
+      "source": "NASA / Space.com",
+      "url": "https://www.space.com/space-exploration/international-space-station/1-more-step-nasa-astronauts-conduct-6-5-hour-spacewalk-to-prep-iss-for-solar-array-upgrade",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "imap-sonden-forsta-vetenskapsdata-2026",
+      "title": "NASA:s IMAP-sond börjar dela med sig av vetenskapsdata om solvinden",
+      "category": "Rymdsonder",
+      "date": "2026-08-07",
+      "location": "",
+      "summary": "Rymdsonden IMAP, som kartlägger solvinden och partiklar från interstellära rymden, har släppt sina första vetenskapliga mätningar från sju av sina tio instrument. Sonden levererar även realtidsdata om rymdväder till jordbaserade prognosmakare dygnet runt.",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/blogs/imap/2026/08/07/nasas-imap-mission-releases-new-data-from-7-science-instruments/",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "ast-spacemobile-bluebird-11-13-uppskjutning-2026",
+      "title": "SpaceX sköt upp tre stora mobiltelefonsatelliter åt AST SpaceMobile",
+      "category": "Uppskjutning",
+      "date": "2026-08-05",
+      "location": "Cape Canaveral, Florida, USA",
+      "summary": "En Falcon 9-raket satte tre nya BlueBird-satelliter i omloppsbana åt AST SpaceMobile, vars konstellation ska ge vanliga mobiltelefoner uppkoppling direkt via satellit utan särskild utrustning. Uppskjutningen tar det totala antalet BlueBird-satelliter i bana till 13.",
+      "source": "Space.com",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-ast-spacemobile-11-13-direct-to-cell-satellites",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "spirit-rover-vatten-mars-hematit-2026",
+      "title": "Tjugo år gamla mätdata från roboten Spirit avslöjar nya spår av vatten på Mars",
+      "category": "Upptäckt",
+      "date": "2026-08-04",
+      "location": "",
+      "summary": "Genom att på nytt granska mätningar som NASA:s markrobot Spirit samlade in för över tjugo år sedan har forskare hittat spår av kristallint hematit och omvandlad magnetit i marken vid Gusevkratern. Fyndet stärker bilden av att stora delar av Mars en gång kan ha varit täckta av vatten.",
+      "source": "Space.com",
+      "url": "https://www.space.com/astronomy/mars/significant-areas-of-mars-may-have-once-been-covered-by-water-scientists-find-hidden-clue-in-spirit-rover-data",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "spacex-90e-falcon-9-uppskjutningen-2026",
+      "title": "SpaceX genomförde årets 90:e Falcon 9-uppskjutning med nya Starlink-satelliter",
+      "category": "Uppskjutning",
+      "date": "2026-08-04",
+      "location": "Vandenberg Space Force Base, Kalifornien, USA",
+      "summary": "Uppdraget Starlink 17-53 blev SpaceX:s 90:e Falcon 9-flygning under 2026, ytterligare ett bevis på den rekordhöga uppskjutningstakt bolaget håller för att bygga ut sitt bredbandsnät i omloppsbana. Förstasteget landade som planerat på en av bolagets landningsfarkoster till havs.",
+      "source": "Spaceflight Now",
+      "url": "https://spaceflightnow.com/2026/08/",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "starship-skepp-41-forbereder-flygning-14-2026",
+      "title": "SpaceX förbereder Starship-skepp för första orbitala testflygningen",
+      "category": "Uppskjutning",
+      "date": "2026-08-05",
+      "location": "Boca Chica, Texas, USA",
+      "summary": "Medan SpaceX bärgar det intakta skeppet från den 24 juli-flygningen ur Indiska oceanen förbereds nästa Starship-skepp för motortester inför flygning 14, som ska bli den första riktigt orbitala Starship-flygningen och kan innefatta bolagets första försök att fånga upp övre steget vid landningsplatsen.",
+      "source": "NASASpaceFlight.com",
+      "url": "https://www.nasaspaceflight.com/2026/08/spacex-recovers-ship-40-ship-41-flight-14/",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "rubin-observatoriet-cosmos-bild-2026",
+      "title": "Rubinobservatoriet släppte sin första stora vetenskapsbild av det berömda Cosmos-fältet",
+      "category": "Astronomi",
+      "date": "2026-08-03",
+      "location": "Chile",
+      "summary": "Det nya amerikanska Vera C. Rubin-observatoriet har publicerat sin första vetenskapliga katalogbild tagen med den 3,2-gigapixelstora LSST-kameran, med över 500 000 galaxer och 50 000 stjärnor i det välstuderade Cosmos-fältet. Bilden markerar startskottet för observatoriets tioåriga kartläggning av hela himlen.",
+      "source": "phys.org / NOIRLab",
+      "url": "https://phys.org/news/2026-08-rubin-observatory-deep-window-famous.html",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "rymdstyrelsen-flex-sentinel-3c-uppskjutning-2026",
+      "title": "Svenska Rymdstyrelsen bjuder in till uppskjutningen av två nya europeiska klimatsatelliter",
+      "category": "Industri",
+      "date": "2026-08-03",
+      "location": "Kourou, Franska Guyana",
+      "summary": "Rymdstyrelsen meddelar att klimatsatelliterna FLEX och Copernicus Sentinel-3C ska skjutas upp den 14 september från Kourou. FLEX ska ge forskare nya möjligheter att studera växters fotosyntes, medan Sentinel-3C stärker Europas övervakning av hav, is och miljö.",
+      "source": "Rymdstyrelsen",
+      "url": "https://via.tt.se/pressmeddelande/4485901/journalister-bjuds-in-till-uppsandningen-av-europas-nya-klimatsatelliter?lang=sv",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
     }
   ]
 }

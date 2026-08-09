@@ -2,8 +2,8 @@
   "topic": "Vetenskap",
   "description": "Ny forskning inom fysik, medicin, biologi, klimat och nya upptäckter. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-02",
-  "item_count": 24,
+  "last_updated": "2026-08-09",
+  "item_count": 32,
   "items": [
     {
       "id": "kvantljud-kommunikation-2026",
@@ -292,6 +292,102 @@
       "url": "https://www.sciencedaily.com/releases/2026/07/260721000825.htm",
       "added_on": "2026-08-02",
       "collected_week": "2026-W31"
+    },
+    {
+      "id": "kvantsammanflatning-solljus-2026",
+      "title": "Kvantsammanflätning skapad direkt med solljus",
+      "category": "Fysik",
+      "date": "2026-08-07",
+      "location": "",
+      "summary": "Forskare har för första gången genererat kvantsammanflätade fotoner med hjälp av en solkoncentrator i stället för lasrar, med omkring 94 procents likhet med ett idealiskt kvanttillstånd. Metoden kan bana väg för enklare och mer energisnåla kvantsatelliter och kvantkommunikation.",
+      "source": "ScienceDaily / Optica",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260807035133.htm",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "varme-stralar-kristall-rumstemp-2026",
+      "title": "Värme kan styras i raka strålar genom kristall vid rumstemperatur",
+      "category": "Fysik",
+      "date": "2026-08-05",
+      "location": "",
+      "summary": "Forskare vid UCLA har visat att värme kan färdas i fokuserade, vågliknande banor genom kristallen bor-arsenid redan vid rumstemperatur, ett fenomen som tidigare bara setts vid extrem kyla. Upptäckten kan göra det möjligt att styra bort värme från känsliga delar i framtidens datorchip och kvantkomponenter.",
+      "source": "ScienceDaily / UCLA",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260805082506.htm",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "taok1-alzheimer-foreningar-2026",
+      "title": "Nya molekyler avslöjar dold drivkraft bakom Alzheimers",
+      "category": "Medicin",
+      "date": "2026-08-02",
+      "location": "",
+      "summary": "Forskare vid Vanderbilt har tagit fram den första selektiva hämmaren av proteinet TAOK1, som kopplats till Alzheimers sjukdom, samt en molekyl som i stället aktiverar hela proteinfamiljen. Verktygen gör det för första gången möjligt att systematiskt undersöka om TAOK1 kan bli ett mål för framtida läkemedel.",
+      "source": "ScienceDaily / Vanderbilt University",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260802223437.htm",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "ruptoblaster-explosiva-immunceller-2026",
+      "title": "Explosiva immunceller upptäckta hos plattmaskar",
+      "category": "Biologi",
+      "date": "2026-08-03",
+      "location": "",
+      "summary": "Forskare vid Stanford har hittat en tidigare okänd typ av immunceller hos plattmaskar, så kallade ruptoblaster, som exploderar och dödar bakterier och främmande celler inom några minuter innan de själva försvinner spårlöst. Fyndet kan ge ledtrådar till nya, snabbverkande behandlingar mot infektioner och cancer.",
+      "source": "ScienceDaily / Stanford University",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260803080914.htm",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "luffy-skalbaggslakte-2026",
+      "title": "Nytt skalbaggssläkte uppkallat efter Luffy i One Piece",
+      "category": "Biologi",
+      "date": "2026-08-02",
+      "location": "",
+      "summary": "Forskare har beskrivit ett nytt släkte av kortvingar med ovanligt långa, sträckbara mundelar och käkar och gett det namnet Luffy efter mangafiguren med gummiarmar. Två nya arter, hittade i Kina respektive Laos, ingår i det nybeskrivna släktet.",
+      "source": "ScienceDaily / ZooKeys",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260802223430.htm",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "global-uppvarmning-accelererar-2026",
+      "title": "Forskare bekräftar kraftig acceleration i den globala uppvärmningen",
+      "category": "Klimat",
+      "date": "2026-08-01",
+      "location": "",
+      "summary": "En analys av fem globala temperaturdataset visar att jorden värmts upp med omkring 0,35 grader per decennium det senaste årtiondet, jämfört med knappt 0,2 grader per decennium mellan 1970 och 2015. Accelerationen, som blir tydlig från ungefär 2013-2015, bekräftas med över 98 procents statistisk säkerhet i samtliga dataset.",
+      "source": "ScienceDaily / Potsdam Institute for Climate Impact Research",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260801093239.htm",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "orexinneuroner-motivation-2026",
+      "title": "Hjärnceller som håller motivationen uppe har identifierats",
+      "category": "Medicin",
+      "date": "2026-08-04",
+      "location": "",
+      "summary": "Forskare har visat att en grupp hjärnceller kallade orexinneuroner hjälper till att hålla motivationen uppe när det blir allt svårare att nå en belöning. När cellernas aktivitet blockerades hos råttor försvagades djurens motivation, vilket pekar ut en möjlig ny måltavla för att förstå och behandla motivationsproblem.",
+      "source": "ScienceDaily / PNAS",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260804034622.htm",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
+    },
+    {
+      "id": "tuggummi-hpv-cancer-2026",
+      "title": "Tuggummi minskade HPV-nivåer med upp till 93 procent i studie",
+      "category": "Medicin",
+      "date": "2026-08-03",
+      "location": "",
+      "summary": "En klinisk studie visar att ett särskilt framtaget tuggummi minskade nivåerna av HPV-virus med upp till 93 procent och nästan eliminerade två bakterier kopplade till huvud- och halscancer. Resultatet väcker hopp om en enkel och billig metod för att minska risken för virusrelaterad cancer.",
+      "source": "ScienceDaily / Scientific Reports",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
+      "added_on": "2026-08-09",
+      "collected_week": "2026-W32"
     }
   ]
 }

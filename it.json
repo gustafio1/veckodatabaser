@@ -2,8 +2,8 @@
   "topic": "IT – Nya produkter",
   "description": "Nya IT- och teknikprodukter: hårdvara, mjukvara, AI och gaming. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-09",
-  "item_count": 88,
+  "last_updated": "2026-08-16",
+  "item_count": 95,
   "items": [
     {
       "id": "nvidia-rtx-spark-2026",
@@ -1060,6 +1060,90 @@
       "url": "https://9to5google.com/2026/08/08/pixel-11-all-of-the-last-minute-leaks-video/",
       "added_on": "2026-08-09",
       "collected_week": "2026-W32"
+    },
+    {
+      "id": "samsung-zhbm-znand-bv-nand-2026",
+      "title": "Samsung visar nästa generations minnesteknik för AI-datacenter",
+      "category": "Hårdvara",
+      "date": "2026-08-05",
+      "location": "",
+      "summary": "Samsung presenterade på minneskonferensen FMS 2026 tre nya minnestekniker för AI-datacenter: zHBM som staplar minne direkt ovanpå AI-chip, zNAND-O för edge-AI samt V10 BV-NAND med över 400 lager som ökar lagringstätheten med omkring 58 procent. Tekniken ska minska flaskhalsarna i dataflödet mellan processor och minne i kommande AI-system, även om delar fortfarande är konceptmodeller.",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/pc-components/dram/samsung-debuts-three-next-generation-memory-technologies-for-ai-data-centers-zhbm-znand-o-and-bv-nand-all-rely-on-advanced-wafer-bonding-technologies",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "kioxia-sandisk-332-layer-qlc-nand-2026",
+      "title": "Kioxia och Sandisk visar tätaste 3D NAND-flashminnet hittills",
+      "category": "Hårdvara",
+      "date": "2026-08-04",
+      "location": "",
+      "summary": "Kioxia och Sandisk har tillsammans presenterat en ny generation QLC-flashminne i 332 lager med upp till 60 procent högre bittäthet än föregående generation, avsett för SSD:er i företags- och datacentermiljöer. Chippen rymmer 1 terabit vardera och stödjer det snabbare gränssnittet Toggle DDR6.0 för högre överföringshastigheter.",
+      "source": "Kioxia",
+      "url": "https://www.kioxia.com/en-jp/about/news/2026/20260804-2.html",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "google-gemini-3-7-flash-2026",
+      "title": "Google lanserar Gemini 3.7 Flash – snabbare arbetshäst för kodning",
+      "category": "AI",
+      "date": "2026-08-13",
+      "location": "",
+      "summary": "Google släppte Gemini 3.7 Flash bara tre veckor efter föregångaren 3.6 Flash, med tydliga förbättringar inom felsökning, kodgenerering och agentarbetsflöden samt ett lägre pris per token. Modellen finns redan tillgänglig i Gemini API, Google AI Studio, Android Studio och företagets agentplattformar.",
+      "source": "Google",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "openai-gpt-5-6-sol-ultrafast-2026",
+      "title": "OpenAI testar blixtsnabbt API-läge för GPT-5.6 Sol",
+      "category": "AI",
+      "date": "2026-08-14",
+      "location": "",
+      "summary": "OpenAI förhandsvisar API-läget Ultrafast, som med hjälp av Cerebras hårdvara kör modellen GPT-5.6 Sol upp till 14 gånger snabbare än standardläget – uppemot 750 tokens per sekund. Tjänsten är i begränsad förhandsvisning för utvalda API-kunder och behåller samma modellkvalitet som standardversionen.",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/previewing-ultrafast/",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "deepseek-v4-pro-ga-2026",
+      "title": "DeepSeek V4-Pro lanseras officiellt efter månader i förhandsversion",
+      "category": "AI",
+      "date": "2026-08-13",
+      "location": "",
+      "summary": "DeepSeek gjorde sin V4-Pro-modell allmänt tillgänglig i app, webbgränssnitt och API efter att ha testats sedan april, med fokus på agentfunktioner som verktygsanvändning och flerstegsuppgifter utan mänsklig inblandning. Modellen klarar kontextfönster på upp till en miljon tokens, men priset per utdatatoken höjs kraftigt från och med den 16 augusti.",
+      "source": "DeepSeek",
+      "url": "https://api-docs.deepseek.com/news/news260813/",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "mafia-old-country-man-of-honor-dlc-2026",
+      "title": "Mafia: The Old Country får sin första betalexpansion Man of Honor",
+      "category": "Gaming",
+      "date": "2026-08-14",
+      "location": "",
+      "summary": "Den första betalexpansionen till Mafia: The Old Country släpptes samtidigt på PC, PS5 och Xbox Series X|S för omkring 100 kronor. Handlingen utspelar sig på Sicilien och följer Enzo Favara tillsammans med en yngre Ennio Salieri, med två nya berättelsekapitel och nytt innehåll i det öppna Free Ride-läget.",
+      "source": "2K Newsroom",
+      "url": "https://newsroom.2k.com/news/mafia-the-old-country-man-of-honor-expansion-now-available-worldwide",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "claude-code-auto-mode-standard-2026",
+      "title": "Claude Code gör auto-läge till standard för Pro-, Max- och Team-användare",
+      "category": "Mjukvara",
+      "date": "2026-08-14",
+      "location": "",
+      "summary": "Anthropic gör auto-läge till standardinställning i utvecklarverktyget Claude Code, vilket ersätter upprepade godkännandeprompter med en klassificerare som automatiskt flaggar oåterkalleliga eller riskfyllda åtgärder. Ändringen började gälla den 14 augusti om inte användaren eller en administratör aktivt valt ett annat läge.",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/08/07/psa-claude-code-enabling-auto-mode-as-default-next-week-anthropic-says/",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
     }
   ]
 }

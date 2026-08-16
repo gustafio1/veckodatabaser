@@ -2,8 +2,8 @@
   "topic": "AI & maskininlärning",
   "description": "Nyheter om nya AI-modeller, verktyg, forskning, företag och reglering. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-09",
-  "item_count": 32,
+  "last_updated": "2026-08-16",
+  "item_count": 39,
   "items": [
     {
       "id": "openai-gpt-5-6-lansering-2026",
@@ -388,6 +388,90 @@
       "url": "https://www.unite.ai/xai-ships-grok-imagine-image-2-0-with-precise-editing-and-a-top-arena-ranking/",
       "added_on": "2026-08-09",
       "collected_week": "2026-W32"
+    },
+    {
+      "id": "google-gemini-3-7-flash-lansering-2026",
+      "title": "Google lanserar Gemini 3.7 Flash inför försenad Pro-modell",
+      "category": "Modeller",
+      "date": "2026-08-13",
+      "location": "Mountain View, USA",
+      "summary": "Google släppte Gemini 3.7 Flash bara tre veckor efter föregångaren, en snabbare och billigare arbetsmodell för kodning och AI-agenter som enligt bolaget slår jämförbara modeller från OpenAI och Anthropic på flera benchmarks. Lanseringen kommer samtidigt som flaggskeppsmodellen Gemini 3.5 Pro fortfarande är försenad.",
+      "source": "SiliconANGLE / Axios",
+      "url": "https://siliconangle.com/2026/08/13/google-launches-gemini-3-7-flash-coding-ai-agent-projects/",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "openai-ultrafast-gpt-5-6-sol-2026",
+      "title": "OpenAI lanserar snabbläget Ultrafast för 14 gånger snabbare svar",
+      "category": "Verktyg",
+      "date": "2026-08-13",
+      "location": "San Francisco, USA",
+      "summary": "OpenAI presenterade en förhandsversion av API-tjänsten Ultrafast, som med hjälp av Cerebras hårdvara kör modellen GPT-5.6 Sol upp till 14 gånger snabbare och genererar upp till 750 utdatatoken per sekund. Tjänsten riktar sig till utvecklare som bygger latensskänsliga AI-applikationer.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "xai-grok-4-6-lansering-2026",
+      "title": "xAI lanserar Grok 4.6 för långvariga AI-agenter till halva priset",
+      "category": "Modeller",
+      "date": "2026-08-12",
+      "location": "USA",
+      "summary": "xAI släppte Grok 4.6, en flaggskeppsmodell inriktad på långvariga agentuppgifter och agentisk kodning med ett kontextfönster på 500 000 token. Modellen matchar GPT-5.6 Sol i oberoende jämförelser men kostar bara hälften så mycket som konkurrerande toppmodeller.",
+      "source": "x.ai",
+      "url": "https://x.ai/news/grok-4-6",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "zai-glm-5-3-kodningsmodell-2026",
+      "title": "Kinesiska Z.ai utmanar Anthropic och OpenAI med kodningsmodellen GLM-5.3",
+      "category": "Modeller",
+      "date": "2026-08-14",
+      "location": "Kina",
+      "summary": "Z.ai meddelade en uppgraderad version av sin flaggskeppsmodell, GLM-5.3, med särskilt fokus på kodkomplettering, kodgenerering och felsökning för att minska avståndet till ledande amerikanska modeller. Bolaget planerar att inom två veckor släppa modellens vikter öppet, som en del av en våg kinesiska öppen-vikt-modeller som utmanar väst.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-14/z-ai-aims-to-catch-anthropic-openai-in-coding-with-new-ai-model",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "kalifornien-ai-lagar-utskottsomrostning-2026",
+      "title": "Kalifornien röstar igenom nyckelomgång av AI-lagar inför sessionens slut",
+      "category": "Reglering",
+      "date": "2026-08-13",
+      "location": "Kalifornien, USA",
+      "summary": "Kaliforniens två budgetutskott höll den 13 augusti en avgörande så kallad suspense-omröstning om omkring 30 AI-lagförslag, som avgör vilka som går vidare till fullständig omröstning innan sessionen avslutas den 31 augusti. Förslagen omfattar bland annat chattbotsäkerhet för barn, upphovsrättsskydd och en föreslagen delstatlig certifieringskommission för AI-säkerhet.",
+      "source": "Tech Times",
+      "url": "https://www.techtimes.com/articles/324338/20260813/california-ai-bills-face-final-vote-today-chatbot-safety-copyright-us-first-commission.htm",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "openai-intakter-40-miljarder-dollar-2026",
+      "title": "OpenAI:s intäktstakt passerar 40 miljarder dollar",
+      "category": "Företag",
+      "date": "2026-08-14",
+      "location": "San Francisco, USA",
+      "summary": "OpenAI är enligt Bloomberg på väg mot en årstakt på över 40 miljarder dollar i intäkter, ungefär en fördubbling jämfört med slutet av 2025. Samtidigt bytte bolaget finanschef för intäkter efter mindre än ett år på posten, vilket speglar den snabba men turbulenta tillväxten.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-14/openai-revenue-run-rate-tops-40-billion-doubling-from-2025",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "alibaba-qwen3-8-27b-oppen-modell-2026",
+      "title": "Alibaba öppen-källkodar den kompakta modellen Qwen3.8-27B",
+      "category": "Modeller",
+      "date": "2026-08-14",
+      "location": "Kina",
+      "summary": "Alibabas Tongyi Lab släppte Qwen3.8-27B, en multimodal modell med 27,8 miljarder parametrar och 262 000 tokens kontext som går att köra på ett enda konsumentgrafikkort efter kvantisering. Enligt bolagets egna jämförelser slår den Metas Muse Glimmer på samtliga testade benchmarks och Claude Opus 4.6 på de flesta av dem, trots sin lilla storlek.",
+      "source": "Gurufocus",
+      "url": "https://www.gurufocus.com/news/9036063/alibaba-releases-open-source-model-qwen3827b",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
     }
   ]
 }

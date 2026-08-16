@@ -2,8 +2,8 @@
   "topic": "Vetenskap",
   "description": "Ny forskning inom fysik, medicin, biologi, klimat och nya upptäckter. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-09",
-  "item_count": 32,
+  "last_updated": "2026-08-16",
+  "item_count": 38,
   "items": [
     {
       "id": "kvantljud-kommunikation-2026",
@@ -388,6 +388,78 @@
       "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
       "added_on": "2026-08-09",
       "collected_week": "2026-W32"
+    },
+    {
+      "id": "wigner-kristall-elektronrorelse-2026",
+      "title": "Forskare avslöjar hur elektroner rör sig i mystisk Wigner-kristall",
+      "category": "Fysik",
+      "date": "2026-08-12",
+      "location": "",
+      "summary": "Fysiker vid Basels universitet och TU München har använt ljus för att för första gången se hur elektroner rör sig tillsammans inuti en så kallad Wigner-kristall, ett tillstånd där elektroner ordnar sig i ett kristallmönster vid extremt låga temperaturer. Metoden ger nya optiska signaler som avslöjar inte bara var elektronerna befinner sig utan även hur de rör sig i förhållande till varandra.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260812015156.htm",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "hiv-trippelbehandling-nyfodda-2026",
+      "title": "Trippelbehandling kan utrota HIV hos nyfödda i djurstudie",
+      "category": "Medicin",
+      "date": "2026-08-12",
+      "location": "",
+      "summary": "I en studie på nyfödda primater rensade en kombination av tre behandlingar - vanliga bromsmediciner, brett neutraliserande antikroppar och den experimentella antikroppen leronlimab - bort HIV-viruset helt när den gavs inom tre dagar efter smitta. Ingen av de åtta apor som fick alla tre behandlingarna fick tillbaka viruset ens efter att behandlingen avslutats, vilket väcker hopp om en engångsbehandling för HIV-smittade spädbarn.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260812015200.htm",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "trapptraning-hjartrisk-2026",
+      "title": "Att ta trapporna kan sänka risken att dö i hjärtsjukdom med nästan 40 procent",
+      "category": "Medicin",
+      "date": "2026-08-14",
+      "location": "",
+      "summary": "En stor analys som omfattar mer än 480 000 personer, presenterad vid European Society of Cardiologys kongress, visar att de som regelbundet tar trapporna löper 39 procent lägre risk att dö av hjärt-kärlsjukdom och 24 procent lägre risk att dö av någon orsak, jämfört med de som sällan gör det. Forskarna bedömer att omkring sex trappvåningar om dagen ger den största hälsovinsten.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260814011029.htm",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "tva-ursprung-liv-celler-2026",
+      "title": "Livets första fritt levande celler kan ha uppstått vid två separata tillfällen",
+      "category": "Biologi",
+      "date": "2026-08-11",
+      "location": "",
+      "summary": "Genom att spåra ursprunget hos enzymer från den tidigaste uppdelningen mellan bakterier och arkéer har forskare vid Heinrich Heine-universitetet i Düsseldorf funnit belägg för att fritt levande celler kan ha uppstått oberoende av varandra två gånger. Fynden tyder på att livet delar en gemensam genetisk kod men ändå kan ha gjort språnget ut från hydrotermiska källor vid mer än ett tillfälle.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260811011134.htm",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "svampart-uppkallad-kungen-2026",
+      "title": "Ny svampklass upptäckt av forskare vid Uppsala universitet - uppkallad efter kungen",
+      "category": "Upptäckter",
+      "date": "2026-08-13",
+      "location": "Sverige",
+      "summary": "Forskare vid Uppsala universitet har hittat en tidigare okänd svampart i jorden vid Jädraås i Gästrikland och gett den namnet Semicentenialea rex till minne av kung Carl XVI Gustafs 50-årsjubileum på tronen. Arten är den första kända medlemmen i en helt ny svampklass, Semicentenialomycetes.",
+      "source": "forskning.se / Uppsala universitet",
+      "url": "https://forskning.se/2026/08/13/ny-svamp-fick-kungligt-namn/",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "spindelart-saudiarabien-2026",
+      "title": "Ny spindelart upptäckt i Saudiarabiens bergsskogar",
+      "category": "Biologi",
+      "date": "2026-08-10",
+      "location": "Saudiarabien",
+      "summary": "Forskare har under en inventering i regionen Asir i sydvästra Saudiarabien hittat en spindelart som är okänd för vetenskapen och gett den namnet Oecobius asirensis. Arten skiljer sig tydligt från den typart som annars används som referens för släktet, vilket väcker frågan om den i framtiden kan behöva placeras i ett nytt släkte.",
+      "source": "forskning.se",
+      "url": "https://forskning.se/2026/08/10/ny-spindelart-upptackt-i-saudiarabiens-berg-2/",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
     }
   ]
 }

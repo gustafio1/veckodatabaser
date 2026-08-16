@@ -2,8 +2,8 @@
   "topic": "Film & TV",
   "description": "Biopremiärer, streaming, TV-serier, svensk film och filmfestivaler. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-09",
-  "item_count": 29,
+  "last_updated": "2026-08-16",
+  "item_count": 34,
   "items": [
     {
       "id": "sju-biopremiarer-juli-2026",
@@ -352,6 +352,66 @@
       "url": "https://www.moviezine.se/nyheter/24-nya-filmer-och-tv-serier-far-premiar-pa-hbo-max-i-augusti",
       "added_on": "2026-08-09",
       "collected_week": "2026-W32"
+    },
+    {
+      "id": "lanterns-hbo-max-premiar-2026",
+      "title": "DCU-serien \"Lanterns\" har premiär på HBO Max",
+      "category": "Premiär",
+      "date": "2026-08-17",
+      "location": "",
+      "summary": "Den efterlängtade DCU-serien \"Lanterns\", med Kyle Chandler och Aaron Pierre som två intergalaktiska rymdpoliser, har premiär på HBO Max den 17 augusti och är en av höstens största streamingsatsningar.",
+      "source": "MovieZine",
+      "url": "https://www.moviezine.se/nyheter/24-nya-filmer-och-tv-serier-far-premiar-pa-hbo-max-i-augusti",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "arco-biopremiar-sverige-2026",
+      "title": "Oscarsnominerade animationsfilmen \"Arco\" har svensk biopremiär",
+      "category": "Premiär",
+      "date": "2026-08-14",
+      "location": "",
+      "summary": "Den franska animationsfilmen \"Arco\" av Ugo Bienvenu, med Natalie Portman som producent och röstskådespelare, har svensk biopremiär den 14 augusti. Filmen är nominerad till bästa animerade film vid Oscarsgalan, Golden Globes och European Film Awards.",
+      "source": "MovieZine",
+      "url": "https://www.moviezine.se/movies/arco",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "filmdagarna-kiruna-internationella-regissorer-2026",
+      "title": "Internationella regissörer valde sina favoritfilmer på Filmdagarna i Kiruna",
+      "category": "Evenemang",
+      "date": "2026-08-14",
+      "location": "Kiruna",
+      "summary": "Filmdagarna i Kiruna hölls 11–14 augusti med ett program där internationella regissörer, bland andra Alexander Payne, presenterade sina favoritsvenska filmer för publiken.",
+      "source": "Svenska Filminstitutet",
+      "url": "https://www.filminstitutet.se/sv/fa-kunskap-om-film/ta-del-av-filmsamlingarna/regissorens-val/",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "blue-moon-viaplay-premiar-2026",
+      "title": "Richard Linklaters \"Blue Moon\" hade premiär på Viaplay",
+      "category": "Premiär",
+      "date": "2026-08-07",
+      "location": "",
+      "summary": "Richard Linklaters drama \"Blue Moon\" med Ethan Hawke i huvudrollen fick premiär på Viaplay den 7 augusti, som en av sommarens mest uppmärksammade filmnyheter på tjänsten.",
+      "source": "Filmparadiset",
+      "url": "https://filmparadiset.se/2026/07/10/nytt-pa-viaplay-i-augusti-2026/",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "filmstaden-veckans-premiarer-vecka33-2026",
+      "title": "Fem nya biopremiärer väntar till helgen – bland annat \"Yakari\" och \"Lassie kommer hem\"",
+      "category": "Premiär",
+      "date": "2026-08-20",
+      "location": "",
+      "summary": "Filmstaden listar veckans kommande biopremiärer den 20 augusti: \"The Father\", \"Yakari: Djurens bästa vän\", \"Lassie kommer hem\", \"Flykt\" och \"De bästa åren\" – ett brett utbud för både barn och vuxna.",
+      "source": "Filmstaden",
+      "url": "https://www.filmstaden.se/nyhet/veckans-premiarer-och-biljettslapp-vecka-33/",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
     }
   ]
 }

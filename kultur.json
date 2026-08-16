@@ -2,8 +2,8 @@
   "topic": "Kultur",
   "description": "Nya kulturevenemang i Sverige – festivaler, konserter, utställningar och scenkonst. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-09",
-  "item_count": 75,
+  "last_updated": "2026-08-16",
+  "item_count": 80,
   "items": [
     {
       "id": "sweden-rock-2026",
@@ -964,6 +964,66 @@
       "url": "https://www.vasamuseet.se/om-vasamuseet/pressrum/erling-perssons-stiftelse-stottar-skeppet-vasa-med-10-miljoner-kronor",
       "added_on": "2026-08-09",
       "collected_week": "2026-W32"
+    },
+    {
+      "id": "museet-forintelsen-rattegangarna-utstallning-2026",
+      "title": "Museet för Förintelsen öppnar utställningen \"Rättegångarna\"",
+      "category": "Utställning",
+      "date": "2026-08-27",
+      "location": "Stockholm",
+      "summary": "Museet för Förintelsen öppnar den 27 augusti utställningen \"Rättegångarna\", som skildrar efterkrigstidens rättegångar mot förövare. Besökare möter aktörerna i rättssalen och kan lyssna på Peter Weiss pjäs \"Rannsakningen\".",
+      "source": "Museet för Förintelsen",
+      "url": "https://museumforintelsen.se/",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "statens-kulturrad-ny-generaldirektor-2026",
+      "title": "Eva Bergquist ny generaldirektör för Statens kulturråd",
+      "category": "Nyhet",
+      "date": "2026-08-01",
+      "location": "Stockholm",
+      "summary": "Eva Bergquist tillträdde den 1 augusti som ny generaldirektör för Statens kulturråd, samtidigt som en ny myndighetsinstruktion trädde i kraft med bland annat återkommande undersökningar av hot och våld mot journalister.",
+      "source": "Regeringen.se",
+      "url": "https://www.regeringen.se/pressmeddelanden/2026/05/eva-bergquist-blir-ny-generaldirektor-for-statens-kulturrad/",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "goteborgs-stadsteater-host-repertoar-2026",
+      "title": "Göteborgs Stadsteater och Backa Teater presenterar höstens repertoar",
+      "category": "Nyhet",
+      "date": "2026-08-12",
+      "location": "Göteborg",
+      "summary": "Göteborgs Stadsteater och Backa Teater har presenterat sin repertoar för hösten 2026, med ett brett utbud av ny dramatik och familjeföreställningar på scenerna.",
+      "source": "Mynewsdesk",
+      "url": "https://www.mynewsdesk.com/se/goteborgs_stadsteater_ab/pressreleases/goeteborgs-stadsteater-och-backa-teater-presenterar-repertoaren-hoesten-2026-3443937",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "kulturfestivalen-stockholm-nya-omraden-2026",
+      "title": "Kulturfestivalen i Stockholm växer med tre nya festivalområden",
+      "category": "Evenemang",
+      "date": "2026-08-12",
+      "location": "Stockholm",
+      "summary": "Kulturfestivalen i Stockholm pågår 12–16 augusti med omkring 400 programpunkter och fri entré. I år introduceras tre nya områden: Slottsbacken med katalansk kultur, Slussen med liveakter vid vattnet och en marknad på Skeppsbrokajen.",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/stockholm/guide-kulturfestivalen-i-stockholm-2026",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "kungliga-operan-kulturfestivalen-gratiskonsert-2026",
+      "title": "Kungliga Operan bjöd på gratiskonsert under Kulturfestivalen",
+      "category": "Konsert",
+      "date": "2026-08-14",
+      "location": "Stockholm",
+      "summary": "Kungliga Operan var en av artisterna på Kulturfestivalens största scen Gustav Adolfs torg, tillsammans med bland andra Otto Knows och RIX FM Festival, när festivalen bjöd på gratis konserter för alla stockholmare.",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/stockholm/guide-kulturfestivalen-i-stockholm-2026",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
     }
   ]
 }

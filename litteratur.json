@@ -2,8 +2,8 @@
   "topic": "Litteratur",
   "description": "Boksläpp, litterära priser, författarnyheter och förlagsbranschen. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-09",
-  "item_count": 31,
+  "last_updated": "2026-08-16",
+  "item_count": 36,
   "items": [
     {
       "id": "taiwan-travelogue-international-booker-2026",
@@ -376,6 +376,66 @@
       "url": "https://www.svt.se/kultur/nu-ges-kulturkanon-ut-som-bok-tradgardh-har-tagit-initiativ",
       "added_on": "2026-08-09",
       "collected_week": "2026-W32"
+    },
+    {
+      "id": "ajvide-lindqvist-sommaren-1986-2026",
+      "title": "John Ajvide Lindqvist ger ut \"Sommaren 1986: Lovisa och Melinda\"",
+      "category": "Boksläpp",
+      "date": "2026-08-18",
+      "location": "",
+      "summary": "John Ajvide Lindqvist släpper den 18 augusti boken \"Sommaren 1986: Lovisa och Melinda\" på Ordfront förlag, ett efterlängtat tillskott bland höstens böcker.",
+      "source": "enligt O",
+      "url": "https://www.enligto.se/2026/07/31/bocker-att-se-fram-emot-i-augusti-2026/",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "agnes-lidbeck-fotografens-skugga-2026",
+      "title": "Agnes Lidbeck aktuell med nya romanen \"Fotografens skugga\"",
+      "category": "Boksläpp",
+      "date": "2026-08-21",
+      "location": "",
+      "summary": "Agnes Lidbecks nya roman \"Fotografens skugga\" ges ut den 21 augusti av Albert Bonniers förlag och är en av höstens mest efterlängtade svenska utgivningar.",
+      "source": "enligt O",
+      "url": "https://www.enligto.se/2026/07/31/bocker-att-se-fram-emot-i-augusti-2026/",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "augustpriset-2026-juryer-arton-titlar",
+      "title": "Augustprisets tre jurygrupper redo att välja arton nominerade titlar",
+      "category": "Nyhet",
+      "date": "2026-08-12",
+      "location": "",
+      "summary": "Augustprisets skönlitterära jury leds i år av Max Edenborg, fackboksjuryn av Gunilla Kindstrand och barn- och ungdomsjuryn av Felix Sjögren. Tillsammans väljer de tre jurygrupperna ut arton nominerade titlar, sex i varje kategori, inför tillkännagivandet i oktober.",
+      "source": "Augustpriset",
+      "url": "https://augustpriset.se/pressmeddelanden/augustprisets-juryer-2026/",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "bokdagar-dalsland-2026",
+      "title": "Bokdagar i Dalsland samlade läsare i Åmål",
+      "category": "Evenemang",
+      "date": "2026-08-13",
+      "location": "Åmål",
+      "summary": "En av Sveriges äldsta och största litteraturfestivaler, Bokdagar i Dalsland, hölls 13–15 augusti i Åmål med författarsamtal och bokförsäljning.",
+      "source": "Bokdagar i Dalsland",
+      "url": "https://www.bokdagaridalsland.se/event/bokdagar-i-dalsland-13-15-augusti-2026/",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "bokmassan-2026-romance-feelgood-omrade",
+      "title": "Bokmässan lanserar nytt område för Romance och Feelgood",
+      "category": "Nyhet",
+      "date": "2026-08-12",
+      "location": "Göteborg",
+      "summary": "Inför Bokmässan i Göteborg den 24–27 september presenteras en nyhet: ett helt nytt mässområde tillägnat genrerna Romance och Feelgood, som hyllar de stora känslorna i litteraturen.",
+      "source": "Boktugg",
+      "url": "https://www.boktugg.se/2026/04/13/romance-och-feelgood-nytt-omrade-pa-bokmassan-2026-hyllar-de-stora-kanslorna/",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
     }
   ]
 }

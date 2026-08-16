@@ -2,8 +2,8 @@
   "topic": "Psykologi – Vänskap",
   "description": "Ny forskning och insikter om vänskap, relationer och social anknytning. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-09",
-  "item_count": 65,
+  "last_updated": "2026-08-16",
+  "item_count": 71,
   "items": [
     {
       "id": "vanskap-folkhalsotillgang-2026",
@@ -784,6 +784,78 @@
       "url": "https://www.psychologs.com/why-the-quality-of-friendship-matters-more-than-the-number-of-friends/",
       "added_on": "2026-08-09",
       "collected_week": "2026-W32"
+    },
+    {
+      "id": "global-flourishing-vanskap-halsa-22-lander-2026",
+      "title": "Tillfredsställande vänskap kopplas till bättre hälsa i 22 länder",
+      "category": "Forskning",
+      "date": "2026-08-13",
+      "location": "",
+      "summary": "En global studie med över 200 000 vuxna i 22 länder visar att de som är mest nöjda med sina vänskaper och relationer också rapporterar bättre fysisk och psykisk hälsa, oavsett kultur eller land.",
+      "source": "Phys.org / Journal of Mental Health",
+      "url": "https://phys.org/news/2026-08-fulfilling-friendships-linked-health-countries.html",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "kvantitet-kvalitet-vanskap-tradeoff-2026",
+      "title": "Vi vill ha både många vänner och nära vänskap – inte antingen eller",
+      "category": "Forskning",
+      "date": "2026-08-07",
+      "location": "",
+      "summary": "Fem studier med över 5 000 deltagare visar att människor sällan väljer mellan ett stort vänskapsnätverk och emotionell närhet – de flesta önskar båda samtidigt, och ett starkt behov av närhet hänger snarare ihop med redan upplevd ensamhet.",
+      "source": "The Conversation / Evolution and Human Behavior",
+      "url": "https://theconversation.com/a-lot-of-casual-friends-or-only-a-few-youre-really-close-with-new-research-questions-that-trade-off-282952",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "tonarskarlek-vanskapsnatverk-popularitet-2026",
+      "title": "Vilka tonåringar blir kära i vem? Vänskapsnätverket spelar roll",
+      "category": "Forskning",
+      "date": "2026-08-10",
+      "location": "",
+      "summary": "Analys av den nederländska PEAR-studien visar att tonåringar med fler vänskapsband och högre social status oftare blir föremål för andras förälskelse – vänskapsnätverkets struktur formar alltså även det romantiska livet.",
+      "source": "PsyPost / Journal of Social and Personal Relationships",
+      "url": "https://www.psypost.org/who-do-teens-crush-on-a-new-study-reveals-the-social-math-of-adolescent-attraction/",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "social-isolering-aldrande-hjarna-oberoende-ensamhet-2026",
+      "title": "Social isolering skadar den åldrande hjärnan oavsett om man känner sig ensam",
+      "category": "Forskning",
+      "date": "2026-08-09",
+      "location": "",
+      "summary": "Ny studie visar att fysisk social isolering hos äldre påskyndar kognitiv nedgång oberoende av subjektiv ensamhetskänsla, vilket tyder på att åtgärder mot isolering och mot ensamhet behöver riktas separat.",
+      "source": "PsyPost / Journal of Gerontology: Series B",
+      "url": "https://www.psypost.org/social-isolation-harms-the-aging-brain-independently-of-loneliness/",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "anknytningsstil-ensam-tid-upplevelse-2026",
+      "title": "Din anknytningsstil formar hur du upplever att vara ensam",
+      "category": "Forskning",
+      "date": "2026-06-09",
+      "location": "",
+      "summary": "Studie visar att otrygg anknytning hänger samman med högre ensamhetskänsla, och att detta samband delvis förklaras av vilken typ av motiv man har för att söka sig till avskildhet.",
+      "source": "PsyPost",
+      "url": "https://www.psypost.org/how-your-attachment-style-is-linked-to-the-way-you-experience-being-alone/",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "danska-anknytningsstilar-befolkningsstudie-2025",
+      "title": "Stor dansk befolkningsstudie kartlägger anknytningsstilar genom livet",
+      "category": "Studie",
+      "date": "2025-12-23",
+      "location": "",
+      "summary": "Studie av nästan 3 600 danska vuxna i åldrarna 18–79 visar att de flesta har en trygg anknytningsstil genom livet, men att otrygg anknytning hänger samman med sämre psykiskt mående oavsett ålder och kön.",
+      "source": "Scandinavian Journal of Psychology (Simonsen et al.)",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/sjop.70065",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
     }
   ]
 }

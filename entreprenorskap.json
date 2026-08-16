@@ -2,8 +2,8 @@
   "topic": "Entreprenörskap",
   "description": "Forskning om startups, finansiering, grundare och innovation. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-09",
-  "item_count": 29,
+  "last_updated": "2026-08-16",
+  "item_count": 37,
   "items": [
     {
       "id": "grundaregenskaper-startupframgang-2026",
@@ -352,6 +352,102 @@
       "url": "https://www.citystgeorges.ac.uk/news-and-events/news/2026/january/new-research-reveals-the-true-extent-of-self-employment-on-stress",
       "added_on": "2026-08-09",
       "collected_week": "2026-W32"
+    },
+    {
+      "id": "lovable-serie-c-finansiering-2026",
+      "title": "Stockholmsbolaget Lovable reser 400 miljoner dollar och dubblar sin värdering",
+      "category": "Finansiering",
+      "date": "2026-08-12",
+      "location": "",
+      "summary": "AI-kodningsplattformen Lovable från Stockholm har tagit in en Series C på cirka 343 miljoner euro, vilket värderar bolaget till 13,3 miljarder dollar. Rundan leddes av Menlo Ventures tillsammans med EQT:s Scaleup Europe Fund och ska finansiera fortsatt global tillväxt och nyanställningar inom bland annat maskininlärning.",
+      "source": "EU-Startups",
+      "url": "https://www.eu-startups.com/2026/08/lovable-raise-e343-million-series-c-to-expand-its-platform-infrastructure-and-global-team/",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "quartr-finansieringsrunda-altos-2026",
+      "title": "Finansdataplattformen Quartr tar in 15,6 miljoner euro med SEB som ny investerare",
+      "category": "Finansiering",
+      "date": "2026-08-11",
+      "location": "",
+      "summary": "Stockholmsbolaget Quartr, som bygger strukturerad AI-redo data för investerarrelationer, har stängt en finansieringsrunda ledd av befintliga huvudägaren Altos Ventures. Banken SEB gick in som ny delägare i samband med rundan, som värderar bolaget till omkring 1,9 miljarder kronor.",
+      "source": "EU-Startups",
+      "url": "https://www.eu-startups.com/2026/08/stockholms-quartr-lands-e15-6-million-to-expand-its-ai-ready-public-company-ir-data-coverage",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "bright-day-graphene-oji-holdings-2026",
+      "title": "Bright Day Graphene får tre miljoner euro från japansk pappersjätte",
+      "category": "Finansiering",
+      "date": "2026-08-11",
+      "location": "",
+      "summary": "Materialstartupen Bright Day Graphene i Stockholm, som utvinner grafen ur restprodukten lignin från skogsindustrin, har fått en strategisk investering från japanska Oji Holdings. Kapitalet ska användas för att skala upp den hållbara tillverkningsprocessen och bredda kommersiella nätverk i Europa och Asien.",
+      "source": "Graphene-Info",
+      "url": "https://www.graphene-info.com/bright-day-graphene-raises-3-million-japanese-paper-manufacturer-oji-holdings",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "aequitas-invest-kvinnliga-grundare-2026",
+      "title": "Tidigare Paypal-chef lanserar crowdfundingplattform för att täppa till riskkapitalets könsgap",
+      "category": "Nyhet",
+      "date": "2026-08-13",
+      "location": "",
+      "summary": "En före detta Paypal-chef har startat crowdfundingplattformen Aequitas Invest för att kanalisera kapital till kvinnoledda bolag, som enligt artikeln fick under två procent av det amerikanska riskkapitalet trots att de ofta genererar högre avkastning per investerad dollar än manligt ledda bolag. Initiativet lyfts fram som ett svar på att endast en liten andel av VC-branschens investeringsbeslut fattas av kvinnor.",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/laureldonnellan/2026/08/13/a-former-paypal-exec-is-fixing-vcs-biggest-blind-spot-women-founders/",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "svenska-startups-finansieringsoversikt-2026",
+      "title": "Svenska techbolag har rest över tolv miljarder kronor hittills i år",
+      "category": "Marknad",
+      "date": "2026-08-14",
+      "location": "",
+      "summary": "En sammanställning av 2026 års tio största svenska finansieringsrundor visar att kapitalet varit starkt koncentrerat till ett fåtal storaffärer, med healthtech-bolaget Neko Health och AI-plattformen Lovable som de två klart största mottagarna. Åtta av de tio största rundorna gick till Stockholmsbaserade bolag, vilket bekräftar huvudstadens dominans i den svenska startup-ekonomin.",
+      "source": "EU-Startups",
+      "url": "https://www.eu-startups.com/2026/08/the-10-biggest-startup-investments-in-sweden-this-year",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "monava-dronedetektering-finansiering-2026",
+      "title": "Svensk-finska försvarstechbolaget Monava tar in kapital för drönardetektering",
+      "category": "Finansiering",
+      "date": "2026-08-04",
+      "location": "",
+      "summary": "Monava, som utvecklar passiv akustisk AI-teknik för att upptäcka och klassificera drönare utan att själv gå att detektera, har stängt en finansieringsrunda ledd av Gungnir Capital. Tekniken används redan i Norden och Ukraina, och kapitalet ska gå till kommersialisering i takt med snabbt växande efterfrågan från försvarskunder.",
+      "source": "Tech.eu",
+      "url": "https://tech.eu/2026/08/04/monava-closes-funding-round-as-demand-for-passive-drone-detection-grows/",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "handelshogskolan-jamstalldhetsgap-startups-2026",
+      "title": "Studie: Snabb tillväxt i startups riskerar att öka jämställdhetsgapet",
+      "category": "Forskning",
+      "date": "2026-02-05",
+      "location": "",
+      "summary": "Forskare vid Handelshögskolan i Stockholm har analyserat drygt 31 000 svenska nystartade bolag och visar att när mansledda startups skalar snabbt minskar sannolikheten att en kvinna anställs eller befordras till chef, sannolikt för att tidspressade grundare faller tillbaka på magkänsla och invanda mönster vid rekrytering. Grundare med HR-bakgrund bryter dock trenden och anställer och befordrar kvinnor i högre grad även under snabb tillväxt.",
+      "source": "Handelshögskolan i Stockholm",
+      "url": "https://www.hhs.se/sv/om-oss/news/sse/2026/snabb-tillvaxt-i-startups-kan-oka-jamstalldhetsgapet-visar-stor-studie/",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "gem-globalrapport-overlevnadsgap-2026",
+      "title": "Global rapport varnar för växande överlevnadsgap bland nya företag",
+      "category": "Forskning",
+      "date": "2026-02-26",
+      "location": "",
+      "summary": "Global Entrepreneurship Monitors senaste globala rapport, baserad på data från 53 länder, visar rekordhög nyföretagsamhet men pekar samtidigt på ett växande glapp mellan hur många som startar bolag och hur få som lyckas etablera dem långsiktigt. Rapporten lyfter också fram en ökande klyfta i tillgång till AI-verktyg mellan olika grupper av entreprenörer, vilket riskerar att förstärka skillnaderna i vilka som lyckas skala sina bolag.",
+      "source": "Global Entrepreneurship Monitor (GEM)",
+      "url": "https://www.gemconsortium.org/reports/latest-global-report",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
     }
   ]
 }

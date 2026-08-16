@@ -2,8 +2,8 @@
   "topic": "Historia",
   "description": "Historisk forskning, arkeologiska fynd, svensk historia, böcker och jubileer. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-09",
-  "item_count": 29,
+  "last_updated": "2026-08-16",
+  "item_count": 36,
   "items": [
     {
       "id": "herlaugshaugen-skeppsgrav-2026",
@@ -352,6 +352,90 @@
       "url": "https://www.durham.ac.uk/research/current/research-news/2026/06/ancient-rock-carvings-suggest-bronze-age-maritime-links-across-europe/",
       "added_on": "2026-08-09",
       "collected_week": "2026-W32"
+    },
+    {
+      "id": "grottfynd-gravid-kvinna-gotland-2026",
+      "title": "9 000 år gammal gravid kvinna funnen i grotta på Gotland",
+      "category": "Fynd",
+      "date": "2026-08-03",
+      "location": "Lilla Karlsö, Gotland, Sverige",
+      "summary": "Arkeologer har på ön Lilla Karlsö grävt fram skelettet av en ung kvinna med ett ovanligt välbevarat foster i magen, ett fynd som dateras till omkring 9 000 år och beskrivs som ett av de mest sällsynta i sitt slag i världen. Fyndet öppnar för DNA-analyser och nya studier av levnadsförhållanden under stenåldern på Gotland.",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/ost/svt-besoker-doskallegrottan-dar-det-unika-fyndet-gjordes",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "jupiteraltare-donau-ungern-2026",
+      "title": "Romerskt altare till Jupiter blottlades av Donaus rekordlåga vattenstånd",
+      "category": "Fynd",
+      "date": "2026-08-05",
+      "location": "Dunaújváros, Ungern",
+      "summary": "Extrem torka har sänkt Donaus vattennivå till rekordlåga nivåer och avslöjat ett romerskt altare rest till guden Jupiter nära den forna gränsstaden Intercisa. Kort därefter hittade forskare även två inskriptionsförsedda kalkstenstavlor på samma plats, fynd som väntas ge ny kunskap om religionsutövningen vid det romerska gränsfortet.",
+      "source": "Archaeology News Online Magazine",
+      "url": "https://archaeologymag.com/2026/08/roman-altar-dedicated-to-jupiter-danube/",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "volvo-hundraarsjubileum-2026",
+      "title": "Volvo firar 100 år sedan bolaget grundades 1926",
+      "category": "Jubileum",
+      "date": "2026-08-10",
+      "location": "Göteborg/Hofors, Sverige",
+      "summary": "Den 10 augusti 1926 bildades AB Volvo som dotterbolag till SKF vid ett styrelsemöte i Hofors, och hundra år senare uppmärksammas jubileet med evenemang runt om i Sverige. Företagets bilhistoria tog sin början året därpå när den första serietillverkade modellen, ÖV4 med smeknamnet \"Jakob\", rullade ut från fabriken på Hisingen i Göteborg.",
+      "source": "Popular Historia",
+      "url": "https://popularhistoria.se/sveriges-historia/den-svenska-bilen-rullade-ut-over-varlden",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "dna-mammuthonor-jakt-2026",
+      "title": "Uråldrigt DNA visar att istidens jägare främst dödade mammuthonor",
+      "category": "Forskning",
+      "date": "2026-08-11",
+      "location": "Stockholm, Sverige",
+      "summary": "Forskare vid Stockholms universitet har analyserat förhistoriskt DNA från över 500 mammutben och funnit att människor under istiden i betydligt högre grad jagade honor än hanar. Enligt professor Love Dalén visar studien, publicerad i Current Biology, hur gammal DNA-analys kan besvara arkeologiska frågor som länge varit olösta.",
+      "source": "forskning.se",
+      "url": "https://forskning.se/2026/08/11/forhistoriskt-dna-avslojar-istidens-manniskor-foredrog-mammuthonor/",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "aldsta-skalparlan-kalifornien-2026",
+      "title": "Äldsta kända skalpärlan avslöjar tidig handel i Kaliforniens inland",
+      "category": "Forskning",
+      "date": "2026-08-11",
+      "location": "Monterey County, Kalifornien, USA",
+      "summary": "En cirka 8 500 år gammal pärla tillverkad av jättekammussla har daterats till att vara den äldsta kända i sitt slag, funnen mer än sex mil från kusten vid boplatsen Turkey Flat i södra Kalifornien. Fyndet visar att handelsnätverk mellan kust och inland i regionen fanns etablerade tusentals år tidigare än forskare tidigare trott.",
+      "source": "Archaeology Magazine",
+      "url": "https://archaeology.org/news/2026/08/11/giant-rock-scallop-beads-from-california-studied/",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "kushanskt-sigill-tadzjikistan-2026",
+      "title": "Sällsynt kushanskt kungasigill grävdes fram i Tadzjikistan",
+      "category": "Fynd",
+      "date": "2026-08-14",
+      "location": "Khatlonprovinsen, Tadzjikistan",
+      "summary": "Vid utgrävningar på den historiska platsen Sayyod i södra Tadzjikistan har forskare från landets nationalmuseum hittat ett cirka 2 000 år gammalt sigill av bränd lera från Kushanriket, dekorerat med en härskarbyst i tornkrona samt baktrisk skrift. Sigillet studeras nu av numismatiker och epigrafer för att tolka inskriptionen och klarlägga dess ursprungliga administrativa funktion.",
+      "source": "Arkeonews",
+      "url": "https://arkeonews.net/rare-2000-year-old-kushan-royal-seal-discovered-in-tajikistan/",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "dick-harrison-huset-habsburg-2026",
+      "title": "Dick Harrison skildrar habsburgarnas väg till Europas mäktigaste dynasti",
+      "category": "Bok",
+      "date": "2026-08-20",
+      "location": "Sverige",
+      "summary": "Historikern Dick Harrison ger ut boken \"Huset Habsburg\", en bred skildring av hur en regionalt inflytelserik medeltida ätt genom giftermål och politiska allianser växte till Europas mäktigaste härskarhus. Boken beskrivs av förlaget som den första samlade svenskspråkiga framställningen av dynastin, från dess tidiga ursprung fram till fallet efter första världskriget.",
+      "source": "Historiska Media",
+      "url": "https://historiskamedia.se/bok/huset-habsburg/",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
     }
   ]
 }

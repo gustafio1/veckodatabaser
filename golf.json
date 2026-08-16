@@ -2,8 +2,8 @@
   "topic": "Golf",
   "description": "Majors och tourtävlingar, svenska golfare, tävlingar och utrustning. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-09",
-  "item_count": 27,
+  "last_updated": "2026-08-16",
+  "item_count": 33,
   "items": [
     {
       "id": "ryan-fox-vinner-the-open-royal-birkdale-2026",
@@ -328,6 +328,66 @@
       "url": "https://www.lpga.com/tournaments",
       "added_on": "2026-08-09",
       "collected_week": "2026-W32"
+    },
+    {
+      "id": "michael-brennan-vinner-wyndham-2026",
+      "title": "Brennan chockvann Wyndham Championship och tog sista slutspelsplatsen",
+      "category": "Tävling",
+      "date": "2026-08-09",
+      "location": "Greensboro, North Carolina, USA",
+      "summary": "Michael Brennan slog till med 22 under par på Sedgefield Country Club och vann Wyndham Championship med tre slags marginal före Beau Hossler, vilket säkrade honom en plats i FedEx Cup-slutspelet och nästa års Masters.",
+      "source": "ESPN / PGA Tour",
+      "url": "https://www.espn.com/golf/story/_/id/49570990/brennan-wins-wyndham-makes-pga-tour-postseason-more"
+    },
+    {
+      "id": "alex-noren-topp-tio-wyndham-2026",
+      "title": "Norén klättrade till slutspelsplats efter stark Wyndham-avslutning",
+      "category": "Nyhet",
+      "date": "2026-08-09",
+      "location": "Greensboro, North Carolina, USA",
+      "summary": "Alex Norén spelade två raka rundor på 65 slag och slutade till slut på delad sjundeplats vid Wyndham Championship, vilket lyfte honom till 46:e plats i FedEx Cup-ställningen och en trygg slutspelsplats.",
+      "source": "PGA Tour",
+      "url": "https://www.pgatour.com/article/news/latest/2026/08/03/the-first-look-storylines-wyndham-championship-preview-sedgefield-country-club-fedexcup-playoffs-top-70"
+    },
+    {
+      "id": "scheffler-61-slag-st-jude-2026",
+      "title": "Scheffler slog banrekord med 61 slag i slutspelsöppningen",
+      "category": "Tävling",
+      "date": "2026-08-14",
+      "location": "Memphis, Tennessee, USA",
+      "summary": "Scottie Scheffler inledde med fem raka birdies och noterade en niounder 61:a som matchade banrekordet på TPC Southwind, vilket gav honom en klar ledning i FedEx St. Jude Championship, det första slutspelseventet i FedEx Cup.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/golf/story/_/id/49613393/scottie-scheffler-61-ties-course-record-takes-3-shot-lead-memphis"
+    },
+    {
+      "id": "aberg-tung-lordagsrunda-st-jude-2026",
+      "title": "Tung lördag för Åberg i Memphis – rasade i resultatlistan",
+      "category": "Nyhet",
+      "date": "2026-08-15",
+      "location": "Memphis, Tennessee, USA",
+      "summary": "Efter en stark start med sju birdies på fredagen fick Ludvig Åberg se sitt slutspel rasa samman på lördagen med fyra bogeys och en dubbelbogey, bland annat sedan en drive gått i vattnet på hål elva, och han föll ner till delad 22:a plats i FedEx St. Jude Championship.",
+      "source": "SVT Sport",
+      "url": "https://www.svt.se/sport/golf/mardromsrunda-for-ludvig-aberg-rasade-i-resultatlistan"
+    },
+    {
+      "id": "jeff-winther-vinner-danish-golf-championship-2026",
+      "title": "Winther tog hemmaseger i dansk thriller mot Højgaard",
+      "category": "Tävling",
+      "date": "2026-08-16",
+      "location": "Kerteminde, Danmark",
+      "summary": "Jeff Winther kom in fyra slag bakom ledningen inför sista rundan men avgjorde med en femunder 67:a och vann Danish Golf Championship på DP World Tour med tre slags marginal, tre slag före bland andra landsmannen Rasmus Højgaard.",
+      "source": "Sky Sports",
+      "url": "https://www.skysports.com/golf/news/12230/13573720/danish-golf-championship-jeff-winther-pips-fellow-dane-rasmus-hojgaard-in-thrilling-finish-to-dp-world-tour-event"
+    },
+    {
+      "id": "taylormade-hi-toe-5-wedge-2026",
+      "title": "TaylorMade lanserar helsmidda Hi-Toe 5-wedgar",
+      "category": "Test",
+      "date": "2026-08-13",
+      "location": "",
+      "summary": "TaylorMade presenterade nästa generation av sin populära Hi-Toe-wedge, nu helt smidd med spårfräst yta över hela klubbladet och fem olika sulslipningar, med cirka 13 procent bättre spinnprestanda än föregångaren enligt bolagets tester.",
+      "source": "Golf.com",
+      "url": "https://golf.com/gear/wedges/taylormade-hi-toe-5-wedges-forged/"
     }
   ]
 }

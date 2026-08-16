@@ -2,8 +2,8 @@
   "topic": "Friluftsliv",
   "description": "Vandringsleder, friluftsutrustning, naturvård, allemansrätt och äventyr. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-09",
-  "item_count": 29,
+  "last_updated": "2026-08-16",
+  "item_count": 36,
   "items": [
     {
       "id": "pusselleden-invigd-sigtuna-2026",
@@ -352,6 +352,76 @@
       "url": "https://www.vlt.se/nyheter/larm-om-brand-i-byggnad",
       "added_on": "2026-08-09",
       "collected_week": "2026-W32"
+    },
+    {
+      "id": "eskilstuna-eldningsforbud-skarpt-augusti2026",
+      "title": "Skärpt eldningsförbud infört i Eskilstuna efter extrem torka",
+      "category": "Naturvård",
+      "date": "2026-08-13",
+      "location": "Eskilstuna",
+      "summary": "Räddningstjänsten skärpte eldningsförbudet i Eskilstuna kommun från torsdag eftermiddag sedan skog och mark bedömts vara extremt torra, med risk för snabbt spridande bränder när höga temperaturer väntades.",
+      "source": "Eskilstuna-Kuriren",
+      "url": "https://www.ekuriren.se/nyheter/eskilstuna/artikel/skarpt-eldningsforbud-i-eskilstuna-kommun/jn3nqqnr"
+    },
+    {
+      "id": "skuleskogen-rekordbesok-parkering-full-2026",
+      "title": "Rekordmånga besökare fyller parkeringen i Skuleskogens nationalpark",
+      "category": "Nyhet",
+      "date": "2026-08-09",
+      "location": "Skuleskogens nationalpark, Höga Kusten",
+      "summary": "Intresset för Skuleskogens nationalpark har slagit rekord i sommar, med parkeringen vid södra entrén fullbelagd tre veckor i rad och allt fler utländska vandrare på plats, enligt personal på länsstyrelsen.",
+      "source": "SVT Nyheter Västernorrland",
+      "url": "https://www.svt.se/nyheter/lokalt/vasternorrland/parkeringen-sprangfylld-i-skuleskogen-rekordmanga-besok-i-sommar"
+    },
+    {
+      "id": "valdemarsvik-tva-nya-naturreservat-2026",
+      "title": "Två nya naturreservat bildade i Valdemarsvik",
+      "category": "Naturvård",
+      "date": "2026-08-16",
+      "location": "Valdemarsvik",
+      "summary": "Länsstyrelsen har bildat två nya naturreservat i Valdemarsviks kommun, bland annat en 50 hektar gammal skog med träd över 200 år samt det marina reservatet Skräckskär i Gryts skärgård, för att skydda värdefull natur och gynna friluftslivet.",
+      "source": "Corren",
+      "url": "https://www.corren.se/nyheter/valdemarsvik/artikel/tva-nya-naturreservat-inrattade-i-valdemarsvik/lyxwwpzr"
+    },
+    {
+      "id": "friluftslyft-debatt-vasterbotten-2026",
+      "title": "Debattörer kräver nationellt friluftslyft för barns hälsa",
+      "category": "Nyhet",
+      "date": "2026-08-16",
+      "location": "Västerbotten",
+      "summary": "Företrädare för Friluftsfrämjandet argumenterar för en bred nationell satsning på friluftsliv och pekar på att 85 procent av barnen i Västerbotten rör sig för lite, samtidigt som barns naturbesök minskat kraftigt trots kända hälsovinster.",
+      "source": "Norran",
+      "url": "https://www.norran.se/debatt/artikel/politiker-i-vasterbotten-ga-till-val-pa-ett-friluftslyft/jo5o201l"
+    },
+    {
+      "id": "fritidskortet-6-aringar-friluftsliv-2026",
+      "title": "Fritidskortet öppnas för alla 6-åringar för att öka barns friluftsliv",
+      "category": "Nyhet",
+      "date": "2026-08-10",
+      "location": "Sverige",
+      "summary": "Från den 10 augusti kan även 6-åringar ta del av statliga Fritidskortet, en satsning som ska ge fler barn möjlighet att delta i organiserade aktiviteter inom bland annat friluftsliv, idrott och föreningsliv.",
+      "source": "Regeringen.se",
+      "url": "https://www.regeringen.se/pressmeddelanden/2026/08/fritidskortet-oppnar-for-alla-6-aringar/"
+    },
+    {
+      "id": "ryfjallet-naturreservat-utokning-forslag-2026",
+      "title": "Länsstyrelsen föreslår utökning av naturreservatet Ryfjället",
+      "category": "Naturvård",
+      "date": "2026-08-10",
+      "location": "Västerbotten",
+      "summary": "Länsstyrelsen i Västerbotten har lagt fram ett förslag om att utöka naturreservatet Ryfjället, ett beslut som väntas stärka skyddet för värdefull fjällnatur och samtidigt gynna friluftslivet i området.",
+      "source": "Länsstyrelsen Västerbotten",
+      "url": "https://www.lansstyrelsen.se/vasterbotten/om-oss/om-lansstyrelsen-i-vasterbottens-lan/remisser/remisser---vasterbotten/2026-08-10-forslag-till-beslut-for-utokning-av-naturreservatet-ryfjallet.html"
+    },
+    {
+      "id": "vandrare-knaskada-fjallraddning-gallivare-2026",
+      "title": "Vandrare skadade knäet i fjällen och räddades med helikopter",
+      "category": "Nyhet",
+      "date": "2026-08-15",
+      "location": "Norr om Liedik, Gällivare kommun",
+      "summary": "En vandrare skadade knäet i fjällterräng norr om Liedik under lördagsförmiddagen och kunde inte ta sig ner själv, varpå en fjällräddningsinsats med helikopter genomfördes och personen fördes vidare till ambulans.",
+      "source": "Norrländska Socialdemokraten (NSD)",
+      "url": "https://www.nsd.se/nyheter/gallivare/artikel/vandrare-skadar-knaet-i-fjallen-raddas-med-helikopter/l786ne1j"
     }
   ]
 }

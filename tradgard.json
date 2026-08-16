@@ -2,8 +2,8 @@
   "topic": "Trädgård",
   "description": "Forskning om odling, biologisk mångfald, jord, pollinatörer och hälsa. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-09",
-  "item_count": 27,
+  "last_updated": "2026-08-16",
+  "item_count": 35,
   "items": [
     {
       "id": "naturbaserad-rorelse-psykisk-halsa-2026",
@@ -328,6 +328,102 @@
       "url": "https://forskning.se/2026/05/27/humlor-trivs-bland-blommande-vagkanter-med-lite-trafik/",
       "added_on": "2026-08-09",
       "collected_week": "2026-W32"
+    },
+    {
+      "id": "inhemska-vaxter-fyrdubblar-pollinatorer-2026",
+      "title": "Trädgårdar med inhemska växter lockar fyra gånger fler pollinatörer",
+      "category": "Forskning",
+      "date": "2026-08-03",
+      "location": "",
+      "summary": "En ny studie från Cal State LA visar att villaträdgårdar planterade med kaliforniska inhemska växter drar till sig omkring fyra gånger så många pollinerande insekter som konventionellt anlagda trädgårdar. Resultaten stärker rekommendationen att välja inhemska arter framför exotiska prydnadsväxter för den som vill gynna bin och andra pollinatörer hemma.",
+      "source": "Cal State LA Newsroom",
+      "url": "https://news.calstatela.edu/2026/08/03/cal-state-la-study-finds-native-plants-boost-urban-pollinators/",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "stadsodlare-utbildning-pollinerare-2026",
+      "title": "Tillgång till kunskap avgör om stadsodlare gynnar pollinatörer",
+      "category": "Forskning",
+      "date": "2026-08-07",
+      "location": "",
+      "summary": "Forskare vid Michigan State University fann att det främst är tillgång till utbildningsresurser, arbetskraft och stöd som avgör om urbana odlare inför pollinatörsvänliga metoder, snarare än odlarnas ålder, inkomst eller vilka grödor de odlar. Studien pekar på att riktade utbildningsinsatser kan vara ett effektivt sätt att öka andelen stadsodlingar som aktivt gynnar bin och andra pollinatörer.",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-08-urban-growers-accessible-resources-pollinator.html",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "pollinatorsbrist-hotar-naring-halsa-2026",
+      "title": "Färre pollinerande insekter kopplas till sämre näringsintag hos barn",
+      "category": "Forskning",
+      "date": "2026-05-06",
+      "location": "",
+      "summary": "En internationell studie ledd från University of Bristol visar hur minskande mängder pollinerande insekter försämrar tillgången på insektspollinerade grödor som frukt, baljväxter och grönsaker, vilket i sin tur bidrar till brist på vitamin A, folat och protein hos barn i bland annat Nepal. Forskarna menar att stöd till pollinatörer därför också är en fråga om folkhälsa och barns tillväxt.",
+      "source": "University of Washington News",
+      "url": "https://www.washington.edu/news/2026/05/06/fewer-insects-fewer-nutritious-crops-pollinator-decline-puts-our-health-at-risk/",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "pollineringsbegransning-minskar-grodor-2026",
+      "title": "Global genomgång visar att skördebortfall av pollineringsbrist minskat sedan 1950-talet",
+      "category": "Forskning",
+      "date": "2026-06-15",
+      "location": "",
+      "summary": "En metaanalys i PNAS av nära 800 fältförsök i 86 grödor visar att den globala pollineringsbegränsningen i grödor har halverats sedan 1950-talet, framför allt tack vare effektivare användning av förvaltade pollinatörer som tambin. Forskarna varnar dock för att detta inte betyder att vilda pollinatörers tillbakagång saknar betydelse, utan snarare att odlare hittills kompenserat för den.",
+      "source": "PNAS",
+      "url": "https://www.pnas.org/doi/10.1073/pnas.2533418123",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "tradgards-biologisk-mangfald-index-2026",
+      "title": "Nytt index låter trädgårdsägare mäta sin egen biologiska mångfald",
+      "category": "Forskning",
+      "date": "2026-05-27",
+      "location": "",
+      "summary": "Tyska forskare har tagit fram ett trädgårdsbiologiskt mångfaldsindex, GBI, baserat på 15 lättigenkännliga trädgårdselement som häckar och sandiga ytor, som privatpersoner själva kan använda för att bedöma och förbättra sin trädgårds naturvärde. Ett test på 2 000 tyska trädgårdar visade att de flesta ligger kring ett medelvärde, vilket forskarna tolkar som stor potential för fler att göra sina trädgårdar mer artrika.",
+      "source": "AIPH (International Association of Horticultural Producers)",
+      "url": "https://aiph.org/latest-news/the-garden-biodiversity-index/",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "odlade-sorter-vilda-vaxter-pollinatorer-2026",
+      "title": "Vissa förädlade trädgårdssorter lockar lika många pollinatörer som vilda växter",
+      "category": "Forskning",
+      "date": "2026-04-01",
+      "location": "",
+      "summary": "En tvåårig studie från Northwestern University och Chicago Botanic Garden jämförde fyra vilda växtarter med 13 odlade sorter och fann att vissa förädlade sorter, som prydnadsrudbeckia och slokvippa, lockade lika många bin och fjärilar som sina vilda motsvarigheter, medan andra sorter presterade sämre. Resultaten tyder på att trädgårdsägare inte behöver välja bort snygga, förädlade sorter för att gynna pollinatörer, om man väljer rätt sorter.",
+      "source": "Northwestern University / Ecosphere",
+      "url": "https://news.northwestern.edu/stories/2026/4/pollinator-friendly-gardens-dont-have-to-sacrifice-style",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "natur-kanslor-pollinatorer-tradgard-lund-2026",
+      "title": "Känslan för naturen styr vilka pollinatörsåtgärder trädgårdsägare väljer",
+      "category": "Forskning",
+      "date": "2026-02-13",
+      "location": "",
+      "summary": "En medborgarforskningsstudie från Lunds universitet med nästan 800 svenska trädgårdsägare visar att den egna naturrelationen påverkar både vilka pollinatörsgynnande åtgärder man vidtar i trädgården och hur väl de fungerar, ett samband som är särskilt tydligt i städer där kontakten med natur ofta är mindre. Forskarna menar att kunskap om pollinatörer behöver kombineras med insatser som stärker människors känslomässiga koppling till naturen.",
+      "source": "Forskning.se",
+      "url": "https://forskning.se/2026/02/13/naturen-vacker-kanslor-och-styr-hur-vi-hjalper-pollinatorer/",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "koloniomrade-artrikedom-ekosystemtjanster-berlin-2026",
+      "title": "Kolonilotter i Berlin visar sig vara rika på både arter och nytta",
+      "category": "Forskning",
+      "date": "2026-06-19",
+      "location": "",
+      "summary": "En studie av koloniträdgårdar i Berlin visar att de rymmer stor artrikedom av växter som är både ätliga, prydnads- och nektarproducerande, vilket ger flera ekosystemtjänster samtidigt som de gynnar pollinatörer och lokal matproduktion. Forskarna lyfter fram kolonilotter som en undervärderad resurs för biologisk mångfald och grön infrastruktur i städer.",
+      "source": "Plant-Environment Interactions (Wiley)",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/pei3.70173",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "topic": "Kaffe",
   "description": "Forskning om kaffe och hälsa, bryggning, koffein, smak och odling. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-09",
-  "item_count": 26,
+  "last_updated": "2026-08-16",
+  "item_count": 34,
   "items": [
     {
       "id": "kaffe-timing-mortalitet-ckm-2026",
@@ -316,6 +316,102 @@
       "url": "https://worldcoffeeresearch.org/news/world-coffee-research-launches-1-5-million-initiative-to-modernize-breeding-tools-for-global-coffee-resilience",
       "added_on": "2026-08-09",
       "collected_week": "2026-W32"
+    },
+    {
+      "id": "kaffe-hjarthalsa-circulation-oversikt-2026",
+      "title": "Måttligt kaffedrickande kan skydda hjärtat, visar ny genomgång",
+      "category": "Forskning",
+      "date": "2026-08-03",
+      "location": "",
+      "summary": "En sammanställning i tidskriften Circulation visar att upp till fem koppar koffeinhaltigt kaffe om dagen är säkert för de flesta vuxna och kan kopplas till lägre risk för hjärt-kärlsjukdom.",
+      "source": "Houston Public Media",
+      "url": "https://www.houstonpublicmedia.org/articles/news/health-science/2026/08/03/558456/good-news-for-coffee-drinkers-in-the-latest-research-on-coffee-and-caffeine-consumption/",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "kaffe-skuggodling-fagelliv-colombia-2026",
+      "title": "Skuggodlat kaffe räddar inte fåglarna utan intakt regnskog runt om",
+      "category": "Forskning",
+      "date": "2026-08-04",
+      "location": "",
+      "summary": "En studie från Anderna i Colombia visar att mängden bevarad skog i landskapet kring kaffeodlingar kan vara minst lika viktig för fågelbevarande som traditionell skuggodling av kaffebuskar.",
+      "source": "Daily Coffee News",
+      "url": "https://dailycoffeenews.com/2026/08/04/study-bird-friendly-coffee-landscapes-need-forest-alongside-shade/",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "kaffe-excelsa-klimatpress-2026",
+      "title": "Bortglömd kaffeart får ny uppmärksamhet när klimatet pressar odlingen",
+      "category": "Nyhet",
+      "date": "2026-08-03",
+      "location": "",
+      "summary": "När hetta och torka pressar arabica och robusta vänder odlare och forskare blicken mot excelsa, en tåligare kaffeart som kan bli ett svar på klimatförändringens hot mot kaffeproduktionen.",
+      "source": "Daily Coffee News",
+      "url": "https://dailycoffeenews.com/2026/08/03/climate-pressures-bring-new-attention-to-excelsa-coffee/",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "kaffe-decaf-formaksflimmer-radgivning-2026",
+      "title": "Rådet att undvika kaffe vid förmaksflimmer ifrågasätts efter ny studie",
+      "category": "Forskning",
+      "date": "2026-08-12",
+      "location": "",
+      "summary": "Uppföljande analys av den randomiserade DECAF-studien visar att patienter med förmaksflimmer som fortsatte dricka kaffe klarade sig minst lika bra som de som avstod helt, vilket utmanar gängse råd om att undvika koffein efter diagnos.",
+      "source": "News-Medical.Net",
+      "url": "https://www.news-medical.net/news/20260812/The-coffee-advice-given-to-atrial-fibrillation-patients-may-deserve-a-rethink.aspx",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "kaffe-tas2r43-beska-receptor-2026",
+      "title": "Forskare kartlägger molekylen som gör kaffe beskt",
+      "category": "Forskning",
+      "date": "2026-05-11",
+      "location": "",
+      "summary": "Med kryo-elektronmikroskopi har forskare vid University of North Carolina visat i detalj hur smakreceptorn TAS2R43 känner igen koffein, kafestol och andra beska ämnen i bryggt kaffe.",
+      "source": "UNC Health",
+      "url": "https://news.unchealthcare.org/2026/05/unc-scientists-reveal-molecular-details-that-make-coffee-taste-bitter/",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "kaffe-purdue-bryggarhygien-2026",
+      "title": "Purdueforskare granskar hygienrisker i vanliga kaffebryggare",
+      "category": "Forskning",
+      "date": "2026-07-28",
+      "location": "",
+      "summary": "I samarbete med Heartland Food Products Group undersöker Purdues livsmedelsforskare vilka bakterie- och hygienrisker som kan gömma sig i hemmakaffebryggare, trots att hett vatten använts vid bryggningen.",
+      "source": "Purdue Agriculture News",
+      "url": "https://ag.purdue.edu/news/2026/07/brewing-up-safety-purdue-food-science-and-the-heartland-food-products-group-team-up-to-revolutionize-coffee-cleanliness.html",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "kaffe-ultraljud-espresso-rumstempererat-2026",
+      "title": "Ultraljud bygger espresso av rumstempererat vatten och sparar energi",
+      "category": "Teknik",
+      "date": "2026-06-10",
+      "location": "",
+      "summary": "Forskare vid UNSW i Sydney har utvecklat en bryggmetod där ultraljud får kaffegrumset att avge smak, arom och koffein utan uppvärmning, och i blindtest kunde deltagarna inte skilja resultatet från vanlig espresso.",
+      "source": "Daily Coffee News",
+      "url": "https://dailycoffeenews.com/2026/06/10/researchers-say-ultrasonic-brewing-can-match-espresso-reduce-energy/",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "kaffe-tarmhjarna-mikrobiom-cork-2026",
+      "title": "Kaffets koppling till tarmflora, humör och minne kartläggs för första gången",
+      "category": "Forskning",
+      "date": "2026-05-02",
+      "location": "",
+      "summary": "Forskare vid APC Microbiome Ireland visar att både koffeinhaltigt och koffeinfritt kaffe förändrar tarmfloran hos vanedrickare på ett sätt som hänger ihop med lägre upplevd stress och bättre kognition.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260502233911.htm",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
     }
   ]
 }

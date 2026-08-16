@@ -2,8 +2,8 @@
   "topic": "Matlagning",
   "description": "Livsmedelsvetenskap, tekniker, jäsning och smakforskning. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-09",
-  "item_count": 25,
+  "last_updated": "2026-08-16",
+  "item_count": 31,
   "items": [
     {
       "id": "tillagningsmetoder-mineraler-lever-2026",
@@ -304,6 +304,78 @@
       "url": "https://www.sciencedaily.com/releases/2026/01/260121034132.htm",
       "added_on": "2026-08-09",
       "collected_week": "2026-W32"
+    },
+    {
+      "id": "surdegsjasning-vetefiber-arabinoxylan-2026",
+      "title": "Surdegsjäsning bryter ner vetefibrer på oväntat sätt",
+      "category": "Forskning",
+      "date": "2026-03-15",
+      "location": "",
+      "summary": "Forskare har visat att enzymer i själva vetet, aktiverade av surdegens sura miljö, bryter ner fibrerna arabinoxylaner, vilket kan förklara delar av brödets struktur, smältbarhet och smak.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260315225130.htm",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "healthferm-medborgarforskning-surdegsmangfald-2026",
+      "title": "Medborgarforskare kartlägger surdegens mångfald över hela Europa",
+      "category": "Forskning",
+      "date": "2026-01-27",
+      "location": "",
+      "summary": "Över tusen hushåll i 33 länder har inom EU-projektet HealthFerm skickat in prover på sina surdegar, vilket gett forskare en unik bild av hur olika bakmetoder formar surdegens mikrobiella mångfald.",
+      "source": "npj Science of Food",
+      "url": "https://www.nature.com/articles/s41538-026-00725-7",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "fermenterad-mat-precisionsnutrition-mun-tarm-2026",
+      "title": "Fermenterad mat kan bli grunden för skräddarsydda kostråd",
+      "category": "Forskning",
+      "date": "2026-07-16",
+      "location": "",
+      "summary": "En forskningsöversikt visar hur växtbaserade fermenterade livsmedel som kimchi och surkål, med sina rika mikrobsamhällen, skulle kunna användas för att utforma mer precisa kostråd för både mun- och tarmhälsa.",
+      "source": "Penn Dental Medicine / Nature Reviews Microbiology",
+      "url": "https://www.dental.upenn.edu/news-events/2026/07/16/turning-fermented-plant-based-foods-into-precision-nutrition-for-oral-and-gut-health/",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "surkal-blodtryck-pastorisering-studie-2026",
+      "title": "Både färsk och pastöriserad surkål gav lägre blodtryck i studie",
+      "category": "Forskning",
+      "date": "2026-06-19",
+      "location": "",
+      "summary": "En randomiserad crossover-studie med 87 deltagare visar att fyra veckors dagligt intag av surkål gav en liten sänkning av det systoliska blodtrycket, oavsett om kålen var pastöriserad eller inte.",
+      "source": "European Journal of Clinical Nutrition",
+      "url": "https://www.nature.com/articles/s41430-026-01776-5",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "umami-bioaktiva-amnen-halsoeffekter-2026",
+      "title": "Forskningsöversikt kartlägger umamiämnens effekter på kroppen",
+      "category": "Forskning",
+      "date": "2026-01-29",
+      "location": "",
+      "summary": "En ny översiktsartikel sammanställer studier om hur umami och umamiförstärkande föreningar påverkar tarm, ämnesomsättning, immunförsvar och nervsystem, bortom den rena smakupplevelsen.",
+      "source": "ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2772566926000327",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
+    },
+    {
+      "id": "mager-mjolk-halsorad-ifragasatt-2026",
+      "title": "Nya rön ifrågasätter rådet att alltid välja mager mjölk",
+      "category": "Forskning",
+      "date": "2026-08-08",
+      "location": "",
+      "summary": "En ny studie utmanar decennier av kostråd om magra mejeriprodukter och tyder på att helfeta mejeriprodukter inte nödvändigtvis är sämre för hälsan än de magra varianterna.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260808234948.htm",
+      "added_on": "2026-08-16",
+      "collected_week": "2026-W33"
     }
   ]
 }

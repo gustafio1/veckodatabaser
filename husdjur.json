@@ -2,8 +2,8 @@
   "topic": "Husdjur",
   "description": "Forskning om hundar, katter, beteende och hälsa. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-16",
-  "item_count": 35,
+  "last_updated": "2026-08-23",
+  "item_count": 41,
   "items": [
     {
       "id": "lek-starker-band-hund-agare-2026",
@@ -424,6 +424,78 @@
       "url": "https://vetmed.tamu.edu/news/press-releases/dog-aging-project-lifespan-metabolites/",
       "added_on": "2026-08-16",
       "collected_week": "2026-W33"
+    },
+    {
+      "id": "hundens-domesticering-15000-ar-2026",
+      "title": "15 000 år av ömsesidig formning mellan människor och hundar",
+      "category": "Forskning",
+      "date": "2026-08-10",
+      "location": "",
+      "summary": "En ny genomgång av hundens domesticeringshistoria visar att relationen varit en gradvis, ömsesidig process snarare än att människor ensidigt tog kontroll över vargar. Arkeologen Peter Mitchells nya bok beskriver hur hundraser under årtusenden anpassats till vitt skilda miljöer och uppgifter, från slädhundar i Arktis till hundar med genetiska anpassningar för höga höjder.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260810015700.htm",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "ett-kattliv-kattungars-dodlighet-slu-2026",
+      "title": "SLU-projekt ska förklara varför så många kattungar dör tidigt",
+      "category": "Forskning",
+      "date": "2026-08-18",
+      "location": "Sverige",
+      "summary": "Veterinären och doktoranden Linn Aksén leder ett nytt SLU-projekt, Ett kattliv, som genom obduktioner, provtagning och virusanalyser ska kartlägga varför uppskattningsvis vart femte registrerat kattungeliv går förlorat under de första levnadsveckorna. Målet är konkreta råd som kan öka överlevnaden bland kattungar i Sverige.",
+      "source": "SLU",
+      "url": "https://www.slu.se/nyheter/2026/08/pa-liv-och-dod-for-kattungar--forskning-for-ett-helt-kattliv",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "djuragare-ratar-ai-halsorad-2026",
+      "title": "Få svenska djurägare litar på AI för hälsoråd om sina husdjur",
+      "category": "Nyhet",
+      "date": "2026-08-19",
+      "location": "Sverige",
+      "summary": "En enkät med över 5 700 svenska hund- och kattägare visar att endast 6 procent regelbundet använder AI för råd om sitt djurs hälsa, medan nästan åtta av tio avstår helt. Rädsla för felaktiga bedömningar anges av 77 procent som främsta skälet, samtidigt som ägarna är mer positiva till att AI används inom själva veterinärvården.",
+      "source": "VeterinärMagazinet",
+      "url": "https://www.veterinarmagazinet.se/2026/08/fa-djuragare-anvander-ai-for-halsorad/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "pfas-kattmat-hundmat-exponering-2026",
+      "title": "PFAS-kemikalier i fisk-baserat hund- och kattfoder oroar forskare",
+      "category": "Forskning",
+      "date": "2026-08-21",
+      "location": "",
+      "summary": "Två kopplade studier från Ehime University visar att kommersiellt hund- och kattfoder, särskilt produkter med fiskbaserade ingredienser, innehåller mätbara halter av PFAS-kemikalier. Parade analyser av foder och blodserum tyder på att fodret är en bidragande exponeringskälla, med särskilt förhöjda halter av långkedjiga PFAS hos katter.",
+      "source": "EurekAlert",
+      "url": "https://www.eurekalert.org/news-releases/1140932",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "ai-stetoskop-missar-hjartljud-katter-2026",
+      "title": "AI-stetoskop missar de flesta hjärtblåsljud hos katter",
+      "category": "Forskning",
+      "date": "2026-08-12",
+      "location": "",
+      "summary": "En studie från North Carolina State University jämförde ett AI-baserat digitalt stetoskop med veterinärkardiologer på 54 hundar och 51 katter. AI-verktyget upptäckte bara 2 av 22 hjärtblåsljud som experterna hörde hos katterna och gav dessutom otillförlitliga bedömningar av rytmrubbningar hos hundarna, vilket ifrågasätter dagens AI-hjälpmedel i klinisk hjärtdiagnostik på djur.",
+      "source": "EurekAlert / NC State News",
+      "url": "https://news.ncsu.edu/2026/08/ai-enabled-stethoscope-can-miss-the-beat-in-pets/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "vargars-dna-i-moderna-hundraser-2026",
+      "title": "Nästan alla hundraser bär dolt vargarv i sin arvsmassa",
+      "category": "Forskning",
+      "date": "2025-11-29",
+      "location": "",
+      "summary": "Genom att analysera över 2 700 genom från vargar och hundar visar forskare från American Museum of Natural History och Smithsonian att ungefär två tredjedelar av moderna hundraser bär spår av vargkorsningar långt tillbaka i tiden, även små raser som chihuahua. Det gamla vargarvet kopplas bland annat till kroppsstorlek, luktsinne och förmåga att klara hög höjd.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/11/251129053351.htm",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
     }
   ]
 }

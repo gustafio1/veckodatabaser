@@ -2,8 +2,8 @@
   "topic": "Språk",
   "description": "Forskning om språkinlärning, svenskan, språkteknik och flerspråkighet. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-16",
-  "item_count": 35,
+  "last_updated": "2026-08-23",
+  "item_count": 43,
   "items": [
     {
       "id": "onskvarda-svarigheter-glosinlarning-2026",
@@ -424,6 +424,102 @@
       "url": "https://www.gu.se/nyheter/vr-ai-och-akademiskt-skrivande",
       "added_on": "2026-08-16",
       "collected_week": "2026-W33"
+    },
+    {
+      "id": "sl2t-teckensprak-ai-oversattning-2026",
+      "title": "Google DeepMind lanserar AI-modell som översätter teckenspråk till text",
+      "category": "Nyhet",
+      "date": "2026-08-12",
+      "location": "",
+      "summary": "Google DeepMind har presenterat SL2T, en flerspråkig AI-modell som tolkar tecken och omvandlar dem till text i realtid. Modellen byggs in i Gboard och Live Transcribe på Pixel-telefoner och är framtagen tillsammans med dövorganisationer för att låta användare teckna istället för att skriva eller tala.",
+      "source": "Google DeepMind",
+      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "ystad-teckensprak-minoritetssprak-2026",
+      "title": "Ystad jämställer svenskt teckenspråk med nationella minoritetsspråk",
+      "category": "Nyhet",
+      "date": "2026-08-18",
+      "location": "Ystad",
+      "summary": "Ystads kommun har beslutat att erbjuda modersmålsundervisning i svenskt teckenspråk även för enstaka elever, utan det annars gällande kravet på minst fem sökande. Kommunen menar sig vara först i landet med att i praktiken behandla teckenspråket på samma generösa sätt som de nationella minoritetsspråken.",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/nyhetstecken/ystad-svenskt-teckensprak-ska-betraktas-som-minoritetssprak",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "skrivmetod-kinesiska-tecken-tangentbord-handskrift-2026",
+      "title": "Studie: Tangentbord och handskrift ger olika kunskap om kinesiska tecken",
+      "category": "Forskning",
+      "date": "2026-03-05",
+      "location": "",
+      "summary": "En experimentell studie med nybörjare i kinesiska visar att inlärning via tangentbord gav bättre resultat på teckenigenkänning och diktamen, medan handskrift gav starkare koppling mellan tecknens form och betydelse. Resultaten tyder på att valet av skrivmetod formar vilken typ av kunskap om skrifttecken som elever utvecklar.",
+      "source": "Foreign Language Annals",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/flan.70053",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "dubbla-undertexter-visuell-uppmarksamhet-tvasprakig-2026",
+      "title": "Ögonrörelsestudie visar hur dubbla undertexter styr blicken hos tvåspråkiga",
+      "category": "Studie",
+      "date": "2026-01-30",
+      "location": "",
+      "summary": "Forskare vid spanska universitet har med ögonspårning undersökt hur tvåspråkiga tittare läser filmklipp med undertexter på två språk samtidigt. Studien visar att blicken oftast dras till den övre textraden och att tittarna växlar uppmärksamhet mellan raderna beroende på vilket språk som talas i ljudspåret.",
+      "source": "Bilingualism: Language and Cognition",
+      "url": "https://www.cambridge.org/core/journals/bilingualism-language-and-cognition/article/hearing-once-reading-twice-how-dual-subtitles-shape-visual-attention-in-bilingual-viewing/239C4DE54206426A33B19C7A54E2984C",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "language-trends-england-2026-sprakundervisning",
+      "title": "Ny brittisk rapport: Spanska går om franska som mest lästa skolspråk",
+      "category": "Studie",
+      "date": "2026-07-14",
+      "location": "",
+      "summary": "British Councils årliga kartläggning av språkundervisningen i engelska skolor visar att spanska nu passerat franska som det vanligaste moderna språket på GCSE-nivå. Rapporten pekar också på fortsatt brist på behöriga språklärare och svårigheter att organisera undervisningen när elever byter stadium.",
+      "source": "British Council",
+      "url": "https://www.britishcouncil.org/research-insight/language-trends-england-2026",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "svensk-lasstrategi-2026-2031",
+      "title": "Regeringen presenterar ny läsdiffersstrategi för Sverige",
+      "category": "Nyhet",
+      "date": "2026-04-23",
+      "location": "Sverige",
+      "summary": "Regeringen har lagt fram en nationell lässtrategi för perioden 2026–2031 med målet att stärka läsförmågan och läslusten i hela befolkningen. Strategin pekar särskilt ut skolan, biblioteken och tidiga insatser som viktiga för att motverka det fortsatt bristande läsförståelsen bland svenska elever.",
+      "source": "Regeringen.se",
+      "url": "https://www.regeringen.se/informationsmaterial/2026/05/sverige--ett-lasande-land-en-lasstrategi-for-sverige-20262031/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "kodvaxling-manniska-maskin-chatbot-studie-2026",
+      "title": "Studie: Tvåspråkiga uppskattar kodväxling även när motparten är en chatbot",
+      "category": "Forskning",
+      "date": "2025-09-19",
+      "location": "",
+      "summary": "Forskare lät en chatbot kodväxla mellan spanska och engelska i samtal med tvåspråkiga försökspersoner för att undersöka hur människor reagerar på maskingenererad kodväxling. Deltagarna upplevde samtalen som mer lyckade när botens språkväxlingar var förutsägbara och grammatiskt korrekta, medan slumpmässig eller felaktig kodväxling gjorde uppgiften mindre lyckad.",
+      "source": "Bilingualism: Language and Cognition",
+      "url": "https://www.cambridge.org/core/journals/bilingualism-language-and-cognition/article/strategies-of-codeswitching-in-humanmachine-dialogs/A20A85FB5A2F63D4011582C11C6B67E9",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "kritisk-period-teckensprak-dova-vuxna-2026",
+      "title": "Forskning om dövas teckenspråksinlärning stärker teorin om en kritisk period",
+      "category": "Forskning",
+      "date": "2026-02-02",
+      "location": "",
+      "summary": "En studie av döva vuxna som lärt sig amerikanskt teckenspråk vid olika åldrar visar att tidig exponering ger starkare grammatik och bättre språkförståelse långt senare i livet. Resultaten stödjer att den kritiska perioden för språkinlärning gäller lika mycket för tecknade språk som för talade språk.",
+      "source": "UConn Today (University of Connecticut)",
+      "url": "https://kids.uconn.edu/2026/02/02/the-critical-period-for-language-acquisition-goes-beyond-spoken-language/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
     }
   ]
 }

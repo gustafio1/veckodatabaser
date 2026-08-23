@@ -2,8 +2,8 @@
   "topic": "Resor",
   "description": "Forskning om resmål, hållbart resande, flyg och tågresor. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-16",
-  "item_count": 36,
+  "last_updated": "2026-08-23",
+  "item_count": 43,
   "items": [
     {
       "id": "hamndresor-till-udda-resmal-2026",
@@ -436,6 +436,90 @@
       "url": "https://www.svt.se/nyheter/inrikes/allt-fler-svenskar-tagsemestrar-i-europa",
       "added_on": "2026-08-16",
       "collected_week": "2026-W33"
+    },
+    {
+      "id": "trenitalia-france-hitachi-tag-eurostar-2026",
+      "title": "Trenitalia utmanar Eurostar med jättebeställning av höghastighetståg",
+      "category": "Nyhet",
+      "date": "2026-08-09",
+      "location": "",
+      "summary": "Trenitalia France har beställt 19 höghastighetståg av Hitachi för omkring två miljarder euro, där tio av tågen från 2029 ska trafikera sträckan Paris–London och därmed utmana Eurostars dominans genom Kanaltunneln. Avtalet omfattar även långsiktigt underhåll, vilket signalerar en satsning på ökad konkurrens i europeisk tågtrafik.",
+      "source": "Dagens PS",
+      "url": "https://www.dagensps.se/weekend/resor/19-tag-for-tva-miljarder-euro-nu-utmanas-eurostar-pa-allvar/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "norge-besoksavgift-boende-lofoten-2026",
+      "title": "Lofoten bland första norska regioner att införa ny boendeavgift för turister",
+      "category": "Nyhet",
+      "date": "2026-08-10",
+      "location": "",
+      "summary": "Norges nya besöksbidragslag ger kommuner rätt att ta ut upp till tre procent avgift på boende som hotell och Airbnb för att finansiera infrastruktur i högt belastade turistområden, och Lofoten, som lockar omkring en miljon besökare per år, väntas bli en av de första regionerna att införa avgiften. Dagsbesökare, tält- och husbilsturister undantas från kravet.",
+      "source": "News55",
+      "url": "https://www.news55.se/resor/lofoten-lockar-en-miljon-turister-nu-infors-en-ny-avgift/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "flygresor-priskollen-biljettpriser-2026",
+      "title": "Ny prisdata avslöjar när flygbiljetter faktiskt är billigast",
+      "category": "Forskning",
+      "date": "2026-08-09",
+      "location": "",
+      "summary": "Flygresor.se har lanserat tjänsten Priskollen, byggd på miljontals insamlade flygsökningar, som visar vilken månad, veckodag och hur långt i förväg det historiskt lönat sig att boka för att få lägst pris. Syftet är att ersätta gamla tumregler och gissningar om flygpriser med faktisk sökdata.",
+      "source": "Dagens PS",
+      "url": "https://www.dagensps.se/weekend/resor/nu-avslojas-nar-flygbiljetten-faktiskt-ar-billigast/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "ryanair-rekord-ai-satsning-2026",
+      "title": "Ryanair slår passagerarrekord och satsar på AI för att nå 300 miljoner resenärer",
+      "category": "Nyhet",
+      "date": "2026-08-18",
+      "location": "",
+      "summary": "Ryanair rapporterade ett nytt månadsrekord med 22,2 miljoner passagerare i juli 2026, en ökning med sju procent jämfört med året innan, med en kabinfaktor på 96 procent. Bolaget meddelar samtidigt att man satsar stort på artificiell intelligens i sin expansion med målet att nå 300 miljoner passagerare per år.",
+      "source": "Travel Report",
+      "url": "https://www.travelreport.se/ryanair-satter-nytt-passagerarrekord-i-juli/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "norge-flygledarstrejk-gardermoen-2026",
+      "title": "Flygledarstrejk i Norge ställer in flyg och stänger Gardermoen",
+      "category": "Nyhet",
+      "date": "2026-08-21",
+      "location": "",
+      "summary": "Sedan medlingsförsök misslyckats gick tolv norska flygledare ut i strejk den 21 augusti 2026, vilket ledde till inställda SAS- och Norwegian-avgångar mellan bland annat Oslo, Bergen och Stockholm samt att Oslo flygplats Gardermoen tidvis stängdes för ordinarie trafik. Ytterligare upptrappning varslades om medlingen inte gav resultat.",
+      "source": "Privata Affärer",
+      "url": "https://www.privataaffarer.se/privatekonomi/hushallsekonomi/norsk-flygstrejk-stora-effekter-vantas/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "eu-airbnb-restriktioner-bostadskris-2026",
+      "title": "EU förbereder gemensamma regler för att kunna begränsa Airbnb-uthyrning",
+      "category": "Nyhet",
+      "date": "2026-07-25",
+      "location": "",
+      "summary": "EU-kommissionen arbetar på en gemensam metod för att peka ut områden med bostadsbrist och ett ramverk för proportionerliga restriktioner mot korttidsuthyrning, som väntas presenteras av kommissionsordförande Ursula von der Leyen i september som en del av EU:s kommande bostadspaket. Förslaget drivs av en växande bostadskris där en stor andel av bostäderna i städer som Barcelona och Lissabon inte används som permanentbostäder.",
+      "source": "Travel Report",
+      "url": "https://www.travelreport.se/eu-vill-begransa-airbnb/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "hallbart-flygbransle-infrastruktur-flaskhals-2026",
+      "title": "Bränsleinfrastrukturen på flygplatser blir nytt hinder för hållbart flygbränsle",
+      "category": "Forskning",
+      "date": "2026-06-24",
+      "location": "",
+      "summary": "Enligt IATA väntas den globala produktionen av hållbart flygbränsle (SAF) nå cirka 2,4 miljoner ton under 2026, men utgör ändå bara 0,8 procent av flygets totala bränsleförbrukning, samtidigt som en genomgång av 123 större flygplatser visar att nästan 60 procent har begränsad tillgång till den bränsleinfrastruktur som krävs för att distribuera SAF. Branschföreträdare menar att flaskhalsen nu handlar mindre om produktion och mer om vem som kontrollerar tankningssystem och lagring på flygplatserna.",
+      "source": "Flygtorget",
+      "url": "https://www.flygtorget.se/nyheter/ny-flaskhals-for-saf-flygplatsernas-bransleinfrastruktur",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
     }
   ]
 }

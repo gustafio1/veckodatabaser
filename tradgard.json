@@ -2,8 +2,8 @@
   "topic": "Trädgård",
   "description": "Forskning om odling, biologisk mångfald, jord, pollinatörer och hälsa. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-16",
-  "item_count": 35,
+  "last_updated": "2026-08-23",
+  "item_count": 41,
   "items": [
     {
       "id": "naturbaserad-rorelse-psykisk-halsa-2026",
@@ -424,6 +424,78 @@
       "url": "https://onlinelibrary.wiley.com/doi/10.1002/pei3.70173",
       "added_on": "2026-08-16",
       "collected_week": "2026-W33"
+    },
+    {
+      "id": "grasklippning-bin-nektarkalla-2026",
+      "title": "Klippt gräs kan ge bin föda när blommorna tryter",
+      "category": "Forskning",
+      "date": "2026-08-17",
+      "location": "",
+      "summary": "Amerikansk studie visar att vissa gräsarter blommar rikligt efter slåtter och då förser många vildbiarter med pollen och nektar långt in i september, vilket gör slåtterintervall till ett enkelt verktyg för pollinatörsvänlig gräsmattsskötsel.",
+      "source": "Phys.org / University of Georgia",
+      "url": "https://phys.org/news/2026-08-pollinators-grass.html",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "tradgardsdesign-langsiktig-skotsel-mangfald-2026",
+      "title": "Varför biologisk mångfald i trädgårdar försvinner efter invigningen",
+      "category": "Forskning",
+      "date": "2026-08-18",
+      "location": "",
+      "summary": "Landskapsarkitekturforskare vid UC Davis visar att biodiversitetsvänliga trädgårdar och offentliga planteringar ofta tappar sin artrikedom inom några år, eftersom design och långsiktig skötsel sällan samordnas mellan de som ritar och de som sköter platsen.",
+      "source": "Phys.org / UC Davis",
+      "url": "https://phys.org/news/2026-08-biodiverse-landscapes-unkempt-garden.html",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "pollinatorsberoende-klimat-skordeutveckling-2026",
+      "title": "Klimatförändringar slår olika mot grödor beroende på pollinatörsberoende",
+      "category": "Forskning",
+      "date": "2026-06-03",
+      "location": "",
+      "summary": "Tysk analys av över 35 års skördedata visar att uppvärmning gynnar vissa pollinatörsberoende grödor som äpple medan andra, som vete, tappar i avkastning, och pekar ut blomrika kantzoner och minskad kemisk bekämpning som skydd för framtida skördar.",
+      "source": "Ecology and Evolution / TU München",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1002/ece3.73751",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "sotpotatis-provodling-norra-sverige-beredskap-2026",
+      "title": "Sötpotatis provodlas ända upp till Kiruna för svensk beredskap",
+      "category": "Nyhet",
+      "date": "2026-08-18",
+      "location": "",
+      "summary": "SLU-forskare låter 62 odlare över hela landet, från söder till Kiruna, provodla sötpotatis sommaren 2026 för att se vilka sorter som klarar svenskt klimat och dagslängd, som ett led i att stärka den inhemska livsmedelsberedskapen.",
+      "source": "SLU",
+      "url": "https://www.slu.se/nyheter/2026/08/lars-och-lisa-provodlar-sotpotatis-i-norr-intressant-ur-beredskapsperspektiv",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "tradgardsbedomning-beteende-vilda-djur-2026",
+      "title": "Kan en trädgårdsbedömning få fler att gynna vilda djur?",
+      "category": "Forskning",
+      "date": "2026-01-09",
+      "location": "",
+      "summary": "Nyzeeländsk studie undersöker om en formell genomgång av trädgårdens naturvärden faktiskt får trädgårdsägare att införa fler konkreta åtgärder för vilda djur, och finner att processen ökar både förståelse och vilja att agera hos en stor andel deltagare.",
+      "source": "Urban Ecosystems (Springer)",
+      "url": "https://link.springer.com/article/10.1007/s11252-025-01885-2",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "syntetisk-biologi-vaxt-pollinator-livsmedel-2026",
+      "title": "Syntetisk biologi föreslås stärka relationen mellan växter och pollinatörer",
+      "category": "Forskning",
+      "date": "2026-06-24",
+      "location": "",
+      "summary": "Forskningsöversikt diskuterar hur verktyg från syntetisk biologi skulle kunna motverka klimatdrivna obalanser i blomning och pollinatörsaktivitet, i syfte att skydda både biologisk mångfald och global livsmedelsförsörjning.",
+      "source": "Frontiers in Plant Science",
+      "url": "https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2026.1761150/full",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
     }
   ]
 }

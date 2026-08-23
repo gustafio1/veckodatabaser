@@ -2,8 +2,8 @@
   "topic": "Geografi",
   "description": "Kartor och kartografi, upptäckter, klimat- och landskapsförändringar och platser. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-16",
-  "item_count": 34,
+  "last_updated": "2026-08-23",
+  "item_count": 42,
   "items": [
     {
       "id": "sanborn-kartor-webbtjanst-2026",
@@ -412,6 +412,102 @@
       "url": "https://iho.int/en/global-seabed-mapping-reaches-new-milestone-as-five-million-square-kilometres-added-in-a-year",
       "added_on": "2026-08-16",
       "collected_week": "2026-W33"
+    },
+    {
+      "id": "arktisk-molnfabrik-havsis-2026",
+      "title": "Ny upptäckt: smältande havsis skapar en egen 'molnfabrik' i Arktis",
+      "category": "Forskning",
+      "date": "2026-08-16",
+      "location": "",
+      "summary": "Forskare vid University of Birmingham har hittat en tidigare okänd process där kontaktzonen mellan havsis och öppet vatten i Arktis, med hjälp av alger och solljus, bildar stora mängder molnbildande partiklar. Fenomenet saknas helt i dagens klimatmodeller och kan påverka hur mycket solljus som reflekteras tillbaka när isen fortsätter krympa.",
+      "source": "ScienceDaily / University of Birmingham",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260816044839.htm",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "asiatiska-vattentornet-grundvatten-2026",
+      "title": "Satellitstudie: 'Asiens vattentorn' tappar 24 miljarder ton grundvatten om året",
+      "category": "Forskning",
+      "date": "2026-08-20",
+      "location": "",
+      "summary": "En AI-baserad analys av satellitdata visar att högbergsregionen i Asien, ofta kallad 'det asiatiska vattentornet', förlorar omkring 24,2 miljarder ton grundvatten årligen, med störst nedgång i tätbefolkade bäcken som Ganges-Brahmaputra och Indus. Forskarna varnar för att glaciärsmältning kan dölja krisen fram till ungefär 2060, innan situationen förvärras kraftigt.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260820002454.htm",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "amazonas-avskogning-lagsta-niva-2026",
+      "title": "Avskogningen i Amazonas nere på lägsta nivån på 13 år",
+      "category": "Nyhet",
+      "date": "2026-08-09",
+      "location": "",
+      "summary": "Satellitbaserad övervakning från den brasilianska rymdforskningsmyndigheten INPE visar att avskogningslarmen i Amazonas det senaste året sjunkit till den lägsta nivån sedan 2013. Nedgången kopplas till skärpt miljötillsyn under Lula-regeringen, men forskarna påpekar att regnskogen fortfarande är sårbar för torka, skogsdegradering och bränder.",
+      "source": "Mongabay",
+      "url": "https://news.mongabay.com/2026/08/amazon-deforestation-alerts-fall-to-lowest-level-since-2013-brazilian-data-show/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "europas-floder-rekordlaga-vattenniva-2026",
+      "title": "Satellitbilder visar rekordlåga vattennivåer i flera av Europas stora floder",
+      "category": "Karta",
+      "date": "2026-08-12",
+      "location": "",
+      "summary": "Copernicus satellitbilder från Sentinel-2, tagna i början av augusti, visar blottade sandbankar och grusrevlar i Loire, Po, Rhen och Donau efter en sommar präglad av extremvärme och långvarig torka i stora delar av Europa. De låga flödena stör godstransporter på Rhen och skapar problem för kylningen av kärnkraftverket Paks vid Donau.",
+      "source": "EU Space / Copernicus",
+      "url": "https://eu-space.europa.eu/components/earth-observation-copernicus/image-of-the-day/europes-major-rivers-record-low-water-levels",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "antarktis-tillfallig-ismassa-okning-2026",
+      "title": "Antarktis is växte tillfälligt 2021–2023 – men trenden väntas snart vända tillbaka",
+      "category": "Forskning",
+      "date": "2026-08-19",
+      "location": "",
+      "summary": "En ny studie i Nature visar att Antarktis inlandsis faktiskt ökade i massa mellan 2021 och 2023, efter att ovanligt varma havstemperaturer i tropiska Stilla havet gett kraftigare snöfall över östra Antarktis. Forskarna understryker att uppgången var en tillfällig klimatvariation och att kontinentens is väntas återgå till att minska inom några år.",
+      "source": "Nature / University of Washington",
+      "url": "https://www.nature.com/articles/d41586-026-02376-w",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "usa-utrikesdepartementet-felaktig-afrikakarta-2026",
+      "title": "USA:s utrikesdepartement visade grovt felritad Afrikakarta på internationell konferens",
+      "category": "Nyhet",
+      "date": "2026-07-30",
+      "location": "",
+      "summary": "Vid en stor internationell hiv/aids-konferens i Rio de Janeiro visade det amerikanska utrikesdepartementet en karta där sex afrikanska länder pekades ut fullständigt fel, bland annat framställdes kustlandet Nigeria som inlandsstat och Moçambique flyttades till Afrikas horn. Kartan tros vara AI-genererad och ledde till en offentlig ursäkt från myndigheten.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/07/30/politics/state-department-africa-map-mislabel",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "choco-andino-lidar-forntida-landskap-2026",
+      "title": "Laserskanning avslöjar dolt förhistoriskt landskap i Ecuadors bergsregnskog",
+      "category": "Forskning",
+      "date": "2026-01-04",
+      "location": "",
+      "summary": "Genom att flyga över den täta bergsregnskogen Chocó Andino nära Quito med lidarteknik har arkeologer vid Instituto Metropolitano de Patrimonio kartlagt över 200 boplatsvallar, 100 terrasser och forntida vägar på en yta av bara 600 hektar. Fyndet tyder på att ett mycket större förcolumbianskt bosättningsmönster fortfarande ligger dolt under trädkronorna.",
+      "source": "HeritageDaily",
+      "url": "https://www.heritagedaily.com/2026/01/lidar-reveals-lost-ancient-landscape-in-andean-choco/156694",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "ottens-1700talskartor-digitaliserade-2026",
+      "title": "Fyra jättelika 1700-talskartor från Amsterdam digitaliserade av amerikanska kongressbiblioteket",
+      "category": "Karta",
+      "date": "2026-01-01",
+      "location": "",
+      "summary": "Amerikanska kongressbiblioteket har skannat in fyra stora väggkartor från omkring 1730, framställda av det holländska kartografhuset Ottens i Amsterdam, som var för sig avbildar Amerika, Europa, Afrika och Asien i format på över en meter gånger en och en halv meter. Kartorna är nu fritt tillgängliga digitalt och ger en unik inblick i hur 1700-talets kartografer föreställde sig världens kontinenter.",
+      "source": "Library of Congress (Worlds Revealed-bloggen)",
+      "url": "https://blogs.loc.gov/maps/2026/01/a-year-in-review-newly-scanned-maps-of-2025/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
     }
   ]
 }

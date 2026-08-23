@@ -2,8 +2,8 @@
   "topic": "Entreprenörskap",
   "description": "Forskning om startups, finansiering, grundare och innovation. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-16",
-  "item_count": 37,
+  "last_updated": "2026-08-23",
+  "item_count": 45,
   "items": [
     {
       "id": "grundaregenskaper-startupframgang-2026",
@@ -448,6 +448,102 @@
       "url": "https://www.gemconsortium.org/reports/latest-global-report",
       "added_on": "2026-08-16",
       "collected_week": "2026-W33"
+    },
+    {
+      "id": "swegan-serie-b-finansiering-2026",
+      "title": "Linköpingsbolaget SweGaN tar in 132 miljoner kronor i B-runda",
+      "category": "Finansiering",
+      "date": "2026-08-17",
+      "location": "",
+      "summary": "Halvledarbolaget SweGaN, som tillverkar GaN-on-SiC-wafers i Linköping, har stängt en B-runda på 14 miljoner dollar ledd av Wallenberg-ägda Thisbe och danska North Ventures. Kapitalet ska användas för att bygga ut produktionskapaciteten, och bolaget har nu totalt tagit in 41 miljoner dollar sedan starten.",
+      "source": "Evertiq",
+      "url": "https://evertiq.se/news/2026-08-17-swegan-tar-in-132-miljoner-kronor-ska-bygga-ut-produktionskapaciteten",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "groq-serie-a-ai-moln-2026",
+      "title": "AI-chipbolaget Groq tar in 350 miljoner dollar för att bygga AI-molntjänst",
+      "category": "Finansiering",
+      "date": "2026-08-17",
+      "location": "",
+      "summary": "Groq har rest 350 miljoner dollar i en runda ledd av Disruptive, med planerat deltagande från Nvidia, vilket värderar bolaget till 3,5 miljarder dollar. Kapitalet kommer efter att Nvidia tidigare licensierat Groqs chipteknik och ska finansiera expansionen av bolagets AI-inferensmoln.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "higgsfield-serie-b-ai-video-2026",
+      "title": "AI-videobolaget Higgsfield fyrdubblar värderingen till 5,4 miljarder dollar",
+      "category": "Finansiering",
+      "date": "2026-08-17",
+      "location": "",
+      "summary": "AI-verktyget för videogenerering Higgsfield har tagit in 400 miljoner dollar i en serie B-runda ledd av DST Global, vilket ger en värdering på 5,4 miljarder dollar - fyra gånger högre än för åtta månader sedan. Bolaget uppger att den årliga intäktstakten nu nått 700 miljoner dollar, upp från 20 miljoner dollar ett år tidigare.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/08/17/higgsfield-raises-400m-series-b-quadrupling-its-valuation-in-8-months-to-5-4b/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "neko-health-serie-c-usa-2026",
+      "title": "Daniel Eks Neko Health tar in 700 miljoner dollar inför USA-lansering",
+      "category": "Finansiering",
+      "date": "2026-07-15",
+      "location": "",
+      "summary": "Hälsoscanningbolaget Neko Health, grundat av Spotify-grundaren Daniel Ek, har stängt en serie C-runda på 700 miljoner dollar (612,7 miljoner euro) ledd av Lightspeed Venture Partners. Kapitalet ska finansiera bolagets expansion till USA, med de första klinikerna i New York.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "ey-entreprenorsbarometer-2026",
+      "title": "EY:s entreprenörsbarometer: grundare satsar på tillväxt trots osäkerhet",
+      "category": "Forskning",
+      "date": "2026-07-28",
+      "location": "",
+      "summary": "EY:s årliga Entrepreneur Ecosystem Barometer, baserad på en enkät bland etablerade entreprenörer med minst 5 miljoner dollar i omsättning, visar att allt fler grundare prioriterar tillväxt trots stigande kostnader och kompetensbrist. Partnerskap och externa ekosystem blir allt viktigare för att kunna skala verksamheten under osäkra marknadsförhållanden.",
+      "source": "EY",
+      "url": "https://www.ey.com/en_us/newsroom/2026/07/ey-survey-nearly-half-of-us-entrepreneurs-are-prioritizing-growth-embracing-a-new-playbook-for-uncertainty",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "gransoverskridande-riskkapital-kvinnor-tillvaxtmarknader-2026",
+      "title": "Studie: gränsöverskridande riskkapital gynnar inte kvinnliga grundare på tillväxtmarknader",
+      "category": "Forskning",
+      "date": "2026-08-01",
+      "location": "",
+      "summary": "En ny studie i Jindal Management Journal analyserar gränsöverskridande venture capital- och private equity-investeringar i kvinnoledda bolag på tillväxtmarknader, med fokus på Indien. Forskningen visar att strukturella hinder, kulturella fördomar och riskuppfattningar fortsätter att begränsa kvinnliga grundares tillgång till internationellt kapital trots ökat investerarintresse.",
+      "source": "Jindal Management Journal (SAGE)",
+      "url": "https://journals.sagepub.com/doi/10.1177/30497876261466377",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "foretagsriskkapital-rekord-ai-2026",
+      "title": "Företagens riskkapitalsatsningar på rekordnivå - AI drar mest kapital",
+      "category": "Forskning",
+      "date": "2026-06-01",
+      "location": "",
+      "summary": "Global Corporate Venturings årliga kartläggning visar att 3 068 företag investerade i startups under 2025, en rekordnivå trots en svalare riskkapitalmarknad totalt sett. Nästan hälften av kapitalet i företagsledda finansieringsrundor gick till AI-bolag, och ungefär var femte startup-runda hade nu en företagsinvesterare med.",
+      "source": "Global Corporate Venturing",
+      "url": "https://globalventuring.com/intelligence/2026-wocv-4-survey/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "yc-seriegrundare-dataanalys-2026",
+      "title": "Y Combinator-data om 454 seriegrundare visar hur AI förändrar andra försöket",
+      "category": "Forskning",
+      "date": "2026-08-06",
+      "location": "",
+      "summary": "En analys av 935 grundar- och bolagsposter från Y Combinators tidigaste kullar 2005 fram till 2026 kartlägger hur seriegrundare som deltagit i acceleratorn minst två gånger presterar. Data visar att framgångsgraden toppar vid det andra bolaget, att grundare som stannar inom samma bransch lyckas betydligt oftare, och att AI-verktyg nu snabbar upp hur seriegrundare bygger sina uppföljande bolag.",
+      "source": "Tech Times",
+      "url": "https://www.techtimes.com/articles/323376/20260806/yc-data-454-repeat-founders-reveal-how-ai-rewriting-second-act-playbooks.htm",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
     }
   ]
 }

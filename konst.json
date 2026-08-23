@@ -2,8 +2,8 @@
   "topic": "Konst & design",
   "description": "Konstutställningar, design, arkitektur, auktioner och konstvärlden. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-16",
-  "item_count": 35,
+  "last_updated": "2026-08-23",
+  "item_count": 40,
   "items": [
     {
       "id": "moderna-museet-nisabas-hus-maleri-2026",
@@ -424,6 +424,66 @@
       "url": "https://arkitekten.se/nyheter/har-ar-alla-vinnare-pa-arkitekturgalan-2026/",
       "added_on": "2026-08-16",
       "collected_week": "2026-W33"
+    },
+    {
+      "id": "sean-henry-who-am-i-uppsala-domkyrka-2026",
+      "title": "Sean Henrys skulpturutställning \"Who Am I?\" avslutas i Uppsala domkyrka",
+      "category": "Utställning",
+      "date": "2026-08-30",
+      "location": "Uppsala",
+      "summary": "16 skulpturer av den brittiske konstnären visas i och utanför domkyrkan till och med 30 augusti, med kostnadsfria guidningar bland annat den 26 augusti.",
+      "source": "UNT",
+      "url": "https://www.unt.se/kultur/konst/artikel/sean-henry-visar-who-am-i-i-uppsala-domkyrka/rky2w9wj",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "konst-i-linnes-savja-2026",
+      "title": "\"Konst i Linnés Sävja\" bjöd på konstrunda i Uppsala",
+      "category": "Evenemang",
+      "date": "2026-08-22",
+      "location": "Uppsala",
+      "summary": "Konstrundan i Linnés Sävja pågick 22–23 augusti med lokala konstnärer som öppnade sina ateljéer och visade verk.",
+      "source": "Heja Uppsala",
+      "url": "https://hejauppsala.com/event-category/konst/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "galleri-upsala-allt-har-sin-tid-7-2026",
+      "title": "Galleri Upsala visar grupputställningen \"Allt har sin tid 7\"",
+      "category": "Utställning",
+      "date": "2026-08-22",
+      "location": "Uppsala",
+      "summary": "Utställningen pågick 22–31 augusti och samlade flera konstnärers verk kring tid och förändring.",
+      "source": "Heja Uppsala",
+      "url": "https://hejauppsala.com/event-category/konst/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "arkitekter-kandiderar-valet-2026",
+      "title": "Rekordmånga arkitekter kandiderar i höstens val",
+      "category": "Nyhet",
+      "date": "2026-08-21",
+      "location": "Sverige",
+      "summary": "177 arkitekter ställer upp i höstens val, en ökning med över 40 procent sedan 2022, med Miljöpartiet som partiet med flest arkitektkandidater.",
+      "source": "Arkitekten.se",
+      "url": "https://arkitekten.se/nyheter/veckan-i-korthet-arkitekter-pa-valsedlarna-och-boda-force/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "boda-force-arkitekturrorelse-smaland-2026",
+      "title": "Arkitekter startar rörelsen Boda Force i Småland",
+      "category": "Nyhet",
+      "date": "2026-08-21",
+      "location": "Bodafors, Småland",
+      "summary": "Arkitekterna Ruben Albertsson och Anders Johansson har bildat rörelsen Boda Force för att utveckla samhällsbyggnad och lyfta arkitekturen i den gamla industriorten.",
+      "source": "Arkitekten.se",
+      "url": "https://arkitekten.se/nyheter/veckan-i-korthet-arkitekter-pa-valsedlarna-och-boda-force/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "topic": "Litteratur",
   "description": "Boksläpp, litterära priser, författarnyheter och förlagsbranschen. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-16",
-  "item_count": 36,
+  "last_updated": "2026-08-23",
+  "item_count": 43,
   "items": [
     {
       "id": "taiwan-travelogue-international-booker-2026",
@@ -436,6 +436,90 @@
       "url": "https://www.boktugg.se/2026/04/13/romance-och-feelgood-nytt-omrade-pa-bokmassan-2026-hyllar-de-stora-kanslorna/",
       "added_on": "2026-08-16",
       "collected_week": "2026-W33"
+    },
+    {
+      "id": "kerstin-ekman-lopa-varg-2026",
+      "title": "Kerstin Ekman aktuell med nya romanen \"Löpa Varg\"",
+      "category": "Boksläpp",
+      "date": "2026-08-28",
+      "location": "",
+      "summary": "Den hyllade författaren återkommer med en ny roman i slutet av augusti, omnämnd bland höstens mest efterlängtade boksläpp.",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/kultur/bokhosten-2026-sex-undergang-och-influencers-eccvgc",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "fredrik-backman-vinnarna-bjornstad-avslutning-2026",
+      "title": "Fredrik Backman avslutar Björnstad-trilogin med \"Vinnarna\"",
+      "category": "Boksläpp",
+      "date": "2026-08-20",
+      "location": "",
+      "summary": "Avslutningen på den bästsäljande bokserien, som redan blivit HBO-serie, har legat på New York Times bästsäljarlista inför höstens svenska utgivning.",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/kultur/bokhosten-2026-sex-undergang-och-influencers-eccvgc",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "niklas-natt-och-dag-1795-bellman-trilogi-2026",
+      "title": "Niklas Natt och Dag avslutar Bellman-noir-trilogin med \"1795\"",
+      "category": "Boksläpp",
+      "date": "2026-08-20",
+      "location": "",
+      "summary": "Den avslutande delen i den historiska deckartrilogin lyfts fram som ett av höstens stora svenska boksläpp.",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/kultur/bokhosten-2026-sex-undergang-och-influencers-eccvgc",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "liv-stromquist-inne-i-spegelsalen-2026",
+      "title": "Liv Strömquist utforskar skönhetsideal i \"Inne i spegelsalen\"",
+      "category": "Boksläpp",
+      "date": "2026-08-20",
+      "location": "",
+      "summary": "Den nya serieromanen är en idéhistorisk exposé kring vår besatthet av det yttre och skönhetsidealens historia.",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/kultur/bokhosten-2026-sex-undergang-och-influencers-eccvgc",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "karl-ove-knausgard-arendal-2026",
+      "title": "Karl Ove Knausgård släpper romanen \"Arendal\" 30 september",
+      "category": "Boksläpp",
+      "date": "2026-09-30",
+      "location": "",
+      "summary": "Den norske författaren aktualiseras med en ny roman, en av höstens mest omtalade utgivningar enligt svensk kulturpress.",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/kultur/bokhosten-2026-sex-undergang-och-influencers-eccvgc",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "hostens-bocker-katalog-2026",
+      "title": "Höstens Böcker-katalogen presenterar 1 578 nya titlar",
+      "category": "Nyhet",
+      "date": "2026-08-20",
+      "location": "",
+      "summary": "Katalogen samlar höstens utgivning från 139 svenska förlag och ger en överblick över bokhösten 2026.",
+      "source": "Svenska Bokhandlareföreningen",
+      "url": "https://www.svb.se/nyheter/haer-aer-alla-hoestens-boecker/4470056",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "michael-hjorth-bjarni-thorsson-fiskarens-dod-2026",
+      "title": "Michael Hjorth och Bjarni Thorsson med islandsdeckaren \"Fiskarens död\"",
+      "category": "Boksläpp",
+      "date": "2026-07-22",
+      "location": "",
+      "summary": "Andra delen i deckarserien som utspelar sig på Island utkom i juli, med kriminalinspektör Helga Þóra Jónsdóttir i en mörk historia om girighet och makt.",
+      "source": "Kapprakt",
+      "url": "https://www.kapprakt.se/michael-hjorth-och-bjarni-thorsson-fiskarens-dod/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
     }
   ]
 }

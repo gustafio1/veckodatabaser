@@ -2,8 +2,8 @@
   "topic": "Film & TV",
   "description": "Biopremiärer, streaming, TV-serier, svensk film och filmfestivaler. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-16",
-  "item_count": 34,
+  "last_updated": "2026-08-23",
+  "item_count": 39,
   "items": [
     {
       "id": "sju-biopremiarer-juli-2026",
@@ -412,6 +412,66 @@
       "url": "https://www.filmstaden.se/nyhet/veckans-premiarer-och-biljettslapp-vecka-33/",
       "added_on": "2026-08-16",
       "collected_week": "2026-W33"
+    },
+    {
+      "id": "flaggan-michael-lindgren-biopremiar-2026",
+      "title": "\"Flaggan\" – Michael Lindgrens komedi om valnatten 2010 har biopremiär",
+      "category": "Premiär",
+      "date": "2026-08-28",
+      "location": "",
+      "summary": "Komedin utspelar sig under valnatten 2010 och följer två unga sverigedemokrater som ger sig ut på en kaotisk natt i Rinkeby. MovieZine gav filmen 4 av 5 i sin recension.",
+      "source": "MovieZine",
+      "url": "https://www.moviezine.se/recensioner/en-galen-natt-med-roande-rasister-i-rinkeby",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "hostens-svenska-filmpremiarer-presentation-2026",
+      "title": "Filminstitutet presenterade höstens svenska filmpremiärer",
+      "category": "Nyhet",
+      "date": "2026-08-26",
+      "location": "Stockholm",
+      "summary": "På Bio Victor i Filmhuset visades bland annat Alex Schulmans regidebut, en science fiction-komedi från Norrbotten och nästa Jönssonligan-film inför höstens biopremiärer.",
+      "source": "Svenska Filminstitutet",
+      "url": "https://www.filminstitutet.se/sv/nyheter/2026/hostens-svenska-filmpremiarer/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "alex-schulman-arkipelag-regidebut-2026",
+      "title": "Alex Schulman regidebuterar med dramat \"Arkipelag\"",
+      "category": "Nyhet",
+      "date": "2026-08-19",
+      "location": "",
+      "summary": "Podcastprofilen och författaren gör sin första långfilm om tre pappor som följer med på en skolresa i Stockholms skärgård, med Gustaf Skarsgård, Fares Fares och Linus Wahlgren i rollerna. Filmen har premiär 9 oktober.",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/kultur/alex-schulman-debuterar-som-filmregissor",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "donnie-darko-directors-cut-atermiar-2026",
+      "title": "\"Donnie Darko – Director's Cut\" fick återpremiär på svenska biografer",
+      "category": "Återpremiär",
+      "date": "2026-08-04",
+      "location": "",
+      "summary": "Kultklassikern visades i nyrestaurerad Director's Cut-version på biografer i augusti, som en av månadens uppmärksammade filmhändelser.",
+      "source": "Filmtopp",
+      "url": "https://www.filmtopp.se/lista/biopremiarer-i-augusti-2026-hojdpunkterna-bland-manadens-nya-biofilmer",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "eric-goode-reptilhandel-dokumentar-2026",
+      "title": "Eric Goode gräver i reptilhandelns skuggvärld i ny dokumentärserie",
+      "category": "Premiär",
+      "date": "2026-08-20",
+      "location": "",
+      "summary": "Regissören bakom \"Tiger King\" utforskar den globala handeln med reptiler i en ny dokumentärserie som fick premiär under vecka 34.",
+      "source": "Göteborgs-Posten",
+      "url": "https://www.gp.se/kultur/nytt-pa-tv-vecka-34.78b2df2d-b0ac-4a58-808d-821d62f4ff50",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "topic": "Kultur",
   "description": "Nya kulturevenemang i Sverige – festivaler, konserter, utställningar och scenkonst. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-16",
-  "item_count": 80,
+  "last_updated": "2026-08-23",
+  "item_count": 85,
   "items": [
     {
       "id": "sweden-rock-2026",
@@ -1024,6 +1024,66 @@
       "url": "https://www.svt.se/nyheter/lokalt/stockholm/guide-kulturfestivalen-i-stockholm-2026",
       "added_on": "2026-08-16",
       "collected_week": "2026-W33"
+    },
+    {
+      "id": "malmo-opera-shining-skrackopera-2026",
+      "title": "Malmö Opera har skandinavisk premiär för skräckoperan \"The Shining\"",
+      "category": "Premiär",
+      "date": "2026-08-22",
+      "location": "Malmö",
+      "summary": "Operan bygger på Stephen Kings roman med musik av Paul Moravec och libretto av Mark Campbell, i regi av Keith Warner. Malmö Opera samproducerar med Finska Nationaloperan och ger elva föreställningar fram till 7 oktober.",
+      "source": "Tidskriften OPERA",
+      "url": "https://www.tidskriftenopera.se/2026/06/09/malmo-opera-inleder-hostsasongen-med-skrackoperan-the-shining/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "ostersjofestivalen-oppning-orozco-estrada-2026",
+      "title": "Östersjöfestivalen öppnar med nya chefdirigenten Andrés Orozco-Estrada",
+      "category": "Festival",
+      "date": "2026-08-21",
+      "location": "Stockholm",
+      "summary": "Festivalen i Berwaldhallen pågår 21–29 augusti och öppnar med Sveriges Radios symfoniorkesters nya chefdirigent tillsammans med sopranen Malin Byström, följt av orkesterkonserter, kammarmusik och jazz.",
+      "source": "Berwaldhallen",
+      "url": "https://www.berwaldhallen.se/en/the-baltic-sea-festival",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "effir-festival-borkhult-2026",
+      "title": "Effir festival samlar musik och konst i Borkhult",
+      "category": "Festival",
+      "date": "2026-08-21",
+      "location": "Borkhult, Östergötland",
+      "summary": "Den ideella och gratis festivalen pågick 21–23 augusti med fokus på musik och konst i Östergötland.",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/kultur/sommarens-konserter-festivaler-och-musikslapp-2026",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "kulturfestivalen-aplec-katalansk-gast-2026",
+      "title": "Katalanska festivalen APLEC gästspelade på Kulturfestivalen i Stockholm",
+      "category": "Festival",
+      "date": "2026-08-16",
+      "location": "Stockholm",
+      "summary": "Över 1 000 katalanska kulturutövare och scenkonstnärer deltog som särskild gäst under Stockholms kulturfestival, som lockade besökare med omkring 400 programpunkter och fri entré.",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/stockholm/guide-kulturfestivalen-i-stockholm-2026",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "fotografiska-water-light-kulturfestivalen-2026",
+      "title": "Fotografiska visade installationen \"Water & Light\" under Kulturfestivalen",
+      "category": "Utställning",
+      "date": "2026-08-16",
+      "location": "Stockholm",
+      "summary": "Installationen kunde upplevas vid Vattentorget och Södermalmstorg under hela Stockholms kulturfestival, tillsammans med dans, konst, samtal och familjevisningar.",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/stockholm/guide-kulturfestivalen-i-stockholm-2026",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
     }
   ]
 }

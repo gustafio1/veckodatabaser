@@ -2,8 +2,8 @@
   "topic": "Musik",
   "description": "Nya album, konserter, festivaler, svensk musik och musikbranschen. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-16",
-  "item_count": 35,
+  "last_updated": "2026-08-23",
+  "item_count": 40,
   "items": [
     {
       "id": "madonna-confessions-ii-slapp-2026",
@@ -424,6 +424,66 @@
       "url": "https://www.svt.se/kultur/har-ar-nomineringarna-till-p3-guld-2026",
       "added_on": "2026-08-16",
       "collected_week": "2026-W33"
+    },
+    {
+      "id": "sverigetopplistan-vecka34-humlan-djojj-2026",
+      "title": "Humlan Djojj och Josefine Götestam toppar albumlistan vecka 34",
+      "category": "Nyhet",
+      "date": "2026-08-21",
+      "location": "",
+      "summary": "Barnmusikduon toppar Sverigetopplistans albumlista med \"Somna med Humlan Djojj\", följt av uppföljaren \"Sov med Humlan Djojj\" på andra plats.",
+      "source": "Grammotex",
+      "url": "http://grammotex.se/charts.php?lang=sv",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "musiksommaren-2026-fotbolls-vm-paverkan",
+      "title": "Fotbolls-VM satte tydliga avtryck på musiksommaren 2026",
+      "category": "Nyhet",
+      "date": "2026-08-21",
+      "location": "",
+      "summary": "Sex av de tio mest strömmade låtarna på Spotify i Sverige under sommaren var kopplade till mästerskapet, enligt veckans sammanställning av nya låtar och listor.",
+      "source": "Gaffa",
+      "url": "https://gaffa.se/artiklar/2026/augusti/veckans-nya-latar-listorna-ar-uppdaterade/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "kalmar-stadsfest-ateens-atererforening-2026",
+      "title": "A*Teens återförenades på Kalmar Stadsfest",
+      "category": "Konsert",
+      "date": "2026-08-06",
+      "location": "Kalmar",
+      "summary": "Popgruppen spelade på Stortorget tillsammans med Melody Club, medan Sahara Hotnights och Clara Mae uppträdde på Larmtorget under stadsfestens tre dagar.",
+      "source": "Destination Kalmar",
+      "url": "https://hurbra.se/kalmar-stadsfest-6-8-augusti-2026/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "kungsangens-spelmansstamma-60ar-2026",
+      "title": "Kungsängens spelmansstämma firar 60 år",
+      "category": "Evenemang",
+      "date": "2026-08-30",
+      "location": "Kungsängen",
+      "summary": "Den traditionsrika folkmusikstämman firar sitt 60-årsjubileum den 30 augusti med spelmän från hela landet.",
+      "source": "Nöjet Konsert",
+      "url": "https://nojet.se/aktuellt/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "sara-parkman-aster-atlas-hyllat-album-2026",
+      "title": "Sara Parkman hyllas för albumet \"Aster, Atlas\"",
+      "category": "Nyhet",
+      "date": "2026-05-08",
+      "location": "",
+      "summary": "Fjärde soloalbumet blandar arkaisk skandinavisk folkmusik med industriella texturer och elektronik, och har hyllats av internationell press som ett av årets mest säregna svenska album.",
+      "source": "KLOF Mag",
+      "url": "https://klofmag.com/2026/05/sara-parkman-aster-atlas/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
     }
   ]
 }

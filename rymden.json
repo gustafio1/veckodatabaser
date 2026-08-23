@@ -2,8 +2,8 @@
   "topic": "Rymden",
   "description": "Raketuppskjutningar, rymdsonder, astronomiska upptäckter och rymdindustri. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-16",
-  "item_count": 40,
+  "last_updated": "2026-08-23",
+  "item_count": 46,
   "items": [
     {
       "id": "ariane-6-amazon-leo-tyngsta-lasten-2026",
@@ -484,6 +484,78 @@
       "url": "https://www.cnn.com/2026/08/05/science/inouye-telescope-sun-images-magnetic-energy",
       "added_on": "2026-08-16",
       "collected_week": "2026-W33"
+    },
+    {
+      "id": "landspace-zhuque-3-booster-landning",
+      "title": "Kinesiskt bolag landade återanvändbar raketbooster för första gången",
+      "category": "Uppskjutning",
+      "date": "2026-08-19",
+      "location": "",
+      "summary": "Det privata kinesiska rymdbolaget LandSpace lyckades landa första steget av sin Zhuque-3-raket på landningsben efter en satellituppskjutning, vilket gör det till det första kommersiella bolaget utanför USA att bemästra vertikal boosterlandning. Framgången ses som ett viktigt steg i Kinas satsning på återanvändbara raketer i klass med SpaceX Falcon 9.",
+      "source": "Spaceflight Now",
+      "url": "https://spaceflightnow.com/2026/08/19/landspace-becomes-first-commercial-chinese-company-to-land-an-orbital-class-booster/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "gammastralning-zink-70-magnetism",
+      "title": "Forskare löser gåtan bakom mystisk gammastrålning i atomkärnor",
+      "category": "Forskning",
+      "date": "2026-08-20",
+      "location": "",
+      "summary": "Forskare vid Facility for Rare Isotope Beams och Lawrence Livermore National Laboratory har visat att en länge oförklarad ström av lågenergetisk gammastrålning från atomkärnan zink-70 orsakas av magnetiska omväxlingar inuti kärnan. Upptäckten, publicerad i Nature, kan skärpa modellerna för hur tunga grundämnen bildas inuti stjärnor.",
+      "source": "Lawrence Livermore National Laboratory",
+      "url": "https://www.llnl.gov/article/54816/magnetic-clues-atomic-nuclei-reveal-truth-about-mysterious-gamma-rays",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "spacex-hundrade-uppskjutning-2026",
+      "title": "SpaceX passerade hundra uppskjutningar för året",
+      "category": "Uppskjutning",
+      "date": "2026-08-21",
+      "location": "",
+      "summary": "SpaceX sköt upp sin hundrade orbitala raket för året från Vandenberg i Kalifornien och satte ytterligare 29 Starlink-satelliter i omloppsbana. Milstolpen visar den rekordhöga uppskjutningstakt bolaget hållit under 2026, med flera Falcon 9-starter varje vecka.",
+      "source": "Spaceflight Now",
+      "url": "https://spaceflightnow.com/2026/08/21/live-coverage-spacex-to-launch-100th-orbital-mission-of-2026/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "iss-rymdpromenad-antenn-adenot",
+      "title": "Första franska kvinnliga rymdpromenaden genomförd på ISS",
+      "category": "Industri",
+      "date": "2026-08-18",
+      "location": "",
+      "summary": "NASA-astronauten Anil Menon och ESA-astronauten Sophie Adenot genomförde en drygt sex timmar lång rymdpromenad för att byta ut en trasig höghastighetsantenn på rymdstationen ISS, men hann inte installera den nya innan tiden tog slut och fick återkomma senare. Adenot blev därmed den första franska kvinnan att genomföra en rymdpromenad.",
+      "source": "Space.com",
+      "url": "https://www.space.com/space-exploration/international-space-station/nasa-astronaut-and-1st-female-french-spacewalker-remove-failed-iss-antenna-but-run-out-of-time-for-replacement",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "roman-teleskop-generalrepetition",
+      "title": "Generalrepetition klar inför uppskjutningen av Romanteleskopet",
+      "category": "Uppskjutning",
+      "date": "2026-08-20",
+      "location": "",
+      "summary": "NASA:s team bakom det nya rymdteleskopet Nancy Grace Roman genomförde en fullskalig generalrepetition vid Kennedy Space Center inför den planerade uppskjutningen den 30 augusti. Teleskopet får ett hundra gånger större synfält än Hubble och ska skjutas upp med en Falcon Heavy-raket som ett kraftfullt komplement till James Webb-teleskopet.",
+      "source": "NASA Science",
+      "url": "https://science.nasa.gov/blogs/roman/2026/08/20/launch-dress-rehearsal-complete-ahead-of-nasa-roman-space-telescope-liftoff/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "starship-bargning-christmas-island",
+      "title": "SpaceX bärgade Starship-raket efter 24 dagar till havs",
+      "category": "Industri",
+      "date": "2026-08-19",
+      "location": "",
+      "summary": "Efter att ha landat intakt i Indiska oceanen vid en testflygning i juli bogserades SpaceX:s Starship-farkost genom allt grövre sjögång tills den till slut nådde lugnt vatten utanför Christmas Island i Australien, med stöd av australiska myndigheter. Bärgningen är ett viktigt steg mot målet att kunna återanvända hela Starship-systemet.",
+      "source": "Space.com",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/starship-lives-spacex-craft-arrives-at-christmas-island-after-24-day-ocean-ordeal",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "topic": "Programmering",
   "description": "Nyheter för utvecklare: språk, ramverk, verktyg, AI-kodning och öppen källkod. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-16",
-  "item_count": 36,
+  "last_updated": "2026-08-23",
+  "item_count": 44,
   "items": [
     {
       "id": "typescript-7-nativ-kompilator-2026",
@@ -436,6 +436,102 @@
       "url": "https://kubernetes.io/blog/2026/07/31/kubernetes-v1-37-sneak-peek/",
       "added_on": "2026-08-16",
       "collected_week": "2026-W33"
+    },
+    {
+      "id": "mojo-open-source-apache",
+      "title": "Mojo blir helt öppen källkod",
+      "category": "Språk",
+      "date": "2026-08-18",
+      "location": "",
+      "summary": "Modular släppte hela Mojo-kompilatorn och verktygskedjan under Apache 2.0-licens under ModCon 2026, efter att tidigare bara ha öppnat standardbiblioteket. Språket, skapat av Chris Lattner, siktar på AI-arbetslaster över CPU, GPU och acceleratorer men tar ännu inte emot externa bidrag till kompilatorn.",
+      "source": "Modular",
+      "url": "https://www.modular.com/blog/mojo-open-source",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "slack-code-lanseras",
+      "title": "Slack lanserar Slack Code för AI-kodning i team",
+      "category": "Verktyg",
+      "date": "2026-08-21",
+      "location": "",
+      "summary": "Slack introducerade dedikerade kodkanaler där hela team kan följa, styra och granska AI-kodningsagenter som Claude Code, Devin, GitHub Copilot och Vercel Agent i realtid, med diff-vyer och liveförhandsvisning direkt i chatten. Funktionen finns tillgänglig på alla Slack-planer, men kräver egen åtkomst till respektive agentleverantör.",
+      "source": "Slack",
+      "url": "https://slack.com/blog/news/slack-code-channels-for-agents",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "rust-arrayref-forsorjningskedja",
+      "title": "Skadlig kod smög sig in i populärt Rust-paket",
+      "category": "Open Source",
+      "date": "2026-08-20",
+      "location": "",
+      "summary": "Angripare publicerade förgiftade versioner av crates.io-paketen arrayref, internment och append-only-vec med en byggskript-nedladdad payload som exekverades vid kompilering, innan Rusts säkerhetsteam hann yanka dem efter cirka 86 minuter. Arrayref används i över en tredjedel av alla Rust-miljöer och har 245 miljoner nedladdningar totalt, och infrastrukturen sägs likna tidigare nordkoreanska attacker mot open source.",
+      "source": "Rust Blog",
+      "url": "https://blog.rust-lang.org/2026/08/20/supply-chain-attack-on-arrayref/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "rust-1-98-0",
+      "title": "Rust 1.98.0 lägger till algebraiska flyttalsmetoder",
+      "category": "Språk",
+      "date": "2026-08-20",
+      "location": "",
+      "summary": "Nya Rust-versionen ger f32/f64 algebraiska metoder för addition, subtraktion, multiplikation och division som tillåter optimeringar liknande '-ffast-math', samt en ny format_into-metod som ersätter itoa-biblioteket för heltalsserialisering. Uppdateringen kommer samma vecka som forsörjningskedje-attacken mot arrayref, vilket satte extra fokus på Rust-ekosystemets säkerhet.",
+      "source": "Rust Blog",
+      "url": "https://blog.rust-lang.org/2026/08/20/Rust-1.98.0/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "wordpress-7-1",
+      "title": "WordPress 7.1 släpptes med AI-primitiv för utvecklare",
+      "category": "Ramverk",
+      "date": "2026-08-19",
+      "location": "",
+      "summary": "WordPress 7.1 landade på sista dagen av WordCamp US med samarbetsfunktionen 'Notes', rik textformatering i kommentarer och en utbyggd Abilities API med validering och en gemensam upptäcktspipeline som är tänkt att underlätta för AI-integrationer och automationsverktyg. AI-klienten i kärnan får också streaming för genereringssvar och stöd för embeddings till semantisk sökning.",
+      "source": "WordPress News",
+      "url": "https://wordpress.org/news/2026/08/wordpress-7-1-release-candidate-1/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "vscode-1-134",
+      "title": "VS Code 1.134 gör det lättare att jämföra flera chattar",
+      "category": "Verktyg",
+      "date": "2026-08-19",
+      "location": "",
+      "summary": "Augustiuppdateringen av Visual Studio Code lägger till sida-vid-sida-vyer för att gruppera relaterade chattar och subagent-konversationer, en promptlinje för att snabbt navigera mellan tidigare instruktioner och filändringar, samt möjlighet att förhandsgranska lokala HTML-filer direkt i den inbyggda webbläsaren. Föregående version 1.133 hade redan gett stöd för att byta modellleverantör mitt i en Claude-session.",
+      "source": "Visual Studio Code",
+      "url": "https://code.visualstudio.com/updates/v1_134",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "sveltekit-3-rc-rpc",
+      "title": "SvelteKit 3 utmanar Next.js med ny RPC-modell",
+      "category": "Ramverk",
+      "date": "2026-08-20",
+      "location": "",
+      "summary": "SvelteKit 3, som gick in i release candidate-fas i augusti, introducerar ett radikalt annorlunda sätt att hantera server-till-klient-anrop (RPC) som ställs mot Next.js etablerade modell, tillsammans med nya moduler för manifest och service workers samt förbättrad typkontroll. Teamet siktar på en stabil release utan fler brytande ändringar om testningen går bra.",
+      "source": "DevClass",
+      "url": "https://www.devclass.com/devops/2026/08/20/sveltekit-3-puts-heat-on-nextjs-with-radical-approach-to-rpcs/5290688",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "kde-gear-26-08",
+      "title": "KDE Gear 26.08 ger Kdenlive stor uppgradering",
+      "category": "Open Source",
+      "date": "2026-08-20",
+      "location": "",
+      "summary": "Den senaste KDE Gear-svepen med 171 paket bjuder på vad projektet kallar sina mest omfattande videoredigeringsförbättringar hittills i Kdenlive, säkrare signeringsfunktioner i PDF-läsaren Okular och bättre filgruppering i filhanteraren Dolphin. Släppet introducerar också det nya C++-biblioteket kdominate för att bygga HTML/XML-dokument programmatiskt, den första nettoökningen av paketuppsättningen på länge.",
+      "source": "KDE",
+      "url": "https://kde.org/announcements/gear/26.08.0/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
     }
   ]
 }

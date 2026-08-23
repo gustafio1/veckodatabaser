@@ -2,8 +2,8 @@
   "topic": "Sport – Fotboll, Tennis & Bordtennis",
   "description": "Nyheter inom fotboll, tennis och bordtennis med svenskt fokus. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-16",
-  "item_count": 79,
+  "last_updated": "2026-08-23",
+  "item_count": 85,
   "items": [
     {
       "id": "allsvenskan-sommaruppehall-2026",
@@ -936,6 +936,78 @@
       "summary": "Stina Källberg besegrade ukrainskan Margaryta Pesotska med 3–1 i set och säkrade därmed sin första singelseger någonsin i huvudturneringen på ett Smash-event. I nästa runda väntade den betydligt högre rankade Chen Yi.",
       "source": "Svenska Bordtennisförbundet (SBTF)",
       "url": "https://sbtf.se/europe-smash-2026/kallbergs-glanste-under-tisdagen-pa-europe-smash/"
+    },
+    {
+      "id": "hacken-slar-sirius-guldstriden-2026",
+      "title": "Häcken chockar Sirius i guldstriden",
+      "category": "Nyhet",
+      "date": "2026-08-21",
+      "location": "Uppsala",
+      "summary": "BK Häcken vann bortamötet mot serieledande IK Sirius med hela 3-0, vilket blev Uppsalalagets andra raka förlust i Allsvenskan efter 16 obesegrade matcher. Nederlaget öppnar upp guldstriden inför slutspurten av säsongen.",
+      "source": "SVT Sport",
+      "url": "https://www.svt.se/sport/fotboll/sirius-foll-igen-andra-raka-forlusten",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "orgryte-halmstad-krysslikt-2026",
+      "title": "Örgryte och Halmstad delade poängen",
+      "category": "Nyhet",
+      "date": "2026-08-22",
+      "location": "Göteborg",
+      "summary": "Örgryte IS och Halmstads BK spelade 1-1 på Gamla Ullevi i en jämn allsvensk drabbning mellan två lag i tabellens mittskikt. Resultatet gjorde varken till eller från i kampen om topp- och bottenplaceringarna.",
+      "source": "Svensk fotboll",
+      "url": "https://www.svenskfotboll.se/serier-cuper/tabell-och-resultat/allsvenskan-2026/133348/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "malmo-hammarby-damallsvenskan-oavgjort-2026",
+      "title": "Delad pott mellan Malmö FF och Hammarby",
+      "category": "Nyhet",
+      "date": "2026-08-21",
+      "location": "Malmö",
+      "summary": "Toppmötet i Damallsvenskan mellan Malmö FF och Hammarby slutade 1-1 på Eleda Stadion efter att Amy Sayer kvitterade ett tidigt självmål. Hammarby behöll andraplatsen och Malmö tredjeplatsen i tabellen efter oavgjortresultatet.",
+      "source": "SVT Sport",
+      "url": "https://www.svt.se/sport/fotboll/delad-pott-mellan-malmo-och-hammarby",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "hammarby-krossar-pitea-damallsvenskan-2026",
+      "title": "Hammarby krossade Piteå i Damallsvenskan",
+      "category": "Nyhet",
+      "date": "2026-08-16",
+      "location": "Stockholm",
+      "summary": "Hammarby IF vann stort hemma mot Piteå IF med 5-0 på Hammarby IP inför den egna publiken. Segern befäste Hammarbys plats i toppskiktet av Damallsvenskan inför det efterföljande toppmötet mot Malmö FF.",
+      "source": "Damallsvenskantabellen",
+      "url": "https://damallsvenskantabellen.se/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "us-open-2026-start-svenska-kvalspelare",
+      "title": "US Open 2026 igång - svenskar i kvalet",
+      "category": "Tävling",
+      "date": "2026-08-23",
+      "location": "New York",
+      "summary": "Årets sista tennis-Grand Slam, US Open, inleddes med kvalspel där svenskarna Mirjam Björklund och Elias Ymer stod på plan. Ymer tog sig senare vidare till huvudturneringens herrsingel som 198:a i världsrankingen.",
+      "source": "Svenska Tennisförbundet",
+      "url": "https://www.tennis.se/tennis-se/svenskarna-i-us-open/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "mikael-ymer-dubbelforlust-us-open-2026",
+      "title": "Mikael Ymer utslagen i US Open-dubbeln",
+      "category": "Nyhet",
+      "date": "2026-08-23",
+      "location": "New York",
+      "summary": "Mikael Ymer och hans amerikanske dubbelpartner Dennis Uspensky föll mot brasilianska paret Orlando Luz och Marcelo Zormann med 6-2, 6-2 i US Open. Förlusten innebar ett tidigt avslut för svensken i årets sista Grand Slam-turnering.",
+      "source": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/2026_US_Open_(tennis)",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
     }
   ]
 }

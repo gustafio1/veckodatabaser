@@ -2,8 +2,8 @@
   "topic": "Löpning",
   "description": "Lopp och maraton, svensk löparelit, träningsforskning och utrustning. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-16",
-  "item_count": 38,
+  "last_updated": "2026-08-23",
+  "item_count": 44,
   "items": [
     {
       "id": "stockholm-marathon-kiptoo-vinner-2026",
@@ -442,6 +442,78 @@
       "summary": "Omkring 1500 löpare, varav hälften utländska, deltog i loppet 6 sjöar med distanser mellan 5,5 och 42 kilometer på grusvägar och skogsstigar, ett arrangemang som profilerar sig med engångsfri hållbarhet och trämedaljer till alla finishers.",
       "source": "Ahotu",
       "url": "https://www.ahotu.com/sv/event/6-lakes-6-sjoar"
+    },
+    {
+      "id": "midnattsloppet-2026-jubileum-fler-kvinnor",
+      "title": "Rekordstora Midnattsloppet firade 45 år – fler kvinnor än män för första gången",
+      "category": "Tävling",
+      "date": "2026-08-15",
+      "location": "Stockholm",
+      "summary": "Midnattsloppet firade sitt 45-årsjubileum med runt 40 700 anmälda löpare i sommarvärme, och för första gången i loppets historia var fler kvinnor än män anmälda till startfältet. Loppet på Södermalm avgjordes över 5, 10 och 21 kilometer trots temperaturer kring 27 grader vid eftermiddagsstarterna.",
+      "source": "Nyheter24",
+      "url": "https://nyheter24.se/sport/1504903-midnattsloppet-2026-i-stockholm-tider-deltagare-karta",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "trailvasan-30-modig-svensk-banrekord-2026",
+      "title": "Lovisa Modig slog eget banrekord för tredje året i rad i Trailvasan 30",
+      "category": "Tävling",
+      "date": "2026-08-15",
+      "location": "Oxberg–Mora",
+      "summary": "Lovisa Modig tog sin tredje raka seger i Trailvasan 30 och sänkte samtidigt banrekordet till 1.54.51, klart före tvåan Sofie Nelson Rask. På herrsidan avgjordes loppet i en tät duell där orienteraren Emil Svensk höll undan före detta längdskidåkaren Simon Andersson med 35 sekunder.",
+      "source": "Vasaloppet",
+      "url": "https://vasaloppet.se/nyheter/starkt-startfalt-i-rekordstora-ultravasan-90-2026/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "ingebrigtsen-lausanne-1500m-diamond-league-2026",
+      "title": "Ingebrigtsen höll undan Girma och vann 1500 meter i Lausanne",
+      "category": "Tävling",
+      "date": "2026-08-21",
+      "location": "Lausanne",
+      "summary": "Jakob Ingebrigtsen vann 1500 meter på Diamond League-galan Athletissima i Lausanne på tiden 3.28,72 efter att ha hållit undan etiopiske Lamecha Girma i upploppet. Resultatet bekräftade norrmannens fina form sedan comebacken efter en lång skadeuppehåll, bara veckor efter hans EM-guld på 5000 meter i Birmingham.",
+      "source": "Flashscore",
+      "url": "https://www.flashscore.com/news/athletics-diamond-league-ingebrigtsen-holds-off-girma-to-win-1-500m-at-diamond-league-in-lausanne/EP6qHRIi",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "finnkampen-trupp-almgren-pihlstrom-2026",
+      "title": "Almgren och Pihlström i svenska Finnkampstruppen till Helsingfors",
+      "category": "Nyhet",
+      "date": "2026-08-20",
+      "location": "",
+      "summary": "Förbundskapten Kajsa Bergqvist presenterade den svenska friidrottstruppen inför Finnkampen i Helsingfors 29–30 augusti, med EM-guldmedaljören Andreas Almgren och EM-silvermedaljören Samuel Pihlström bland medel- och långdistanslöparna. Sverige hoppas kunna upprepa fjolårets dubbelseger, den här gången på bortaplan.",
+      "source": "Svenska Friidrottsförbundet",
+      "url": "https://www.friidrott.se/tavling-landslag/nyhetsarkiv-tavling-landslag/har-ar-finnkampstruppen-ser-bara-mojligheter/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "coros-apex-4-test-loparklocka-2026",
+      "title": "Testat: Coros Apex 4 imponerar med lång batteritid för terränglöpare",
+      "category": "Utrustning",
+      "date": "2026-05-05",
+      "location": "",
+      "summary": "Efter fyra månaders test lyfter Löparshop.se fram Coros Apex 4:s ovanligt långa batteritid och tillförlitliga GPS-spårning som de främsta styrkorna för löpare som rör sig mycket i terräng. Klockan pekas ut som ett robust och prisvärt alternativ till Garmins flaggskeppsmodeller för den som prioriterar räckvidd framför skärmupplösning.",
+      "source": "Löparshop.se",
+      "url": "https://www.loparshop.se/inspiration/test-coros-apex-4",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "maraton-hjarta-tioarsstudie-2026",
+      "title": "Tioårsstudie: Maraton ger inga bestående hjärtskador hos friska löpare",
+      "category": "Forskning",
+      "date": "2025-12-28",
+      "location": "",
+      "summary": "En tioårig uppföljning av 152 motionsmaratonlöpare, publicerad i JAMA Cardiology, visar att hjärtats storlek och pumpförmåga låg kvar inom normala värden genom hela perioden trots upprepade maratonlopp. Höger kammares pumpförmåga sjönk tillfälligt direkt efter målgång men återhämtade sig inom några dagar, vilket forskarna tolkar som att löpningen inte orsakar bestående hjärtskador hos i övrigt friska löpare.",
+      "source": "The Conversation",
+      "url": "https://theconversation.com/do-marathons-damage-your-heart-decade-long-study-finally-settles-the-debate-272371",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
     }
   ]
 }

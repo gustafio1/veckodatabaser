@@ -2,8 +2,8 @@
   "topic": "Friluftsliv",
   "description": "Vandringsleder, friluftsutrustning, naturvård, allemansrätt och äventyr. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-16",
-  "item_count": 36,
+  "last_updated": "2026-08-23",
+  "item_count": 41,
   "items": [
     {
       "id": "pusselleden-invigd-sigtuna-2026",
@@ -422,6 +422,66 @@
       "summary": "En vandrare skadade knäet i fjällterräng norr om Liedik under lördagsförmiddagen och kunde inte ta sig ner själv, varpå en fjällräddningsinsats med helikopter genomfördes och personen fördes vidare till ambulans.",
       "source": "Norrländska Socialdemokraten (NSD)",
       "url": "https://www.nsd.se/nyheter/gallivare/artikel/vandrare-skadar-knaet-i-fjallen-raddas-med-helikopter/l786ne1j"
+    },
+    {
+      "id": "naturum-hornborgasjon-40-ar-2026",
+      "title": "Naturum Hornborgasjön firar 40 år med jubileumshelg",
+      "category": "Naturvård",
+      "date": "2026-08-20",
+      "location": "Hornborgasjön, Västergötland",
+      "summary": "Naturum Hornborgasjön, känt för sina rastande tranor, fyllde 40 år och firade med en jubileumshelg den 22–23 augusti. Naturvårdsverket lyfte fram hur platsen förvandlats från en tidigare utdikad sjö till ett skyddat naturområde som lockar både naturvårdare och friluftsfolk.",
+      "source": "Naturvårdsverket",
+      "url": "https://press.newsmachine.com/pressrelease/view/fran-utdikad-sjo-till-naturikon-naturum-hornborgasjon-firar-40-ar-68026",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "bjornjakten-start-allemansratt-2026",
+      "title": "Björnjakten drog igång – allemansrätten gäller ändå i skogen",
+      "category": "Allemansrätt",
+      "date": "2026-08-21",
+      "location": "",
+      "summary": "Licensjakten på björn startade den 21 augusti i sju län med en sammanlagd kvot på 394 djur, samtidigt som många är ute och plockar bär och svamp eller vandrar. Naturvårdsverket påminner om att allemansrätten fortsätter gälla under jakten, men uppmanar till hänsyn och att undvika områden där organiserad jakt pågår just då.",
+      "source": "Naturvårdsverket",
+      "url": "https://www.naturvardsverket.se/om-oss/aktuellt/nyheter-och-pressmeddelanden/2026/augusti/gemensamt-ansvar-nar-bjornjakten-startar/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "fjallraddning-kebnekaise-natt-augusti-2026",
+      "title": "Ny fjällräddning på Kebnekaise mitt i natten",
+      "category": "Nyhet",
+      "date": "2026-08-11",
+      "location": "Kebnekaise, Kiruna kommun",
+      "summary": "En vandrargrupp på väg ner från Kebnekaises topp fick natten till den 11 augusti larma fjällräddningen sedan en av deltagarna inte orkade fortsätta i kylig blåst. Personen hämtades med civil helikopter och fördes till fjällstationen, i vad som var en av flera liknande insatser i området under sommaren.",
+      "source": "Norrländska Socialdemokraten (NSD)",
+      "url": "https://www.nsd.se/nyheter/kiruna/artikel/person-raddad-med-helikopter-pa-kebnekaise/lqp7y0kr",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "lona-bidrag-vandringsleder-deadline-2026",
+      "title": "Sista chansen att söka LONA-bidrag för vandringsleder inför 2026",
+      "category": "Naturvård",
+      "date": "2026-09-01",
+      "location": "",
+      "summary": "Kommuner har till den 1 september på sig att skicka in ansökningar till länsstyrelsen inom den nya ordinarie LONA-satsningen på vandringsleder, där totalt 10 miljoner kronor fördelas till länsstyrelserna under 2026. Pengarna kan användas till upprustning av leder och tillhörande anordningar och kan finansiera upp till hälften av kostnaden för ett projekt.",
+      "source": "Naturvårdsverket",
+      "url": "https://www.naturvardsverket.se/bidrag/lona-vandringsleder/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "vandringsryggsack-basttest-2026",
+      "title": "Vandringsryggsäckar 2026 – Fjällräven Kajka 85 toppar testet",
+      "category": "Utrustning",
+      "date": "2026-08-18",
+      "location": "",
+      "summary": "I årets ryggsäckstest, genomfört bland annat på Sörmlandsleden, koras Fjällräven Kajka 85 till bästa vandringsryggsäck 2026 tack vare robusthet och god balans även med tung packning. Bland utmanarna märks Osprey Aether Plus 70L för backpacking och lättviktsalternativet Gossamer Gear Mariposa 60 för den som vill hålla ner packvikten.",
+      "source": "Testix",
+      "url": "https://testix.se/test/vandringsryggsack",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "topic": "Ledarskap – John Maxwell",
   "description": "Ledarskapsprinciper och lärdomar från John C. Maxwell, inklusive De 21 oeftergivliga ledarskapslagarna. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-16",
-  "item_count": 99,
+  "last_updated": "2026-08-23",
+  "item_count": 104,
   "items": [
     {
       "id": "lockets-lag",
@@ -1192,6 +1192,66 @@
       "url": "https://gracelead.co/wp-content/uploads/2016/07/lawsof-teamwork-17-guide.pdf",
       "added_on": "2026-08-16",
       "collected_week": "2026-W33"
+    },
+    {
+      "id": "bok-intentional-living",
+      "title": "Ett medvetet liv (Intentional Living: Choosing a Life That Matters)",
+      "category": "Bok",
+      "date": "2015-01-01",
+      "location": "",
+      "summary": "Maxwell argumenterar för att betydelse inte kommer av tillfälligheter utan av medvetna, dagliga val – han uppmanar läsaren att sluta bara ha goda avsikter och istället aktivt utforma ett liv som tillför verkligt värde för andra. Boken innehåller bland annat ett helt kapitel om att hitta sitt personliga \"varför\".",
+      "source": "John C. Maxwell, Intentional Living: Choosing a Life That Matters",
+      "url": "https://www.goodreads.com/book/show/26058930-intentional-living",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "bok-the-difference-maker",
+      "title": "Attityden som gör skillnad (The Difference Maker: Making Your Attitude Your Greatest Asset)",
+      "category": "Bok",
+      "date": "2006-01-01",
+      "location": "",
+      "summary": "Boken visar hur två personer med samma förutsättningar kan få helt olika resultat beroende på attityd, och går igenom de fem vanligaste attitydhindren: modlöshet, förändring, rädsla, problem och misslyckande. Maxwell betonar att en god attityd inte garanterar framgång, men att den nästan alltid är avgörande för om man når dit.",
+      "source": "John C. Maxwell, The Difference Maker: Making Your Attitude Your Greatest Asset",
+      "url": "https://www.goodreads.com/book/show/19842.The_Difference_Maker",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "bok-put-your-dream-to-the-test",
+      "title": "Testa din dröm (Put Your Dream to the Test)",
+      "category": "Bok",
+      "date": "2009-01-01",
+      "location": "",
+      "summary": "Maxwell menar att skillnaden mellan en dröm som förblir en dröm och en som förverkligas ligger i att ärligt kunna besvara tio konkreta frågor om ägarskap, tydlighet, verklighetsförankring, passion, strategi, medmänniskor, pris, uthållighet, tillfredsställelse och betydelse. Ju fler frågor man kan svara ja på, desto större är chansen att drömmen faktiskt realiseras.",
+      "source": "John C. Maxwell, Put Your Dream to the Test: 10 Questions That Will Help You See It and Seize It",
+      "url": "https://www.goodreads.com/book/show/5985529-put-your-dream-to-the-test",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "bok-leadership-101",
+      "title": "Ledarskap 101 (Leadership 101: What Every Leader Needs to Know)",
+      "category": "Bok",
+      "date": "2002-01-01",
+      "location": "",
+      "summary": "En koncentrerad introduktionsbok där Maxwell samlar grundprinciperna från sitt författarskap: att leda sig själv först, att bygga förtroende genom integritet och konsekvens, samt att sätta tydliga prioriteringar. Boken beskriver ledarskap som en livslång resa snarare än en destination man når fram till.",
+      "source": "John C. Maxwell, Leadership 101: What Every Leader Needs to Know",
+      "url": "https://www.goodreads.com/book/show/70334.Leadership_101",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "citat-hurt-enough-to-change",
+      "title": "Citat: \"Tillräckligt illa\" (People change when they hurt enough...)",
+      "category": "Citat",
+      "date": "2005-01-01",
+      "location": "",
+      "summary": "Maxwells kända formulering om varför människor faktiskt förändras: de gör det när de har ont nog för att tvingas till det, lär sig nog för att vilja det, och får nog för att kunna det. Citatet fångar hans grundtanke att verklig förändring kräver en kombination av smärta, insikt och möjlighet – inte enbart god vilja.",
+      "source": "John C. Maxwell, Developing the Leader Within You / Failing Forward",
+      "url": "https://www.azquotes.com/quote/583099",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
     }
   ]
 }

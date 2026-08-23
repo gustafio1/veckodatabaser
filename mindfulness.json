@@ -2,8 +2,8 @@
   "topic": "Mindfulness",
   "description": "Forskning om meditation, metoder, appar, retreater och mindfulness i vardagen. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-16",
-  "item_count": 32,
+  "last_updated": "2026-08-23",
+  "item_count": 38,
   "items": [
     {
       "id": "sju-dagars-meditation-forandrar-hjarnan-2026",
@@ -388,6 +388,78 @@
       "url": "https://www.buddhistinquiry.org/classes/2026-finding-balance-in-chaos-a-mindfulness-retreat-for-coming-back-to-ourselves/",
       "added_on": "2026-08-16",
       "collected_week": "2026-W33"
+    },
+    {
+      "id": "digital-mindfulness-teknostress-nottingham-2026",
+      "title": "Ny skala mäter digital mindfulness på jobbet",
+      "category": "Studie",
+      "date": "2026-07-24",
+      "location": "",
+      "summary": "Forskare vid University of Nottingham har utvecklat och validerat en 15-frågors skala för digital mindfulness (avsikt, uppmärksamhet, attityd) i arbetslivet. I en uppföljande enkät bland cirka 400 brittiska anställda visade det sig att högre digital mindfulness en månad senare hängde ihop med lägre teknikstress, mindre utmattning och bättre psykiskt mående – utöver personens allmänna mindfulnessnivå.",
+      "source": "Medical Xpress / University of Nottingham (Computers in Human Behavior)",
+      "url": "https://medicalxpress.com/news/2026-07-mindful-digital-technology-workplace-burnout.html",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "medito-app-engagemang-longitudinell-studie-2026",
+      "title": "Låg långsiktig användning av gratisappen Medito, visar ny studie",
+      "category": "Studie",
+      "date": "2026-06-08",
+      "location": "",
+      "summary": "En longitudinell studie av meditationsappen Medito följde 668 användare i 30 länder under de första 30 dagarna efter nedladdning. Hälften av användarna mediterade totalt 16 minuter eller mindre under hela månaden, och resultaten tyder på att akut stress driver användningen medan kronisk stress snarare stör den.",
+      "source": "JMIR mHealth and uHealth",
+      "url": "https://mhealth.jmir.org/2026/1/e79366",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "jmir-ankareffekt-malsattning-meditation-2026",
+      "title": "Hur måltexten formuleras påverkar hur mycket vi mediterar i appar",
+      "category": "Studie",
+      "date": "2026-04-09",
+      "location": "",
+      "summary": "En storskalig fältstudie på en digital meditationsplattform testade om ordningen på svarsalternativen i en målsättningsfråga, en så kallad ankareffekt, styr vilket mål användare väljer och hur många dagar de sedan mediterar. Resultaten visade att denna enkla designdetalj förändrade både målvalet och andelen som valde att hoppa av helt.",
+      "source": "Journal of Medical Internet Research",
+      "url": "https://www.jmir.org/2026/1/e85801",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "vr-meditation-palliativ-cancervard-studieprotokoll-2026",
+      "title": "VR-meditation ska testas mot smärta i palliativ cancervård",
+      "category": "Studie",
+      "date": "2026-01-21",
+      "location": "",
+      "summary": "Ett nytt studieprotokoll från Brasilien beskriver en planerad randomiserad studie där immersiv VR-meditation ska testas som smärtlindring och för att förbättra livskvaliteten hos cancerpatienter i palliativ vård. VR-baserad meditation ska där jämföras med sedvanlig vård inom smärtenheten på ett brasilianskt cancercenter.",
+      "source": "Healthcare (MDPI)",
+      "url": "https://www.mdpi.com/2227-9032/14/2/266",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "insight-timer-ai-avsiktsfunktion-lansering-2026",
+      "title": "Insight Timer lanserar AI-driven funktion för dagliga intentioner",
+      "category": "Nyhet",
+      "date": "2026-01-06",
+      "location": "",
+      "summary": "Meditationsappen Insight Timer, med över 32 miljoner medlemmar, har lanserat en AI-driven rekommendationsmotor som föreslår meditationer utifrån användarens dagliga intention, tillsammans med nya funktioner för målsättning och en särskild utmaning för att formulera tydligare avsikter. Lanseringen visar hur meditationsappar i allt högre grad använder AI för att skräddarsy innehåll åt användarna.",
+      "source": "GlobeNewswire / Insight Timer",
+      "url": "https://www.globenewswire.com/news-release/2026/01/06/3213643/0/en/Insight-Timer-Launches-New-Year-s-Resolution-and-Intention-Setting-Features-with-AI-Recommendation-Engine.html",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "mindfulness-mild-kognitiv-svikt-demens-studieprotokoll-2025",
+      "title": "Onlinemindfulness ska testas för personer med mild kognitiv svikt och demens",
+      "category": "Studie",
+      "date": "2025-11-25",
+      "location": "",
+      "summary": "Ett nytt studieprotokoll beskriver ett åtta veckor långt digitalt mindfulnessprogram riktat till 32 personer över 60 år med lindrig kognitiv svikt eller mild demens i Storbritannien. Syftet är att först undersöka om onlineledda gruppsessioner är genomförbara och accepteras av deltagarna, innan effekterna på minne och välbefinnande kan studeras i en större uppföljande studie.",
+      "source": "PLOS One",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0336583",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
     }
   ]
 }

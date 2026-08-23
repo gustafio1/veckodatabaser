@@ -2,8 +2,8 @@
   "topic": "Psykologi – Vänskap",
   "description": "Ny forskning och insikter om vänskap, relationer och social anknytning. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-16",
-  "item_count": 71,
+  "last_updated": "2026-08-23",
+  "item_count": 76,
   "items": [
     {
       "id": "vanskap-folkhalsotillgang-2026",
@@ -856,6 +856,66 @@
       "url": "https://onlinelibrary.wiley.com/doi/10.1111/sjop.70065",
       "added_on": "2026-08-16",
       "collected_week": "2026-W33"
+    },
+    {
+      "id": "interact-ensamhet-england-2026",
+      "title": "Var sjätte vuxen i England ensam ofta eller alltid, visar jättestudie",
+      "category": "Studie",
+      "date": "2026-08-14",
+      "location": "",
+      "summary": "Imperial College Londons INTERACT-studie, en av världens största kartläggningar av ensamhet, undersökte över 135 000 vuxna i England och fann att ungefär var sjätte person känner sig ensam ofta eller alltid, med särskilt höga nivåer i storstäder. Forskarna menar att covid-pandemin förvärrat situationen och efterlyser att ensamhet hanteras som en folkhälsofråga för alla åldrar, inte bara för äldre.",
+      "source": "Imperial College London",
+      "url": "https://www.imperial.ac.uk/news/articles/2026/one-in-six-adults-in-england-report-persistent-loneliness-major-study-finds-/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "ensamhet-isolering-skiljer-sig-halsoeffekter-2026",
+      "title": "Ensamhet och social isolering påverkar hälsan på olika sätt",
+      "category": "Forskning",
+      "date": "2026-08-08",
+      "location": "",
+      "summary": "En sammanställande analys visar att upplevd ensamhet är kopplad till sämre psykisk hälsa, självskadebeteende och sämre allmän hälsa, medan ren social isolering – alltså få sociala kontakter – framför allt hänger samman med sämre välbefinnande. Forskarna menar att ensamhet och isolering bör ses som skilda fenomen eftersom de tycks påverka oss via delvis olika mekanismer.",
+      "source": "The Conversation / Phys.org",
+      "url": "https://phys.org/news/2026-08-loneliness-health-ways-isolation.html",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "ensamhet-isolering-skorhet-dodlighet-31-lander-2026",
+      "title": "Ensamhet och isolering ökar risken för skörhet och tidig död hos äldre",
+      "category": "Studie",
+      "date": "2026-08-15",
+      "location": "",
+      "summary": "En sammanslagen analys av fyra stora åldrandestudier med över 80 000 deltagare i 31 länder visar att både social isolering och upplevd ensamhet under cirka sju års uppföljning ökade risken för att bli skör och risken att dö, med isolering kopplat till ungefär en tredjedels högre dödsrisk. Skörhet visade sig förklara en stor del av sambandet, särskilt kopplingen mellan ensamhet och död.",
+      "source": "NaturalNews / internationell åldrandestudie",
+      "url": "https://www.naturalnews.com/2026-08-15-study-links-loneliness-social-isolation-frailty-shorter-lifespan.html",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "ai-sallskap-sarbara-litet-natverk-2026",
+      "title": "AI-sällskap kan göra ensamheten värre för dem med litet socialt nätverk",
+      "category": "Studie",
+      "date": "2026-08-05",
+      "location": "",
+      "summary": "Stanfordforskare som följt över 1 100 användare av AI-sällskapsappar fann att intensivt användande hängde ihop med sämre mående, särskilt hos dem med små sociala nätverk i verkliga livet som sökte chattbotarna primärt för sällskap. Forskarna liknar AI-sällskap vid \"socialt snabbmat\" – det lindrar ensamheten kortsiktigt men saknar det ömsesidiga utbyte som krävs för varaktigt välbefinnande.",
+      "source": "Stanford Report / Nature Human Behaviour",
+      "url": "https://news.stanford.edu/stories/2026/08/ai-companions-chatbots-loneliness-research",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "otrohet-okar-risk-partnervald-2026",
+      "title": "Risken för partnervåld ökar de veckor en partner är otrogen",
+      "category": "Studie",
+      "date": "2026-08-21",
+      "location": "",
+      "summary": "En analys av longitudinella data om parrelationer visar att kvinnor löper större risk att utsättas för våld från sin partner just under de perioder då partnern har ett sidoförhållande. Studien pekar på otrohet som en tidsmässig riskmarkör för våld i nära relationer snarare än en isolerad engångshändelse.",
+      "source": "PsyPost / Journal of Marriage and Family",
+      "url": "https://www.psypost.org/women-face-higher-risks-of-partner-violence-during-the-weeks-their-partners-cheat/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
     }
   ]
 }

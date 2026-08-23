@@ -2,8 +2,8 @@
   "topic": "Kyrkohistoria",
   "description": "Kyrkohistorisk forskning, jubileer, kristen arkeologi, böcker och kulturarv. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-16",
-  "item_count": 39,
+  "last_updated": "2026-08-23",
+  "item_count": 44,
   "items": [
     {
       "id": "iznik-nicaeakyrkans-lamningar-utgravda-2026",
@@ -472,6 +472,66 @@
       "url": "https://www.uu.se/en/department/theology/research/church-history-and-mission-history",
       "added_on": "2026-08-16",
       "collected_week": "2026-W33"
+    },
+    {
+      "id": "vence-frankrike-dopfunt-fornkristen-2026",
+      "title": "Tidigkristen dopfunt funnen invid 400-talskatedral i Vence",
+      "category": "Fynd",
+      "date": "2026-08-15",
+      "location": "Vence, Frankrike",
+      "summary": "Arkeologer har blottlagt en runda dopfunt från 400–500-talet vid sidan av en tidigkristen katedral i Vence i Provence; fyndplatsen visar spår av kristen verksamhet från 400- till 1000-talet.",
+      "source": "Arkeonews",
+      "url": "https://arkeonews.net/significant-early-christian-discovery-1500-year-old-cathedral-and-baptistery-unearthed-beneath-marketplace/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "qallaya-koptiskt-gasthus-beheira-2026",
+      "title": "Koptiskt klostergästhus från 400-talet upptäckt i Beheira, Egypten",
+      "category": "Fynd",
+      "date": "2026-03-23",
+      "location": "Qallaya, Beheira, Egypten",
+      "summary": "Egyptens antikvitetsministerium meddelade fyndet av en klosterbyggnad från 400-talet i Qallaya, med bevarade väggmålningar och en gravinskription som vittnar om den tidiga koptiska klosterrörelsens historia.",
+      "source": "EgyptToday",
+      "url": "https://www.egypttoday.com/Article/4/146186/Egypt-Uncovers-Ancient-Building-from-the-Beginnings-of-Coptic-Monasticism",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "scandia-reformationen-sverige-artikel-2026",
+      "title": "Ny forskning om reformationens början i det svenska riket",
+      "category": "Forskning",
+      "date": "2026-01-21",
+      "location": "Sverige",
+      "summary": "Historikerna Karin Grundström och Mathilda Rosengren vid Malmö universitet undersöker i en artikel i tidskriften Scandia när och hur reformationen egentligen inleddes i det svenska riket, ur ett kulturhistoriskt perspektiv.",
+      "source": "Scandia – Tidskrift för historisk forskning",
+      "url": "https://journals.lub.lu.se/scandia/article/view/17301",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "arboga-dick-harrison-franciskanerna-bok-2026",
+      "title": "Dick Harrison skriver om franciskanerna i Arboga",
+      "category": "Bok",
+      "date": "2025-10-04",
+      "location": "Arboga, Sverige",
+      "summary": "Inför Franciskusjubileet i Arboga har historikern Dick Harrison skrivit boken \"Franciskanerna i Arboga\", som skildrar gråbrödernas kloster och dess betydelse för både staden och riket under medeltiden.",
+      "source": "Arbogabygdens församling",
+      "url": "https://www.svenskakyrkan.se/arboga/ny-bok-franciskanerna-i-arboga",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "kyrkohistoriska-dagen-uppsala-2026",
+      "title": "Kyrkohistoriska dagen 2026 hölls vid Uppsala universitet",
+      "category": "Nyhet",
+      "date": "2026-04-16",
+      "location": "Uppsala, Sverige",
+      "summary": "Den årliga Kyrkohistoriska dagen samlade forskare vid Humanistiska teatern i Uppsala för föredrag och diskussioner om aktuell kyrkohistorisk forskning.",
+      "source": "Uppsala universitet",
+      "url": "https://www.uu.se/en/department/theology/research/church-history-and-mission-history",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
     }
   ]
 }

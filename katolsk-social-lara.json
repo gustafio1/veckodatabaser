@@ -2,8 +2,8 @@
   "topic": "Katolska kyrkans sociala lära",
   "description": "Den katolska kyrkans sociala lära – principerna och temana som vägleder ett rättvist samhälle. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-16",
-  "item_count": 94,
+  "last_updated": "2026-08-23",
+  "item_count": 100,
   "items": [
     {
       "id": "liv-och-vardighet",
@@ -1132,6 +1132,78 @@
       "url": "https://www.vaticannews.va/en/pope/news/2026-01/pope-leo-xiv-centesimus-annus-pro-pontefice-message.html",
       "added_on": "2026-08-16",
       "collected_week": "2026-W33"
+    },
+    {
+      "id": "justitia-et-pax-sverige-val-2026",
+      "title": "Justitia et Pax tar fram underlag inför riksdagsvalet",
+      "category": "Dokument",
+      "date": "2026-04-20",
+      "location": "Sverige",
+      "summary": "Inför riksdagsvalet den 13 september 2026 har Justitia et Pax i Sverige publicerat ett samtalsunderlag utifrån den katolska sociallärans principer om människovärdighet och det gemensamma goda.",
+      "source": "Katolska kyrkan i Sverige",
+      "url": "https://www.katolskakyrkan.se/kyrkan-i-sverige/justitia-et-pax/alla-nyheter",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "psykisk-ohalsa-unga-sociallara-falk-2026",
+      "title": "Psykisk ohälsa bland unga belyst ur sociallärans perspektiv",
+      "category": "Dokument",
+      "date": "2026-08-10",
+      "location": "Sverige",
+      "summary": "Samuelle Fajutrao Falk har skrivit rapporten \"Att möta psykisk ohälsa bland unga – katolska kyrkans roll och sociallära\", som analyserar frågan utifrån människans värdighet och det gemensamma goda.",
+      "source": "Katolska kyrkan i Sverige",
+      "url": "https://www.katolskakyrkan.se/kyrkan-i-sverige/justitia-et-pax/alla-nyheter",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "ai-etik-konferens-ersta-oktober-2026",
+      "title": "Konferens om AI och etik planeras utifrån sociallärans principer",
+      "category": "Nyhet",
+      "date": "2026-08-15",
+      "location": "Stockholm, Sverige",
+      "summary": "Den 2 oktober arrangerar tidskriften Respekt tillsammans med Justitia et Pax och studieförbundet Bilda en heldagskonferens om artificiell intelligens och etik på Ersta i Stockholm.",
+      "source": "Respekt / Justitia et Pax / Bilda",
+      "url": "https://www.katolskakyrkan.se/kyrkan-i-sverige/justitia-et-pax/alla-nyheter",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "deane-drummond-oxford-professur-2026",
+      "title": "Ledande CST-teolog blir professor i katolsk samtidsteologi vid Oxford",
+      "category": "Nyhet",
+      "date": "2026-08-14",
+      "location": "Oxford, Storbritannien",
+      "summary": "Celia Deane-Drummond, chef för Laudato Si'-forskningsinstitutet vid Campion Hall, har utsetts till professor i katolsk samtidsteologi vid Oxfords universitet för sin forskning i skärningspunkten mellan teologi, sociallära och naturvetenskap.",
+      "source": "Jesuits in Britain",
+      "url": "https://www.jesuit.org.uk/news/lsri-director-celia-deane-drummond-awarded-oxford-professorship-of-contemporary-catholic-theology",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "bergspredikan-sociallara-koppling-2026",
+      "title": "Bergspredikan som grund för den katolska sociallärans principer",
+      "category": "Princip",
+      "date": "2026-08-18",
+      "location": "",
+      "summary": "En kommentar utforskar hur Bergspredikan lägger den bibliska grunden för sociallärans senare principer om människovärdighet, rättvisa och det gemensamma goda.",
+      "source": "The Catholic Spirit / OSV News",
+      "url": "https://www.thecatholicspirit.com/commentary/catholic-or-nothing/the-church-as-catholic-social-teaching/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "canadian-catholic-conscience-konferens-2026",
+      "title": "Konferens sökte gemensam grund via katolska sociallärans principer",
+      "category": "Nyhet",
+      "date": "2026-08-11",
+      "location": "Kanada",
+      "summary": "En konferens arrangerad av Catholic Conscience samlade katoliker som menar att den katolska sociallärans principer kan återupprätta det sociala kontraktet i en tid av polarisering.",
+      "source": "Canadian Catholic News",
+      "url": "https://canadiancatholicnews.ca/in-an-age-of-division-conference-looks-for-common-ground-through-catholic-social-teaching/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
     }
   ]
 }

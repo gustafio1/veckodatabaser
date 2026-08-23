@@ -2,8 +2,8 @@
   "topic": "Religion – Nyheter",
   "description": "Religiösa nyheter från Vatikanen, kyrkor och trossamfund världen över. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-16",
-  "item_count": 106,
+  "last_updated": "2026-08-23",
+  "item_count": 114,
   "items": [
     {
       "id": "leo-xiv-tyska-studenter-2026",
@@ -1276,6 +1276,102 @@
       "url": "https://www.vatican.va/content/leo-xiv/en/audiences/2026/documents/20260812-udienza-generale.html",
       "added_on": "2026-08-16",
       "collected_week": "2026-W33"
+    },
+    {
+      "id": "leo-xiv-generalaudiens-sakral-musik-2026",
+      "title": "Leo XIV om sakral musik i liturgin",
+      "category": "Nyhet",
+      "date": "2026-08-19",
+      "location": "",
+      "summary": "Vid generalaudiensen den 19 augusti talade påven Leo XIV om den sakrala musikens betydelse i liturgin inför tusentals pilgrimer i Peterskyrkan.",
+      "source": "OSV News",
+      "url": "https://www.osvnews.com/full-text-pope-leo-xivs-general-audience-given-august-19-2026/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "leo-xiv-skapelsedagen-krigets-sar-2026",
+      "title": "Påven varnar för krigets sår bortom slagfältet",
+      "category": "Dokument",
+      "date": "2026-08-18",
+      "location": "",
+      "summary": "I sitt budskap inför den elfte världsdagen för omsorg om skapelsen skriver Leo XIV att krigets följder sträcker sig långt bortom slagfältet och skadar hela skapelsen.",
+      "source": "Vatican News",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-08/pope-leo-xiv-message-world-day-care-for-creation.html",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "kina-wenzhou-pastor-david-tang-fangslad-2026",
+      "title": "Kinesisk pastor och sex kristna gripna i Wenzhou",
+      "category": "Nyhet",
+      "date": "2026-08-05",
+      "location": "",
+      "summary": "Grundaren av \"Purpose Driven Church\", pastor David Tang, och sex andra kristna greps av polis i Wenzhou den 5 augusti utan angiven anledning; hans vistelseort är okänd.",
+      "source": "Christian Solidarity Worldwide",
+      "url": "https://religionmediacentre.org.uk/morning-news-bulletin/religion-news-5-august-2026",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "kina-tianjin-biskop-shi-hongzhen-erkand-2026",
+      "title": "Kina erkänner biskop Shi Hongzhen i Tianjin efter 15 år i husarrest",
+      "category": "Nyhet",
+      "date": "2026-08-11",
+      "location": "",
+      "summary": "Peking meddelade att den 95-årige biskop Melchior Shi Hongzhen officiellt erkänns, efter att ha hållits i husarrest i sin församlingsbyggnad i 15 år; kritiker kallar det en bitter frukt av Vatikanens Kina-dialog.",
+      "source": "Washington Times",
+      "url": "https://www.washingtontimes.com/news/2026/aug/11/chinas-abandoned-catholics/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "svenska-kyrkan-vigselsyn-debatt-2026",
+      "title": "Debatt om enhetlig vigselsyn i Svenska kyrkan",
+      "category": "Nyhet",
+      "date": "2026-08-20",
+      "location": "Sverige",
+      "summary": "S-politikern Jesper Eneroth vill att kyrkomötet i höst beslutar att Svenska kyrkan ska ha en enda vigselsyn utan reservationsrätt för präster, vilket oroar bibeltrogna företrädare.",
+      "source": "Världen idag",
+      "url": "https://www.varldenidag.se/nyheter/s-politiker-i-svenska-kyrkan-vill-se-en-enda-vigselsyn-bibeltrogna-oroas/931646",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "svenska-kyrkan-klimatdemonstration-2026",
+      "title": "Svenska kyrkan deltog i Sveriges största klimatdemonstration",
+      "category": "Nyhet",
+      "date": "2026-08-23",
+      "location": "Stockholm, Sverige",
+      "summary": "Över 180 organisationer deltog i vad som beskrivs som Sveriges hittills största klimatdemonstration, där biskop Andreas Holmberg talade för Svenska kyrkans räkning.",
+      "source": "Svenska kyrkan Stockholms stift",
+      "url": "https://www.svenskakyrkan.se/stockholmsstift/nyheter/den-stora-klimatdemonstrationen",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "svenska-kyrkan-89-motioner-kyrkomotet-2026",
+      "title": "89 motioner inför Svenska kyrkans kyrkomöte i höst",
+      "category": "Nyhet",
+      "date": "2026-08-19",
+      "location": "Sverige",
+      "summary": "Inför höstens kyrkomöte har 89 motioner lämnats in, bland annat ett förslag om att ersätta \"han\" och \"hon\" med \"hen\" samt motioner om ökat stöd till förföljda kristna.",
+      "source": "Världen idag",
+      "url": "https://www.varldenidag.se/nyheter/v-politiker-svenska-kyrkan-boer-byta-ut-han-och-hon-mot-hen/933115",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "icjs-ai-riktmarke-interreligiost-2026",
+      "title": "Nytt AI-riktmärke ska mäta hur språkmodeller hanterar interreligiösa frågor",
+      "category": "Nyhet",
+      "date": "2026-08-20",
+      "location": "",
+      "summary": "Institutet för islamiska, kristna och judiska studier (ICJS) utvecklar ett nytt riktmärke för att utvärdera hur stora språkmodeller hanterar frågor som rör flera trosinriktningar.",
+      "source": "Institute for Islamic, Christian, and Jewish Studies (ICJS)",
+      "url": "https://icjs.org/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
     }
   ]
 }

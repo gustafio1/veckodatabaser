@@ -2,8 +2,8 @@
   "topic": "Matlagning",
   "description": "Livsmedelsvetenskap, tekniker, jäsning och smakforskning. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-16",
-  "item_count": 31,
+  "last_updated": "2026-08-23",
+  "item_count": 38,
   "items": [
     {
       "id": "tillagningsmetoder-mineraler-lever-2026",
@@ -376,6 +376,90 @@
       "url": "https://www.sciencedaily.com/releases/2026/08/260808234948.htm",
       "added_on": "2026-08-16",
       "collected_week": "2026-W33"
+    },
+    {
+      "id": "ostbakterier-smak-tarmhalsa-2026",
+      "title": "Bakterierna bakom hantverksostens smak kan även gynna tarmen",
+      "category": "Forskning",
+      "date": "2026-08-16",
+      "location": "",
+      "summary": "Forskare vid University of Reading har kartlagt vilka mjölksyrabakterier som ger tre brittiska hantverksostar deras karaktäristiska smaker under lagring, och pekar på att flera av dessa mikrober även kan gynna ätarens tarmhälsa. Studien visar att bakteriemångfalden ökar kraftigt i den hölagrade osten och att laktosen bryts ned nästan helt under mognaden.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260816044847.htm",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "chokladkristallisation-blomning-forskning-2026",
+      "title": "Forskare kartlägger vad som styr chokladens kristaller och blomning",
+      "category": "Forskning",
+      "date": "2026-08-04",
+      "location": "",
+      "summary": "En genomgång i Knowable Magazine beskriver hur forskare med bland annat röntgenanalys nu ifrågasätter den gamla tumregeln att enbart rätt kakaosmörskristall (form V) räcker för glansig, blomningsfri choklad. Studierna visar att chokladens mikrostruktur, inte bara kristalltypen, avgör hur väl den tempererade konsistensen håller sig över tid.",
+      "source": "Knowable Magazine",
+      "url": "https://knowablemagazine.org/content/article/food-environment/2026/how-scientists-are-perfecting-chocolate",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "kokumipeptider-smakforstarkning-oversikt-2026",
+      "title": "Ny forskningsöversikt kartlägger kokumipeptidernas smakförstärkande mekanismer",
+      "category": "Forskning",
+      "date": "2026-04-28",
+      "location": "",
+      "summary": "En sammanställning i tidskriften Food Science of Animal Products går igenom hur kokumipeptider förstärker upplevelsen av fyllighet och eftersmak via kalciumkänsliga receptorer, samt hur kunskapen kan användas för att ta fram nya smakförstärkare i livsmedelsindustrin. Forskarna efterlyser bland annat en global databas över kokumiämnen och AI-baserade prediktionsverktyg.",
+      "source": "Food Science of Animal Products (SciOpen)",
+      "url": "https://www.sciopen.com/article/10.26599/FSAP.2026.9240159",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "koji-fisksas-arommekanism-2026",
+      "title": "Studie kartlägger hur koji styr aromutvecklingen i fisksås",
+      "category": "Forskning",
+      "date": "2026-03-15",
+      "location": "",
+      "summary": "En ny studie kopplar samman mikrobiella samhällen, enzymer och doftämnen i kojijäst fisksås och identifierar 16 nyckeldoftämnen som bland annat bildas när svampen Aspergillus och olika bakteriesläkten bryter ned aminosyror. Resultatet ger en tydligare bild av det så kallade mikrob-enzym-arom-nätverket bakom traditionell fisksåsjäsning.",
+      "source": "Food Chemistry (ScienceDirect)",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S2212429226004128",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "ai-styr-surdegsjasning-bagerier-2026",
+      "title": "AI föreslås hjälpa storbagerier att styra oberäknelig surdegsjäsning",
+      "category": "Teknik",
+      "date": "2026-01-14",
+      "location": "",
+      "summary": "Forskare från bland annat Cardiff University och Jiangnan University beskriver hur AI-baserad mikrobanalys och sensorer kan hjälpa industribagerier att förutsäga och styra surdegens jäsningsbeteende när produktionen skalas upp över flera anläggningar och klimat. Målet är att bevara surdegens smak och karaktär trots att den vilda mikrobblandningen annars gör processen svår att kontrollera i stor skala.",
+      "source": "BakeryAndSnacks",
+      "url": "https://www.bakeryandsnacks.com/Article/2026/01/14/how-ai-could-help-bakers-control-sourdough-fermentation/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "vinlagring-mikrobsamhalle-aromutveckling-2026",
+      "title": "Studie följer hur mikrobsamhällen formar vinets arom under lagring",
+      "category": "Forskning",
+      "date": "2026-03-20",
+      "location": "",
+      "summary": "Genom att jämföra spontant jästa och odlingsjästa viner från olika odlingssystem visar en ny studie hur mikroberna Kazachstania humilis, Aureobasidium pullulans och Oenococcus oeni dominerar under lagringen av naturvin och ger upphov till högre halter av vissa fruktiga estrar. Studien visar också hur fenolämnen och biogena aminer förändras stegvis i vinet allteftersom det mognar.",
+      "source": "Food Chemistry (ScienceDirect)",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0023643826003178",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "bitterreceptorer-steroidhormoner-2026",
+      "title": "Kroppens bitterreceptorer visar sig reagera på steroidhormoner",
+      "category": "Forskning",
+      "date": "2026-01-28",
+      "location": "",
+      "summary": "Forskare vid Leibniz-institutet i München har visat att flera av kroppens omkring 25 bitterreceptorer, bland annat TAS2R14 och TAS2R46, aktiveras av steroidhormoner som progesteron, testosteron och kortisol vid fysiologiskt relevanta halter. Fyndet väcker frågan om dessa smakreceptorer, som även finns i blodceller och inre organ, fungerar som kroppsegna hormonsensorer utöver sin roll i munnen.",
+      "source": "EurekAlert!",
+      "url": "https://www.eurekalert.org/news-releases/1114373",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
     }
   ]
 }

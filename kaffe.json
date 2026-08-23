@@ -2,8 +2,8 @@
   "topic": "Kaffe",
   "description": "Forskning om kaffe och hälsa, bryggning, koffein, smak och odling. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-16",
-  "item_count": 34,
+  "last_updated": "2026-08-23",
+  "item_count": 40,
   "items": [
     {
       "id": "kaffe-timing-mortalitet-ckm-2026",
@@ -412,6 +412,78 @@
       "url": "https://www.sciencedaily.com/releases/2026/05/260502233911.htm",
       "added_on": "2026-08-16",
       "collected_week": "2026-W33"
+    },
+    {
+      "id": "kaffe-testosteron-kroppssammansattning-oulu-2026",
+      "title": "Kaffedrickare har mindre kroppsfett och högre testosteron, visar finsk studie",
+      "category": "Forskning",
+      "date": "2026-08-19",
+      "location": "",
+      "summary": "En studie på 2 264 personer i den finska födelsekohorten Norra Finland 1966 visar att de som dricker mest kaffe har lägre andel kroppsfett, mer muskelmassa och ett gynnsammare hormonmönster – bland annat högre testosteron hos män – trots liknande BMI som lättare kaffedrickare.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260819041228.htm",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "kaffe-somnkvalitet-svensk-kohort-2026",
+      "title": "Stor svensk studie: kaffe har liten koppling till sämre sömn",
+      "category": "Forskning",
+      "date": "2026-08-12",
+      "location": "",
+      "summary": "I en studie av över 25 000 medelålders svenskar i SCAPIS-kohorten hittade forskare från Linköpings universitet bara marginella samband mellan kaffevanor och självskattad sömnkvalitet eller dagtrötthet – de som drack mer kaffe rapporterade till och med något lättare insomning, men även mer snarkning.",
+      "source": "Daily Coffee News",
+      "url": "https://dailycoffeenews.com/2026/08/12/coffee-and-sleep-may-not-be-the-nightmare-pairing-we-think/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "kaffe-nr4a1-cellstress-aldrande-2026",
+      "title": "Kaffeämnen kan aktivera cellens eget skydd mot stress och åldrande",
+      "category": "Forskning",
+      "date": "2026-07-19",
+      "location": "",
+      "summary": "Forskare vid Texas A&M University visar att växtämnen i kaffe, som koffeinsyra, kan aktivera receptorn NR4A1 som skyddar celler mot stress, inflammation och skador – ett fynd som kan förklara delar av kaffets långsiktiga hälsoeffekter utöver koffeinet.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260719035927.htm",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "kaffe-elektrokemi-smakprofil-oregon-2026",
+      "title": "Elektrisk ström kan mäta kaffets smakprofil",
+      "category": "Teknik",
+      "date": "2026-04-28",
+      "location": "",
+      "summary": "Forskare vid University of Oregon har använt en potentiostat, ett verktyg från elektrokemin, för att fånga elektriska signaturer i bryggt kaffe och därigenom mäta skillnader i smakprofil mellan bönor och bryggmetoder – en metod som kan hjälpa kaféer med kvalitetskontroll.",
+      "source": "University of Oregon News",
+      "url": "https://news.uoregon.edu/electrochemistry-captures-coffees-taste-powering-more-consistent-cup",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "kaffe-nestle-robusta-mangfald-skord-2026",
+      "title": "Blandade robustasorter gav upp till 86 procent högre skörd i fältförsök",
+      "category": "Nyhet",
+      "date": "2026-05-07",
+      "location": "",
+      "summary": "Nestlés flerårig fältforskning tillsammans med Elfenbenskustens jordbruksforskningsinstitut visar att en odling med sex olika robustasorter blandade kan öka skörden med upp till 86 procent jämfört med en vanlig lokal sort, samtidigt som koppkvaliteten förbättras.",
+      "source": "Daily Coffee News",
+      "url": "https://dailycoffeenews.com/2026/05/07/nestle-says-robusta-trial-shows-increased-yields-and-quality-in-cote-divoire/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "kaffe-decaf-processmetoder-frequent-2026",
+      "title": "Nya avkoffeineringsmetoder ger koffeinfritt kaffe mer karaktär",
+      "category": "Nyhet",
+      "date": "2026-01-07",
+      "location": "",
+      "summary": "Kaferosteriet Frequent Coffee lanserar en utökad serie koffeinfria kaffesorter bearbetade med ovanliga metoder som kolsyrejäsning, jästinokulering och värmechock, ett exempel på hur specialkaffebranschen experimenterar för att ge decaf mer smakkomplexitet.",
+      "source": "Comunicaffe",
+      "url": "https://www.comunicaffe.com/frequent-coffee-expands-specialty-decaf-lineup-featuring-rare-processing-methods/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
     }
   ]
 }

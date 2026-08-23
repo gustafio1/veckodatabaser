@@ -2,8 +2,8 @@
   "topic": "Hälsa",
   "description": "Forskning om kost, sömn, folkhälsa och medicin. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-16",
-  "item_count": 36,
+  "last_updated": "2026-08-23",
+  "item_count": 44,
   "items": [
     {
       "id": "vin-medelhavskost-hjartrisk-spanska-kohorter-2026",
@@ -436,6 +436,102 @@
       "url": "https://www.sciencedaily.com/releases/2026/07/260717033213.htm",
       "added_on": "2026-08-16",
       "collected_week": "2026-W33"
+    },
+    {
+      "id": "tarmbakterie-roseburia-muskelstyrka-2026",
+      "title": "Tarmbakterie kopplad till starkare muskler hos äldre",
+      "category": "Forskning",
+      "date": "2026-08-20",
+      "location": "",
+      "summary": "En internationell studie visar att förekomst av tarmbakterien Roseburia inulinivorans hänger samman med 29 procent högre handgreppsstyrka hos äldre vuxna, och möss som fick bakterien byggde mer muskelmassa och styrka.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260820202904.htm",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "c-vitamin-cancer-ny-mekanism-2026",
+      "title": "C-vitamin kan bekämpa cancer via oväntad mekanism",
+      "category": "Forskning",
+      "date": "2026-08-06",
+      "location": "",
+      "summary": "Nya rön tyder på att C-vitamin kan angripa cancerceller på ett annat sätt än forskare tidigare trott, vilket kan förklara varför äldre kliniska studier med enbart C-vitaminpiller inte gav önskad effekt.",
+      "source": "ScienceDaily",
+      "url": "https://sciencedaily.com/releases/2026/08/260806050717.htm",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "dbs-tal-skoljning-hjarnskada-2026",
+      "title": "Djup hjärnstimulering kan förbättra tal och sväljning efter hjärnskada",
+      "category": "Forskning",
+      "date": "2026-08-22",
+      "location": "",
+      "summary": "Forskare vid University of Pittsburgh visar att lågfrekvent elektrisk stimulering av thalamus kan förbättra kontrollen av ansikts- och tungmuskler och därmed tal- och sväljförmåga hos personer med traumatisk hjärnskada.",
+      "source": "EurekAlert / University of Pittsburgh",
+      "url": "https://www.eurekalert.org/news-releases/1141100",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "zink-infektioner-sicklecellanemi-uganda-2026",
+      "title": "Dagligt zink minskar infektioner hos barn med sicklecellanemi",
+      "category": "Forskning",
+      "date": "2026-08-21",
+      "location": "",
+      "summary": "En randomiserad studie bland barn i Uganda visar att 20 milligram zink dagligen minskade alla typer av infektioner med nära 40 procent och allvarliga bakteriella infektioner med två tredjedelar hos barn under fem år med sicklecellanemi.",
+      "source": "JAMA / Medical Xpress",
+      "url": "https://medicalxpress.com/news/2026-08-daily-mg-zinc-infections-children.html",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "glp1-tuberkulos-risk-diabetes-2026",
+      "title": "GLP-1-läkemedel kan sänka risken för tuberkulos vid typ 2-diabetes",
+      "category": "Forskning",
+      "date": "2026-08-22",
+      "location": "",
+      "summary": "En stor internationell registerstudie med över sju miljoner patienter visar att personer med typ 2-diabetes som behandlas med GLP-1-läkemedel har lägre risk att drabbas av tuberkulos jämfört med de som får andra vanliga diabetesläkemedel.",
+      "source": "Nature Communications",
+      "url": "https://bioengineer.org/glp-1-drugs-and-tuberculosis-risk-in-people-with-type-2-diabetes/",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "avexitide-hypoglykemi-fetmakirurgi-2026",
+      "title": "Nytt läkemedel minskar farliga blodsockerfall efter magsäckskirurgi",
+      "category": "Medicin",
+      "date": "2026-08-17",
+      "location": "",
+      "summary": "Läkemedelsbolaget Amylyx rapporterar att läkemedlet avexitide i en fas 3-studie minskade allvarliga hypoglykemi-episoder med 55 procent hos vuxna som drabbats av lågt blodsocker efter en gastric bypass-operation.",
+      "source": "Amylyx Pharmaceuticals",
+      "url": "https://www.amylyx.com/news/amylyx-pharmaceuticals-announces-positive-topline-results-from-phase-3-lucidity-clinical-trial-of-avexitide-in-post-bariatric-hypoglycemia",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "livsmedelsassistans-forsakring-diabetes-2026",
+      "title": "Matvarubidrag via försäkringsbolag minskade diabeteskomplikationer",
+      "category": "Folkhälsa",
+      "date": "2026-08-21",
+      "location": "",
+      "summary": "En amerikansk studie av försäkringsbolaget Elevance Health visar att medlemmar med typ 2-diabetes som fick ekonomiskt stöd för matvaror hade 3,1 procentenheter lägre andel diabetes med komplikationer och bättre följsamhet till sin medicinering, utan ökad vårdkonsumtion.",
+      "source": "The American Journal of Managed Care",
+      "url": "https://www.ajmc.com/view/insurance-provided-grocery-assistance-and-health-care-outcomes-among-patients-with-diabetes",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
+    },
+    {
+      "id": "kaffe-te-demensrisk-43-ars-studie-2026",
+      "title": "Måttligt kaffe- och tedrickande kopplat till lägre demensrisk",
+      "category": "Forskning",
+      "date": "2026-03-18",
+      "location": "",
+      "summary": "En 43 år lång uppföljning av över 131 000 personer i Storbritannien och USA visar att de som drack 2–3 koppar kaffe eller 1–2 koppar te dagligen hade lägre risk för demens och kognitiv nedgång, medan koffeinfria alternativ inte gav samma effekt.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/03/260318033138.htm",
+      "added_on": "2026-08-23",
+      "collected_week": "2026-W34"
     }
   ]
 }

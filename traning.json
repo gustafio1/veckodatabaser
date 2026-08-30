@@ -2,8 +2,8 @@
   "topic": "Träning",
   "description": "Forskning om styrka, kondition, hälsoeffekter och återhämtning. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-23",
-  "item_count": 40,
+  "last_updated": "2026-08-30",
+  "item_count": 47,
   "items": [
     {
       "id": "rest-pause-vs-drop-sets-styrketraning-2026",
@@ -484,6 +484,90 @@
       "url": "https://www.health.gov.au/ministers/the-hon-rebecca-white-mp/media/new-movement-guidelines-for-healthier-adults?language=en",
       "added_on": "2026-08-23",
       "collected_week": "2026-W34"
+    },
+    {
+      "id": "par-traning-tillsammans-relation-2026",
+      "title": "Par som tränar tillsammans kommunicerar bättre och gräler mindre",
+      "category": "Forskning",
+      "date": "2026-08-01",
+      "location": "",
+      "summary": "En studie från Brigham Young University av över 1 700 unga gifta par visar att gemensam fysisk aktivitet, särskilt promenader, hänger samman med bättre kommunikation och mindre konflikt än när partnerna tränar var för sig. Forskarna föreslår att gemensam träning skulle kunna användas som ett inslag i parterapi och äktenskapsutbildning.",
+      "source": "Family Relations / BYU News",
+      "url": "https://news.byu.edu/intellect/could-a-walk-strengthen-your-marriage-byu-researchers-say-yes",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "traning-viktbibehallande-battre-an-viktnedgang-2026",
+      "title": "Träning håller vikten borta bättre än den gör dig av med den",
+      "category": "Forskning",
+      "date": "2026-08-22",
+      "location": "",
+      "summary": "Ny forskningsgenomgång pekar på att träning i sig är ett svagt verktyg för viktnedgång men desto viktigare för att förhindra viktuppgång efteråt, bland annat genom att bevara muskelmassa och motverka den nedgång i vilometabolism som följer på viktnedgång. Kombinationen av träning och läkemedel för viktnedgång visade sig ge bättre bibehållet resultat än läkemedel enbart.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260821012240.htm",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "sprintintervaller-blodproteiner-metaboliter-2026",
+      "title": "Tre minuters sprint förändrar blodet mer än 90 minuters lugnare cykling",
+      "category": "Forskning",
+      "date": "2026-08-21",
+      "location": "",
+      "summary": "Forskare vid Rockefeller University fann att sex 30-sekunders max-sprintar på cykel påverkade nästan en fjärdedel av uppmätta blodproteiner och över 200 metaboliter, betydligt mer än 90 minuters måttlig cykling, med förändringar kopplade till lägre risk för fetma och typ 2-diabetes. Studien publicerades i Cell Reports Medicine och stärker bilden av högintensiv korträning som särskilt kraftfull för ämnesomsättningen.",
+      "source": "ScienceDaily / Cell Reports Medicine",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260821012208.htm",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "langsta-loprundan-skaderisk-lopare-2026",
+      "title": "Ett enda för långt löppass ökar skaderisken mer än veckans totala distans",
+      "category": "Forskning",
+      "date": "2025-07-07",
+      "location": "",
+      "summary": "En kohortstudie på över 5 200 löpare och nära 590 000 registrerade löppass via Garmin fann att den tydligaste riskfaktorn för löprelaterad skada var ett enskilt pass som var mycket längre än löparens längsta pass senaste 30 dagarna, snarare än den samlade veckovolymen. En ökning på 30 procent eller mer jämfört med tidigare längsta distans höjde skaderisken kraftigt.",
+      "source": "British Journal of Sports Medicine",
+      "url": "https://www.physio-network.com/research-reviews/other/how-much-running-is-too-much-identifying-high-risk-running-sessions-in-a-5200-person-cohort-study/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "hiit-tidseffektivast-for-konditionsokning-oversikt-2026",
+      "title": "Stor genomgång bekräftar: högintensiva intervaller ger mest kondition per tränad minut",
+      "category": "Forskning",
+      "date": "2026-02-10",
+      "location": "",
+      "summary": "En omfattande kartläggande översikt av 617 studier om konditionsträning och syreupptagningsförmåga visar att högintensiv intervallträning och sprintintervaller ger den största förbättringen av VO2max i förhållande till tränad tid, jämfört med måttlig kontinuerlig träning. Översikten pekar samtidigt på stora luckor i forskningen kring kvinnor och olika hälsotillstånd.",
+      "source": "Journal of Functional Morphology and Kinesiology (MDPI)",
+      "url": "https://www.mdpi.com/2411-5142/11/1/70",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "styrketraning-benskorhet-osteopeni-kvinnor-2026",
+      "title": "Varierad styrketräning stärker skelettet hos kvinnor med benskörhetsförstadium",
+      "category": "Forskning",
+      "date": "2026-06-04",
+      "location": "",
+      "summary": "En pilotstudie visar att progressiv styrketräning med varierade muskelarbeten och rörelseomfång gav mätbara förbättringar av bentäthet hos äldre kvinnor med osteopeni, med störst effekt i ländryggen. Resultaten stöder styrketräning som ett komplement för att bromsa benskörhetsutveckling hos äldre kvinnor.",
+      "source": "Frontiers in Physiology",
+      "url": "https://www.frontiersin.org/journals/physiology/articles/10.3389/fphys.2026.1811518/full",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "molekylara-biomarkorer-traningsanpassning-oversikt-2026",
+      "title": "Ny modell ska förklara varför samma träningsbelastning ibland stärker och ibland bryter ner kroppen",
+      "category": "Forskning",
+      "date": "2026-04-17",
+      "location": "",
+      "summary": "En systemöversikt föreslår ett ramverk för hur metabola, immunologiska, hormonella och muskulära signaler tillsammans avgör om träningsbelastning leder till positiv anpassning eller överträning, och lyfter fram markörer som kreatinkinas och testosteron-kortisolkvot för att följa idrottares återhämtning. Forskarna betonar att ingen enskild biomarkör ännu kan ge en säker diagnos av överträning.",
+      "source": "International Journal of Molecular Sciences (MDPI)",
+      "url": "https://www.mdpi.com/1422-0067/27/8/3601",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
     }
   ]
 }

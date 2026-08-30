@@ -2,8 +2,8 @@
   "topic": "Husdjur",
   "description": "Forskning om hundar, katter, beteende och hälsa. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-23",
-  "item_count": 41,
+  "last_updated": "2026-08-30",
+  "item_count": 48,
   "items": [
     {
       "id": "lek-starker-band-hund-agare-2026",
@@ -496,6 +496,90 @@
       "url": "https://www.sciencedaily.com/releases/2025/11/251129053351.htm",
       "added_on": "2026-08-23",
       "collected_week": "2026-W34"
+    },
+    {
+      "id": "igf1-hormon-hundars-kognitiva-aldrande-2026",
+      "title": "Tillväxthormonet IGF-1 kan förklara varför stora hundars hjärnor inte åldras snabbare",
+      "category": "Forskning",
+      "date": "2026-05-04",
+      "location": "",
+      "summary": "Forskare vid University of Arizona startar SIGNAL-studien för att undersöka om nivåer av tillväxthormonet IGF-1 påverkar risken för demens hos hundar. Stora hundraser dör tidigare än små, men deras hjärnor verkar åldras i samma takt, vilket forskarna nu vill förklara genom att följa 75 medelstora hundar i två år.",
+      "source": "University of Arizona News / KJZZ",
+      "url": "https://news.arizona.edu/news/new-u-study-will-investigate-growth-hormones-and-cognitive-aging-dogs",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "morris-foundation-nya-hundstudier-cancer-2026",
+      "title": "Fyra nya forskningsprojekt ska förbättra hundars hälsa inom cancer och andningsvägar",
+      "category": "Hälsa",
+      "date": "2025-12-11",
+      "location": "",
+      "summary": "Morris Animal Foundation finansierar fyra nya studier om hundhälsa 2026, som rör den aggressiva cancerformen histiocytiskt sarkom, matstrupssjukdomen megaesofagus, rabiesvaccination av frigående hundar samt en ny antikroppsbaserad behandling mot mastcellstumörer. Projekten syftar till att ge hundar längre och friskare liv genom bättre diagnostik och behandling.",
+      "source": "Morris Animal Foundation",
+      "url": "https://www.morrisanimalfoundation.org/article/new-canine-health-studies-2026",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "morris-foundation-nya-kattstudier-fip-fagelinfluensa-2026",
+      "title": "Nya kattstudier tar sikte på FIP, fågelinfluensa och njursjukdom",
+      "category": "Hälsa",
+      "date": "2026-03-24",
+      "location": "",
+      "summary": "Morris Animal Foundation finansierar fyra nya kattstudier som undersöker en nyupptäckt coronavirusmutation kopplad till FIP-utbrott, en möjlig antikroppsbehandling mot fågelinfluensa (H5N1) hos katt, förbättrad diagnostik av gastrointestinalt lymfom samt hur mineralobalanser driver på njursjukdom. Målet är bättre diagnostik och behandling av flera av kattens vanligaste dödsorsaker.",
+      "source": "Morris Animal Foundation",
+      "url": "https://www.morrisanimalfoundation.org/article/new-feline-health-studies-tackle-fip-cancer-bird-flu-and-kidney-disease",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "age-fororeningar-i-kattmat-processning-2026",
+      "title": "Konserverad kattmat innehåller tre gånger mer potentiellt skadliga processämnen än torrfoder",
+      "category": "Hälsa",
+      "date": "2026-07-20",
+      "location": "",
+      "summary": "En studie av 26 kommersiella kattfoder i Storbritannien och USA visar att våtfoder som värmebehandlats i konserv (retorterat) innehåller ungefär tre gånger så mycket avancerade glykeringsslutprodukter (AGE) som milt tillagat eller torrt foder. Forskarna betonar dock att de bara mätt halterna i maten, inte om nivåerna faktiskt är skadliga för katters hälsa på lång sikt.",
+      "source": "Journal of Animal Science / PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42423289/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "hundar-forstar-inte-vad-manniskor-vet-2026",
+      "title": "Hundar verkar inte förstå vad en okänd person vet eller inte vet, visar ny studie",
+      "category": "Forskning",
+      "date": "2025-12-12",
+      "location": "",
+      "summary": "I en studie publicerad i Animal Cognition testades 22 hundar i en matkonkurrenssituation där de skulle avgöra vad en okänd person hade respektive inte hade sett. Resultaten gav inget tydligt stöd för att hundar drar slutsatser om andras kunskap utifrån vad de själva sett personen göra, till skillnad från vad tidigare studier antytt om hundars social kognition.",
+      "source": "Animal Cognition (Springer)",
+      "url": "https://link.springer.com/article/10.1007/s10071-025-02034-0",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "hundraser-lar-sig-olika-snabbt-handberoring-2026",
+      "title": "Hundraser med olika ursprung visar små skillnader i inlärningsförmåga vid upprepad testning",
+      "category": "Beteende",
+      "date": "2026-02-10",
+      "location": "",
+      "summary": "En studie i Animal Cognition undersökte hur hundar ur olika rasgrupper presterade i en handberöringsuppgift vid upprepade testtillfällen. Hundarna visade överlag begränsad förbättring över tid, med ett undantag för omvänd inlärning (reversal learning) som förbättrades tydligt mellan de två första testtillfällena, oavsett rasgrupp.",
+      "source": "Animal Cognition (Springer)",
+      "url": "https://link.springer.com/article/10.1007/s10071-026-02044-6",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "katter-foredrar-forutsagbarhet-sussex-2026",
+      "title": "Katter blir mer intresserade när saker sker som förväntat – inte av överraskningar",
+      "category": "Forskning",
+      "date": "2025-07-09",
+      "location": "",
+      "summary": "Forskare vid University of Sussex testade katters objektpermanens genom att gömma och sedan avslöja en leksak på förväntad eller oväntad plats. Till skillnad från hundar, apor och små barn blev katterna mer intresserade och lekte mer när leksaken dök upp där de väntade sig, vilket forskarna tolkar som ett uttryck för kattens natur som bakhållsjagande rovdjur snarare än bristande förståelse.",
+      "source": "University of Sussex",
+      "url": "https://www.sussex.ac.uk/broadcast/read/68547",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "topic": "Hälsa",
   "description": "Forskning om kost, sömn, folkhälsa och medicin. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-23",
-  "item_count": 44,
+  "last_updated": "2026-08-30",
+  "item_count": 52,
   "items": [
     {
       "id": "vin-medelhavskost-hjartrisk-spanska-kohorter-2026",
@@ -532,6 +532,102 @@
       "url": "https://www.sciencedaily.com/releases/2026/03/260318033138.htm",
       "added_on": "2026-08-23",
       "collected_week": "2026-W34"
+    },
+    {
+      "id": "langvarig-melatonin-hjartsvikt-risk-2026",
+      "title": "Långvarig användning av melatonin kopplas till kraftigt ökad risk för hjärtsvikt",
+      "category": "Forskning",
+      "date": "2026-08-29",
+      "location": "",
+      "summary": "En stor internationell registerstudie av vuxna med kronisk sömnlöshet visar att de som använt melatonin i över ett år hade nästan 90 procent högre risk att utveckla hjärtsvikt inom fem år, samt fler sjukhusinläggningar och högre dödlighet, jämfört med sömnlösa som inte tagit preparatet. Resultaten är preliminära och presenterades som ett kongressabstrakt, men väcker nya frågor om säkerheten vid långvarigt bruk av det receptfria sömnmedlet.",
+      "source": "American Heart Association / ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260829035228.htm",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "ultraprocessad-mat-prostatacancer-risk-2026",
+      "title": "Ultraprocessad mat kopplas till kraftigt förhöjd risk för prostatacancer",
+      "category": "Forskning",
+      "date": "2026-08-26",
+      "location": "",
+      "summary": "En amerikansk studie av över 17 000 män visar att de som åt mest ultraprocessad mat, som läsk, snacks och charkprodukter, hade omkring 24-34 procent högre risk att drabbas av prostatacancer jämfört med de som åt minst, även efter justering för ålder, rökning och andra faktorer. Forskarna betonar att sambandet inte bevisar orsak men stärker misstankarna om att ultraprocessad kost kan påverka cancerrisk via inflammation och ämnesomsättning.",
+      "source": "American Journal of Medicine / ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260826055457.htm",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "baltrosvaccin-demensrisk-509000-2026",
+      "title": "Bältrosvaccin kan sänka risken för demens hos äldre med en fjärdedel",
+      "category": "Forskning",
+      "date": "2026-08-23",
+      "location": "USA",
+      "summary": "En studie från Brown University av över 500 000 amerikanska äldre visar att de som vaccinerades mot bältros efter en period på vårdhem hade 24 procent lägre risk att diagnostiseras med demens inom fyra år jämfört med ovaccinerade. Forskarna diskuterar om skyddet beror på en biologisk immuneffekt eller på att vaccinet förhindrar den hjärninflammation som virusinfektionen annars kan orsaka.",
+      "source": "Annals of Internal Medicine / Brown University",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260823015013.htm",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "pepparmintolja-blodtryck-pilotstudie-2026",
+      "title": "Pepparmyntsolja sänkte blodtrycket på tre veckor i första kontrollerade studien",
+      "category": "Forskning",
+      "date": "2026-08-21",
+      "location": "Storbritannien",
+      "summary": "I en placebokontrollerad pilotstudie vid University of Lancashire fick 40 vuxna med lätt förhöjt blodtryck en liten dos utspädd pepparmyntsolja två gånger dagligen i 20 dagar, vilket sänkte det systoliska blodtrycket med i genomsnitt 8,5 mmHg jämfört med placebogruppen. Forskarna understryker att det rör sig om en liten pilotstudie som behöver upprepas i större skala innan pepparmyntsolja kan rekommenderas som tillägg vid mild hypertoni.",
+      "source": "PLOS ONE / ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260821012238.htm",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "thc-dronabinol-mardrommar-ptsd-studie-2026",
+      "title": "THC-läkemedel fick mardrömmar vid PTSD att försvinna helt hos var tredje patient",
+      "category": "Medicin",
+      "date": "2026-08-05",
+      "location": "Tyskland",
+      "summary": "I en tysk randomiserad studie med 171 PTSD-patienter minskade det THC-baserade läkemedlet dronabinol, taget som kvällsdos i tio veckor, trauma-relaterade mardrömmar betydligt mer än placebo, och över en tredjedel av de behandlade blev helt fria från mardrömmar. Forskarna kopplar effekten till att THC dämpar drömaktiviteten under REM-sömn och därigenom minskar den nattliga stressreaktionen, med endast milda till måttliga biverkningar.",
+      "source": "Nature Medicine / Charité",
+      "url": "https://www.nature.com/articles/s41591-026-04546-9",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "vaxtbaserat-kott-mogelgifter-storbritannien-2026",
+      "title": "Samtliga testade växtbaserade köttalternativ innehöll mögelgifter",
+      "category": "Folkhälsa",
+      "date": "2026-08-28",
+      "location": "Storbritannien",
+      "summary": "En studie ledd av University of Parma och Cranfield University fann att alla 212 testade växtbaserade kött- och mjölkalternativ på den brittiska marknaden innehöll minst ett av 19 undersökta mykotoxiner, ofta i form av mögelgifter från Fusarium- och Alternaria-svampar. Halterna låg dock under EU:s gränsvärden, men forskarna pekar på att råvaror som soja, ärtor och havre är särskilt känsliga för mögelpåväxt under odling och lagring.",
+      "source": "Food Control / Cranfield University",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260828005216.htm",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "rekreationsdroger-strokerisk-cambridge-metaanalys-2026",
+      "title": "Stor analys av 100 miljoner personer visar kraftigt förhöjd strokerisk vid narkotikabruk",
+      "category": "Folkhälsa",
+      "date": "2026-08-22",
+      "location": "",
+      "summary": "Forskare vid University of Cambridge sammanställde 32 studier med data från över 100 miljoner personer och fann att kokain nästan fördubblar strokerisken, amfetamin mer än fördubblar den och cannabis ökar risken med 37 procent, med särskilt stor riskökning hos vuxna under 55 år. Studien beskrivs som den hittills mest omfattande genomgången av sambandet mellan rekreationsdroger och stroke.",
+      "source": "International Journal of Stroke / ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260822015215.htm",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "mrna-cancervaccin-melanom-fas3-2026",
+      "title": "Personligt mRNA-cancervaccin lyckades i stor fas 3-studie mot melanom",
+      "category": "Medicin",
+      "date": "2026-08-19",
+      "location": "",
+      "summary": "Moderna och Merck meddelade att deras personanpassade mRNA-cancervaccin, kombinerat med immunterapin Keytruda, uppnådde sitt primära mål genom att minska risken för återfall och spridning hos 1 137 patienter med opererat högriskmelanom, jämfört med Keytruda ensamt. Resultatet väntas kunna bana väg för fler personanpassade cancervaccin inom onkologin framöver.",
+      "source": "STAT News",
+      "url": "https://www.statnews.com/2026/08/19/mrna-cancer-vaccine-trial-melanoma-merck-moderna/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
     }
   ]
 }

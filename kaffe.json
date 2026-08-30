@@ -2,8 +2,8 @@
   "topic": "Kaffe",
   "description": "Forskning om kaffe och hälsa, bryggning, koffein, smak och odling. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-23",
-  "item_count": 40,
+  "last_updated": "2026-08-30",
+  "item_count": 46,
   "items": [
     {
       "id": "kaffe-timing-mortalitet-ckm-2026",
@@ -484,6 +484,78 @@
       "url": "https://www.comunicaffe.com/frequent-coffee-expands-specialty-decaf-lineup-featuring-rare-processing-methods/",
       "added_on": "2026-08-23",
       "collected_week": "2026-W34"
+    },
+    {
+      "id": "kaffe-florida-arabica-faltforsok-2026",
+      "title": "Fältförsök visar tidiga möjligheter för arabicaodling i Florida",
+      "category": "Odling",
+      "date": "2026-08-26",
+      "location": "",
+      "summary": "Forskare vid University of Florida har testat fyra arabicasorter i fältförsök i Homestead i södra Florida och funnit lovande tidiga skördar och bönkvalitet, men studien pekar samtidigt på stora utmaningar med klimat, jordmån och arbetskraft för en framtida amerikansk kaffeindustri.",
+      "source": "Daily Coffee News / Crop Science",
+      "url": "https://dailycoffeenews.com/2026/08/26/florida-grown-coffee-gets-its-first-serious-field-test/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "kaffe-koffein-beroring-hjarna-aarhus-2026",
+      "title": "Koffein visar sig förändra hjärnans bearbetning av beröring",
+      "category": "Forskning",
+      "date": "2026-05-25",
+      "location": "",
+      "summary": "En studie från Aarhus universitetssjukhus visar att en vanlig dos koffein på 200 milligram förändrar hur hjärnan kopplar samman känselintryck med motoriska kommandon, ett slags filtersystem som normalt håller rörelser jämna och kontrollerade.",
+      "source": "Clinical Neurophysiology / Medical Xpress",
+      "url": "https://medicalxpress.com/news/2026-05-caffeine-brain.html",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "kaffe-genetik-ateroskleros-risk-2026",
+      "title": "Gener avgör hur kaffe påverkar risken för åderförkalkning",
+      "category": "Forskning",
+      "date": "2026-03-22",
+      "location": "",
+      "summary": "En studie på över 24 000 personer i åldern 50–64 år visar att den genetiska profil som ger snabbare koffeinnedbrytning hänger ihop med högre kaffekonsumtion och, hos vissa, med tidigare tecken på kranskärlsförkalkning, vilket kan påverka framtida kostråd.",
+      "source": "Scientific Reports / Hjärt-Lungfonden",
+      "url": "https://www.mynewsdesk.com/se/hjart-lungfonden/pressreleases/ny-forskning-visar-genetik-avgoer-hur-kaffe-paaverkar-risken-foer-hjaertsjukdom-3443995",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "kaffe-automatkaffe-diterpener-kolesterol-2025",
+      "title": "Automatkaffe innehåller mer kolesterolhöjande ämnen än bryggkaffe",
+      "category": "Hälsa",
+      "date": "2025-03-14",
+      "location": "",
+      "summary": "En svensk studie från Uppsala universitet och Chalmers visar att kaffe från kaffeautomater på arbetsplatser innehåller betydligt högre halter av de kolesterolhöjande ämnena kafestol och kahweol än filtrerat bryggkaffe, vilket kan öka risken för hjärt-kärlsjukdom vid högt intag.",
+      "source": "forskning.se",
+      "url": "https://forskning.se/2025/03/14/kaffe-kaffeautomat-kolesterolhojande/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "kaffe-bladrost-klimat-indien-decennium-2026",
+      "title": "Tioårig studie kopplar klimatförändringar till mer kaffebladrost i Indien",
+      "category": "Odling",
+      "date": "2026-06-15",
+      "location": "",
+      "summary": "En decennielång studie vid Central Coffee Research Institute i Karnataka visar att förändrade nederbördsmönster och temperaturer alltmer driver utbrott av kaffebladrost och andra svampsjukdomar, där bladrosten ensam kan orsaka upp till 30 procent skördeförlust utan effektiv bekämpning.",
+      "source": "Frontiers in Climate",
+      "url": "https://www.frontiersin.org/journals/climate/articles/10.3389/fclim.2026.1740651/full",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "kaffe-brasilien-regn-skordekvalitet-2026",
+      "title": "Kraftiga regn i Brasilien hotar kvaliteten på årets arabicaskörd",
+      "category": "Nyhet",
+      "date": "2026-08-23",
+      "location": "",
+      "summary": "Ihållande regn under skördetoppen i Brasiliens kaffeodlingar har försenat både skörd och torkning av bönorna, vilket urholkar tillgången på de högkvalitativa arabicabönor som storrostare som Starbucks och Lavazza efterfrågar.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-23/brazil-s-heavy-rains-hit-arabica-quality-squeezing-starbucks-lavazza-supply",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
     }
   ]
 }

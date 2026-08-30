@@ -2,8 +2,8 @@
   "topic": "Programmering",
   "description": "Nyheter för utvecklare: språk, ramverk, verktyg, AI-kodning och öppen källkod. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-23",
-  "item_count": 44,
+  "last_updated": "2026-08-30",
+  "item_count": 52,
   "items": [
     {
       "id": "typescript-7-nativ-kompilator-2026",
@@ -532,6 +532,102 @@
       "url": "https://kde.org/announcements/gear/26.08.0/",
       "added_on": "2026-08-23",
       "collected_week": "2026-W34"
+    },
+    {
+      "id": "gitea-cve-2026-60004-active-exploitation",
+      "title": "Kritisk RCE-sårbarhet i Gitea utnyttjas aktivt",
+      "category": "Säkerhet",
+      "date": "2026-08-26",
+      "location": "",
+      "summary": "CISA lade till Gitea-sårbarheten CVE-2026-60004 (CVSS 9,8) i sin KEV-katalog sedan angripare med vanlig skrivbehörighet till ett repo kunnat placera en skadlig Git-hook och köra kommandon med serverns rättigheter. Federala myndigheter i USA ålades att åtgärda sårbara Gitea-installationer senast 28 augusti, och flera komprometterade instanser har redan hittats med kryptogrävare installerade.",
+      "source": "Help Net Security / CISA",
+      "url": "https://www.helpnetsecurity.com/2026/08/26/gitea-cve-2026-60004-exploited-in-the-wild/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "libreoffice-26-8-released",
+      "title": "LibreOffice 26.8 släppt utan generativ AI",
+      "category": "Öppen källkod",
+      "date": "2026-08-26",
+      "location": "",
+      "summary": "Document Foundation släppte LibreOffice 26.8 för Windows, macOS och Linux med en ny textlayoutmotor i Writer, \"Paragraph Composer\", som jämnar ut ordmellanrum över hela stycken, samt bättre stöd för höger-till-vänster- och vertikal CJK-text. Utvecklarna framhåller medvetet att versionen inte innehåller några generativa AI-funktioner.",
+      "source": "gHacks / Phoronix",
+      "url": "https://www.ghacks.net/2026/08/29/libreoffice-26-8-launches-with-writer-paragraph-composer-and-no-ai-features/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "nodejs-26-8-release",
+      "title": "Node.js 26.8 fortsätter mot LTS-status",
+      "category": "Språk",
+      "date": "2026-08-26",
+      "location": "",
+      "summary": "Node.js-projektet publicerade 26.8.0 och strax därefter 26.8.1 i slutet av augusti, som en del av det fortsatta arbetet inför att version 26 blir Long Term Support-gren i oktober 2026. Uppdateringen innehåller sedvanliga bugg- och stabilitetsfixar i väntan på LTS-övergången.",
+      "source": "nodejs.org",
+      "url": "https://nodejs.org/en/blog/release/v26.8.1",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "kotlin-compose-multiplatform-august-2026",
+      "title": "Kotlin 2.4.20-RC2 och Compose Multiplatform 1.12 landar",
+      "category": "Ramverk",
+      "date": "2026-08-26",
+      "location": "",
+      "summary": "JetBrains publicerade Kotlin 2.4.20-RC2 med stöd för återhämtning av coroutine-stackspår samt nya standardbiblioteksfunktioner för likhets- och unikhetskontroller, samtidigt som Compose Multiplatform 1.12.0 kom med nya AI-assistentverktyg, bättre hantering av webbresurser och finare kontroll över skrivbordsfönster. Kotlin 2.4.20 väntas bli stabil i september.",
+      "source": "JetBrains Blog",
+      "url": "https://blog.jetbrains.com/kotlin/2026/08/kodees-kotlin-roundup-birthday-wishes-shipaton-2026-and-the-new-kotlin-ai-benchmark/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "github-copilot-weekly-august-24",
+      "title": "GitHub Copilot får gemensamma agentsessioner i Slack och Teams",
+      "category": "Verktyg",
+      "date": "2026-08-28",
+      "location": "",
+      "summary": "Veckans Copilot-uppdatering gör det möjligt att omvandla teamkonversationer i Slack och Teams till delade agentsessioner där kollegor tillsammans kan styra och följa ändringar. Samtidigt blev fliken \"Customize\" allmänt tillgänglig och samlar MCP-servrar, plugins, skills och canvas på ett ställe, och experimentellt WSL-stöd introducerades.",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-08-28-github-copilot-weekly-releases-august-24/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "cursor-cloud-agents-no-scm-required",
+      "title": "Cursor låter molnagenter starta utan kopplat Git-konto",
+      "category": "AI-kodning",
+      "date": "2026-08-27",
+      "location": "",
+      "summary": "Cursor tog bort kravet på ett kopplat GitHub- eller annat SCM-konto för att komma igång med Cloud Agents. Utvecklare kan nu välja \"Start from scratch\", promptar agenten direkt, och Cursor skapar automatiskt ett eget Origin-repo i bakgrunden som kan sparas när bygget är klart.",
+      "source": "Cursor Changelog",
+      "url": "https://cursor.com/changelog",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "claude-code-startup-speed-update",
+      "title": "Claude Code krymper Linux-nedladdningen och startar snabbare",
+      "category": "AI-kodning",
+      "date": "2026-08-29",
+      "location": "",
+      "summary": "Anthropic släppte en uppdatering av Claude Code där CLI:t startar innan sandlådan och MCP-anslutningar laddas i bakgrunden, vilket ger snabbare uppstart, samtidigt som Linux-nedladdningen krympte till cirka 75 MB. Uppdateringen ger även mer detaljerad tokenvisning i kommandona /cost, /usage och /tasks samt fixar en startkrasch på Linux-distributioner med glibc 2.44.",
+      "source": "explainx.ai",
+      "url": "https://explainx.ai/blog/claude-code-weekly-update-faster-startup-token-visibility-august-2026",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "angular-22-1-4-patch",
+      "title": "Angular fortsätter täta patchsläpp efter nya releasetakten",
+      "category": "Ramverk",
+      "date": "2026-08-26",
+      "location": "",
+      "summary": "Angular-teamet släppte patchversion 22.1.4, som en del av det tätare tempot av mindre uppdateringar sedan teamet bytte till en årlig cykel för stora versioner. Beslutet innebär att nästa stora version, Angular 23, skjuts upp till våren 2027, men att utvecklare i gengäld kan vänta sig fler mindre releaser under tiden.",
+      "source": "Angular Blog / eosl.date",
+      "url": "https://blog.angular.dev/announcing-angular-v22-c52bb83a4664",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
     }
   ]
 }

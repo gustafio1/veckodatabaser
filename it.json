@@ -2,8 +2,8 @@
   "topic": "IT – Nya produkter",
   "description": "Nya IT- och teknikprodukter: hårdvara, mjukvara, AI och gaming. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-23",
-  "item_count": 103,
+  "last_updated": "2026-08-30",
+  "item_count": 110,
   "items": [
     {
       "id": "nvidia-rtx-spark-2026",
@@ -1240,6 +1240,90 @@
       "url": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack/",
       "added_on": "2026-08-23",
       "collected_week": "2026-W34"
+    },
+    {
+      "id": "apple-mac-studio-m5-max-ultra",
+      "title": "Apple lanserar nya Mac Studio med M5 Max och M5 Ultra",
+      "category": "Hårdvara",
+      "date": "2026-08-25",
+      "location": "Cupertino",
+      "summary": "Apple presenterade en uppdaterad Mac Studio med de nya chippen M5 Max och M5 Ultra, som ger upp till 4,3 gånger snabbare AI-prestanda samt snabbare grafik och lagring. Datorn går att förbeställa från den 25 augusti och börjar levereras den 22 september, med priser från 2499 dollar.",
+      "source": "Apple Newsroom / MacRumors",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "apple-mac-mini-m6-m5-pro",
+      "title": "Ny Mac mini med M6-chip och dubbel Neural Engine",
+      "category": "Hårdvara",
+      "date": "2026-08-25",
+      "location": "Cupertino",
+      "summary": "Samtidigt som Mac Studio uppdaterades visade Apple upp en ny Mac mini som kan konfigureras med det helt nya M6-chippet eller M5 Pro. M6 har Apples första dubbla Neural Engine och Apple uppger upp till 40 procent snabbare processor och fyra gånger snabbare AI-prestanda jämfört med föregångaren.",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/08/25/apple-announces-2026-mac-mini/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "samsung-galaxy-s26-fe-sverige",
+      "title": "Samsung Galaxy S26 FE i svenska butiker",
+      "category": "Hårdvara",
+      "date": "2026-08-28",
+      "location": "Sverige",
+      "summary": "Samsungs budgetflaggskepp Galaxy S26 FE blev tillgängligt hos svenska återförsäljare den 28 augusti, med 128 GB-modellen prissatt till 9 940 kronor. Telefonen har en 6,7-tums AMOLED-skärm, Exynos 2500-processor, 50 MP-huvudkamera och utlovas sju års programvaruuppdateringar.",
+      "source": "Teknikhype.se / 9to5Google",
+      "url": "https://teknikhype.se/officiell-premiar-for-samsung-galaxy-s26-fe-specifikationer-pris-och-tillganglighet/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "zai-glm-5-3-flash",
+      "title": "Kinesiska Z.ai öppnar upp multimodala modellen GLM-5.3-Flash",
+      "category": "AI",
+      "date": "2026-08-26",
+      "location": "Kina",
+      "summary": "Z.ai (Zhipu AI) släppte GLM-5.3-Flash med öppna vikter under MIT-licens: en MoE-modell med 320 miljarder parametrar (18 miljarder aktiva), 1 miljon tokens kontextfönster och stöd för bild- och videoinmatning. Bolaget uppger att modellen slår föregångaren GLM-5.2 samtidigt som den kostar en tiondel så mycket att köra.",
+      "source": "SiliconANGLE / MarkTechPost",
+      "url": "https://siliconangle.com/2026/08/26/z-ai-open-sources-ox-alpha-model-as-glm-5-3-flash/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "nvidia-dlss-4-5-ray-reconstruction",
+      "title": "Nvidia släpper DLSS 4.5 Ray Reconstruction till alla RTX-kort",
+      "category": "Mjukvara",
+      "date": "2026-08-25",
+      "location": "",
+      "summary": "Nvidia lanserade under sitt Gamescom-event DLSS 4.5 Ray Reconstruction, en ny transformermodell som slår ihop brusreducering och uppskalning i ett enda AI-nätverk för skarpare och stabilare bildkvalitet i ray tracing. Uppdateringen fungerar på samtliga GeForce RTX-kort och finns redan i 30 spel via Nvidia App, med fler tillägg utlovade.",
+      "source": "Nvidia GeForce / Tom's Hardware",
+      "url": "https://www.nvidia.com/en-us/geforce/news/dlss-4-5-ray-reconstruction-1000-rtx-games-apps-out-now/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "elden-ring-tarnished-edition-switch2",
+      "title": "Elden Ring: Tarnished Edition släpps till Switch 2",
+      "category": "Gaming",
+      "date": "2026-08-28",
+      "location": "",
+      "summary": "FromSoftwares Elden Ring kom till Nintendo Switch 2 i form av Tarnished Edition, som paketerar grundspelet med expansionen Shadow of the Erdtree samt två nya exklusiva startklasser. Utgåvan kostar 79,99 dollar digitalt, och en mindre tilläggspaket släpptes samma dag till övriga plattformar.",
+      "source": "Nintendo Life / Bandai Namco",
+      "url": "https://en.bandainamcoent.eu/elden-ring/news/elden-ring-tarnished-edition-coming-nintendo-switch-2-august",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "metal-gear-solid-master-collection-vol2",
+      "title": "Metal Gear Solid: Master Collection Vol. 2 lanserad",
+      "category": "Gaming",
+      "date": "2026-08-27",
+      "location": "",
+      "summary": "Konami släppte den andra samlingsvolymen med klassiska Metal Gear Solid-spel, som för första gången för bort Metal Gear Solid 4: Guns of the Patriots från Playstation 3 samt inkluderar Peace Walker och handhållna Ghost Babel. Samlingen finns till PS5, Xbox Series X/S, Switch, Switch 2 och PC för 49,99 dollar.",
+      "source": "PlayStation Blog / Konami",
+      "url": "https://blog.playstation.com/2026/02/12/metal-gear-solid-master-collection-vol-2-launches-aug-27-2026-on-ps5/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
     }
   ]
 }

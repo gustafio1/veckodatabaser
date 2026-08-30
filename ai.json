@@ -2,8 +2,8 @@
   "topic": "AI & maskininlärning",
   "description": "Nyheter om nya AI-modeller, verktyg, forskning, företag och reglering. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-23",
-  "item_count": 47,
+  "last_updated": "2026-08-30",
+  "item_count": 54,
   "items": [
     {
       "id": "openai-gpt-5-6-lansering-2026",
@@ -568,6 +568,90 @@
       "url": "https://www.npr.org/sections/planet-money/2026/08/18/g-s1-138852/grueling-fight-over-who-profits-from-ai-music",
       "added_on": "2026-08-23",
       "collected_week": "2026-W34"
+    },
+    {
+      "id": "openai-cursor-spacex",
+      "title": "OpenAI bryter partnerskap med Cursor efter SpaceX-förvärv",
+      "category": "Företag",
+      "date": "2026-08-29",
+      "location": "",
+      "summary": "OpenAI meddelade den 29 augusti att man avslutar sitt partnerskap med kodningsverktyget Cursor efter att SpaceX köpt upp bolaget för omkring 60 miljarder dollar. Cursors direkta tillgång till OpenAIs modeller upphör den 12 november, med hänvisning till oro för hur SpaceX och Elon Musk skulle använda tekniken.",
+      "source": "OpenAI / Bloomberg",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "nvidia-q2-fy2027-earnings",
+      "title": "Nvidia redovisar rekordkvartal med 96 miljarder dollar i intäkter",
+      "category": "Företag",
+      "date": "2026-08-26",
+      "location": "Santa Clara, USA",
+      "summary": "Nvidia rapporterade den 26 augusti ett andra kvartal för räkenskapsåret 2027 med intäkter på 96,2 miljarder dollar, en ökning med 106 procent jämfört med året innan, driven av fortsatt stark efterfrågan på AI-chip. Aktien steg nästan 9 procent på beskedet och börsvärdet ökade med omkring 440 miljarder dollar över en handelsdag.",
+      "source": "Kiplinger / Nvidia",
+      "url": "https://www.kiplinger.com/investing/live/nvidia-earnings-live-updates-and-commentary-august-2026",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "anthropic-nscale-power-deal",
+      "title": "Anthropic tecknar 45-miljardersavtal med Nscale om AI-elkraft",
+      "category": "Företag",
+      "date": "2026-08-26",
+      "location": "West Virginia, USA",
+      "summary": "Anthropic ingick ett sexårigt avtal värt 45 miljarder dollar med brittiska datacenterbolaget Nscale för att säkra omkring 460 megawatt kapacitet vid anläggningen Monarch i West Virginia. Kapaciteten byggs med Nvidias kommande Vera Rubin-chip och ses som en del av Anthropics förberedelser inför en framtida börsnotering.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-26/anthropic-to-pay-nscale-45-billion-for-ai-computing-power",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "claude-cowork-built-in-browser",
+      "title": "Claude Cowork får inbyggd webbläsare",
+      "category": "Verktyg",
+      "date": "2026-08-26",
+      "location": "",
+      "summary": "Anthropic har byggt in en egen webbläsare direkt i Claude Cowork som öppnas i en sidopanel när en uppgift kräver webbaccess, vilket gör det tidigare Chrome-tillägget överflödigt. Funktionen är redan i drift för Enterprise-kunder och rullas under veckan ut till Pro-, Max- och Team-användare på Mac, Windows och Linux.",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/anthropic-claude-cowork-built-in-browser-dma-choice-screen",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "anthropic-model-hardware-standard",
+      "title": "Anthropic lanserar standard för AI-agenter som styr labbutrustning och robotar",
+      "category": "Verktyg",
+      "date": "2026-08-27",
+      "location": "",
+      "summary": "Anthropic presenterade en förhandsversion av Model Hardware Standard (MHS), ett gemensamt gränssnitt som låter AI-agenter styra fysisk utrustning som mikroskop, robotarmar och vätskehanterare inom labb och tillverkning. Hos kvantdatorföretaget QuEra återställde en agentbyggd styrenhet en lasers frekvenslås utan mänsklig inblandning i 99,3 procent av fallen, och forskare vid Carnegie Mellon tredubblade hastigheten på ett spädningsexperiment.",
+      "source": "Technology.org",
+      "url": "https://www.technology.org/2026/08/28/anthropic-model-hardware-standard-research-preview/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "us-china-chip-export-access-rule",
+      "title": "USA byter strategi för chipexport mot Kina till accessbaserad kontroll",
+      "category": "Reglering",
+      "date": "2026-08-28",
+      "location": "Washington DC, USA",
+      "summary": "Trump-administrationen planerar att ersätta Bidens geografiskt baserade exportregler för AI-chip med regler som istället utgår från vem som faktiskt använder avancerade GPU:er och varifrån, för att täppa till kryphål där kinesiska aktörer fått fjärråtkomst via utländska molndatacenter. Skiftet kommer samtidigt som taiwanesiska åklagare i Keelung åtalat nio personer för olaglig export av Nvidia-chip till Kina.",
+      "source": "explainx.ai",
+      "url": "https://explainx.ai/blog/trump-ai-chip-export-controls-china-remote-access-august-2026",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "google-deepmind-talent-exodus",
+      "title": "Google DeepMind tappar toppforskare till konkurrenter",
+      "category": "Företag",
+      "date": "2026-08-27",
+      "location": "",
+      "summary": "En analys av personalrörelser hos tio ledande AI-bolag visar att Google DeepMind under 2026 förlorat en betydande andel av sin forskningspersonal till rivaliserande labb och startups, samtidigt som bolaget expanderar inom robotik och AI för vetenskap. Rapporten kommer efter att Demis Hassabis klivit ned till en Chairman-roll och den mångårige Google-forskaren Jeff Dean lämnat bolaget för en ny satsning.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/27/google-deepmind-losing-talent-to-rival-ai-labs-startups-new-data-show/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
     }
   ]
 }

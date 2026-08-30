@@ -2,8 +2,8 @@
   "topic": "Filosofi",
   "description": "Nya filosofiböcker, debatt, forskning, evenemang och klassiker i nytt ljus. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-23",
-  "item_count": 47,
+  "last_updated": "2026-08-30",
+  "item_count": 52,
   "items": [
     {
       "id": "routledge-basta-filosofibockerna-2026",
@@ -568,6 +568,66 @@
       "url": "https://www.unipressalert.com/index.php?category=Philosophy",
       "added_on": "2026-08-23",
       "collected_week": "2026-W34"
+    },
+    {
+      "id": "gabriele-taylor-dod-2026",
+      "title": "Filosofen Gabriele Taylor har dött",
+      "category": "Nyhet",
+      "date": "2026-08-26",
+      "location": "Oxford, Storbritannien",
+      "summary": "Gabriele Taylor (1927–2026), fellow vid St Anne's College i Oxford, är död. Hon var mest känd för sitt arbete om moralpsykologi och känslornas filosofi, bland annat boken Deadly Vices.",
+      "source": "Daily Nous",
+      "url": "https://dailynous.com/2026/08/26/gabriele-taylor-1927-2026/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "lebowitz-pris-2026-de-brigard-robins",
+      "title": "De Brigard och Robins vinner Lebowitzpriset 2026",
+      "category": "Pris",
+      "date": "2026-08-26",
+      "location": "USA",
+      "summary": "Amerikanska filosofförbundet tilldelade Felipe De Brigard (Duke) och Sarah Robins (Purdue) 2026 års Lebowitzpris för deras forskning om minne, fantasi och kognition.",
+      "source": "Daily Nous",
+      "url": "https://dailynous.com/2026/08/26/de-brigard-and-robins-win-2026-lebowitz-prize/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "philosophy-public-affairs-ai-forbud-2026",
+      "title": "Tidskrift förbjuder AI-författat innehåll efter experiment med Claude som medförfattare",
+      "category": "Debatt",
+      "date": "2026-08-24",
+      "location": "",
+      "summary": "Efter att Philosophy & Public Affairs publicerat en artikel till stor del skriven av AI-modellen Claude, med filosofen Simon Goldstein som handledande redaktör, beslutade tidskriften att framöver förbjuda AI-författat innehåll efter den efterföljande debatten.",
+      "source": "Daily Nous",
+      "url": "https://dailynous.com/2026/08/24/after-experiment-journal-decides-to-prohibit-ai-authored-content/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "al-maturidi-bok-2026",
+      "title": "Ny bok om al-Maturidi och den maturiditiska teologiska traditionen",
+      "category": "Bok",
+      "date": "2026-08-15",
+      "location": "",
+      "summary": "Emre Ilgaz och Ahmad Milad Karimi utforskar i 'Al-Māturīdī und die Māturīdīya' den centralasiatiska teologen al-Maturidis tänkande och dess betydelse för den islamiska filosofiska traditionen.",
+      "source": "University Press Alert",
+      "url": "https://www.unipressalert.com/index.php?category=Philosophy",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "schleiermacher-sjael-bok-2026",
+      "title": "Ny bok undersöker själen i Schleiermachers psykologiföreläsningar",
+      "category": "Bok",
+      "date": "2026-08-15",
+      "location": "",
+      "summary": "Matthis Glatzels bok 'Die Seele in Schleiermachers Psychologievorlesungen' granskar hur den tyske filosofen och teologen Friedrich Schleiermacher tänkte kring själen och medvetandet i sina föreläsningar.",
+      "source": "University Press Alert",
+      "url": "https://www.unipressalert.com/index.php?category=Philosophy",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "topic": "Religion – Nyheter",
   "description": "Religiösa nyheter från Vatikanen, kyrkor och trossamfund världen över. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-23",
-  "item_count": 114,
+  "last_updated": "2026-08-30",
+  "item_count": 120,
   "items": [
     {
       "id": "leo-xiv-tyska-studenter-2026",
@@ -1372,6 +1372,78 @@
       "url": "https://icjs.org/",
       "added_on": "2026-08-23",
       "collected_week": "2026-W34"
+    },
+    {
+      "id": "leo-xiv-lebanon-aoun-2026",
+      "title": "Påve Leo XIV möter Libanons president om gränsavtalet med Israel",
+      "category": "Vatikanen",
+      "date": "2026-08-20",
+      "location": "Vatikanstaten",
+      "summary": "Påven tog emot Libanons president Joseph Aoun för samtal om läget i södra Libanon. Vatikanen välkomnade det trilaterala avtalet mellan USA, Israel och Libanon men uttryckte oro över svårigheterna att genomföra det.",
+      "source": "Vatican News",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-08/pope-leo-xiv-receives-the-president-of-lebanon.html",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "leo-xiv-vastbanken-tvastatslosning-vadjan-2026",
+      "title": "Påven vädjar om slut på våldet på Västbanken och en tvåstatslösning",
+      "category": "Vatikanen",
+      "date": "2026-08-16",
+      "location": "Castel Gandolfo",
+      "summary": "Efter angelusbönen uppmanade Leo XIV världssamfundet att arbeta för en tvåstatslösning, sedan israeliska bosättare utfört nya attacker mot palestinska civila, bland annat i den kristna byn Taybeh.",
+      "source": "America Magazine / Vatican News",
+      "url": "https://www.americamagazine.org/news/2026/08/17/pope-leo-israel-west-bank-violence/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "leo-xiv-motu-proprio-orientaliska-synoder-2026",
+      "title": "Leo XIV ger österländska synoder rätt att avsätta patriarker",
+      "category": "Dokument",
+      "date": "2026-08-29",
+      "location": "Vatikanstaten",
+      "summary": "Genom motu propriot 'Mutua Concordia' ger påven de österländska katolska kyrkornas biskopssynoder befogenhet att avsätta en patriark när gemenskapen mellan honom och biskoparna är allvarligt och obotligt skadad.",
+      "source": "Vatican News",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-08/pope-leo-grants-eastern-synods-the-faculty-to-remove-patriarchs.html",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "universal-oneness-madison-square-garden-2026",
+      "title": "Religiösa ledare varnar för växande hat vid möte i New York",
+      "category": "Global",
+      "date": "2026-08-29",
+      "location": "New York",
+      "summary": "Vid evenemanget 'Universal Oneness Celebration' på Madison Square Garden manade judiska, kristna och muslimska talare till dialog och respekt över trosgränserna, och presenterade en gemensam deklaration mot religiöst motiverat hat framtagen med över 200 trosföreträdare från 30 länder.",
+      "source": "Social News XYZ",
+      "url": "https://www.socialnews.xyz/2026/08/29/faith-leaders-warn-of-rising-global-hate/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "new-orleans-overgreppsersattning-brev-2026",
+      "title": "Övergreppsoffer i New Orleans-stiftet får besked om låga ersättningsbelopp",
+      "category": "Katolska kyrkan",
+      "date": "2026-08-05",
+      "location": "New Orleans, USA",
+      "summary": "Hundratals överlevare efter sexuella övergrepp inom ärkestiftet New Orleans har börjat få brev om sina utbetalningar ur den 305 miljoner dollar stora förlikningen, med belopp betydligt lägre än många hade väntat sig efter fördröjningar i processen.",
+      "source": "BishopAccountability.org",
+      "url": "https://www.bishop-accountability.org/2026/08/this-whole-things-a-farce-church-sex-abuse-settlement-brings-anger-confusion/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "buddhistisk-fredsvandring-sri-lanka-korea-2026",
+      "title": "Buddhistledd fredspilgrimsfärd förenar Sri Lanka och Sydkorea",
+      "category": "Global",
+      "date": "2026-08-01",
+      "location": "Sri Lanka",
+      "summary": "Munken Pomnyun Sunim ledde en interreligiös fredspilgrimsfärd med buddhistiska, kristna, hinduiska och muslimska deltagare från Sydkorea och Sri Lanka, med fokus på fredsbyggande och planer på fortsatt utbyte mellan unga trosledare.",
+      "source": "World Religion News",
+      "url": "https://www.worldreligionnews.com/2026/08/sri-lanka-interfaith-peace-pilgrimage/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "topic": "Katolska kyrkans sociala lära",
   "description": "Den katolska kyrkans sociala lära – principerna och temana som vägleder ett rättvist samhälle. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-23",
-  "item_count": 100,
+  "last_updated": "2026-08-30",
+  "item_count": 105,
   "items": [
     {
       "id": "liv-och-vardighet",
@@ -1204,6 +1204,66 @@
       "url": "https://canadiancatholicnews.ca/in-an-age-of-division-conference-looks-for-common-ground-through-catholic-social-teaching/",
       "added_on": "2026-08-23",
       "collected_week": "2026-W34"
+    },
+    {
+      "id": "leo-xiv-notre-dame-konsultorer-2026",
+      "title": "Leo XIV utser tre amerikanska experter som rådgivare till Vatikanens utvecklingsdikasterium",
+      "category": "Nyhet",
+      "date": "2026-08-18",
+      "location": "Vatikanstaten",
+      "summary": "Två professorer och en styrelseledamot knutna till Notre Dame-universitetet utsågs bland tolv nya konsultorer till Dikasteriet för främjande av integral mänsklig utveckling, som arbetar med mänsklig värdighet, ekonomisk rättvisa, omsorg om skapelsen och migration.",
+      "source": "University of Notre Dame News",
+      "url": "https://news.nd.edu/news/two-notre-dame-faculty-members-and-university-trustee-appointed-by-pope-leo-xiv-as-consultors-to-the-dicastery-for-promoting-integral-human-development/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "leo-xiv-icln-teknik-tal-2026",
+      "title": "Leo XIV: sociallärans principer ska vägleda tekniken och AI",
+      "category": "Aktuellt",
+      "date": "2026-08-21",
+      "location": "Vatikanstaten",
+      "summary": "I ett tal till Internationella nätverket av katolska parlamentariker underströk påven att människans värdighet, det gemensamma bästa, jordens goda, subsidiaritet och solidaritet ger de säkra kriterierna för att bedöma ny teknik, så att den gör människor mer solidariska snarare än splittrade.",
+      "source": "Vatican News",
+      "url": "https://www.vatican.va/content/leo-xiv/en/speeches/2026/august/documents/20260821-meeting-icln.html",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "aleteia-135-ar-sociallara-historik-2026",
+      "title": "135 år av katolsk sociallära: från Leo XIII till Leo XIV",
+      "category": "Aktuellt",
+      "date": "2026-08-10",
+      "location": "",
+      "summary": "En genomgång i Aleteia sammanfattar hur den sociala lärans huvudlinjer har utvecklats från Rerum Novarum 1891 fram till Leo XIV:s Magnifica Humanitas, och hur varje generation av påvar har byggt vidare på samma grundprinciper.",
+      "source": "Aleteia",
+      "url": "https://aleteia.org/2026/08/10/from-leo-xiii-to-leo-xiv-130-years-of-catholic-social-teaching/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "mit-brennender-sorge",
+      "title": "Mit brennender Sorge (1937)",
+      "category": "Encyklika",
+      "date": "1937-03-14",
+      "location": "",
+      "summary": "Pius XI:s encyklika, skriven på tyska och smugglad in i Tyskland för att läsas upp i alla katolska kyrkor, fördömde nazismens rasideologi och statsdyrkan och försvarade människans okränkbara värdighet mot totalitära anspråk.",
+      "source": "Vatikanens arkiv",
+      "url": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_14031937_mit-brennender-sorge.html",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "magnifica-humanitas-kommentarserie-2026",
+      "title": "Bloggserie går igenom Magnifica Humanitas paragraf för paragraf",
+      "category": "Tillämpning",
+      "date": "2026-08-28",
+      "location": "",
+      "summary": "Bloggen Catholic Sensibility publicerar under sommaren och hösten 2026 en löpande kommentarserie till Leo XIV:s encyklika, där varje inlägg fördjupar sig i enskilda avsnitt som subsidiaritet, solidaritet och kriterierna för teknikens plats i samhället.",
+      "source": "Catholic Sensibility",
+      "url": "https://catholicsensibility.wordpress.com/2026/08/28/magnifica-humanitas-96-criteria/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
     }
   ]
 }

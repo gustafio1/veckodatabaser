@@ -2,8 +2,8 @@
   "topic": "Ledarskap – John Maxwell",
   "description": "Ledarskapsprinciper och lärdomar från John C. Maxwell, inklusive De 21 oeftergivliga ledarskapslagarna. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-23",
-  "item_count": 104,
+  "last_updated": "2026-08-30",
+  "item_count": 110,
   "items": [
     {
       "id": "lockets-lag",
@@ -1252,6 +1252,78 @@
       "url": "https://www.azquotes.com/quote/583099",
       "added_on": "2026-08-23",
       "collected_week": "2026-W34"
+    },
+    {
+      "id": "bok-developing-leaders-around-you",
+      "title": "Att utveckla ledare runt omkring dig (Developing the Leaders Around You)",
+      "category": "Bok",
+      "date": "1995-01-01",
+      "location": "",
+      "summary": "I denna bok argumenterar Maxwell för att en ledares framgång avgörs av hur väl han eller hon lyckas utveckla ledarskap hos personerna närmast sig. Boken presenterar fem egenskaper som skiljer en \"ledar-chef\" från en vanlig chef: vision, värde, inflytande, motivation och självförtroende.",
+      "source": "John C. Maxwell",
+      "url": "https://www.goodreads.com/book/show/601073.Developing_the_Leaders_Around_You",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "bok-leadership-gold",
+      "title": "Ledarskapets guld (Leadership Gold: Lessons I've Learned from a Lifetime of Leading)",
+      "category": "Bok",
+      "date": "2008-01-01",
+      "location": "",
+      "summary": "Maxwell samlar här 26 av sina viktigaste ledarskapslärdomar efter fyrtio års erfarenhet, presenterade som \"guldkorn\" med praktiska tillämpningsövningar efter varje kapitel. Boken är tänkt att fungera som ett halvårs mentorskap i bokform.",
+      "source": "John C. Maxwell",
+      "url": "https://www.goodreads.com/book/show/2438535.Leadership_Gold",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "citat-no-shortcuts",
+      "title": "Citat: \"Inga genvägar\" (There are no shortcuts to any place worth going)",
+      "category": "Citat",
+      "date": "2026-08-30",
+      "location": "",
+      "summary": "\"Det finns inga genvägar till en plats värd att nå.\" Maxwell betonar att verkligt värdefull utveckling och verkligt ledarskap kräver uthålligt, långsiktigt arbete snarare än snabba lösningar.",
+      "source": "John C. Maxwell",
+      "url": "https://www.goodreads.com/quotes/526989-there-are-no-short-cuts-to-any-place-worth-going",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "citat-dreams-dont-work-unless-you-do",
+      "title": "Citat: \"Drömmar kräver handling\" (Dreams don't work unless you do)",
+      "category": "Citat",
+      "date": "2026-08-30",
+      "location": "",
+      "summary": "\"Drömmar fungerar inte om inte du gör det.\" Maxwell påminner om att visioner och mål bara förverkligas genom konsekvent handling, inte genom önsketänkande.",
+      "source": "John C. Maxwell",
+      "url": "https://www.goodreads.com/quotes/1347771-dreams-don-t-work-unless-you-do",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "citat-attityd-totalt-ansvar",
+      "title": "Citat: \"Ta totalt ansvar för din attityd\" (The greatest day is when we take total responsibility for our attitudes)",
+      "category": "Citat",
+      "date": "2026-08-30",
+      "location": "",
+      "summary": "\"Den största dagen i ditt och mitt liv är när vi tar totalt ansvar för våra attityder.\" Maxwell menar att verklig personlig mognad börjar när man slutar skylla sin attityd på omständigheter och istället äger den själv.",
+      "source": "John C. Maxwell",
+      "url": "https://www.goodreads.com/quotes/179068-the-greatest-day-in-your-life-and-mine-is-when",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "princip-paretoprincipen-ledarskap",
+      "title": "Paretoprincipen i ledarskap (The Pareto Principle / the 80-20 Rule)",
+      "category": "Princip",
+      "date": "2026-08-30",
+      "location": "",
+      "summary": "Maxwell tillämpar 80/20-regeln på ledarskap och menar att en ledare bör lägga 80 procent av sin tid, energi och resurser på de 20 procent av medarbetarna eller uppgifterna som ger störst avkastning. Principen används som grund för hans lag om prioriteringar i \"The 21 Irrefutable Laws of Leadership\".",
+      "source": "John C. Maxwell",
+      "url": "https://www.shortform.com/blog/law-of-priorities/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
     }
   ]
 }

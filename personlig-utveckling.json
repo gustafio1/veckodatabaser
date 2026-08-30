@@ -2,8 +2,8 @@
   "topic": "Personlig utveckling",
   "description": "Tekniker, vanor och tankesätt för personlig utveckling och produktivitet. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-23",
-  "item_count": 88,
+  "last_updated": "2026-08-30",
+  "item_count": 95,
   "items": [
     {
       "id": "pomodoro-tekniken",
@@ -1060,6 +1060,90 @@
       "url": "https://www.sciencedaily.com/releases/2026/04/260415043626.htm",
       "added_on": "2026-08-23",
       "collected_week": "2026-W34"
+    },
+    {
+      "id": "orexinneuroner-uthallig-motivation-2026",
+      "title": "Hjärnceller som håller motivationen igång upptäckta hos råttor",
+      "category": "Forskning",
+      "date": "2026-08-04",
+      "location": "",
+      "summary": "Forskare vid Nagoya University har visat att så kallade orexinneuroner blir mer aktiva ju svårare en uppgift blir i förhållande till belöningen, och att blockering av dessa celler gör försöksdjuren mindre motiverade att fortsätta jobba mot ett mål. Fyndet, publicerat i PNAS, pekar ut en konkret hjärnmekanism bakom förmågan att hålla i sig när ansträngningen ökar.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260804034622.htm",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "kondition-kroppsfett-sjalvkontroll-barn-2026",
+      "title": "Kondition och kroppsfett påverkar barns självkontroll på olika sätt",
+      "category": "Studie",
+      "date": "2026-08-08",
+      "location": "",
+      "summary": "En studie på omkring 100 barn i 9–10-årsåldern, där kroppssammansättningen mättes med DEXA-skanning, visar att bättre kondition hänger ihop med färre fel och starkare hjärnaktivitet kopplad till uppmärksamhet och impulskontroll vid svåra uppgifter, medan högre kroppsfett i stället gjorde barnen mer impulsiva. Resultatet tyder på att fysisk form och kroppssammansättning påverkar självkontrollen via delvis olika vägar i hjärnan.",
+      "source": "Knowridge Science Report",
+      "url": "https://knowridge.com/2026/08/fitness-and-body-fat-affect-self-control-in-different-ways/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "prokrastinering-minskar-med-aldern-langtidseffekter",
+      "title": "Prokrastinering minskar med åldern men präglar livet i decennier framåt",
+      "category": "Studie",
+      "date": "2026-04-17",
+      "location": "",
+      "summary": "En artonårig tysk longitudinell studie med över 3000 deltagare, från sista gymnasieåret in i vuxenlivet, visar att uppskjutandebeteende i genomsnitt minskar med åldern, samtidigt som de som prokrastinerade mest tidigt i livet fortsatte ligga högst i gruppen. De som var mest prokrastinerande som artondåringar hade år senare lägre studieresultat, sämre inkomst- och befordringsmöjligheter samt fler relations- och hälsoproblem.",
+      "source": "PsyPost / Journal of Personality and Social Psychology",
+      "url": "https://www.psypost.org/longitudinal-study-finds-procrastination-declines-with-age-but-still-shapes-major-life-outcomes-over-nearly-two-decades/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "grubblande-drivkraft-sanglaggningsprokrastinering",
+      "title": "Grubblande tankar viktigaste drivkraften bakom sen sänggåendetid",
+      "category": "Studie",
+      "date": "2026-05-10",
+      "location": "",
+      "summary": "Forskare vid universitetet i Duisburg-Essen lät 135 vuxna vila i tio minuter med pulsmätare för att fånga stressnivå, och fann att bara \"grubblande\" – att fastna i passiva, negativa tankeloopar – förutspådde att man sköt upp sänggåendet, medan medveten omtolkning av stress tappade sin effekt när grubblandet togs med i modellen. Sen sänggåendetid hängde i sin tur samman med kortare och sämre sömn.",
+      "source": "PsyPost",
+      "url": "https://www.psypost.org/brooding-identified-as-a-major-driver-of-bedtime-procrastination-alongside-physical-markers-of-stress/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "handlingsorientering-svara-mal-2025",
+      "title": "Förmåga att reglera känslor avgör vem som klarar svåra mål",
+      "category": "Studie",
+      "date": "2025-11-11",
+      "location": "",
+      "summary": "I en studie satte 199 deltagare upp sex personliga mål över fyra veckor och skattade hur svåra de var. De som var mer \"handlingsorienterade\" – bättre på att reglera känslor och gå från planering till agerande – lyckades klart oftare med sina svåraste mål, medan mer tveksamma, \"tillståndsorienterade\" personer presterade sämre ju svårare målen blev.",
+      "source": "PsyPost / Motivation and Emotion",
+      "url": "https://www.psypost.org/researchers-identify-a-psychological-trait-linked-to-conquering-difficult-goals/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "sjalvvanlighet-starkast-for-psykiskt-mande-2026",
+      "title": "Självvänlighet visar sig vara den starkaste komponenten i självmedkänsla",
+      "category": "Forskning",
+      "date": "2026-04-01",
+      "location": "",
+      "summary": "En studie i PLOS Mental Health som jämförde de tre beståndsdelarna i självmedkänsla – självvänlighet, gemensam mänsklighet och medveten närvaro – fann att just självvänlighet var den starkaste enskilda prediktorn för självskattat psykiskt mående över tid, delvis via minskad känsla av isolering. Forskarna föreslår att insatser som medkänslofokuserad meditation bör rikta in sig särskilt på att träna självvänlighet.",
+      "source": "PLOS Mental Health",
+      "url": "https://journals.plos.org/mentalhealth/article?id=10.1371/journal.pmen.0000548",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "tro-pa-obegransad-viljestyrka-2026",
+      "title": "Tron på obegränsad viljestyrka får folk att våga mer",
+      "category": "Studie",
+      "date": "2026-02-18",
+      "location": "",
+      "summary": "I en studie publicerad i Journal of Experimental Psychology fick deltagare först ange sin syn på viljestyrka och löste därefter matteuppgifter av valfri svårighetsgrad. De som trodde att viljestyrka är en obegränsad resurs valde oftare svårare uppgifter och utmanade sig själva mer, medan de som såg viljestyrkan som begränsad drog sig för att höja svårighetsgraden – ett tecken på att övertygelsen om viljestyrkan kan bli en självuppfyllande profetia.",
+      "source": "Discover Magazine",
+      "url": "https://www.discovermagazine.com/is-there-any-science-behind-willpower-possibly-and-it-could-influence-long-term-goals-48707",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "topic": "Psykologi – Vänskap",
   "description": "Ny forskning och insikter om vänskap, relationer och social anknytning. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-23",
-  "item_count": 76,
+  "last_updated": "2026-08-30",
+  "item_count": 83,
   "items": [
     {
       "id": "vanskap-folkhalsotillgang-2026",
@@ -916,6 +916,90 @@
       "url": "https://www.psypost.org/women-face-higher-risks-of-partner-violence-during-the-weeks-their-partners-cheat/",
       "added_on": "2026-08-23",
       "collected_week": "2026-W34"
+    },
+    {
+      "id": "partnerjamforelser-formaga-asikter-2026",
+      "title": "Det vi jämför oss med hos vår partner förändras med tiden",
+      "category": "Forskning",
+      "date": "2026-08-29",
+      "location": "",
+      "summary": "Ny studie visar att personer i nya förhållanden ofta jämför sin egen förmåga med partnerns för att bedöma om båda bidrar lika mycket, medan par i långvariga relationer i stället jämför åsikter för att förstå varandra bättre. Yngre personer och de med lägre självkänsla jämförde förmågor oftare, vilket forskarna kopplar till större osäkerhet tidigt i relationen.",
+      "source": "PsyPost / Journal of Personality and Social Psychology",
+      "url": "https://www.psypost.org/new-psychology-study-reveals-an-intriguing-shift-in-romantic-partner-comparisons-over-time/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "oforutsagbara-arbetstider-separationer-2026",
+      "title": "Oförutsägbara arbetstider ökar risken för separationer",
+      "category": "Studie",
+      "date": "2026-08-23",
+      "location": "",
+      "summary": "Ny studie av timanställda i den amerikanska servicesektorn visar att oregelbundna och svårförutsedda arbetsscheman kraftigt ökar risken för separation eller skilsmässa. Bland gifta med helt stabila scheman var 94 procent fortsatt gifta vid uppföljningen, jämfört med 82 procent bland dem med de mest instabila scheman – effekten var särskilt tydlig när det var mannen som hade oförutsägbara arbetstider.",
+      "source": "PsyPost / Journal of Marriage and Family",
+      "url": "https://www.psypost.org/unpredictable-work-schedules-increase-the-risk-of-romantic-breakups-new-study-finds/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "ai-sallskap-tonaringar-konflikthantering-2026",
+      "title": "AI-sällskap kan hämma tonåringars förmåga att hantera konflikter",
+      "category": "Forskning",
+      "date": "2026-06-29",
+      "location": "",
+      "summary": "Forskare vid Arizona State University varnar för att tonåringar som vänder sig till AI-chattbotar för råd om vänskap, familjekonflikter och kärleksrelationer riskerar att gå miste om viktig träning i konflikthantering, gränssättning och empati. Studien pekar på två risker: att AI-samtal tränger undan mänsklig interaktion och att chattbotar riskerar att förmedla orealistiska föreställningar om hur relationer fungerar.",
+      "source": "ASU News / The Lancet Child & Adolescent Health",
+      "url": "https://news.asu.edu/20260629-science-and-technology-ai-companionship-poses-risks-teen-development-study-shows",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "vanner-underskattar-varandras-cynism-2026",
+      "title": "Vi underskattar hur cyniska våra vänner faktiskt är",
+      "category": "Studie",
+      "date": "2026-05-21",
+      "location": "",
+      "summary": "Studie med 173 vänpar visar att vi generellt uppfattar våra vänner som mer vänliga och osjälviska än de själva uppger sig vara, en positiv skevhet som är särskilt stark i nya vänskaper och avtar något ju längre vänskapen varat. Personer med högre grad av egen cynism trodde också oftare att vännen delade samma världsbild, vilket tyder på att vi delvis projicerar vår egen inställning på andra.",
+      "source": "MSUToday / Evolution and Human Behavior",
+      "url": "https://msutoday.msu.edu/news/2026/05/levels-of-cynicism",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "ensamhet-kognitiv-nedgang-kortare-liv-2026",
+      "title": "Ensamhet driver kognitiv nedgång och kortare liv mer än isolering",
+      "category": "Studie",
+      "date": "2026-06-15",
+      "location": "",
+      "summary": "Stor studie med 175 000 deltagare över 50 år i 18 länder visar att upplevd ensamhet – till skillnad från ren social isolering – tydligt ökar risken för kognitiv försämring och förtida död. Höga nivåer av ensamhet minskade även chansen att återhämta sig från lindrig kognitiv svikt till normal hjärnfunktion.",
+      "source": "UC Davis / Journal of Personality and Social Psychology",
+      "url": "https://www.ucdavis.edu/news/loneliness-drives-cognitive-impairment-and-shorter-life-more-social-isolation-new-study",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "ensamhet-orsakar-samre-halsa-kausal-studie-2026",
+      "title": "Genetisk studie ger starkare stöd för att ensamhet orsakar sämre hälsa",
+      "category": "Forskning",
+      "date": "2026-07-15",
+      "location": "",
+      "summary": "Genom att kombinera observationsstudier, syskonjämförelser och mendelsk randomisering visar forskare vid bland annat Bristol och Amsterdam UMC att ensamhet sannolikt orsakar sämre psykisk hälsa och lägre välbefinnande, och inte bara hänger samman med det. Även ren social isolering var kopplad till lägre välbefinnande, men sambandet med upplevd ensamhet var starkare och tydligare kausalt.",
+      "source": "University of Bristol / Nature Communications",
+      "url": "https://www.bristol.ac.uk/news/2026/july/loneliness-strongly-linked-to-poorer-mental-health-and-wellbeing.html",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "global-ensamhet-148-lander-gallup-2026",
+      "title": "Global kartläggning nyanserar bilden av en världsomspännande ensamhetsepidemi",
+      "category": "Studie",
+      "date": "2026-07-20",
+      "location": "",
+      "summary": "Analys av Gallups världsomfattande enkät med över 218 000 svarande i nära 150 länder visar att drygt var femte vuxen känner sig ensam, med klart högre andelar i låginkomstländer, men ingen tydlig global uppåtgående trend mellan 2023 och 2024. Forskarna menar att bilden av en enhetlig, växande ensamhetsepidemi är för förenklad och att insatser bör anpassas efter lokala mönster.",
+      "source": "The Conversation / European Journal of Epidemiology",
+      "url": "https://theconversation.com/is-there-really-a-global-loneliness-epidemic-research-reveals-a-more-complex-picture-286543",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
     }
   ]
 }

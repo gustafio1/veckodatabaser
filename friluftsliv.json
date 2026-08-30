@@ -2,8 +2,8 @@
   "topic": "Friluftsliv",
   "description": "Vandringsleder, friluftsutrustning, naturvård, allemansrätt och äventyr. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-23",
-  "item_count": 41,
+  "last_updated": "2026-08-30",
+  "item_count": 46,
   "items": [
     {
       "id": "pusselleden-invigd-sigtuna-2026",
@@ -482,6 +482,66 @@
       "url": "https://testix.se/test/vandringsryggsack",
       "added_on": "2026-08-23",
       "collected_week": "2026-W34"
+    },
+    {
+      "id": "i2-skogen-naturreservat-karlstad-2026",
+      "title": "I2-skogen i Karlstad invigt som naturreservat",
+      "category": "Naturreservat",
+      "date": "2026-08-30",
+      "location": "Karlstad, Värmland",
+      "summary": "Karlstads kommun firade söndagen den 30 augusti att det forna militärområdet I2-skogen blivit naturreservat, med en invigningsfest där lokala föreningar visade upp friluftsaktiviteter för besökarna. Beslutet syftar till att långsiktigt bevara områdets naturvärden samtidigt som det utvecklas som strövområde för Karlstadsborna.",
+      "source": "Karlstads kommun",
+      "url": "https://karlstad.se/nyheter/startsida/2026-08-21-i2-skogen-blir-naturreservat---valkommen-pa-invigningsfest",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "sundsvall-sveriges-friluftskommun-2026",
+      "title": "Sundsvall utsett till Sveriges friluftskommun 2026",
+      "category": "Utmärkelse",
+      "date": "2026-08-26",
+      "location": "Sundsvall",
+      "summary": "Naturvårdsverket, Svenskt Friluftsliv och Sveriges Fritids- och Kulturchefsförening korade Sundsvalls kommun till Sveriges friluftskommun 2026 efter att den slagit ut sex andra finalister i en enkät som besvarats av 219 av landets 290 kommuner. Motiveringen lyfter Sundsvalls långsiktiga samverkan med föreningslivet genom ett etablerat natur- och friluftsråd.",
+      "source": "Naturvårdsverket",
+      "url": "https://www.naturvardsverket.se/om-oss/aktuellt/nyheter-och-pressmeddelanden/2026/augusti/sundsvalls-kommun-utses-till-sveriges-friluftskommun-2026--lyfter-foreningslivet-genom-stark-samverkan",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "utemagasinet-folktomma-upplevelser-september-2026",
+      "title": "Utemagasinet tipsar om folktomma äventyr inför september",
+      "category": "Äventyr",
+      "date": "2026-08-25",
+      "location": "",
+      "summary": "Utemagasinet listar tre platser för den som vill uppleva svensk natur utan folkträngsel när högsäsongen klingar av, bland annat en av landets mest svårtillgängliga punkter. Tipsen riktar sig till äventyrare som vill förlänga sommarens vandringssäsong in i september.",
+      "source": "Utemagasinet",
+      "url": "https://www.utemagasinet.se/nyheter/20260825/hitta-dig-sjalv-i-september-tre-folktomma-upplevelser/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "utemagasinet-guide-liggunderlag-2026",
+      "title": "Guide: så väljer du rätt liggunderlag för vandringen",
+      "category": "Utrustning",
+      "date": "2026-08-18",
+      "location": "",
+      "summary": "Utemagasinet har publicerat en köpguide som förklarar skillnaden mellan skum-, luft- och självuppblåsande liggunderlag och hur isoleringsvärdet R-value påverkar komforten på vandringen. Guiden ska hjälpa läsare att välja rätt underlag inför höstens turer i fjäll och skog.",
+      "source": "Utemagasinet",
+      "url": "https://www.utemagasinet.se/nyheter/20260818/guide-sa-hittar-du-ratt-liggunderlag/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "kebnekaise-fjallraddning-sommarsammanfattning-2026",
+      "title": "Fjällräddningen summerar en normal men intensiv sommar på Kebnekaise",
+      "category": "Säkerhet i fjällen",
+      "date": "2026-08-16",
+      "location": "Kebnekaise, Norrbotten",
+      "summary": "Mellan 20 och 25 räddningsinsatser genomfördes vid Kebnekaise under sommaren, vilket enligt polisens samordnare räknas som en normal säsong för området. Den vanligaste orsaken är utmattning snarare än dramatiska olyckor, men varje helikopterinsats kan ändå kosta hundratusentals kronor.",
+      "source": "Norrländska Socialdemokraten (NSD)",
+      "url": "https://www.nsd.se/nyheter/norrbotten/artikel/manga-fjallraddningar-pa-kebnekaise-i-sommar/jvz5z6pr",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
     }
   ]
 }

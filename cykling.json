@@ -2,8 +2,8 @@
   "topic": "Cykling",
   "description": "Proffscykling, svenska cyklister, motionslopp, mountainbike och utrustning. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-23",
-  "item_count": 42,
+  "last_updated": "2026-08-30",
+  "item_count": 51,
   "items": [
     {
       "id": "pogacar-gula-trojan-etapp-3-2026",
@@ -496,6 +496,114 @@
       "url": "https://dicodusport.fr/blog/le-classement-et-les-resultats-de-la-3e-etape-du-tour-de-lavenir-2026-remportee-par-davide-stella/",
       "added_on": "2026-08-23",
       "collected_week": "2026-W34"
+    },
+    {
+      "id": "vuelta-espana-2026-etapp3-installd-hagel",
+      "title": "Etapp 3 i Vuelta a España inställd efter kraftigt hagelväder",
+      "category": "Proffs",
+      "date": "2026-08-24",
+      "location": "Font-Romeu, Frankrike",
+      "summary": "Vuelta a Españas tredje etapp mot Font-Romeu i Pyrenéerna avbröts efter att fältet drabbades av kraftigt hagel, åska och översvämmade vägar på Col de Mont-Louis. Tävlingsledningen valde av säkerhetsskäl att stryka resten av sträckan och ingen etappvinnare utsågs.",
+      "source": "Cycling Up To Date",
+      "url": "https://cyclinguptodate.com/cycling/vuelta-a-espana-cancelled-stage-3-brought-to-an-abrupt-end-after-hail-storm-forces-riders-into-shelter",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "vuelta-espana-2026-etapp6-pogacar-mas-grus",
+      "title": "Pogačar vann dramatisk grusetapp i Castellón före Mas",
+      "category": "Proffs",
+      "date": "2026-08-27",
+      "location": "Castellón de la Plana, Spanien",
+      "summary": "Tadej Pogačar attackerade på grusklättringen Puerto El Bartolo på etapp 6 av Vuelta a España, men Enric Mas svarade med en enastående jakt och kom ikapp innan toppen. Pogačar red nästan av vägen i den efterföljande utförsbacken men vann ändå tvåmanaspurten och utökade sin ledning i totalställningen.",
+      "source": "Cycling Up To Date",
+      "url": "https://cyclinguptodate.com/cycling/results-vuelta-a-espana-2026-stage-6-tadej-pogacar-survives-off-road-scare-and-astonishing-enric-mas-comeback-to-win-gravel-climb-thriller",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "roglic-startade-vuelta-2026-utan-gc",
+      "title": "Roglič startade Vuelta a España trots krock – utan GC-ambitioner",
+      "category": "Nyhet",
+      "date": "2026-08-22",
+      "location": "Monaco",
+      "summary": "Trots att chanserna bedömdes som ungefär 50-50 efter att ha blivit påkörd av en bilist under träning i juli ställde fyrfaldige Vuelta-vinnaren Primož Roglič ändå upp vid starten i Monaco. Red Bull-Bora-Hansgrohe bekräftade samtidigt att målsättningen justerats bort från en total totalseger efter den försenade uppladdningen.",
+      "source": "Domestique Cycling",
+      "url": "https://www.domestiquecycling.com/en/news/primoz-roglic-reportedly-set-to-start-vuelta-with-revised-ambitions/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "mtb-vm-2026-goldstone-utforsakning",
+      "title": "Jackson Goldstone försvarade VM-titeln i utförsåkning",
+      "category": "MTB",
+      "date": "2026-08-29",
+      "location": "Val di Sole, Italien",
+      "summary": "Kanadensaren Jackson Goldstone säkrade sin andra raka VM-titel i herrarnas utförsåkning vid mountainbike-VM i Val di Sole, med en marginal på bara 0,695 sekunder i blött och krävande väglag.",
+      "source": "Pinkbike",
+      "url": "https://www.pinkbike.com/news/results-2026-val-di-sole-elite-dh-world-championships.html",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "mtb-vm-2026-holl-femte-titeln",
+      "title": "Vali Höll tog sin femte raka VM-titel i utförsåkning",
+      "category": "MTB",
+      "date": "2026-08-29",
+      "location": "Val di Sole, Italien",
+      "summary": "Österrikiskan Vali Höll dominerade damernas utförsåkning vid mountainbike-VM i Val di Sole och vann med hela 1,7 sekunders marginal till tvåan Lisa Baumann, sitt femte VM-guld i rad i grenen.",
+      "source": "Pinkbike",
+      "url": "https://www.pinkbike.com/news/results-2026-val-di-sole-elite-dh-world-championships.html",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "mtb-vm-2026-boichis-stigger-kortdistans",
+      "title": "Boichis och Stigger tog VM-guld i kortdistans i Val di Sole",
+      "category": "MTB",
+      "date": "2026-08-27",
+      "location": "Val di Sole, Italien",
+      "summary": "Fransmannen Adrien Boichis vann herrarnas kortdistanslopp (XCC) vid mountainbike-VM efter ett hektiskt avslutande varv, ett år efter sin U23-titel i samma gren. Österrikiskan Laura Stigger tog damtiteln i de första avgörandena av mästerskapet i Val di Sole.",
+      "source": "Escape Collective",
+      "url": "https://escapecollective.com/adrien-boichis-and-laura-stigger-claim-xcc-world-titles-in-italy/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "mtb-vm-2026-pidcock-xco-guld",
+      "title": "Pidcock tog XCO-guld trots start längst bak i fältet",
+      "category": "MTB",
+      "date": "2026-08-30",
+      "location": "Val di Sole, Italien",
+      "summary": "Tom Pidcock vann herrarnas VM-lopp i cross country i Val di Sole i sitt första mountainbikelopp sedan maj, trots att han startade från femte startledet. Mathieu van der Poel, som jagade den enda regnbågströja han saknar, fick en överraskande svag dag och kunde inte hänga med i toppstriden.",
+      "source": "Velo (Outside)",
+      "url": "https://velo.outsideonline.com/mountain/mountain-racing/mountain-bike-world-championships-2026-results",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "mtb-vm-2026-frei-xco-titel",
+      "title": "Sina Frei världsmästare i damernas XCO",
+      "category": "MTB",
+      "date": "2026-08-30",
+      "location": "Val di Sole, Italien",
+      "summary": "Schweiziskan Sina Frei tog VM-guldet i damernas cross country-lopp i Val di Sole efter att tidigt ha dragit ifrån fältet, och kompletterar därmed en stark säsong med mästerskapets mest prestigefyllda titel.",
+      "source": "Escape Collective",
+      "url": "https://escapecollective.com/mtb-world-champs-frei-and-pidcock-on-top-of-the-world-in-val-di-sole/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "rissveds-sjua-vm-xco-2026-hjulbyte",
+      "title": "Rissveds sjua i VM-XCO efter hjulbyte i tekniska zonen",
+      "category": "Svensk cykling",
+      "date": "2026-08-30",
+      "location": "Val di Sole, Italien",
+      "summary": "Regerande världsmästaren Jenny Rissveds tappade tempo efter ett långsamt bakhjulsbyte i tekniska zonen och föll bakom bland andra Nicole Koller och Puck Pieterse i VM-loppet i cross country. Svenskan slutade till slut på sjunde plats, strax bakom britten Evie Richards.",
+      "source": "Pinkbike",
+      "url": "https://www.pinkbike.com/news/results-2026-val-di-sole-elite-xc-world-championships.html",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
     }
   ]
 }

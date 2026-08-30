@@ -2,8 +2,8 @@
   "topic": "Sport – Fotboll, Tennis & Bordtennis",
   "description": "Nyheter inom fotboll, tennis och bordtennis med svenskt fokus. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-23",
-  "item_count": 85,
+  "last_updated": "2026-08-30",
+  "item_count": 91,
   "items": [
     {
       "id": "allsvenskan-sommaruppehall-2026",
@@ -1008,6 +1008,78 @@
       "url": "https://en.wikipedia.org/wiki/2026_US_Open_(tennis)",
       "added_on": "2026-08-23",
       "collected_week": "2026-W34"
+    },
+    {
+      "id": "hammarby-tre-raka-vinster-sex-poang-sirius-2026",
+      "title": "Hammarby närmar sig Sirius efter tre raka vinster",
+      "category": "Fotboll",
+      "date": "2026-08-23",
+      "location": "Stockholm",
+      "summary": "Hammarby vann 2-0 mot GAIS med mål av Victor Lind och Paulos Abraham, sitt tredje raka segermatch (efter 3-0 mot Häcken och 4-0 mot Kalmar) med målskillnaden 9-0. Avståndet upp till serieledande Sirius krympte till sex poäng.",
+      "source": "SVT Sport",
+      "url": "https://www.svt.se/sport/fotboll/hammarby-vann-igen-har-sex-poang-upp-till-sirius",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "elfsborg-vann-degerfors-omgang-19-2026",
+      "title": "Elfsborg vann stabilt hemma mot Degerfors",
+      "category": "Resultat",
+      "date": "2026-08-29",
+      "location": "Borås",
+      "summary": "IF Elfsborg besegrade Degerfors med 2-0 på Borås Arena i omgång 19 av Allsvenskan, med mål av Leo Östman och Ari Sigurpálsson.",
+      "source": "IF Elfsborg",
+      "url": "https://elfsborg.se/2026/08/29/stabil-seger-hemma-mot-degerfors/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "vasteras-vinner-hacken-borta-2026",
+      "title": "Västerås SK vann överraskande borta mot Häcken",
+      "category": "Resultat",
+      "date": "2026-08-29",
+      "location": "Göteborg",
+      "summary": "Västerås SK slog BK Häcken med 3-1 på bortaplan i omgång 19 av Allsvenskan, ett resultat som satte ytterligare press på göteborgslaget efter deras nyliga toppmötesseger mot Sirius.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401874020/vasteras-sk-bk-hacken",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "eskilstuna-krossar-uppsala-damallsvenskan-2026",
+      "title": "Eskilstuna krossade Uppsala med fem mål på 34 minuter",
+      "category": "Resultat",
+      "date": "2026-08-28",
+      "location": "Uppsala",
+      "summary": "Eskilstuna United DFF vann bortamötet med IK Uppsala Fotboll i Damallsvenskan med hela 6-0, sedan laget satt fem av målen inom loppet av 34 minuter.",
+      "source": "SVT Sport",
+      "url": "https://www.svt.se/sport/fotboll/eskilstuna-krossade-uppsala-satte-fem-mal-pa-34-minuter",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "bjorklund-us-open-huvudturnering-forsta-gangen-2026",
+      "title": "Björklund kvalade in till US Open för första gången",
+      "category": "Tennis",
+      "date": "2026-08-28",
+      "location": "New York",
+      "summary": "Mirjam Björklund besegrade indiskan Ankita Raina i kvalfinalen och säkrade därmed en plats i US Open-huvudturneringen för första gången i karriären.",
+      "source": "Göteborgs-Posten",
+      "url": "https://www.gp.se/sport/bjorklunds-kvalsucce-klar-for-us-open.3f87e27e-5d0e-536a-a94a-9710aabcb5b0",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "europe-smash-malmo-lebrun-wang-manyu-mastare-2026",
+      "title": "Lebrun och Wang Manyu mästare när Europe Smash avgjordes i Malmö",
+      "category": "Resultat",
+      "date": "2026-08-16",
+      "location": "Malmö",
+      "summary": "Fransmannen Félix Lebrun, 19, slog Tomokazu Harimoto i herrfinalen och blev den förste fransmannen att vinna en Grand Smash-titel, medan Wang Manyu tog sin tredje Grand Smash-titel genom att besegra landsmannen Wang Yidi i damfinalen.",
+      "source": "Olympics.com",
+      "url": "https://www.olympics.com/en/news/felix-lebrun-wins-europe-smash-2026-title",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
     }
   ]
 }

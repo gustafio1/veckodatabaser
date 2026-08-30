@@ -2,8 +2,8 @@
   "topic": "Musik",
   "description": "Nya album, konserter, festivaler, svensk musik och musikbranschen. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-23",
-  "item_count": 40,
+  "last_updated": "2026-08-30",
+  "item_count": 48,
   "items": [
     {
       "id": "madonna-confessions-ii-slapp-2026",
@@ -484,6 +484,102 @@
       "url": "https://klofmag.com/2026/05/sara-parkman-aster-atlas/",
       "added_on": "2026-08-23",
       "collected_week": "2026-W34"
+    },
+    {
+      "id": "sverigetopplistan-dai-dai-sjatte-ettan-2026",
+      "title": "Dai Dai behåller förstaplatsen på Sverigetopplistan sjätte veckan i rad",
+      "category": "Nyhet",
+      "date": "2026-08-29",
+      "location": "",
+      "summary": "Shakira och Burna Boys VM-låt Dai Dai fortsätter toppa den svenska singellistan för sjätte veckan i följd, medan barnmusikduon Humlan Djojj och Josefine Götestam ligger kvar som etta på albumlistan.",
+      "source": "Musikindustrin",
+      "url": "https://www.musikindustrin.se/2026/08/29/sverigetopplistan-sjatte-ettan-for-dai-dai/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "melodifestivalen-2027-programledare-zia-kjellman",
+      "title": "Oscar Zia och Björn Kjellman blir programledare för Melodifestivalen 2027",
+      "category": "Nyhet",
+      "date": "2026-08-28",
+      "location": "",
+      "summary": "SVT har presenterat nästa års programledarpar för Melodifestivalen, där Oscar Zia gör sin tredje säsong i rollen medan skådespelaren och schlagerentusiasten Björn Kjellman debuterar som programledare. Tävlingen drar igång lördagen den 6 februari.",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/kultur/oscar-zia-och-bjorn-kjellman-programleder-mello",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "spotify-playlist-notes-apple-ai-markning-2026",
+      "title": "Spotify lanserar Playlist Notes samtidigt som Apple Music skärper AI-märkning",
+      "category": "Bransch",
+      "date": "2026-08-25",
+      "location": "",
+      "summary": "Under veckan rullade Spotify ut funktionen Playlist Notes, som låter både redaktörer och lyssnare kommentera och förklara låtval i spellistor, samtidigt som Apple Music infört obligatorisk märkning av AI-genererat innehåll och kinesiska Alibaba lanserat den licensierade AI-musikplattformen HappyShrimp.",
+      "source": "Musikindustrin",
+      "url": "https://www.musikindustrin.se/2026/08/25/notiser-vecka-35-2026/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "pke-ny-lag-privatkopieringsersattning-2026",
+      "title": "Ny lag om privatkopieringsersättning börjar gälla den 1 september",
+      "category": "Bransch",
+      "date": "2026-08-25",
+      "location": "",
+      "summary": "Den moderniserade lagen om privatkopieringsersättning träder i kraft vid månadsskiftet och ger bland annat radio- och tv-bolag samma rätt till ersättning som andra rättighetshavare, vilket väntas påverka intäkterna för svenska musikskapare.",
+      "source": "Copyswede",
+      "url": "https://www.copyswede.se/om/nyheter/ny-lag-om-privatkopieringsersattning-ett-viktigt-steg-mot-ett-modernt-och-rattvist-system/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "live-at-heart-musikorat-paul-adamah-2026",
+      "title": "Paul Adamah från Boko Yout tilldelas Musikörat inför Live at Heart",
+      "category": "Pris",
+      "date": "2026-08-26",
+      "location": "Örebro",
+      "summary": "Inför den sjuttonde upplagan av showcasefestivalen och branschkonferensen Live at Heart i Örebro, som hålls 2–5 september, tillkännagavs att Boko Youts genreöverskridande frontperson Paul Adamah får årets Musiköra för sitt nyskapande konstnärskap.",
+      "source": "Live at Heart",
+      "url": "https://liveatheart.se/musikorat-2026/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "emmylou-harris-farval-avicii-arena-2026",
+      "title": "Emmylou Harris tog farväl av Sverige på Avicii Arena",
+      "category": "Konsert",
+      "date": "2026-08-26",
+      "location": "Stockholm",
+      "summary": "Countrylegenden Emmylou Harris gjorde sin sista Sverigespelning någonsin på Avicii Arena i Stockholm, som en del av den avskedsturné hon meddelade i slutet av 2025 efter en karriär som sträcker sig över ett halvsekel.",
+      "source": "Avicii Arena",
+      "url": "https://aviciiarena.se/en/events/music-show/emmylou-harris/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "orup-grona-lund-sommarturne-2026",
+      "title": "Orup gjorde sin första sommarturné på 14 år på Gröna Lund",
+      "category": "Konsert",
+      "date": "2026-08-27",
+      "location": "Stockholm",
+      "summary": "Popkramaren Orup spelade på Gröna Lunds Stora Scen med ett niomannaband, hans första sommarturné sedan 2012, med publiken samlad kring allsångsklassiker från en lång karriär.",
+      "source": "Gröna Lund",
+      "url": "https://www.gronalund.com/concerts/orup",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "tuva-bergenheim-skargardsjazz-skivdebut-2026",
+      "title": "Tuva Bergenheim gör hyllad skivdebut med Skärgårdsjazz",
+      "category": "Skiva",
+      "date": "2026-08-29",
+      "location": "",
+      "summary": "24-åriga trummisen och låtskrivaren Tuva Bergenheim, känd från Bohuslän Big Band, släpper sitt debutalbum Skärgårdsjazz där svensk jazz möter visa, folkmusik och pop i en personlig hyllning till den svenska skärgårdssommaren. Skivan har fått lovord av bland andra tidskriften 7an.",
+      "source": "7an",
+      "url": "https://7an.se/artikel/2026-08-29/veckans-platta",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
     }
   ]
 }

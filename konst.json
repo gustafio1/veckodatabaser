@@ -2,8 +2,8 @@
   "topic": "Konst & design",
   "description": "Konstutställningar, design, arkitektur, auktioner och konstvärlden. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-23",
-  "item_count": 40,
+  "last_updated": "2026-08-30",
+  "item_count": 47,
   "items": [
     {
       "id": "moderna-museet-nisabas-hus-maleri-2026",
@@ -484,6 +484,90 @@
       "url": "https://arkitekten.se/nyheter/veckan-i-korthet-arkitekter-pa-valsedlarna-och-boda-force/",
       "added_on": "2026-08-23",
       "collected_week": "2026-W34"
+    },
+    {
+      "id": "arkad-furniture-festival-2026",
+      "title": "Ny möbelfestival Arkad samlade designbranschen i Slakthusområdet",
+      "category": "Design",
+      "date": "2026-08-27",
+      "location": "Stockholm",
+      "summary": "Den nystartade möbelfestivalen Arkad, initierad av arkitektkontor i Stockholm, öppnade den 27 augusti i Förbindelsehallen i Slakthusområdet med möbelproducenter, formgivare och inredningsarkitekter samlade under ett tak. Festivalen är tänkt som ett återkommande sensommarevenemang och ett mer informellt komplement till de stora branschmässorna.",
+      "source": "Arkitekten.se",
+      "url": "https://arkitekten.se/intervju/de-lanserar-en-mobelfestival-i-stockholm/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "sparks-arkitekturresidens-paul-chung-2026",
+      "title": "Hongkongarkitekt inleder Sparks nya residens i Bromölla",
+      "category": "Arkitektur",
+      "date": "2026-08-26",
+      "location": "Bromölla, Skåne",
+      "summary": "Arkitekten Paul Chung har tilldelats plattformen Sparks nystartade arkitekturresidens och inledde den 26 augusti fyra veckors materialdrivna experiment på Ifö Center under temat \"Vad händer om naturen kommer först?\". Residenset, som undersöker industriarvets roll i ekologisk återställning, är också ett svenskt satellitbidrag till höstens arkitekturtriennal i Oslo.",
+      "source": "Arkitekten.se",
+      "url": "https://arkitekten.se/nyheter/nytt-residens-till-tvarvetenskaplig-arkitekt/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "dezeen-fem-hus-augusti-2026",
+      "title": "Dezeen listar augustis fem mest uppmärksammade bostadshus",
+      "category": "Arkitektur",
+      "date": "2026-08-30",
+      "location": "",
+      "summary": "Dezeen sammanfattar de fem hus som väckt störst intresse under augusti 2026, däribland ett stenhus inbäddat i det grekiska landskapet och en amerikansk villa i Idaho med tak som kan skjutas undan för utsikt mot berg och stjärnhimmel. Listan speglar en fortsatt trend mot bostäder som suddar ut gränsen mellan inne och ute.",
+      "source": "Dezeen",
+      "url": "https://www.dezeen.com/2026/08/30/top-houses-august-2026/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "iittala-unda-sabine-marcelis-2026",
+      "title": "Sabine Marcelis debuterar hos Iittala med vågformad glasserie",
+      "category": "Design",
+      "date": "2026-08-28",
+      "location": "",
+      "summary": "Den nederländska designern Sabine Marcelis presenterar Unda, sitt första samarbete med finska Iittala, en serie munblåsta lampor och vaser som fångar hur solljus bryts i vatten. Tillsammans med glasblåsarna i Iittalas fabrik har hon utvecklat en ny teknik för att prägla ett vågmönster direkt i glaset.",
+      "source": "Dezeen",
+      "url": "https://www.dezeen.com/2026/08/28/sabine-marcelis-iittala-glassware-unda/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "helsinki-design-week-2026-oncoming-other",
+      "title": "Helsinki Design Week öppnar med temat mötet med det oväntade",
+      "category": "Design",
+      "date": "2026-08-28",
+      "location": "Helsingfors",
+      "summary": "Nordens största design- och arkitekturfestival Helsinki Design Week drog igång den 28 augusti under devisen \"The Oncoming Other\", med över 250 programpunkter spridda över flera mötesplatser i centrala Helsingfors istället för en enda festivalhubb. Satsningen är kopplad till ett tvåårigt samarbete med staden för att liva upp city-kärnan.",
+      "source": "Helsinki Design Week",
+      "url": "https://helsinkidesignweek.com/2026/03/04/the-theme-of-helsinki-design-week-2026-is-the-oncoming-other/?lang=en",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "roda-sten-ofog-magnet-avslutas-2026",
+      "title": "Sommarutställningarna Ofog och Magnet avslutades på Röda Sten",
+      "category": "Utställning",
+      "date": "2026-08-23",
+      "location": "Göteborg",
+      "summary": "Röda Sten Konsthalls sommarutställningar, med Elisa Florimonds museikritiska installation Magnet och aghili/karlssons performancedokumentation Ofog, stängde den 23 augusti efter knappt en månad. Utställningarna, varav Magnet togs fram tillsammans med Frac Bretagne i Frankrike, fick god kritik i lokalpressen under sommaren.",
+      "source": "Göteborgs-Posten",
+      "url": "https://www.gp.se/kultur/konst/recension-ofog-edith-hammar-aghilikarlsson-magnet-av-elisa-florimond-pa-roda-sten-konsthall-.4ca83c48-3947-4a45-ace7-9ea5f1847945",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "plakatpolitik-3e-vaningen-goteborg-2026",
+      "title": "Plakatpolitik visade svensk vänsterhistoria genom affischkonst",
+      "category": "Utställning",
+      "date": "2026-08-30",
+      "location": "Göteborg",
+      "summary": "Utställningen Plakatpolitik på galleriet 3:e Våningen i gamla sockerbruket visade ett urval ur Staffan Lindés stora samling politiska affischer, från spanska inbördeskriget och 68-rörelsen till kärnkraftsmotstånd och solidaritetsrörelser. Utställningen, som pågick från 15 till 30 augusti, byggde på ett av landets största privata arkiv över vänsterrörelsens visuella historia.",
+      "source": "3:e Våningen",
+      "url": "https://3vaningen.se/home/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
     }
   ]
 }

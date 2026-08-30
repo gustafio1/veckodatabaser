@@ -2,8 +2,8 @@
   "topic": "Film & TV",
   "description": "Biopremiärer, streaming, TV-serier, svensk film och filmfestivaler. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-23",
-  "item_count": 39,
+  "last_updated": "2026-08-30",
+  "item_count": 46,
   "items": [
     {
       "id": "sju-biopremiarer-juli-2026",
@@ -472,6 +472,90 @@
       "url": "https://www.gp.se/kultur/nytt-pa-tv-vecka-34.78b2df2d-b0ac-4a58-808d-821d62f4ff50",
       "added_on": "2026-08-23",
       "collected_week": "2026-W34"
+    },
+    {
+      "id": "gaseback-filmfestival-helsingborg-2026",
+      "title": "Gåsebäck Filmfestival lyste upp Helsingborg med kortfilm och internationella gäster",
+      "category": "Festival",
+      "date": "2026-08-28",
+      "location": "Helsingborg",
+      "summary": "Filmfestivalen i stadsdelen Gåsebäck bjöd 28–30 augusti på 15 långfilmer och kortfilmer från bland annat Sverige, Mexiko, Palestina och Ukraina, med visningar på Röda Kvarn och Gåsebäck konstscen. Bland gästerna fanns Oscarsnominerade producenten Mike Lerner och regissören Malin von Euler-Hogan.",
+      "source": "Film i Skåne",
+      "url": "https://filmiskane.se/sv/artiklar/gaseback-filmfestival-gar-av-stapeln-den-28-30-augusti",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "monster-lizzie-borden-netflix-trailer-2026",
+      "title": "Ny säsong av \"Monster\" skildrar yxmordet Lizzie Borden",
+      "category": "Nyhet",
+      "date": "2026-08-23",
+      "location": "",
+      "summary": "Fjärde säsongen av Ryan Murphys antologiserie \"Monster\" tar sig an det beryktade yxmordsfallet från 1892, med Ella Beatty i rollen som Lizzie Borden och Sarah Paulson i rollistan. Serien har premiär på Netflix den 17 september, men trailern har redan väckt stor uppmärksamhet i svensk press.",
+      "source": "Filmparadiset",
+      "url": "https://filmparadiset.se/2026/08/23/yxmord-makt-och-hamnd-monster-ar-tillbaka-pa-netflix-med-lizzie-borden/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "netflix-september-2026-nyheter",
+      "title": "Netflix satsar på true crime i september med \"Unabomber\" och nya \"Monster\"",
+      "category": "Streaming",
+      "date": "2026-08-26",
+      "location": "",
+      "summary": "Netflix utökar sitt septemberutbud med runt 30 nya titlar, däribland den biografiska thrillern \"Unabomber\" om Ted Kaczynski och andra säsongen av \"The Gentlemen\" med Theo James. Även \"Stranger Things: Chronicles of 1985\" får en efterlängtad andra säsong.",
+      "source": "MovieZine",
+      "url": "https://www.moviezine.se/nyheter/nya-filmer-och-serier-pa-netflix-i-september-2026",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "viaplay-september-2026-nyheter",
+      "title": "Viaplay laddar för hösten med runt 80 nya titlar i september",
+      "category": "Streaming",
+      "date": "2026-08-27",
+      "location": "",
+      "summary": "Viaplay fyller på med drygt 80 filmer och serier inför september, bland annat andra säsongen av \"Outlander: Blood of My Blood\", en ny säsong av \"South Park\" samt hela Christopher Nolans Batman-trilogi. Även klassikerserierna \"Westworld\" och \"Lost\" görs tillgängliga i sin helhet.",
+      "source": "Filmparadiset",
+      "url": "https://filmparadiset.se/2026/08/27/nytt-pa-viaplay-i-september-2026/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "hbo-max-september-2026-nyheter",
+      "title": "HBO Max satsar på ny actionfilm och Matrix-marathon i september",
+      "category": "Streaming",
+      "date": "2026-08-27",
+      "location": "",
+      "summary": "Bland september-nyheterna på HBO Max märks actionthrillern \"Fuze\" med Aaron Taylor-Johnson, skräckfilmen \"Backrooms\" och samtliga fyra \"Matrix\"-filmer. Tjänsten lanserar även dramaserien \"Youth\" med Sharon Horgan och dokumentärserien \"A Killer Story\".",
+      "source": "Filmparadiset",
+      "url": "https://filmparadiset.se/2026/08/27/nyheter-pa-hbo-max-i-september-2026/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "doktor-glas-hbo-max-streaming-2026",
+      "title": "Omtalade thrillern \"Doktor Glas\" finns nu att streama hemma",
+      "category": "Premiär",
+      "date": "2026-08-28",
+      "location": "",
+      "summary": "Årets uppmärksammade nytolkning av Hjalmar Söderbergs klassiker, med Isac Calmroth och Thea Sofie Loch Næss i huvudrollerna, blev tillgänglig för streaming på HBO Max efter biopremiären i februari. Filmen räknas som en av 2026 års största svenska produktioner.",
+      "source": "Filmtopp",
+      "url": "https://www.filmtopp.se/nyhet/hbo-en-av-2026-ars-storsta-svenska-filmer-streamar-nu-magnetisk-spanning",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "svt-play-16-nya-filmer-helgen-2026",
+      "title": "SVT Play fyllde på med 16 nya filmer inför helgen",
+      "category": "Streaming",
+      "date": "2026-08-28",
+      "location": "",
+      "summary": "SVT Play lade till 16 filmer i sitt sommarutbud, bland annat katastrofdramat \"The Impossible\" med Naomi Watts och Tom Holland. Tillskotten är en del av tjänstens fortsatta satsning med hundratals kostnadsfria filmpremiärer under säsongen.",
+      "source": "MovieZine",
+      "url": "https://www.moviezine.se/nyheter/svt-play-nya-filmer-the-impossible-16-nya",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
     }
   ]
 }

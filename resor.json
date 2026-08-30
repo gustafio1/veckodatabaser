@@ -2,8 +2,8 @@
   "topic": "Resor",
   "description": "Forskning om resmål, hållbart resande, flyg och tågresor. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-23",
-  "item_count": 43,
+  "last_updated": "2026-08-30",
+  "item_count": 51,
   "items": [
     {
       "id": "hamndresor-till-udda-resmal-2026",
@@ -520,6 +520,102 @@
       "url": "https://www.flygtorget.se/nyheter/ny-flaskhals-for-saf-flygplatsernas-bransleinfrastruktur",
       "added_on": "2026-08-23",
       "collected_week": "2026-W34"
+    },
+    {
+      "id": "european-sleeper-malmo-bryssel-nattag-2028",
+      "title": "Nytt nattåg ska knyta ihop Malmö med Bryssel och Amsterdam",
+      "category": "Tåg",
+      "date": "2026-08-25",
+      "location": "Malmö / Köpenhamn / Bryssel",
+      "summary": "Nederländska European Sleeper planerar tillsammans med tyska RDC en ny nattågslinje mellan Bryssel/Amsterdam och Köpenhamn/Malmö med start våren 2028, med tre avgångar i veckan och biljettpriser runt 60–80 euro.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/travel/2026/08/25/new-european-sleeper-train-to-launch-from-brussels-and-amsterdam-to-copenhagen-and-malmo-i",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "sas-kabinstrejk-norge-2026",
+      "title": "SAS drabbat av kabinstrejk i Norge efter nej-röst till avtal",
+      "category": "Flyg",
+      "date": "2026-08-08",
+      "location": "Norge",
+      "summary": "Sedan kabinanställda röstat ner ett framförhandlat kollektivavtal utlyste facket Fellesforbundet strejk för omkring 470 SAS-anställda från och med den 8 augusti, vilket lett till inställda avgångar från flera norska flygplatser.",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/utrikes/flygstrejk-hos-sas",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "barcelona-el-prat-markpersonal-strejk-2026",
+      "title": "Utdragen markpersonalstrejk fortsätter plåga Barcelonas flygplats",
+      "category": "Flyg",
+      "date": "2026-08-24",
+      "location": "Barcelona, Spanien",
+      "summary": "Den tillsvidarestrejk som markhanteringsbolaget Groundforce personal inledde den 4 augusti har lett till över 150 inställda flyg och riskerar att drabba nära två miljoner passagerare ända in i september.",
+      "source": "AirHelp",
+      "url": "https://www.airhelp.com/en/flight-disruptions/barcelona-airport-groundforce-strike-150-flight-cancellations-24082026/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "easyjet-apollo-uppkop-2026",
+      "title": "Easyjet köps upp av amerikanska riskkapitalbolaget Apollo",
+      "category": "Flyg",
+      "date": "2026-08-06",
+      "location": "Storbritannien",
+      "summary": "Lågprisbolaget Easyjet accepterade i början av augusti ett bud på 5,7 miljarder pund från Apollo Global Management sedan konkurrenten Castlelake dragit sig ur budgivningen, en affär som väntas slutföras under första kvartalet 2027.",
+      "source": "Airways Magazine",
+      "url": "https://www.airwaysmag.com/new-post/easyjet-agrees-apollo-takeover",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "ryanair-262-piloter-stamning-2026",
+      "title": "262 tidigare Ryanair-piloter stämmer bolaget för uteblivna förmåner",
+      "category": "Flyg",
+      "date": "2026-07-30",
+      "location": "Storbritannien",
+      "summary": "En grupp på 262 tidigare inhyrda Ryanair-piloter har väckt grupptalan i London och kräver efterhandsutbetald semesterersättning och pensionsavsättningar, med hänvisning till att de i praktiken borde ha klassats som anställda snarare än egenföretagare.",
+      "source": "ch-aviation",
+      "url": "https://www.ch-aviation.com/news/170444-ryanair-faces-uk-lawsuit-from-262-former-contract-pilots",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "kroatien-skarpta-regler-korttidsuthyrning-2026",
+      "title": "Kroatien skärper reglerna för uthyrning till turister",
+      "category": "Turism",
+      "date": "2026-06-01",
+      "location": "Kroatien",
+      "summary": "Kroatiska myndigheter inför obligatoriska registreringsnummer för varje uthyrningsobjekt och kräver grannars samtycke i flerfamiljshus, som en del av ett bredare grepp mot illegal korttidsuthyrning och för att dämpa boprisinflationen på kusten.",
+      "source": "Croatia Week",
+      "url": "https://www.croatiaweek.com/croatia-new-rules-private-landlords-2026/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "booking-hallbarhetsrapport-generationsklyfta-2026",
+      "title": "Booking.com: äldre resenärer bäst på att omsätta hållbarhet i handling",
+      "category": "Forskning",
+      "date": "2026-04-20",
+      "location": "",
+      "summary": "Booking.coms elfte årliga hållbarhetsrapport, baserad på svar från 32 500 resenärer i 35 länder, visar att 85 procent tycker hållbart resande är viktigt, men att det är äldre generationer snarare än yngre som faktiskt agerar därefter genom konkreta beteendeförändringar.",
+      "source": "Booking.com Newsroom",
+      "url": "https://news.booking.com/bookingcoms-latest-travel-and-sustainability-research-reveals-unexpected-generational-paradox/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "flygskam-vande-bharat-studie-2026",
+      "title": "Ny studie kopplar flygskam till val av indiska höghastighetståg",
+      "category": "Forskning",
+      "date": "2026-07-22",
+      "location": "Indien",
+      "summary": "En studie publicerad i Frontiers in Sustainable Tourism visar att känslomässig anknytning till naturen, mer än ren miljömedvetenhet, avgör om resenärer med flygskam faktiskt väljer Indiens eltåg Vande Bharat framför flyget.",
+      "source": "Frontiers in Sustainable Tourism",
+      "url": "https://www.frontiersin.org/journals/sustainable-tourism/articles/10.3389/frsut.2026.1856388/full",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
     }
   ]
 }

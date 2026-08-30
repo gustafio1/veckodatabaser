@@ -2,8 +2,8 @@
   "topic": "Historia",
   "description": "Historisk forskning, arkeologiska fynd, svensk historia, böcker och jubileer. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-23",
-  "item_count": 44,
+  "last_updated": "2026-08-30",
+  "item_count": 52,
   "items": [
     {
       "id": "herlaugshaugen-skeppsgrav-2026",
@@ -532,6 +532,102 @@
       "url": "https://www.batliv.se/2026/03/17/forsvunnen-mastkran-hittad-pa-kastellholmen/",
       "added_on": "2026-08-23",
       "collected_week": "2026-W34"
+    },
+    {
+      "id": "karahantepe-leopardstatyett-2026",
+      "title": "Unik 11 000 år gammal staty av människa på leopard funnen vid Karahantepe",
+      "category": "Fynd",
+      "date": "2026-08-25",
+      "location": "Karahantepe, Turkiet",
+      "summary": "Vid utgrävningar i sydöstra Turkiet har en 70 centimeter hög komposit­staty från stenåldern hittats på exakt den plats där den en gång placerades, föreställande en människofigur som sitter på ryggen av en morrande leopard. Fyndet gör att forskarna nu funderar över hur Karahantepes invånare för elva årtusenden sedan såg på gränsen mellan människa och vilda djur.",
+      "source": "Arkeonews / Turkiets kultur- och turismministerium",
+      "url": "https://arkeonews.net/a-unique-11000-year-old-statue-of-a-human-sitting-on-a-leopard-unearthed-at-karahantepe/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "chleby-solhelgedom-tjeckien-2026",
+      "title": "6 500 år gammal solhelgedom i Tjeckien äldre än Stonehenge",
+      "category": "Fynd",
+      "date": "2026-08-28",
+      "location": "Chleby, Tjeckien",
+      "summary": "En cirkelformad anläggning med tolv ingångar och en 230 meter vid vallgrav har grävts fram nära byn Chleby och visar sig ha varit riktad mot sol- och månvändningar, ungefär tusen år innan Stonehenge byggdes. I diket har både tjurskallar och kvarlevor efter minst arton personer hittats, vilket tyder på att platsen använts för ritualer under mycket lång tid.",
+      "source": "Archaeology News Online Magazine",
+      "url": "https://archaeologymag.com/2026/08/czech-sanctuary-linked-to-the-sun-and-moon/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "kolomna-myntskatt-2026",
+      "title": "Skatt med över 2 600 medeltida silvermynt grävdes fram i Kolomna",
+      "category": "Fynd",
+      "date": "2026-08-27",
+      "location": "Kolomna, Ryssland",
+      "summary": "En lerkruka fylld med mer än 2 600 silvermynt, nedgrävd i en grop utanför Kolomnas medeltida kremlmurar, har hittats av ryska arkeologer och räknas som ett av de största medeltida myntfynden i regionen. Många av mynten präglades i staden under 1420-talet och över 350 tidigare okända varianter har identifierats, vilket ger unik inblick i penningcirkulationen under 1400-talets Ryssland.",
+      "source": "HeritageDaily",
+      "url": "https://www.heritagedaily.com/2026/08/record-hoard-of-more-than-2600-medieval-silver-coins-found-in-russia/159069",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "catalhoyuk-spadbarnsgravar-2026",
+      "title": "Åtta spädbarn grävdes fram vid Çatalhöyüks \"dödens hus\"",
+      "category": "Forskning",
+      "date": "2026-08-28",
+      "location": "Çatalhöyük, Turkiet",
+      "summary": "Vid det neolitiska bosättningsområdet Çatalhöyük i centrala Turkiet har arkeologer hittat kvarlevor efter åtta spädbarn, samtliga yngre än ett halvår, begravda intill en byggnad känd som \"dödens hus\". Fyndet ger nya ledtrådar om begravningsseder och samhällsorganisation under bosättningens sista sekler.",
+      "source": "Arkeonews",
+      "url": "https://arkeonews.net/category/news/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "etruskisk-hamn-rom-2026",
+      "title": "Nedsänkt etruskisk hamn kopplad till tempel funnen utanför Rom",
+      "category": "Fynd",
+      "date": "2026-08-29",
+      "location": "Santa Marinella, Italien",
+      "summary": "Marinarkeologer från Sapienza-universitetet har dokumenterat en cirka 2 300 år gammal etruskisk hamnanläggning på mindre än två meters djup, bara 130 meter från helgedomen vid Punta della Vipera. Den L-formade konstruktionen med en skyddad bassäng räknas som den äldsta kända kajanläggningen kopplad till ett etruskiskt tempel.",
+      "source": "La Brújula Verde",
+      "url": "https://www.labrujulaverde.com/en/2026/08/submerged-etruscan-port-from-the-4th-century-bc-the-oldest-linked-to-a-temple-discovered-two-meters-deep-off-the-coast-of-rome/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "halberstadt-overgiven-by-2026",
+      "title": "Övergiven medeltida by grävs ut utanför Halberstadt i Tyskland",
+      "category": "Fynd",
+      "date": "2026-08-24",
+      "location": "Halberstadt, Tyskland",
+      "summary": "Utgrävningar vid Frevelgraben öster om Halberstadt har bekräftat lämningarna av en medeltida ödeby med tydlig tomtstruktur, nedgrävda husgrunder och brunnar, övergiven någon gång mellan år 1250 och 1500. Det ovanliga är att invånarna verkar ha tagit i princip allt lösöre med sig, vilket lämnat forskarna med få föremål men en ovanligt välbevarad bybild.",
+      "source": "Archaeology News Online Magazine",
+      "url": "https://archaeologymag.com/2026/08/mysterious-medieval-settlement-abandoned-near-halberstadt/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "tepecikciftlik-pilspetsar-2026",
+      "title": "Gåtfulla mönster på 9 000 år gamla obsidianpilspetsar i Anatolien",
+      "category": "Forskning",
+      "date": "2026-08-25",
+      "location": "Tepecik-Çiftlik, Turkiet",
+      "summary": "En ny studie av elva nyligen identifierade obsidianpilspetsar från den neolitiska byn Tepecik-Çiftlik i Kappadokien, som tillsammans med tidigare fynd nu uppgår till 54 stycken, visar inristade geometriska mönster vars syfte fortfarande är okänt. Forskarna diskuterar om markeringarna kan ha varit symboliska, ägarmärken eller haft en funktionell betydelse.",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-08-archaeologists-uncover-rare-arrowheads-tepecik.html",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "gravkyrkan-tradgard-jerusalem-2026",
+      "title": "Spår av forntida trädgård och gravar under Gravkyrkan i Jerusalem",
+      "category": "Forskning",
+      "date": "2026-08-27",
+      "location": "Jerusalem",
+      "summary": "En flerårig utgrävning under Gravkyrkans golv, ledd av arkeologen Francesca Romana Stasolla vid Sapienza-universitetet, har blottlagt ett övergivet stenbrott som senare odlades och användes för klippgravar från tiden kring vår tideräknings början. Fynden av odlingsbäddar med oliv- och vinrankor har väckt uppmärksamhet eftersom de påminner om Johannesevangeliets beskrivning av en trädgård nära korsfästelseplatsen.",
+      "source": "The Times of Israel",
+      "url": "https://www.timesofisrael.com/echoing-gospel-account-traces-of-ancient-garden-found-under-church-of-holy-sepulchre/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
     }
   ]
 }

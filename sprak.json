@@ -2,8 +2,8 @@
   "topic": "Språk",
   "description": "Forskning om språkinlärning, svenskan, språkteknik och flerspråkighet. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-23",
-  "item_count": 43,
+  "last_updated": "2026-08-30",
+  "item_count": 50,
   "items": [
     {
       "id": "onskvarda-svarigheter-glosinlarning-2026",
@@ -520,6 +520,90 @@
       "url": "https://kids.uconn.edu/2026/02/02/the-critical-period-for-language-acquisition-goes-beyond-spoken-language/",
       "added_on": "2026-08-23",
       "collected_week": "2026-W34"
+    },
+    {
+      "id": "ai-ersatter-inte-sprakinlarning-2026",
+      "title": "AI kan ännu inte ersätta traditionell språkinlärning, visar ny studie",
+      "category": "Forskning",
+      "date": "2026-08-25",
+      "location": "",
+      "summary": "En genomgång från University of British Columbias handelshögskola visar att korpusbaserad undervisning kombinerad med AI-stöd fortfarande ger säkrast resultat för den som vill lära sig ett nytt språk. Forskaren Déogratias Nizonkiza menar att AI-verktyg ännu saknar den precision som krävs för att helt ersätta traditionella, textbaserade inlärningsmetoder.",
+      "source": "Phys.org / University of British Columbia",
+      "url": "https://phys.org/news/2026-08-ai-traditional-language.html",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "utredning-sprakscreening-smabarn-2026",
+      "title": "Utredning om obligatorisk språkscreening av småbarn redovisas",
+      "category": "Nyhet",
+      "date": "2026-08-24",
+      "location": "",
+      "summary": "En särskild utredare har haft i uppdrag att föreslå ett system för obligatorisk screening av små barns kunskaper i svenska inom barnhälsovården, med redovisning senast den 24 augusti 2026. Bakgrunden är stora regionala skillnader i barns språkutveckling, där exempelvis endast omkring 64 procent av barnen i vissa utsatta områden når en tillfredsställande nivå jämfört med drygt 85 procent i riket som helhet.",
+      "source": "Regeringen.se",
+      "url": "https://www.regeringen.se/pressmeddelanden/2026/02/regeringen-utreder-obligatorisk-sprakscreening-for-sma-barn/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "muntlig-sprakstimulering-forskolebarn-2026",
+      "title": "Strukturerad muntlig stimulering gav mätbara språkframsteg hos förskolebarn",
+      "category": "Forskning",
+      "date": "2026-08-24",
+      "location": "",
+      "summary": "En studie med 341 barn i åldrarna tre till fem år vid elva förskolor visar att strukturerade muntliga språkövningar gav en statistiskt säkerställd förbättring av barnens språkfärdigheter mellan för- och eftermätning. Resultaten, publicerade i Frontiers in Education, stärker bilden av att tidiga, systematiska insatser gör skillnad för barns språkutveckling.",
+      "source": "Frontiers in Education",
+      "url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1824071/full",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "korpusstudie-kinesiska-rakneord-barnbocker-2026",
+      "title": "Korpusstudie kartlägger hur barn möter kinesiska räkneord i sin språkmiljö",
+      "category": "Forskning",
+      "date": "2026-04-06",
+      "location": "",
+      "summary": "Forskare vid Oxford och Reading har jämfört hur ofta och på vilket sätt obligatoriska kinesiska räkneordspartiklar förekommer i barnböcker, barnprogram, barnriktat tal och vuxenriktat tal. Studien, publicerad i Journal of Child Language, visar att barns språkliga omgivning skiljer sig tydligt åt mellan dessa källor och att det påverkar hur konstruktionen lärs in.",
+      "source": "Journal of Child Language (Cambridge University Press)",
+      "url": "https://www.cambridge.org/core/journals/journal-of-child-language/article/learning-from-the-input-a-corpusbased-investigation-of-chinese-classifiers-in-childrens-books-and-childdirected-speech/69E34E685A7FB6CA474DF2A7475DACB6",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "gymnasiereform-svenska-andrasprak-2026",
+      "title": "Ny regel hindrar gymnasieelever från att läsa svenska och svenska som andraspråk samtidigt",
+      "category": "Utbildning",
+      "date": "2026-01-01",
+      "location": "Sverige",
+      "summary": "Sedan den 1 januari 2026 kan gymnasieelever på nationella program inte längre läsa både svenska och svenska som andraspråk parallellt, med undantag för vissa yrkesprogramelever. Förändringen, som Skolverket nu tillämpar inför det nya läsåret, tar bort möjligheten att läsa svenska som individuellt val för den som redan läser svenska som andraspråk.",
+      "source": "Skolverket",
+      "url": "https://www.skolverket.se/styrning-och-ansvar/regler-och-ansvar/ansvar-i-skolfragor/undervisning-i-svenska-som-andrasprak",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "ifau-nyanlanda-flersprakiga-elever-2026",
+      "title": "IFAU: Riktade insatser gav varaktigt bättre resultat för flerspråkiga elever",
+      "category": "Forskning",
+      "date": "2026-01-30",
+      "location": "Sverige",
+      "summary": "En IFAU-rapport som följt elever i upp till sju år visar att riktade statliga satsningar på mottagande och undervisning av nyanlända och flerspråkiga elever gett bestående förbättringar av resultaten i svenska och matematik på nationella prov. Effekterna syns i årskurs tre, sex och nio och tyder på att tidiga, resurssatta insatser lönar sig långsiktigt.",
+      "source": "IFAU",
+      "url": "https://www.ifau.se/globalassets/pdf/se/2026/2026-1-battre-skola-for-nyanlanda-och-flersprakiga-elever.pdf",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "vitterhetsakademien-natur-kultur-sprakforskning-2026",
+      "title": "Vitterhetsakademien och Natur & Kultur satsar 18 miljoner på svensk språkforskning",
+      "category": "Nyhet",
+      "date": "2026-01-21",
+      "location": "Sverige",
+      "summary": "Kungl. Vitterhetsakademien och bokförlaget Natur & Kultur har inrättat nya akademiforskartjänster värda totalt 18 miljoner kronor för att stärka den svenska språkforskningen. Fem forskare har fått medel för långsiktiga projekt inom språk och angränsande humanistiska fält.",
+      "source": "Kungl. Vitterhetsakademien",
+      "url": "https://www.vitterhetsakademien.se/nyheter/nyheter/2026-01-23-vitterhetsakademien-och-natur--kultur-finansierar-sprakforskning.html",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
     }
   ]
 }

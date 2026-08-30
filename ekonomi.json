@@ -2,8 +2,8 @@
   "topic": "Ekonomi & börs",
   "description": "Forskning om börs, makroekonomi, räntor och hushållens ekonomi. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-23",
-  "item_count": 45,
+  "last_updated": "2026-08-30",
+  "item_count": 53,
   "items": [
     {
       "id": "skuldkvot-mot-aktievardering-debt-equity-spread-2026",
@@ -544,6 +544,102 @@
       "url": "https://www.placera.se/nyheter/sbab-riksbanken-hojer-tva-ganger-i-ar-2026-08-18",
       "added_on": "2026-08-23",
       "collected_week": "2026-W34"
+    },
+    {
+      "id": "riksbanken-protokoll-augusti-2026",
+      "title": "Riksbankens protokoll avslöjar delade meningar om räntebeslutet",
+      "category": "Räntor",
+      "date": "2026-08-25",
+      "location": "",
+      "summary": "Protokollet från direktionens möte den 19 augusti visar att ledamöterna resonerade olika kring risken för att den underliggande inflationen blir för hög, trots enigheten om att lämna styrräntan oförändrad på 1,75 procent. Diskussionen belyser hur sommarens starkare tillväxt och inflation pressat Riksbankens fortsatta vägval.",
+      "source": "Sveriges Riksbank / TT",
+      "url": "https://via.tt.se/announcement/4512292?publisherId=3236667&lang=sv",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "nordea-riksbanken-rantehojning-2027",
+      "title": "Nordea: Riksbanken väntas höja räntan två gånger till 2027",
+      "category": "Räntor",
+      "date": "2026-08-25",
+      "location": "",
+      "summary": "I sin senaste konjunkturuppdatering bedömer Nordea att stark tillväxt, förbättrat hushållsförtroende och stigande sysselsättning ökar risken för att Riksbanken höjer styrräntan redan i år. Bankens huvudscenario är dock att Riksbanken avvaktar och i stället höjer räntan två gånger under 2027, till 2,25 procent.",
+      "source": "Nordea / Placera.se",
+      "url": "https://www.placera.se/nyheter/nordea-riksbanken-hojer-rantan-nasta-ar--2026-08-25",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "ecb-rantehojning-september-2026",
+      "title": "ECB uppges redo att höja räntan i september",
+      "category": "Räntor",
+      "date": "2026-08-26",
+      "location": "",
+      "summary": "Enligt uppgifter förbereder sig Europeiska centralbankens beslutsfattare för att höja styrräntan från 2,25 till 2,50 procent vid septembermötet, som svar på hur upptrappningen i Mellanöstern drivit upp oljepriset och inflationsutsikterna. ECB-chefen Christine Lagarde har sagt att inflationen väntas ligga över målet ända in i första halvåret 2027.",
+      "source": "Reuters / Placera.se",
+      "url": "https://www.placera.se/nyheter/uppgifter-ecb-redo-for-rantehojning-i-september-2026-08-26",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "usa-pce-inflation-juli-2026",
+      "title": "Amerikansk kärninflation låg kvar på 3,3 procent i juli",
+      "category": "Makroekonomi",
+      "date": "2026-08-26",
+      "location": "",
+      "summary": "Det amerikanska PCE-måttet, Federal Reserves favoritmått på inflation, visade en oförändrad kärninflation på 3,3 procent i juli medan hushållens konsumtion nästan stannade av. Den dämpade utvecklingen ger Fed utrymme att avvakta med nästa räntebeslut.",
+      "source": "Bloomberg / US Bureau of Economic Analysis",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-26/key-us-inflation-gauge-posts-muted-advance-spending-stalls",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "scb-aktieformogenhet-rekord-2026",
+      "title": "Svenskarnas aktieförmögenhet slog nytt rekord under första halvåret",
+      "category": "Börs",
+      "date": "2026-08-27",
+      "location": "",
+      "summary": "Enligt SCB:s aktieägarstatistik växte värdet av svenskregistrerade aktier med 5,3 procent under första halvåret 2026 till 13 516 miljarder kronor, en ny rekordnivå som passerar toppen från slutet av 2021. Uppgången skedde trots fortsatt osäkerhet i omvärlden.",
+      "source": "SCB",
+      "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/finansmarknad/aktieagarstatistik/aktieagarstatistik/pong/statistiknyhet/aktieagarstatistik-forsta-halvaret-2026",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "scb-bnp-andra-kvartalet-2026",
+      "title": "Svensk BNP växte oväntat starkt andra kvartalet",
+      "category": "Makroekonomi",
+      "date": "2026-08-27",
+      "location": "",
+      "summary": "SCB:s nationalräkenskaper visar att BNP ökade med 1,6 procent säsongsrensat jämfört med föregående kvartal, drivet av högre investeringar, export och hushållens konsumtion. Den starka siffran fick regeringen att höja sin tillväxtprognos för svensk ekonomi.",
+      "source": "SCB",
+      "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/nationalrakenskaper/nationalrakenskaper/nationalrakenskaper-kvartals-och-arsberakningar/pong/statistiknyhet/nationalrakenskaper-2a-kvartalet-2026",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "konjunkturinstitutet-barometerindikatorn-augusti-2026",
+      "title": "Barometerindikatorn steg för fjärde månaden i rad i augusti",
+      "category": "Makroekonomi",
+      "date": "2026-08-28",
+      "location": "",
+      "summary": "Konjunkturinstitutets barometerindikator steg till 105,1 i augusti, upp från 104,6 i juli, med starkast bidrag från tjänstesektorn och ett hushållsförtroende som för första gången sedan slutet av 2024 ligger på en normal nivå. Bygg- och tillverkningsindustrin visade däremot en något svagare stämning.",
+      "source": "Konjunkturinstitutet",
+      "url": "https://www.konj.se/publikationer/konjunkturbarometern/",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
+    },
+    {
+      "id": "stockholmsborsen-rekordvecka-augusti-2026",
+      "title": "Stockholmsbörsen nära all-time high efter stark börsvecka",
+      "category": "Börs",
+      "date": "2026-08-28",
+      "location": "",
+      "summary": "OMXS30 steg omkring 1,5 procent under veckan som avslutades den 28 augusti och närmade sig augustirekordet från den 5 augusti, med uppgångar i 24 av 30 bolag. Sedan årsskiftet har det utdelningsjusterade indexet stigit med runt 18 procent, understött av stigande kurser även i Frankfurt, London, Paris och New York.",
+      "source": "Placera.se",
+      "url": "https://www.placera.se/nyheter/omxs30-index-pa-vag-mot-ny-plusvecka-2026-08-28",
+      "added_on": "2026-08-30",
+      "collected_week": "2026-W35"
     }
   ]
 }

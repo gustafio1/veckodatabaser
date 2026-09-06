@@ -2,8 +2,8 @@
   "topic": "Hälsa",
   "description": "Forskning om kost, sömn, folkhälsa och medicin. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-30",
-  "item_count": 52,
+  "last_updated": "2026-09-06",
+  "item_count": 58,
   "items": [
     {
       "id": "vin-medelhavskost-hjartrisk-spanska-kohorter-2026",
@@ -628,6 +628,78 @@
       "url": "https://www.statnews.com/2026/08/19/mrna-cancer-vaccine-trial-melanoma-merck-moderna/",
       "added_on": "2026-08-30",
       "collected_week": "2026-W35"
+    },
+    {
+      "id": "te-kaffe-bentathet-sof-2026",
+      "title": "Tio-årsstudie: te kopplas till starkare höftben hos äldre kvinnor, mycket kaffe till svagare",
+      "category": "Forskning",
+      "date": "2026-09-02",
+      "location": "",
+      "summary": "En analys av nästan 10 000 äldre kvinnor i studien Study of Osteoporotic Fractures visade att tedrickande hängde samman med något högre bentäthet i höften över tio år, medan mer än fem koppar kaffe om dagen kopplades till lägre bentäthet, särskilt vid samtidigt högt alkoholintag.",
+      "source": "ScienceDaily / Nutrients",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260901070550.htm",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "sotningsmedel-generationer-epigenetik-2026",
+      "title": "Sötningsmedel kan lämna spår i ämnesomsättningen över flera generationer",
+      "category": "Forskning",
+      "date": "2026-08-30",
+      "location": "",
+      "summary": "Nya djurstudier tyder på att sukralos och stevia kan förändra tarmflora och genaktivitet på sätt som påverkar ämnesomsättningen, med vissa biologiska förändringar som verkar gå i arv till senare generationer.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260830000019.htm",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "fetma-minnesceller-immunforsvar-emborep-2026",
+      "title": "Fetma kan lämna ett minne i immunceller i flera år efter viktnedgång",
+      "category": "Forskning",
+      "date": "2026-08-30",
+      "location": "",
+      "summary": "Forskare har funnit att tidigare fetma sätter epigenetiska spår i CD4-T-celler genom DNA-metylering, vilket kan göra att immunförsvaret förblir i ett inflammatoriskt läge i fem till tio år efter att vikten normaliserats.",
+      "source": "ScienceDaily / EMBO Reports",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260830000013.htm",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "somnbrist-viktuppgang-usa-cuanschutz-2026",
+      "title": "Sömnbrist kan bidra till USA:s viktproblem, enligt forskare",
+      "category": "Forskning",
+      "date": "2026-09-03",
+      "location": "",
+      "summary": "Experter vid University of Colorado Anschutz pekar på att bristande sömn kan driva överätande genom att påverka hunger- och belöningssignaler i hjärnan, samtidigt som den minskar den fysiska aktiviteten – en möjlig delförklaring till stigande vikttal i befolkningen.",
+      "source": "CU Anschutz Medical Campus",
+      "url": "https://news.cuanschutz.edu/news-stories/is-poor-sleep-contributing-to-the-countrys-weight-issues",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "covid-barn-sexlandersstudie-mildare-2026",
+      "title": "Sexlandersstudie: covid-19 drabbade barn mildare än väntat",
+      "category": "Forskning",
+      "date": "2026-09-01",
+      "location": "",
+      "summary": "En stor genomgång från sex länder visar att pandemins effekter på barns hälsa och utveckling var reella och brett spridda, men mindre allvarliga än man befarade i början, och att många effekter har avtagit med tiden.",
+      "source": "Medical Xpress",
+      "url": "https://medicalxpress.com/news/2026-09-covid-toll-kids-milder-country.html",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "inflammation-mekanism-johns-hopkins-2026",
+      "title": "Ny mekanism bakom kronisk inflammation kan öppna för nya behandlingar",
+      "category": "Forskning",
+      "date": "2026-09-01",
+      "location": "",
+      "summary": "Forskare vid Johns Hopkins har kartlagt en biologisk mekanism som förklarar hur inflammation utlöses och vidmakthålls vid en rad olika sjukdomar, vilket pekar ut ett möjligt nytt mål för läkemedelsutveckling.",
+      "source": "Medical Xpress",
+      "url": "https://medicalxpress.com/news/2026-09-key-driver-inflammation-door-potential.html",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
     }
   ]
 }

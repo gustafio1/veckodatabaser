@@ -2,8 +2,8 @@
   "topic": "Träning",
   "description": "Forskning om styrka, kondition, hälsoeffekter och återhämtning. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-30",
-  "item_count": 47,
+  "last_updated": "2026-09-06",
+  "item_count": 52,
   "items": [
     {
       "id": "rest-pause-vs-drop-sets-styrketraning-2026",
@@ -568,6 +568,66 @@
       "url": "https://www.mdpi.com/1422-0067/27/8/3601",
       "added_on": "2026-08-30",
       "collected_week": "2026-W35"
+    },
+    {
+      "id": "intervallgang-en-gang-veckan-bukfett-hongkong-2026",
+      "title": "En rejäl gångtur i veckan kan minska bukfett och stärka konditionen",
+      "category": "Forskning",
+      "date": "2026-08-01",
+      "location": "",
+      "summary": "Forskare vid University of Hong Kong fann att rask intervallgång bara en gång i veckan minskade kroppsfett och förbättrade konditionen hos vuxna med bukfetma, med resultat i nivå med dem som tränade tre gånger i veckan.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260801042831.htm",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "kallt-vs-varmt-vatten-aterhamtning-fotboll-2026",
+      "title": "Ingen skillnad mellan kallt och varmt vatten för återhämtning efter match",
+      "category": "Forskning",
+      "date": "2026-06-01",
+      "location": "",
+      "summary": "En studie på fotbollsspelare fann inga tydliga skillnader mellan kallbad och varmvattenbad när det gäller att återställa muskelfunktion, sprintförmåga eller träningsvärk efter en simulerad match, vilket ifrågasätter kallbadets särställning som återhämtningsmetod.",
+      "source": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42633554/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "multimaratonlopare-vo2max-dodlighet-2026",
+      "title": "Multimaratonlöpare visar långsammare konditionsförsämring med åldern",
+      "category": "Forskning",
+      "date": "2026-08-01",
+      "location": "",
+      "summary": "En internationell studie av 340 löpare som återkommande springer maraton och ultralopp visar att deras syreupptagningsförmåga sjunker långsammare med åldern än normalt, kopplat till en lägre uppskattad risk för förtida död.",
+      "source": "Scientific Reports",
+      "url": "https://www.nature.com/articles/s41598-026-52475-x",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "atta-aterhamtningsmetoder-forskningsgenomgang-2026",
+      "title": "Åtta vanliga återhämtningsmetoder granskade: vad säger forskningen egentligen?",
+      "category": "Forskning",
+      "date": "2026-05-01",
+      "location": "",
+      "summary": "En genomgång av populära återhämtningsmetoder efter träning – som kompressionskläder, massage, kallbad och stretching – visar att stödet i forskningen varierar kraftigt och att flera omhuldade metoder har svagt vetenskapligt underlag.",
+      "source": "Idrottsforskning.se",
+      "url": "https://www.idrottsforskning.se/8-vanliga-aterhamtningsmetoder-vad-sager-forskningen/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "traning-till-failure-akut-trotthet-studie-2026",
+      "title": "Träning till failure ger inte alltid bättre resultat, visar ny studie av trötthet och återhämtning",
+      "category": "Forskning",
+      "date": "2026-09-01",
+      "location": "",
+      "summary": "En detaljerad fysiologisk studie av styrketräning till momentant muskelsvikt fann inga konsekventa fördelar jämfört med att avsluta set något tidigare, vilket stärker bilden av att tillräcklig ansträngning räcker utan att alltid pressa till max.",
+      "source": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42374131/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
     }
   ]
 }

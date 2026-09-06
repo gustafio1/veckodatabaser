@@ -2,8 +2,8 @@
   "topic": "Vin",
   "description": "Forskning om vinframställning, odling, smak och hälsa. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-30",
-  "item_count": 48,
+  "last_updated": "2026-09-06",
+  "item_count": 53,
   "items": [
     {
       "id": "arom-ekologiskt-vs-konventionellt-vitt-vin-2026",
@@ -580,6 +580,66 @@
       "url": "https://phys.org/news/2025-06-birds-economic-benefits-vineyard-farmers.html",
       "added_on": "2026-08-30",
       "collected_week": "2026-W35"
+    },
+    {
+      "id": "vinbranschen-innovation-regionala-vagar-2026",
+      "title": "Vinbranschens innovation delar upp sig i olika regionala spår",
+      "category": "Forskning",
+      "date": "2026-08-20",
+      "location": "",
+      "summary": "En studie publicerad i Journal of Wine Economics visar att Europa och USA utvecklar allt mer skilda tekniska system inom vinproduktion, vilket tyder på att framtidens konkurrens lika mycket kommer att handla om vilken teknik regioner satsar på som om druvkvalitet och varumärke.",
+      "source": "Vinetur / Journal of Wine Economics",
+      "url": "https://www.vinetur.com/en/20260820105906/study-finds-wine-innovation-is-splitting-into-distinct-regional-paths.html",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "michelin-guide-ny-vinutmarkelse-2026",
+      "title": "Michelin-guiden inför ny utmärkelse för vin i Bourgogne och Bordeaux",
+      "category": "Nyhet",
+      "date": "2026-09-01",
+      "location": "",
+      "summary": "Michelin-guiden lanserar 2026 en ny typ av utmärkelse riktad mot vin, med de första \"Michelin-druvorna\" tilldelade producenter i Bourgogne och Bordeauxregionen – ett sätt att föra över guidens kvalitetskoncept från restauranger till vinproduktion.",
+      "source": "Michelin Guide",
+      "url": "https://guide.michelin.com/us/en/article/news-and-views/the-michelin-guide-introduces-a-new-distinction-in-the-world-of-wine",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "polyfenoler-tarmbakterier-precisionsnutrition-2026",
+      "title": "Tarmflorans sammansättning avgör hur vinets polyfenoler tas upp av kroppen",
+      "category": "Forskning",
+      "date": "2026-07-01",
+      "location": "",
+      "summary": "En forskningsöversikt visar att vinets polyfenoler, som ofta är svårupptagliga i tunntarmen, omvandlas av tarmbakterier till aktiva ämnen som urolitiner – och att effekten varierar kraftigt beroende på vilka bakteriearter en person bär på, vilket öppnar för mer individanpassade kostråd.",
+      "source": "PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13415085/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "ogenomskinliga-glas-vinprovning-2026",
+      "title": "Ogenomskinliga glas lurar inte provsmakare lika mycket som väntat",
+      "category": "Forskning",
+      "date": "2026-01-01",
+      "location": "",
+      "summary": "En studie av hur ogenomskinliga vinglas påverkar provsmakning fann att avsaknaden av visuella ledtrådar inte fick deltagarna att missbedöma vinets grundläggande karaktär, men att vinframställningsmetoden ändå tydligt påverkade vilka smakord de använde.",
+      "source": "PMC",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12469274/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "icke-saccharomyces-jast-kemisk-signatur-2026",
+      "title": "Nästan 400 aromämnen kartlagda från vildjästarter i vitt vin",
+      "category": "Forskning",
+      "date": "2026-04-01",
+      "location": "",
+      "summary": "Med avancerad tvådimensionell gaskromatografi har forskare identifierat 399 flyktiga ämnen kopplade till olika icke-Saccharomyces-jäststammar i vitt vin, och funnit tydliga jäst-specifika mönster som kan användas för att skräddarsy vinets doft och smak.",
+      "source": "PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13062559/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
     }
   ]
 }

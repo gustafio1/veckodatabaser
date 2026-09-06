@@ -2,8 +2,8 @@
   "topic": "Entreprenörskap",
   "description": "Forskning om startups, finansiering, grundare och innovation. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-30",
-  "item_count": 53,
+  "last_updated": "2026-09-06",
+  "item_count": 60,
   "items": [
     {
       "id": "grundaregenskaper-startupframgang-2026",
@@ -640,6 +640,90 @@
       "url": "https://esbri.se/forst-iden-sedan-grundaren/",
       "added_on": "2026-08-30",
       "collected_week": "2026-W35"
+    },
+    {
+      "id": "wonderful-serie-c-ai-operativsystem-2026",
+      "title": "AI-bolaget Wonderful mer än dubblar värderingen till 5 miljarder dollar på sex månader",
+      "category": "Finansiering",
+      "date": "2026-09-02",
+      "location": "",
+      "summary": "Det nederländska AI-bolaget Wonderful har rest 550 miljoner dollar i en serie C-runda ledd av Insight Partners, med Salesforce och tidigare investerare som Index Ventures och Bessemer med i rundan. Kapitalet ska finansiera bolagets utveckling till ett fullskaligt AI-operativsystem för företag, bara ett halvår efter förra rundan.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "hiddenlayer-serie-b-ai-sakerhet-2026",
+      "title": "AI-säkerhetsbolaget HiddenLayer tar in 100 miljoner dollar när fler företag skyddar sina AI-system",
+      "category": "Finansiering",
+      "date": "2026-09-02",
+      "location": "",
+      "summary": "Startupen HiddenLayer, som grundades 2022 och bygger skydd mot attacker på AI-modeller och AI-agenter, har rest 100 miljoner dollar i en serie B-runda ledd av Delta-v Capital. Bolagets återkommande intäkter har tiofaldigats det senaste året, vilket speglar hur snabbt efterfrågan på AI-säkerhet vuxit bland grundare och investerare i sektorn.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "piney-fro-finansiering-uthyrningsplattform-2026",
+      "title": "Cypriotiska Piney tar in 1,6 miljoner euro för att ta sin uthyrningsplattform till USA",
+      "category": "Finansiering",
+      "date": "2026-09-04",
+      "location": "",
+      "summary": "Startupen Piney, som driver en operativ AI-plattform för städning och skötsel åt korttids- och medellångtidsuthyrare, har rest en ny runda ledd av Uni.fund med nya investeraren 33East. Bolaget har på knappt två år vuxit från 1 300 till 5 000 förvaltade fastigheter och använder kapitalet för att expandera från Europa till den amerikanska marknaden.",
+      "source": "EU-Startups",
+      "url": "https://www.eu-startups.com/2026/09/cyprus-founded-piney-raises-e1-6-million-to-take-its-rental-operations-platform-beyond-europe",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "ecomid-forvarv-nilum-2026",
+      "title": "Stockholmsstartupen eComID köper Nilum för att satsa på AI-driven secondhandshopping",
+      "category": "Startup",
+      "date": "2026-09-02",
+      "location": "",
+      "summary": "Bara veckor efter sin säddrunda på 14,6 miljoner euro har eComID förvärvat Stockholmsbaserade Nilum, som specialiserat sig på AI-driven andrahandshandel. Affären är eComIDs första steg in i secondhandmarknaden och tar in Nilums grundare Jonas Fagerlund som chef för det nya affärsområdet.",
+      "source": "EU-Startups",
+      "url": "https://www.eu-startups.com/2026/09/fresh-from-e14-6-million-seed-round-ecomid-acquires-nilum-to-push-into-recommerce",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "startup-arr-osaker-forskning-2026",
+      "title": "Ny analys: Startups återkommande intäkter är mindre pålitliga än någonsin",
+      "category": "Forskning",
+      "date": "2026-09-03",
+      "location": "",
+      "summary": "TechCrunch granskning visar att många AI-startups årliga återkommande intäkter (ARR) bygger på företagsavtal som är betydligt mer instabila än traditionella prenumerationsintäkter, även efter att kunder gått från pilot till full drift. Genomgången, som bland annat bygger på ny data från Andreessen Horowitz, pekar på att grundare och investerare behöver se bortom ARR-siffran för att bedöma ett AI-bolags verkliga hälsa.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "unga-grundare-silicon-valley-press-2026",
+      "title": "Silicon Valley älskar unga grundare - tills det inte gör det längre",
+      "category": "Grundare",
+      "date": "2026-07-31",
+      "location": "",
+      "summary": "TechCrunch beskriver hur investerare nu satsar miljonbelopp på tonårs- och studentgrundare tack vare AI-boomen, samtidigt som kraven på snabb tillväxt och synlighet i sociala medier gör varje misstag offentligt. Artikeln, med Cluely-grundaren Roy Lee som exempel, visar en ny och hårdare verklighet för unga entreprenörer jämfört med tidigare generationers techgrundare.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "tonarsvanner-entreprenorskap-forskning-2026",
+      "title": "Tonårskompisar kan avgöra vem som blir entreprenör decennier senare, visar ny studie",
+      "category": "Forskning",
+      "date": "2026-08-21",
+      "location": "",
+      "summary": "En studie i Journal of Business Venturing, som följt två amerikanska generationer över flera decennier, visar att den som i tonåren hade vänner som senare startade registrerade bolag oftare blir egenföretagare själv - och tjänar mer på det. Forskarna menar att kvaliteten på tidiga vänskapsrelationer formar både steget in i entreprenörskap och hur lönsamt det blir.",
+      "source": "Journal of Business Venturing / Phys.org",
+      "url": "https://phys.org/news/2026-08-high-school-friends-entrepreneur-decades.html",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
     }
   ]
 }

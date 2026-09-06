@@ -2,8 +2,8 @@
   "topic": "Ekonomi & börs",
   "description": "Forskning om börs, makroekonomi, räntor och hushållens ekonomi. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-30",
-  "item_count": 53,
+  "last_updated": "2026-09-06",
+  "item_count": 60,
   "items": [
     {
       "id": "skuldkvot-mot-aktievardering-debt-equity-spread-2026",
@@ -640,6 +640,90 @@
       "url": "https://www.placera.se/nyheter/omxs30-index-pa-vag-mot-ny-plusvecka-2026-08-28",
       "added_on": "2026-08-30",
       "collected_week": "2026-W35"
+    },
+    {
+      "id": "stockholmsborsen-vandning-installations-val-september-2026",
+      "title": "Stockholmsbörsen vände upp efter tre svaga dagar inför riksdagsvalet",
+      "category": "Börs",
+      "date": "2026-09-03",
+      "location": "",
+      "summary": "Efter en svag inledning på september med fallande index vände Stockholmsbörsen upp rejält, med OMXS30 upp omkring 1,2 procent. Det stundande riksdagsvalet den 13 september skapar osäkerhet kring skatte- och regelförändringar som kan påverka bank-, fastighets- och energisektorn.",
+      "source": "Börskollen",
+      "url": "https://www.borskollen.se/nyheter/27/stockholmsborsen-vander-uppat-efter-flera-dagar-av-nedgang",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "fed-septembermote-osakerhet-hojning-2026",
+      "title": "Feds septembermöte ett av de mest osäkra på flera år",
+      "category": "Makroekonomi",
+      "date": "2026-09-01",
+      "location": "",
+      "summary": "Inför Federal Reserves räntebesked den 16 september är ekonomkåren splittrad efter en svag amerikansk jobbrapport i somras. Medan flertalet analytiker tror på oförändrad ränta har marknadens prissättning svängt kraftigt och pekar nu mot omkring två tredjedelars sannolikhet för en höjning.",
+      "source": "Hurbra.se",
+      "url": "https://hurbra.se/fed-ranta-september-2026/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "konjunkturinstitutet-rantehojning-slutet-2026-prognos",
+      "title": "Konjunkturinstitutet: Riksbanken höjer räntan i slutet av 2026",
+      "category": "Makroekonomi",
+      "date": "2026-09-02",
+      "location": "",
+      "summary": "Konjunkturinstitutet räknar med att Riksbanken genomför en räntehöjning i slutet av 2026 och ytterligare två höjningar under 2027, eftersom inflationen väntas stiga över målet i december. Bedömningen skiljer sig från flera andra prognosmakare som tror att styrräntan ligger still resten av året.",
+      "source": "Dagens PS",
+      "url": "https://www.dagensps.se/bors-finans/ki-da-hojer-riksbanken-rantan/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "usa-jobbrapport-augusti-2026-over-forvantan",
+      "title": "USA:s ekonomi skapade fler jobb än väntat i augusti - dubbelt så många som prognosen",
+      "category": "Nyhet",
+      "date": "2026-09-04",
+      "location": "",
+      "summary": "Den amerikanska arbetsmarknaden överraskade i augusti med 162 000 nya jobb, mer än dubbelt så många som ekonomerna räknat med, samtidigt som arbetslösheten låg kvar på 4,1 procent. Rapporten dämpar oron för en snabbt försvagad arbetsmarknad inför Feds räntebesked senare i september.",
+      "source": "CNN Business",
+      "url": "https://www.cnn.com/2026/09/04/economy/us-jobs-report-august-2026",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "svenska-hushallens-kopkraft-budget-2026-scb",
+      "title": "Hushållens köpkraft stärks 2026 - men pensionärer och studenter halkar efter",
+      "category": "Hushållsekonomi",
+      "date": "2026-09-03",
+      "location": "",
+      "summary": "SCB:s analys av budgeten för 2026 visar att de flesta hushåll får en högre disponibel inkomst tack vare lägre inflation, lägre räntor och en mer expansiv finanspolitik. Ålderspensionärer med garantipension och studenter tillhör dock de grupper som enligt beräkningarna går back.",
+      "source": "SCB",
+      "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-inkomster-tillgangar-och-skulder/fordelningsanalytiskt-statistiksystem-for-inkomster-och-transfereringar-fasit/pong/statistiknyhet/effekter-for-hushallens-ekonomi-i-statens-budget-2026/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "riksdagsvalet-2026-borsens-reaktion-sektorer",
+      "title": "Så kan riksdagsvalet 2026 påverka börsen - bank, fastighet och energi i fokus",
+      "category": "Börs",
+      "date": "2026-09-05",
+      "location": "",
+      "summary": "Inför valet den 13 september pekar analytiker ut bank-, fastighets- och energisektorn som mest känsliga för politiska skiften i skatte- och regelfrågor. Historiskt är det dock räntor, vinster och konjunktur - inte opinionssiffror - som haft störst inverkan på börsens riktning under valår.",
+      "source": "Börskollen",
+      "url": "https://www.borskollen.se/nyheter/27/hur-brukar-borsen-prestera-under-valar-historiken-ger-ett-tydligt-svar",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "forskning-svenska-aktier-negativ-avkastning-borskollen-2026",
+      "title": "Forskning: Fyra av fem svenska börsbolag har backat senaste fem åren trots börsrekord",
+      "category": "Forskning",
+      "date": "2026-09-04",
+      "location": "",
+      "summary": "En genomgång av 755 svenska börsbolag visar att nästan fyra av fem har haft negativ kursutveckling de senaste fem åren, med en typisk värdeminskning på 62 procent. Resultatet visar att börsens totalindex och rekordnivåer döljer stora skillnader mellan enskilda bolags utveckling.",
+      "source": "Börskollen",
+      "url": "https://www.borskollen.se/nyheter/27/ny-analys-avslojar-fyra-av-fem-svenska-aktier-har-backat-de-senaste-fem-aren-trots-borsrekord",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
     }
   ]
 }

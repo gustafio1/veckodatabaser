@@ -2,8 +2,8 @@
   "topic": "Historia",
   "description": "Historisk forskning, arkeologiska fynd, svensk historia, böcker och jubileer. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-30",
-  "item_count": 52,
+  "last_updated": "2026-09-06",
+  "item_count": 59,
   "items": [
     {
       "id": "herlaugshaugen-skeppsgrav-2026",
@@ -628,6 +628,90 @@
       "url": "https://www.timesofisrael.com/echoing-gospel-account-traces-of-ancient-garden-found-under-church-of-holy-sepulchre/",
       "added_on": "2026-08-30",
       "collected_week": "2026-W35"
+    },
+    {
+      "id": "gotland-regemente-romersk-silverskatt-2026",
+      "title": "Romersk silverskatt hittad vid Gotlands regemente",
+      "category": "Svenskt",
+      "date": "2026-08-30",
+      "location": "Tofta skjutfält, Gotland",
+      "summary": "Inför byggnation vid Gotlands regemente har arkeologer grävt fram en silverskatt med 45 romerska mynt från 100-talet e.Kr. samt en guldring, nedlagd invid grunden till en gammal byggnad. Fyndet, som även omfattar nio cirka 2000 år gamla gravar, vittnar om Gotlands kontakter med det romerska riket långt innan mynten hamnade på ön på 300-talet.",
+      "source": "Nättidningen Svensk Historia",
+      "url": "https://svenskhistoria.se/silverskatt-hittad-pa-gotlands-regemente/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "fyra-miljoner-romerska-mynt-studie-2026",
+      "title": "Studie av fyra miljoner romerska mynt visar hur handel enade republiken",
+      "category": "Forskning",
+      "date": "2026-09-03",
+      "location": "",
+      "summary": "Forskare har analyserat spår av närmare fyra miljoner romerska mynt präglade mellan 155 f.Kr. och år 2 e.Kr. och kartlagt hur pengarna cirkulerade längs vägar, hamnar och handelsknutpunkter. Studien visar att Roms expansion drevs minst lika mycket av ekonomisk integration som av militära erövringar.",
+      "source": "Phys.org / Humanities and Social Sciences Communications",
+      "url": "https://phys.org/news/2026-09-million-coins-reveal-rome-economic.html",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "herodium-pilatusringen-ny-tolkning-2026",
+      "title": "Ny tolkning av ring kopplar den till Pontius Pilatus förvaltning",
+      "category": "Forskning",
+      "date": "2026-09-03",
+      "location": "Herodium, Västbanken",
+      "summary": "En forskare vid UCLA föreslår en ny läsning av de grekiska bokstäverna på en 2000 år gammal kopparring från Herodium och menar att inskriptionen är en grekisk återgivning av det latinska \"Pilato\". Tolkningen pekar på att ringen tillverkades åt en tidigare förslavad tjänsteman i prefekten Pontius Pilatus förvaltning, snarare än åt Pilatus själv.",
+      "source": "Phys.org / Palestine Exploration Quarterly",
+      "url": "https://phys.org/news/2026-09-unusual-greek-mystery-pontius-pilate.html",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "aschaffenburg-jarnalder-timmerkonstruktion-2026",
+      "title": "Unik järnålderskonstruktion i trä och sten grävs fram vid floden Main",
+      "category": "Fynd",
+      "date": "2026-09-02",
+      "location": "Aschaffenburg, Tyskland",
+      "summary": "Vid ett dagvattenprojekt nära Willigisbron i Aschaffenburg har arkeologer friläggt en 2400 år gammal konstruktion av grova ekbjälkar och torrmurad sten, med timmer fällt mellan år 372 och 352 f.Kr. Den ovanligt välbevarade anläggningen vid Mainfloden vittnar om en järnåldersbosättning med resurser nog för storskaliga byggprojekt.",
+      "source": "Archaeology News Online Magazine",
+      "url": "https://archaeologymag.com/2026/09/iron-age-timber-structure-beside-germanys-river/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "kultepe-kilskriftsbrev-ct-skanning-2026",
+      "title": "Mobil CT-skanner läser 4000 år gamla kilskriftsbrev utan att öppna dem",
+      "category": "Forskning",
+      "date": "2026-05-08",
+      "location": "Kültepe, Turkiet",
+      "summary": "Med en flyttbar röntgendatortomograf, kallad ENCI, har forskare kunnat läsa innehållet i förseglade lerkuvert med assyriska handelsbrev och kontrakt från Kültepe utan att förstöra de sköra omslagen. Bland breven finns ett från en kvinna vid namn Anna-anna som otåligt påminner sin köpmannamake om en skuld han bör driva in.",
+      "source": "npj Heritage Science",
+      "url": "https://doi.org/10.1038/s40494-026-02568-7",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "vindolanda-genius-relief-2026",
+      "title": "Romersk skyddsandes relief hittad gömd under barackgolv vid Vindolanda",
+      "category": "Fynd",
+      "date": "2026-06-16",
+      "location": "Vindolanda, Storbritannien",
+      "summary": "Under utgrävningar av en 300-talsbarack vid det romerska fortet Vindolanda nära Hadrianus mur upptäcktes en 1600 år gammal sandstensrelief föreställande en Genius, en romersk skyddsande, med ymnighetshorn och offerskål i händerna. Reliefen tros ursprungligen ha suttit i ett litet hushållshelgedom innan den återanvändes som byggmaterial i barackgolvet.",
+      "source": "Archaeology News Online Magazine",
+      "url": "https://archaeologymag.com/2026/07/roman-guardian-spirit-relief-vindolanda/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "rogsta-ostlanken-gravar-bronsalder-vikingatid-2026",
+      "title": "Ett 70-tal gravar från brons- och järnålder undersöks vid Rogsta",
+      "category": "Svenskt",
+      "date": "2026-07-01",
+      "location": "Rogsta, Nyköping, Sverige",
+      "summary": "Inför bygget av järnvägen Ostlänken undersöker Arkeologerna ett cirka 16 000 kvadratmeter stort område vid Rogsta norr om Nyköping, med bosättningsspår från bronsåldern och ett gravfält med omkring 70 gravar, främst från vendel- och vikingatid. I en av kremeringarna har en gravurna och ett mindre kärl för mat eller dryck påträffats.",
+      "source": "Trafikverket / Arkeologerna",
+      "url": "https://www.trafikverket.se/vara-projekt/projekt-som-stracker-sig-over-flera-lan/ostlanken-en-ny-dubbelsparig-jarnvag/nyheter-for-ostlanken/2026/juli/ett-70-tal-gravar-undersoks-vid-rogsta/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
     }
   ]
 }

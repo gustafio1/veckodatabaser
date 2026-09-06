@@ -2,8 +2,8 @@
   "topic": "Ledarskap – John Maxwell",
   "description": "Ledarskapsprinciper och lärdomar från John C. Maxwell, inklusive De 21 oeftergivliga ledarskapslagarna. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-30",
-  "item_count": 110,
+  "last_updated": "2026-09-06",
+  "item_count": 120,
   "items": [
     {
       "id": "lockets-lag",
@@ -1324,6 +1324,126 @@
       "url": "https://www.shortform.com/blog/law-of-priorities/",
       "added_on": "2026-08-30",
       "collected_week": "2026-W35"
+    },
+    {
+      "id": "observationens-lag-kommunikation",
+      "title": "Observationens lag (The Law of Observation)",
+      "category": "Ledarskapslag",
+      "date": "2023-01-01",
+      "location": "",
+      "summary": "Skickliga kommunikatörer utvecklas genom att aktivt studera andra goda talare - hur de förbereder, formulerar och levererar sina budskap. Att medvetet observera vad som fungerar hos andra påskyndar den egna kommunikationsförmågan.",
+      "source": "John C. Maxwell - The 16 Undeniable Laws of Communication",
+      "url": "https://www.simonandschuster.com/books/The-16-Undeniable-Laws-of-Communication/John-C-Maxwell/9798887100081",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "overtygelsens-lag-kommunikation",
+      "title": "Övertygelsens lag (The Law of Conviction)",
+      "category": "Ledarskapslag",
+      "date": "2023-01-01",
+      "location": "",
+      "summary": "Ett budskap får verklig kraft först när talaren själv innerst inne tror på det som förmedlas. Äkta övertygelse smittar av sig på lyssnarna och gör kommunikationen mer trovärdig och engagerande.",
+      "source": "John C. Maxwell - The 16 Undeniable Laws of Communication",
+      "url": "https://www.simonandschuster.com/books/The-16-Undeniable-Laws-of-Communication/John-C-Maxwell/9798887100081",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "forberedelsens-lag-kommunikation",
+      "title": "Förberedelsens lag (The Law of Preparation)",
+      "category": "Ledarskapslag",
+      "date": "2023-01-01",
+      "location": "",
+      "summary": "Goda kommunikatörer lägger grundlig tid på att förbereda sitt budskap innan de ska tala inför andra. Ordentlig förberedelse ger trygghet och gör att talaren kan anpassa sig efter publiken i stunden.",
+      "source": "John C. Maxwell - The 16 Undeniable Laws of Communication",
+      "url": "https://www.simonandschuster.com/books/The-16-Undeniable-Laws-of-Communication/John-C-Maxwell/9798887100081",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "samarbetets-lag-kommunikation",
+      "title": "Samarbetets lag (The Law of Collaboration)",
+      "category": "Ledarskapslag",
+      "date": "2023-01-01",
+      "location": "",
+      "summary": "Ett budskap blir ofta starkare när flera personer får bidra med perspektiv innan det levereras till en publik. Att bearbeta idéer tillsammans med andra skärper både innehåll och form i kommunikationen.",
+      "source": "John C. Maxwell - The 16 Undeniable Laws of Communication",
+      "url": "https://www.simonandschuster.com/books/The-16-Undeniable-Laws-of-Communication/John-C-Maxwell/9798887100081",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "innehallets-lag-kommunikation",
+      "title": "Innehållets lag (The Law of Content)",
+      "category": "Ledarskapslag",
+      "date": "2023-01-01",
+      "location": "",
+      "summary": "Vad du säger väger tyngre än hur du säger det - substans och relevans i budskapet avgör om det verkligen berör publiken. Ett väl genomarbetat innehåll är grunden för allt effektivt kommunicerande.",
+      "source": "John C. Maxwell - The 16 Undeniable Laws of Communication",
+      "url": "https://www.simonandschuster.com/books/The-16-Undeniable-Laws-of-Communication/John-C-Maxwell/9798887100081",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "anslutningens-lag-kommunikation",
+      "title": "Anslutningens lag (The Law of Connecting)",
+      "category": "Ledarskapslag",
+      "date": "2023-01-01",
+      "location": "",
+      "summary": "En talare måste medvetet skapa en känsla av samhörighet med sin publik innan budskapet kan tas emot på riktigt. Utan denna koppling faller även ett välformulerat budskap platt.",
+      "source": "John C. Maxwell - The 16 Undeniable Laws of Communication",
+      "url": "https://www.simonandschuster.com/books/The-16-Undeniable-Laws-of-Communication/John-C-Maxwell/9798887100081",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "havstangens-lag-kommunikation",
+      "title": "Hävstångens lag (The Law of Leverage)",
+      "category": "Ledarskapslag",
+      "date": "2023-01-01",
+      "location": "",
+      "summary": "Genom att identifiera vad som redan engagerar en publik kan en kommunikatör använda det som en hävstång för att förstärka sitt eget budskap. Att bygga vidare på publikens befintliga intressen ökar genomslagskraften.",
+      "source": "John C. Maxwell - The 16 Undeniable Laws of Communication",
+      "url": "https://www.simonandschuster.com/books/The-16-Undeniable-Laws-of-Communication/John-C-Maxwell/9798887100081",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "forutseendets-lag-kommunikation",
+      "title": "Förutseendets lag (The Law of Anticipation)",
+      "category": "Ledarskapslag",
+      "date": "2023-01-01",
+      "location": "",
+      "summary": "Skickliga talare förutser hur publiken kommer att reagera och förbereder sig i förväg för frågor, invändningar och stämningsförändringar. Denna framförhållning gör att kommunikationen känns naturlig och väl avvägd.",
+      "source": "John C. Maxwell - The 16 Undeniable Laws of Communication",
+      "url": "https://www.simonandschuster.com/books/The-16-Undeniable-Laws-of-Communication/John-C-Maxwell/9798887100081",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "enkelhetens-lag-kommunikation",
+      "title": "Enkelhetens lag (The Law of Simplicity)",
+      "category": "Ledarskapslag",
+      "date": "2023-01-01",
+      "location": "",
+      "summary": "Ett komplicerat budskap är svårt att minnas och agera på - de mest effektiva kommunikatörerna förenklar utan att förlora djupet i innehållet. Enkelhet gör att fler i publiken faktiskt förstår och bär med sig budskapet.",
+      "source": "John C. Maxwell - The 16 Undeniable Laws of Communication",
+      "url": "https://www.simonandschuster.com/books/The-16-Undeniable-Laws-of-Communication/John-C-Maxwell/9798887100081",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "visuella-uttryckets-lag-kommunikation",
+      "title": "Visuella uttryckets lag (The Law of Visual Expression)",
+      "category": "Ledarskapslag",
+      "date": "2023-01-01",
+      "location": "",
+      "summary": "Bilder, illustrationer och konkreta exempel gör ett abstrakt budskap gripbart och lättare att minnas. Genom att koppla ord till visuella intryck fastnar kommunikationen bättre hos mottagaren.",
+      "source": "John C. Maxwell - The 16 Undeniable Laws of Communication",
+      "url": "https://www.simonandschuster.com/books/The-16-Undeniable-Laws-of-Communication/John-C-Maxwell/9798887100081",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
     }
   ]
 }

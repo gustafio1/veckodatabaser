@@ -2,8 +2,8 @@
   "topic": "Relationer",
   "description": "Forskning om kärlek, familj, dejting och social gemenskap. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-30",
-  "item_count": 44,
+  "last_updated": "2026-09-06",
+  "item_count": 51,
   "items": [
     {
       "id": "oarlighet-parforhallanden-forskning-2026",
@@ -532,6 +532,90 @@
       "url": "https://www.psypost.org/men-face-an-elevated-risk-of-suicide-immediately-following-a-relationship-breakd/",
       "added_on": "2026-08-30",
       "collected_week": "2026-W35"
+    },
+    {
+      "id": "fiktiva-karaktarer-romantiska-behov-2026",
+      "title": "Ouppfyllda relationsbehov kopplas till starkare romantiska känslor för fiktiva karaktärer",
+      "category": "Studie",
+      "date": "2026-09-04",
+      "location": "",
+      "summary": "Ny studie visar att singlar och personer som är missnöjda i sin relation oftare utvecklar starka romantiska känslor för fiktiva filmkaraktärer. Forskarna tolkar detta som ett sätt att kompensera för ouppfyllda emotionella behov i det verkliga livet.",
+      "source": "PsyPost",
+      "url": "https://www.psypost.org/people-with-unfulfilled-romantic-needs-form-stronger-attachments-to-fictional-ch/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "singelskap-kvinnor-fortsatt-press-2026",
+      "title": "Singelskap firas alltmer bland kvinnor – men pressen att hitta en partner finns kvar",
+      "category": "Studie",
+      "date": "2026-09-03",
+      "location": "",
+      "summary": "En brittisk kvalitativ studie med kvinnor i olika åldrar visar att synen på singelskap blivit mer positiv i unga år, men att förväntningar på att så småningom hitta en partner kvarstår upp i medelåldern. Kvinnor som trivdes som ensamstående i 40- och 50-årsåldern upplevde ofta att deras belåtenhet ifrågasattes av omgivningen.",
+      "source": "PsyPost",
+      "url": "https://www.psypost.org/singlehood-is-increasingly-celebrated-among-women-but-the-pressure-to-couple-up-persists/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "sexuell-oppenhet-valbefinnande-unga-vuxna-2026",
+      "title": "Öppen syn på sexuell mångfald hänger ihop med bättre sexuellt välbefinnande hos unga vuxna",
+      "category": "Studie",
+      "date": "2026-08-31",
+      "location": "",
+      "summary": "En ny studie visar att unga vuxna med accepterande attityder till bland annat onani, oralsex och pornografi rapporterar högre sexuell njutning, tillfredsställelse och självkänsla. Forskarna menar att resultaten stödjer en sexualundervisning som betonar egenmakt snarare än enbart risker.",
+      "source": "PsyPost",
+      "url": "https://www.psypost.org/favorable-attitudes-toward-diverse-sexual-practices-predict-higher-sexual-well-b/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "hard-uppfostran-tonarsdepression-grubbel-2026",
+      "title": "Hård uppfostran kopplas till tonårsdepression och aggression via grubblande tankemönster",
+      "category": "Studie",
+      "date": "2026-09-03",
+      "location": "",
+      "summary": "En flerårig studie av tonåringar visar att hårda uppfostringsmetoder som skrik och fysisk bestraffning ökar risken för depression och aggressivt beteende senare i tonåren. Sambandet förklaras av att ungdomarna fastnar i återkommande negativa tankespiraler kring ilska och sorg.",
+      "source": "PsyPost",
+      "url": "https://www.psypost.org/harsh-parenting-predicts-teenage-depression-and-aggression-through-different-typ/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "relationsstatus-familjeplanering-precision-2026",
+      "title": "Relationsstatus vid 24 års ålder förutsäger hur väl unga vuxna lyckas planera sitt familjebildande",
+      "category": "Studie",
+      "date": "2026-09-01",
+      "location": "",
+      "summary": "En studie visar att unga vuxna utan partner kraftigt överskattar sannolikheten att få barn före 30 års ålder, medan gifta personer förutspår sitt familjebildande betydligt mer träffsäkert. Gifta i studien förväntade sig en 76-procentig chans till tidigt föräldraskap, vilket låg nära det faktiska utfallet på 69,2 procent.",
+      "source": "PsyPost",
+      "url": "https://www.psypost.org/relationship-status-at-age-24-predicts-how-accurately-young-adults-plan-their-fa/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "partnersakerhet-relationslycka-mentalhalsa-2026",
+      "title": "Säkerhet i känslorna för sin partner förutsäger relationslycka och bättre mental hälsa",
+      "category": "Forskning",
+      "date": "2026-04-24",
+      "location": "",
+      "summary": "Forskning visar att personer som är mycket säkra på sina positiva känslor för sin partner har lyckligare och stabilare relationer, och att denna säkerhet även hänger samman med bättre psykisk hälsa. Effekten var särskilt tydlig för par som varit tillsammans länge.",
+      "source": "PsyPost",
+      "url": "https://www.psypost.org/certainty-in-your-feelings-toward-your-partner-predicts-relationship-happiness-and-mental-well-being/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "fientlig-skilsmassa-halsokostnad-langsiktig-2026",
+      "title": "Fientliga skilsmässor kopplas till långvariga hälsoproblem, visar tioårsstudie",
+      "category": "Forskning",
+      "date": "2026-07-07",
+      "location": "",
+      "summary": "En tioårig studie visar att personer med högkonfliktskilsmässor använder mer sjukvård både före och efter separationen. Forskarna menar att en fientlig skilsmässa fungerar som en utdragen process som belastar hälsan långt innan äktenskapet formellt upplöses.",
+      "source": "PsyPost",
+      "url": "https://www.psypost.org/the-enduring-health-cost-of-a-hostile-divorce/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
     }
   ]
 }

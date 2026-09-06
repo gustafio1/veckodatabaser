@@ -2,8 +2,8 @@
   "topic": "Cykling",
   "description": "Proffscykling, svenska cyklister, motionslopp, mountainbike och utrustning. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-30",
-  "item_count": 51,
+  "last_updated": "2026-09-06",
+  "item_count": 56,
   "items": [
     {
       "id": "pogacar-gula-trojan-etapp-3-2026",
@@ -604,6 +604,66 @@
       "url": "https://www.pinkbike.com/news/results-2026-val-di-sole-elite-xc-world-championships.html",
       "added_on": "2026-08-30",
       "collected_week": "2026-W35"
+    },
+    {
+      "id": "sm-enduro-ulricehamn-2026",
+      "title": "SM i mountainbike-enduro avgjordes i Ulricehamn",
+      "category": "Tävling",
+      "date": "2026-09-06",
+      "location": "Ulricehamn",
+      "summary": "Svenska mästerskapen i enduro kördes i Ulricehamn 5–6 september och fungerade samtidigt som sjätte och sista deltävlingen i SWE Cup för säsongen.",
+      "source": "Svenska Cykelförbundet",
+      "url": "https://scf.se/mountainbike/sm-enduro-2026/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "gotland360-2026",
+      "title": "Gotland360 lockade cyklister till öns runda",
+      "category": "Motionslopp",
+      "date": "2026-09-06",
+      "location": "Gotland",
+      "summary": "Motionsloppet Gotland360, som körs utan tidtagning, gick av stapeln 4–6 september och gav deltagarna chansen att uppleva ön på cykel i eget tempo.",
+      "source": "Happyride",
+      "url": "https://happyride.se/kalender/?list=1",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "swe-cup-xco-final-hallby-2026",
+      "title": "SWE Cup XCO avgörs i Hallby i helgen",
+      "category": "Tävling",
+      "date": "2026-09-12",
+      "location": "Hallby",
+      "summary": "Den svenska mountainbike-cupen i cross country kröner sina årsvinnare när säsongens sista deltävling körs i Hallby 12–13 september.",
+      "source": "Svenska Cykelförbundet",
+      "url": "https://scf.se/mountainbike/nyheter/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "svensk-trupp-landsvags-vm-montreal-2026",
+      "title": "Åtta svenskar uttagna till landsvägs-VM i Montréal",
+      "category": "Uttagning",
+      "date": "2026-09-04",
+      "location": "Montréal",
+      "summary": "Svenska Cykelförbundet tog ut åtta cyklister till VM 20–27 september, där Jakob Söderqvists tempolopp lyfts fram som lagets största medaljchans.",
+      "source": "Svenska Cykelförbundet",
+      "url": "https://via.tt.se/pressmeddelande/3618145/intressant-svensk-lag-till-landsvags-vm-dar-jakob-soderqvists-tempolopp-ar-storst-medaljchans?publisherId=3235773&lang=sv",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "orbea-gain-el-landsvagscykel-test-2026",
+      "title": "Orbea Gain vann testet av el-landsvägscyklar",
+      "category": "Utrustning",
+      "date": "2026-09-02",
+      "location": "",
+      "summary": "Orbeas elassisterade landsvägscykel Gain utsågs till bäst i test bland el-racercyklar 2026, med låg vikt och en motor som knappt märks när den slår till.",
+      "source": "Testix",
+      "url": "https://testix.se/test/el-landsvagscykel",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
     }
   ]
 }

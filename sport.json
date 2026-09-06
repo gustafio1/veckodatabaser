@@ -2,8 +2,8 @@
   "topic": "Sport – Fotboll, Tennis & Bordtennis",
   "description": "Nyheter inom fotboll, tennis och bordtennis med svenskt fokus. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-30",
-  "item_count": 91,
+  "last_updated": "2026-09-06",
+  "item_count": 97,
   "items": [
     {
       "id": "allsvenskan-sommaruppehall-2026",
@@ -1080,6 +1080,78 @@
       "url": "https://www.olympics.com/en/news/felix-lebrun-wins-europe-smash-2026-title",
       "added_on": "2026-08-30",
       "collected_week": "2026-W35"
+    },
+    {
+      "id": "sirius-bryter-forlustsvit-vasteras-2026-09",
+      "title": "Sirius bröt förlustsviten med 1–0 mot Västerås",
+      "category": "Resultat",
+      "date": "2026-09-05",
+      "location": "Västerås",
+      "summary": "Jesper Uneken gjorde sitt första allsvenska mål och blev matchhjälte när serieledarna Sirius äntligen vann igen efter tre raka förluster. Matchen bröts tillfälligt över 20 minuter efter oljud från hemmaläktaren.",
+      "source": "UNT",
+      "url": "https://www.unt.se/sport/fotboll/artikel/uneken-matchhjalte-nar-sirius-slog-vasteras/r9meqool",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "gais-hacken-goteborgsderby-oavgjort-2026",
+      "title": "GAIS och Häcken delade på poängen i Göteborgsderbyt",
+      "category": "Resultat",
+      "date": "2026-09-03",
+      "location": "Göteborg",
+      "summary": "Lokalderbyt mellan GAIS och Häcken slutade 0–0, vilket gav Häcken ett efterlängtat poäng borta samtidigt som GAIS klev upp i den allsvenska mitten.",
+      "source": "Fotbollskanalen",
+      "url": "https://www.fotbollskanalen.se/allsvenskan/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "malmo-ff-stoppar-sirius-2026-08-31",
+      "title": "Malmö FF stoppade serieledarna Sirius med 1–0-seger",
+      "category": "Resultat",
+      "date": "2026-08-31",
+      "location": "Malmö",
+      "summary": "Malmö FF vann mot tabelltvåan Sirius på hemmaplan, en av flera motgångar som gjorde att Uppsalalaget tappade tempo i guldstriden innan segern mot Västerås rättade till formkurvan.",
+      "source": "Allsvenskan.se",
+      "url": "https://www.svenskfotboll.se/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "orgryte-hammarby-delad-pott-2026-09-06",
+      "title": "Örgryte höll Hammarby till 1–1 på hemmaplan",
+      "category": "Resultat",
+      "date": "2026-09-06",
+      "location": "Göteborg",
+      "summary": "Nykomlingen Örgryte tog ett poäng mot toppjagande Hammarby i en jämn tillställning på Gamla Ullevi, vilket bromsade Hammarbys jakt på serieledande Sirius.",
+      "source": "Sofascore",
+      "url": "https://www.sofascore.com/football/tournament/sweden/allsvenskan/40",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "bordtennis-herrtrupp-em-ljubljana-2026",
+      "title": "Herrtruppen klar för bordtennis-EM i Ljubljana",
+      "category": "Uttagning",
+      "date": "2026-08-24",
+      "location": "Ljubljana",
+      "summary": "Förbundskapten Marcus Sjöberg tog ut Truls Möregårdh, Elias Ranefur, Anton Källberg, Kristian Karlsson och Mattias Karlsson till EM 11–18 oktober, där Möregårdh reser dit som världsfemma.",
+      "source": "Svenska Bordtennisförbundet",
+      "url": "https://sbtf.se/em-2026/herrtruppen-till-em-i-ljubljana/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "ymer-rinaldo-persson-us-open-kval-2026",
+      "title": "Ymer och Rinaldo Persson föll i US Open-kvalet",
+      "category": "Resultat",
+      "date": "2026-08-30",
+      "location": "New York",
+      "summary": "Elias Ymer vann sin första kvalmatch men föll mot Cristian Garin i andra omgången, medan Kajsa Rinaldo Persson gjorde sin första Grand Slam-start men åkte ut mot Lola Radivojevic direkt.",
+      "source": "SweTennis",
+      "url": "https://swetennis.se/internationellt/us-open-2026-tv-stream-sverige/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
     }
   ]
 }

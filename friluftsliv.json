@@ -2,8 +2,8 @@
   "topic": "Friluftsliv",
   "description": "Vandringsleder, friluftsutrustning, naturvård, allemansrätt och äventyr. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-30",
-  "item_count": 46,
+  "last_updated": "2026-09-06",
+  "item_count": 51,
   "items": [
     {
       "id": "pusselleden-invigd-sigtuna-2026",
@@ -542,6 +542,66 @@
       "url": "https://www.nsd.se/nyheter/norrbotten/artikel/manga-fjallraddningar-pa-kebnekaise-i-sommar/jvz5z6pr",
       "added_on": "2026-08-30",
       "collected_week": "2026-W35"
+    },
+    {
+      "id": "vastersjons-naturreservat-invigt-2026",
+      "title": "Västersjöns naturreservat invigt i Värmland",
+      "category": "Naturvård",
+      "date": "2026-09-05",
+      "location": "Torsby",
+      "summary": "Landshövding Georg Andrén invigde Västersjöns naturreservat i Torsby kommun, ett nytt skyddat område som ska bevara värdefull natur och samtidigt öppnas för friluftsliv.",
+      "source": "Länsstyrelsen Värmland",
+      "url": "https://www.lansstyrelsen.se/varmland/om-oss/kalender/kalenderhandelser---varmland/2026-09-05-invigning-av-vastersjons-naturreservat.html",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "alstensskogen-storskogen-naturreservat-invigt-2026",
+      "title": "Ålstensskogens och Storskogens naturreservat invigda i Bromma",
+      "category": "Naturvård",
+      "date": "2026-09-03",
+      "location": "Stockholm",
+      "summary": "Stockholms stad invigde två nya naturreservat i Bromma tillsammans med biotopskyddsområden vid Nockebyhov och Åkeslund, med öppet hus och aktiviteter för besökare.",
+      "source": "Stockholms stad",
+      "url": "https://vaxer.stockholm/projekt/alsten/naturreservat-i-alstensskogen-storskogen/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "stf-halverad-budget-friluftsliv-2026",
+      "title": "STF varnar för halverad statlig budget för friluftsliv",
+      "category": "Nyhet",
+      "date": "2026-09-02",
+      "location": "",
+      "summary": "Svenska Turistföreningen larmar om att statens satsning på friluftsliv riskerar att halveras under mandatperioden, vilket kan drabba underhåll av leder och fjällstugor.",
+      "source": "Svenska Turistföreningen",
+      "url": "https://www.svenskaturistforeningen.se/om-stf/aktuellt/halverad-budget-for-friluftsliv-under-mandatperioden/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "begagnad-friluftsutrustning-guide-2026",
+      "title": "Friluftsfrämjandet ger råd om begagnad friluftsutrustning",
+      "category": "Guide",
+      "date": "2026-08-28",
+      "location": "",
+      "summary": "Friluftsfrämjandet uppmanar fler att köpa begagnad tält-, ryggsäcks- och vandringsutrustning för att spara pengar och minska friluftslivets miljöpåverkan.",
+      "source": "Friluftsfrämjandet",
+      "url": "https://via.tt.se/pressmeddelande/3946647/billigare-och-mer-hallbart-sa-lyckas-du-med-begagnad-friluftsutrustning?publisherId=3237052&lang=sv",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "vandra-en-langled-guide-2026",
+      "title": "Guide: Så förbereder du dig för att vandra en långled",
+      "category": "Guide",
+      "date": "2026-08-17",
+      "location": "",
+      "summary": "Utemagasinet samlar tips för den som vill ge sig på en flerdagsvandring på en av Sveriges långleder, från packlista till hur man planerar dagsetapper och övernattningar.",
+      "source": "Utemagasinet",
+      "url": "https://www.utemagasinet.se/nyheter/20260817/vandra-en-langled/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
     }
   ]
 }

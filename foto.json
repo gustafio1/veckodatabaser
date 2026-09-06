@@ -2,8 +2,8 @@
   "topic": "Fotografi",
   "description": "Nya kameror och objektiv, fototeknik, utställningar, tävlingar och fotografer. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-30",
-  "item_count": 48,
+  "last_updated": "2026-09-06",
+  "item_count": 54,
   "items": [
     {
       "id": "canon-eos-r6-v-lanseras-2026",
@@ -580,6 +580,78 @@
       "url": "https://photorumors.com/2026/08/27/sigma-rumored-to-announce-new-lenses-on-september-8th/",
       "added_on": "2026-08-30",
       "collected_week": "2026-W35"
+    },
+    {
+      "id": "fujifilm-xf400mm-f45-lansering-2026",
+      "title": "Fujifilm lanserar supertelezoomen XF400mm F4.5 för X-systemet",
+      "category": "Objektiv",
+      "date": "2026-09-04",
+      "location": "",
+      "summary": "Fujifilm har presenterat teleobjektivet XF400mm F4.5 R LM OIS WR, som motsvarar 609 mm i fullformat och riktar sig till fotografer som skildrar fåglar, sport och flyg. Objektivet väger bara omkring 1,25 kilo och kan kombineras med nya telekonverterare för ännu längre brännvidd.",
+      "source": "Fujifilm",
+      "url": "https://www.fujifilm.com/us/en/news/fujifilm-introduces-fujinon-xf400mm-lens",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "audubon-photography-awards-2026-vinnare",
+      "title": "Vinnarna i Audubon Photography Awards 2026 utsedda",
+      "category": "Tävling",
+      "date": "2026-09-02",
+      "location": "",
+      "summary": "National Audubon Society har koras årets fågelfotografer, där Jacqueline Burke tog hem huvudpriset för USA och Kanada med en bild på en rosenskedstork medan Francisco Castro Escobar vann för Chile och Colombia. Tävlingen firar sitt sjuttonde år och delar för andra gången ut priser även till sydamerikanska fotografer.",
+      "source": "Audubon",
+      "url": "https://www.audubon.org/press-room/audubon-announces-2026-audubon-photography-awards-winners",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "hohem-eyepic-pocket-gimbalkamera-2026",
+      "title": "Hohem visar Eyepic – en fickgimbal som också fungerar som bärbar kamera",
+      "category": "Lansering",
+      "date": "2026-09-03",
+      "location": "Berlin, Tyskland",
+      "summary": "På mässan IFA i Berlin visade Hohem upp Eyepic, en fickgimbal med en löstagbar kameraenhet som kan bäras i keps eller halsrem för handsfree-filmning. Enheten spelar in vertikal 4K i 60 bilder per sekund och tål vatten ner till tio meters djup.",
+      "source": "PetaPixel",
+      "url": "https://petapixel.com/2026/09/03/hohem-unveils-the-worlds-first-2-in-1-pocket-gimbal-camera/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "gopro-mission-1-pro-ils-lansering-2026",
+      "title": "GoPro lanserar sin första systemkamera Mission 1 Pro ILS",
+      "category": "Kameror",
+      "date": "2026-09-02",
+      "location": "",
+      "summary": "GoPro har börjat sälja sin första kamera med utbytbara objektiv, en 197 gram lätt kropp som tar Micro Four Thirds-objektiv och kostar 699,99 dollar. Kameran saknar autofokus och traditionell bildstabilisering men förlitar sig i stället på GoPros HyperSmooth-teknik för videostabilisering.",
+      "source": "Digital Camera World",
+      "url": "https://www.digitalcameraworld.com/cameras/action-cameras/the-interchangeable-lens-gopro-is-finally-here-and-you-can-pre-order-it-now-for-usd699-99",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "om-system-pen-kamera-teaser-2026",
+      "title": "OM System retar inför ny PEN-kamera som lanseras 9 september",
+      "category": "Nyhet",
+      "date": "2026-08-26",
+      "location": "",
+      "summary": "OM System har bekräftat att en ny modell i den klassiska PEN-serien presenteras den 9 september, och teasermaterialet antyder en rutformad sökare, kreativ framdonratt och väderskydd som för tankarna till den populära PEN-F. Många bedömare tror att det handlar om en efterlängtad efterträdare i systemkamerans anrika formatserie.",
+      "source": "PetaPixel",
+      "url": "https://petapixel.com/2026/08/26/om-system-teases-new-pen-series-camera-launch-on-september-9/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "world-press-photo-stockholm-2026",
+      "title": "World Press Photo-utställningen kommer till Stockholm i höst",
+      "category": "Utställning",
+      "date": "2026-09-22",
+      "location": "Stockholm, Sverige",
+      "summary": "Den internationella pressfotoutställningen visas i Gallerian i Stockholm från 22 september till 12 oktober, med bilder av bland andra de svenska fotograferna Magnus Wennman, Niclas Hammarström, Paul Hansen och Jonas Lindkvist. Utställningen samlar det senaste årets mest uppmärksammade pressbilder från hela världen.",
+      "source": "SFF",
+      "url": "https://www.sfoto.se/f/world-press-photo-gallerian/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
     }
   ]
 }

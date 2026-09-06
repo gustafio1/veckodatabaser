@@ -2,8 +2,8 @@
   "topic": "Musik",
   "description": "Nya album, konserter, festivaler, svensk musik och musikbranschen. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-30",
-  "item_count": 48,
+  "last_updated": "2026-09-06",
+  "item_count": 55,
   "items": [
     {
       "id": "madonna-confessions-ii-slapp-2026",
@@ -580,6 +580,90 @@
       "url": "https://7an.se/artikel/2026-08-29/veckans-platta",
       "added_on": "2026-08-30",
       "collected_week": "2026-W35"
+    },
+    {
+      "id": "stability-ai-storbolagen-investerar-2026",
+      "title": "Universal, Sony och Warner investerar i AI-bolaget Stability AI",
+      "category": "Bransch",
+      "date": "2026-08-25",
+      "location": "",
+      "summary": "De tre största skivbolagen gick tillsammans med Electronic Arts och flera riskkapitalbolag in i en finansieringsrunda på 76 miljoner dollar i Stability AI, vilket gör bolaget till det första AI-företag som fått ägarkapital från samtliga tre majorbolag. Investeringen följer på tidigare licensavtal och väntas påskynda utvecklingen av nya AI-verktyg för musikskapande.",
+      "source": "Music Business Worldwide",
+      "url": "https://www.musicbusinessworldwide.com/universal-sony-warner-join-76m-funding-round-in-stability-ai/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "tove-lo-estrus-album-2026",
+      "title": "Tove Lo släpper nya albumet Estrus i september",
+      "category": "Släpp",
+      "date": "2026-09-18",
+      "location": "",
+      "summary": "Den svenska popstjärnan ger ut sitt sjätte studioalbum Estrus via eget bolaget Pretty Swede Records, inspelat i Los Angeles, Stockholm och en liten svensk ort från hennes barndom. Skivan innehåller ett samarbete med fransmannen Stromae och beskrivs av Tove Lo själv som ett album om motstridiga känslor utan enkla lösningar.",
+      "source": "Billboard",
+      "url": "https://www.billboard.com/music/pop/tove-lo-new-album-estrus-1236244661/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "namasenda-britney-spears-cover-equal-2026",
+      "title": "Namasenda tolkar Britney Spears i Spotifys jubileumsserie",
+      "category": "Nyhet",
+      "date": "2026-08-26",
+      "location": "Stockholm",
+      "summary": "Den svenska artisten Namasenda spelade in en cover av Britney Spears låt 'Lucky' i Spotifys studio i Stockholm, som en av fem kvinnliga artister som firar fem år av satsningen EQUAL för kvinnor inom musikbranschen. Namasenda har tidigare refererat till låten i egen musik och kallar inspelningen en cirkel som sluts.",
+      "source": "Kingsize Magazine",
+      "url": "https://www.kingsizemag.se/nyheter/namasenda-tolkar-britney-spears-del-av-equals-5-arsjubileum/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "melodifestivalen-2027-inskicket-oppet-2026",
+      "title": "Inskicket till Melodifestivalen 2027 har öppnat",
+      "category": "Nyhet",
+      "date": "2026-08-21",
+      "location": "",
+      "summary": "SVT presenterade regelverket för Melodifestivalen 2027 och öppnade samtidigt möjligheten att skicka in bidrag digitalt fram till den 11 september. Omkring 30 bidrag väntas tävla i deltävlingarna, och en jury bedömer låtarna utifrån bland annat radiovänlighet och streamingpotential innan urvalet till tävlingen görs.",
+      "source": "ESC-Panelen",
+      "url": "https://www.escpanelen.se/2026/08/regelverket-till-melodifestivalen-2027-presenterat/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "live-at-heart-2026-orebro-festival",
+      "title": "Live at Heart fyllde Örebro med fyra dagars musikfest",
+      "category": "Festival",
+      "date": "2026-09-02",
+      "location": "Örebro",
+      "summary": "Sveriges största showcasefestival och branschkonferens gick av stapeln 2–5 september med ett åttiotal akter utspridda på scener, kyrkor, caféer och gårdar i centrala Örebro. Vid sidan av liveframträdanden bjöd festivalen även på filmvisningar, poesi och branschsamtal för musikbranschens aktörer.",
+      "source": "Visit Örebro",
+      "url": "https://www.visitorebro.se/artikel/live-at-heart/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "pa-sparet-2026-artister-husband-2026",
+      "title": "Miriam Bryant och Veronica Maggio bland artisterna i höstens På spåret",
+      "category": "Nyhet",
+      "date": "2026-09-06",
+      "location": "",
+      "summary": "SVT har spikat vilka artister som medverkar i höstens säsong av På spåret, där bland andra Europe, Miriam Bryant och The Soundtrack of Our Lives står för husbandsmusiken medan artister som Veronica Maggio, Lisa Nilsson och Erik Grönwall gästar som programmet. Säsongen har premiär den 18 september.",
+      "source": "Musikindustrin",
+      "url": "https://www.musikindustrin.se/2026/09/06/artisterna-klara-i-pa-sparet/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "leel-music-barnstreamingtjanst-2026",
+      "title": "Ny barnanpassad musiktjänst Leel Music på väg",
+      "category": "Bransch",
+      "date": "2026-08-20",
+      "location": "",
+      "summary": "Den barnsäkra mobiltillverkaren Leel Phone lanserar en egen musiktjänst riktad till 5–12-åringar, byggd på Tuned Globals teknikplattform med kurerade spellistor och rättighetssäker infrastruktur. Tjänsten väntas lanseras under fjärde kvartalet 2026 i bland annat USA, Storbritannien och flera västeuropeiska länder.",
+      "source": "Music Ally",
+      "url": "https://musically.com/2026/08/20/child-safe-smartphone-maker-leel-phone-adds-a-music-service/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
     }
   ]
 }

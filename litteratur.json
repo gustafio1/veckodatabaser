@@ -2,8 +2,8 @@
   "topic": "Litteratur",
   "description": "Boksläpp, litterära priser, författarnyheter och förlagsbranschen. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-30",
-  "item_count": 50,
+  "last_updated": "2026-09-06",
+  "item_count": 57,
   "items": [
     {
       "id": "taiwan-travelogue-international-booker-2026",
@@ -604,6 +604,90 @@
       "url": "https://www.svb.se/foerdjupning/statligt-stoed-till-bokhandeln-vaende-negativ-trend/4489542",
       "added_on": "2026-08-30",
       "collected_week": "2026-W35"
+    },
+    {
+      "id": "kjell-westo-coda-2026",
+      "title": "Kjell Westö ger ut nya romanen \"Coda\"",
+      "category": "Boksläpp",
+      "date": "2026-09-04",
+      "location": "Helsingfors",
+      "summary": "Kjell Westö återvänder till Helsingfors i sin tionde roman Coda, som skildrar konstnärskollektivet Kommando Kronopio och förläggaren Andy Montags uppgörelse med ungdomens ideal. Utgivningen infaller när författaren firar fyrtio år som skribent och trettio år sedan romandebuten, och han har själv antytt att det kan bli hans sista roman.",
+      "source": "Schildts & Söderströms / STT Info",
+      "url": "https://www.sttinfo.fi/tiedote/72224257/kjell-westo-atervander-till-helsingfors-med-romanen-coda?publisherId=69817382&lang=sv",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "peter-englund-om-att-misslyckas-2026",
+      "title": "Peter Englund skriver essäbok om historiens och sina egna misslyckanden",
+      "category": "Boksläpp",
+      "date": "2026-09-01",
+      "location": "",
+      "summary": "I \"Om att misslyckas\" väver historikern Peter Englund samman stora historiska sammanbrott, som Palmeutredningen och det sovjetiska rymdprogrammet, med sin egen rädsla för att misslyckas. Boken är skriven utan kapitelindelning, som en löpande tankeström, och har mötts av positiva recensioner.",
+      "source": "Uppsala Nya Tidning",
+      "url": "https://www.unt.se/kultur/litteratur/artikel/peter-englund-slapper-boken-om-att-misslyckas/r49865oj",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "roland-paulsen-avbegavad-2026",
+      "title": "Roland Paulsen granskar intelligensmyten i \"Avbegåvad\"",
+      "category": "Boksläpp",
+      "date": "2026-09-01",
+      "location": "",
+      "summary": "Sociologen Roland Paulsen ifrågasätter i sin nya essäberättelse föreställningen om medfödd, fast intelligens och spårar hur idén vandrat från forskningslabb till betygssystem, diagnoser och urvalsprocesser. Han vävver in sin egen släkthistoria i resonemanget om arv och miljö.",
+      "source": "Göteborgs-Posten",
+      "url": "https://www.gp.se/kultur/litteratur/litteraturrecension/recension-avbegavad-av-roland-paulsen-.0567c66f-bbf3-4452-a1cd-80c23e292b5d",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "linnea-axelsson-saivo-2026",
+      "title": "Linnea Axelsson återkommer med versromanen \"Saivo\"",
+      "category": "Boksläpp",
+      "date": "2026-09-08",
+      "location": "",
+      "summary": "I uppföljaren till den hyllade \"Ædnan\" skildrar Linnea Axelsson en vänskap som prövas i Silbadalen sommaren 1987, året efter Tjernobyl, när en skog ska bli slutförvar för kärnavfall. Liksom i tidigare verk fångar hon i versform hur historiska trauman lever kvar i landskap och språk.",
+      "source": "Albert Bonniers Förlag",
+      "url": "https://www.albertbonniersforlag.se/bocker/297481/saivo/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "katarina-widholm-ler-som-en-angel-2026",
+      "title": "Katarina Widholm släpper roman som redan sålts till Frankrike",
+      "category": "Boksläpp",
+      "date": "2026-09-03",
+      "location": "",
+      "summary": "Efter succén med Betty-serien vänder sig Katarina Widholm mot en mörkare familjeberättelse om våld, tystnad och skuld från 1960-talet fram till nutid. Utländska rättigheter till boken har redan sålts till Frankrike, innan den ens hunnit ges ut i Sverige.",
+      "source": "Historiska Media",
+      "url": "https://www.mynewsdesk.com/se/historiskamedia/pressreleases/katarina-widholm-tillbaka-med-ny-roman-ler-som-en-aengel-utkommer-3-september-3453615",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "augustpriset-2026-anmalan-deadline",
+      "title": "Sista dag att anmäla böcker till Augustpriset 2026 närmar sig",
+      "category": "Pris",
+      "date": "2026-09-11",
+      "location": "",
+      "summary": "Förlagen har fram till klockan tolv den 11 september på sig att registrera sina utgivningar hos Förlagssystem för att bli aktuella för Augustpriset 2026. Därefter tar de tre jurygrupperna vid för att i oktober plocka ut arton nominerade titlar inför prisgalan på Dramaten i november.",
+      "source": "Augustpriset / Svenska Förläggareföreningen",
+      "url": "https://augustpriset.se/augustpriset/for-forlag/instruktioner/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "bookerpriset-2026-shortlist-tillkannages",
+      "title": "Bookerprisets shortlist för 2026 presenteras i London",
+      "category": "Pris",
+      "date": "2026-09-22",
+      "location": "London",
+      "summary": "Bookerprisets fem domare ska vid ett offentligt samtal på Southbank Centre smalna av sommarens longlist på tretton romaner till en shortlist på sex titlar. Vinnaren av det brittiska litteraturpriset utses därefter i november.",
+      "source": "The Booker Prizes",
+      "url": "https://thebookerprizes.com/the-booker-library/features/everything-you-need-to-know-about-the-booker-prize-2026-longlist",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
     }
   ]
 }

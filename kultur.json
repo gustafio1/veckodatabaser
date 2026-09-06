@@ -2,8 +2,8 @@
   "topic": "Kultur",
   "description": "Nya kulturevenemang i Sverige – festivaler, konserter, utställningar och scenkonst. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-30",
-  "item_count": 90,
+  "last_updated": "2026-09-06",
+  "item_count": 96,
   "items": [
     {
       "id": "sweden-rock-2026",
@@ -1144,6 +1144,78 @@
       "url": "https://www.theartnewspaper.com/2026/08/28/bonniers-konsthall-opens-exhibition-art-antifascist-resistance-ahead-swedish-election",
       "added_on": "2026-08-30",
       "collected_week": "2026-W35"
+    },
+    {
+      "id": "kulturtaget-demonstration-2026",
+      "title": "Kulturtåget samlade tusentals i tre städer inför valet",
+      "category": "Evenemang",
+      "date": "2026-09-05",
+      "location": "Malmö",
+      "summary": "Det partipolitiskt obundna initiativet Kulturtåget arrangerade manifestationer i Malmö, Stockholm och Göteborg för att lyfta kulturens villkor som en valfråga, med medverkan av bland andra Tommy Körberg och Sissela Kyle. Omkring 50 organisationer och fackförbund stod bakom demonstrationerna en vecka före riksdagsvalet.",
+      "source": "TT / Riksteatern",
+      "url": "https://via.tt.se/pressmeddelande/4524859/nationell-demonstration-for-kulturen-infor-valet?lang=sv",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "torka-aldrig-tarar-gota-lejon-2026",
+      "title": "Torka aldrig tårar utan handskar blir musikal på Göta Lejon",
+      "category": "Scenkonst",
+      "date": "2026-09-24",
+      "location": "Stockholm",
+      "summary": "Jonas Gardells roman och tv-klassiker får sin första svenska scenversion som musikal, med Ola Salo i rollen som Paul och nyskriven musik av Fredrik Kempe. Föreställningen har premiär på Göta Lejon och spelas fram till december.",
+      "source": "Lifeline Entertainment",
+      "url": "https://lifeline.se/torka-aldrig-tarar-utan-handskar-en-helt-nyskriven-musikal/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "bokmassan-goteborg-2026-program",
+      "title": "Bokmässan i Göteborg presenterar tema och hedersgäst för 2026",
+      "category": "Festival",
+      "date": "2026-09-24",
+      "location": "Göteborg",
+      "summary": "Årets bokmässa hålls 24–27 september med den kanadensiska regionen Québec som hedersgäst och spel som ett nytt eget programtema. Nyheter i år är satsningen \"Bokmässan på stan\" och en särskild Demokratiscen om litteratur och samhällsfrågor.",
+      "source": "Svenska Litteratur- och Fackboksforumet",
+      "url": "https://www.slff.se/nyheter/bokmassan-2026/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "kungliga-filharmonikerna-sasongsoppning-2026",
+      "title": "Kungliga Filharmonikerna öppnar jubileumssäsong i Konserthuset",
+      "category": "Konsert",
+      "date": "2026-09-10",
+      "location": "Stockholm",
+      "summary": "Chefdirigent Ryan Bancroft inleder orkesterns jubileumssäsong tillsammans med violinisten Vilde Frang, med musik av Sibelius, Korngold och Hillborg samt en nyskriven fanfar av tonsättaren i residens Djuro Zivkovic.",
+      "source": "Konserthuset Stockholm",
+      "url": "https://www.konserthuset.se/program-och-biljetter/kalender/konsert/2026/sasongsoppning/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "avig-riksteatern-ostersund-2026",
+      "title": "Dansföreställningen Avig hade nationell turnépremiär i Östersund",
+      "category": "Scenkonst",
+      "date": "2026-09-09",
+      "location": "Östersund",
+      "summary": "Riksteaterns hyllade familjeföreställning om längtan att passa in och modet att vara annorlunda, skapad av dansgruppen TUBO & Co, inledde sin höstturné runt om i landet.",
+      "source": "Riksteatern",
+      "url": "https://www.riksteatern.se/pa-scen/riksteaterns-nationella-turneer-hosten-2026/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "konstakademien-hostutstallningar-2026",
+      "title": "Konstakademien öppnade fem nya höstutställningar samtidigt",
+      "category": "Utställning",
+      "date": "2026-08-22",
+      "location": "Stockholm",
+      "summary": "Konstakademien inledde hösten med fem parallella separatutställningar, bland andra Martin Wests \"Material\" och Anders Rönnlunds \"Oppression\", som tillsammans speglar ett brett spann av samtida måleri och skulptur.",
+      "source": "Konstakademien",
+      "url": "https://konstakademien.se/kommande-utstallningar/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
     }
   ]
 }

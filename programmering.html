@@ -69,8 +69,8 @@ const DB = /*__DATA__*/{
   "topic": "Programmering",
   "description": "Nyheter för utvecklare: språk, ramverk, verktyg, AI-kodning och öppen källkod. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-30",
-  "item_count": 52,
+  "last_updated": "2026-09-06",
+  "item_count": 59,
   "items": [
     {
       "id": "typescript-7-nativ-kompilator-2026",
@@ -695,6 +695,90 @@ const DB = /*__DATA__*/{
       "url": "https://blog.angular.dev/announcing-angular-v22-c52bb83a4664",
       "added_on": "2026-08-30",
       "collected_week": "2026-W35"
+    },
+    {
+      "id": "python-3-15-rc2-2026",
+      "title": "Python 3.15 tar sista testrundan med release candidate 2",
+      "category": "Språk",
+      "date": "2026-09-01",
+      "location": "",
+      "summary": "Python 3.15.0 rc2 är ute med omkring 144 buggfixar, byggförbättringar och dokumentationsändringar sedan förra kandidaten. Den slutgiltiga releasen är fortsatt planerad till 1 oktober 2026, så endast rena buggfixar tas emot härifrån.",
+      "source": "Python Insider",
+      "url": "https://blog.python.org/2026/09/python-3150-rc2/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "rust-1-98-1-vtable-fix-2026",
+      "title": "Rust 1.98.1 rättar allvarlig kompilatorbugg i vtabeller",
+      "category": "Språk",
+      "date": "2026-09-03",
+      "location": "",
+      "summary": "Rust-teamet gav snabbt ut 1.98.1 sedan man upptäckt att 1.98.0 kunde generera en trait-objekt-vtabell med en null-pekare istället för en funktionspekare, vilket ledde till odefinierat beteende och risk för krascher. Utvecklare som redan uppgraderat till 1.98.0 uppmanas byta till den rättade versionen omgående.",
+      "source": "Rust Blog",
+      "url": "https://blog.rust-lang.org/2026/09/03/Rust-1.98.1/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "vscode-1-136-agent-merge-2026",
+      "title": "VS Code 1.136 hjälper agenter slutföra pull requests själva",
+      "category": "Verktyg",
+      "date": "2026-09-02",
+      "location": "",
+      "summary": "Septemberversionen av Visual Studio Code introducerar förhandsfunktionen Agent Merge, där en AI-agent kan lösa granskningskommentarer, misslyckade kontroller och sammanslagningskonflikter fram tills en pull request är redo att mergas. Samtidigt blir det experimentellt möjligt att köra Copilot- och Claude-agentsessioner över alla mappar i en multi-root-arbetsyta.",
+      "source": "Visual Studio Code",
+      "url": "https://code.visualstudio.com/updates/v1_136",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "kubernetes-1-37-garhwal-2026",
+      "title": "Kubernetes 1.37 \"Garhwal\" släppt med stabilt KYAML",
+      "category": "Öppen källkod",
+      "date": "2026-08-26",
+      "location": "",
+      "summary": "Kubernetes 1.37 är släppt med 67 förbättringar, där det strängare konfigurationsformatet KYAML nu blir stabilt och metrics.k8s.io-API:et lämnar beta efter nästan nio år. Horizontal Pod Autoscalers möjlighet att skala ner arbetslaster till noll repliker går samtidigt in i beta och är påslagen som standard.",
+      "source": "Kubernetes Blog",
+      "url": "https://kubernetes.io/blog/2026/08/26/kubernetes-v1-37-release/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "github-copilot-claude-fable-5-1-2026",
+      "title": "Anthropics Claude Fable 5.1 blir allmänt tillgänglig i Copilot",
+      "category": "AI-kodning",
+      "date": "2026-09-01",
+      "location": "",
+      "summary": "GitHub har gjort Anthropics nya modell Claude Fable 5.1 allmänt tillgänglig i Copilot för Pro+-, Max-, Business- och Enterprise-planerna, riktad mot långsiktiga autonoma kodnings- och kunskapsuppgifter. Modellen presterar starkt på svåra kodgranskningsbenchmarks men kräver som standard datalagring för Anthropics säkerhetsklassificerare.",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-09-01-claude-fable-5-1-generally-available-in-github-copilot/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "github-copilot-gpt-6-astra-2026",
+      "title": "OpenAIs GPT-6 Astra lanseras allmänt i GitHub Copilot",
+      "category": "AI-kodning",
+      "date": "2026-09-04",
+      "location": "",
+      "summary": "Bara några dagar efter Claude Fable 5.1 gjorde GitHub även OpenAIs GPT-6 Astra allmänt tillgänglig i Copilot för samma betalplaner, som ytterligare en modell inriktad på långa autonoma agentuppgifter. De två modellerna konkurrerar nu direkt om utvecklarnas val som standardmodell för komplexa kodningsagenter.",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-09-04-gpt-6-astra-is-generally-available-in-github-copilot/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "claude-code-managed-mcp-gitlab-2026",
+      "title": "Claude Code får styrda MCP-servrar för organisationer och GitLab-stöd",
+      "category": "AI-kodning",
+      "date": "2026-09-04",
+      "location": "",
+      "summary": "Anthropic har under veckans Claude Code-uppdateringar lagt till inställningen managedMcpServers så att organisationer centralt kan tillhandahålla HTTP/SSE-baserade MCP-servrar till alla användare, samt en flagga för att köra headless-sessioner helt utan behörighetsprompter på obemannade servrar. Uppdateringarna lade också till stöd för GitLabs merge request-kommandon och ett nytt /diff-kommando som visar okommitterade ändringar bredvid konversationen.",
+      "source": "Claude Code changelog",
+      "url": "https://code.claude.com/docs/en/changelog",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
     }
   ]
 }/*__END_DATA__*/;

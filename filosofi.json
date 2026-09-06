@@ -2,8 +2,8 @@
   "topic": "Filosofi",
   "description": "Nya filosofiböcker, debatt, forskning, evenemang och klassiker i nytt ljus. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-30",
-  "item_count": 52,
+  "last_updated": "2026-09-06",
+  "item_count": 57,
   "items": [
     {
       "id": "routledge-basta-filosofibockerna-2026",
@@ -628,6 +628,66 @@
       "url": "https://www.unipressalert.com/index.php?category=Philosophy",
       "added_on": "2026-08-30",
       "collected_week": "2026-W35"
+    },
+    {
+      "id": "cofnas-ghent-undervisningsforbud-2026",
+      "title": "Filosof vid Gents universitet portad från undervisning efter plagiattvist",
+      "category": "Debatt",
+      "date": "2026-08-27",
+      "location": "",
+      "summary": "Nathan Cofnas, postdoktor i filosofi vid Gents universitet, förbjöds undervisa i tre månader efter en infekterad tvist som följde hans anklagelser om plagiat mot Cambridgeprofessorn Jason Arday, som senare avled.",
+      "source": "Daily Nous / VRT NWS",
+      "url": "https://dailynous.com/2026/08/24/cofnas-suspended-by-ghent-university/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "apa-var-2026-dewey-forelasningar",
+      "title": "APA:s vårpriser 2026: Dewey-föreläsningar till Kittay och Sober",
+      "category": "Nyhet",
+      "date": "2026-06-18",
+      "location": "",
+      "summary": "American Philosophical Association utsåg sina vårpriser för 2026, däribland John Dewey-föreläsningarna till Eva Kittay och Elliott Sober samt Edinburgh-stipendiet till Cressida Heyes.",
+      "source": "Daily Nous",
+      "url": "https://dailynous.com/2026/06/18/apa-prizes-spring-2026-edition/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "ogieblyn-weil-schopenhauer-uppmarksamhet-essa-2026",
+      "title": "Essä sätter Simone Weil och Schopenhauer i dialog med AI-tidens uppmärksamhetskris",
+      "category": "Debatt",
+      "date": "2026-09-03",
+      "location": "",
+      "summary": "I en essä i The New York Review of Books använder Meghan O'Gieblyn Simone Weils och Arthur Schopenhauers filosofi för att belysa hur AI eroderar vår uppmärksamhet och förmåga till självständigt tänkande.",
+      "source": "The New York Review of Books",
+      "url": "https://www.nybooks.com/articles/2026/09/24/wishing-it-so-meghan-ogieblyn/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "damasio-natural-intelligence-bok-2026",
+      "title": "Damasio ger ut ny bok om medvetandets ursprung i kroppsliga förnimmelser",
+      "category": "Bok",
+      "date": "2026-09-15",
+      "location": "",
+      "summary": "Neuroforskaren och filosofen Antonio Damasio argumenterar i \"Natural Intelligence & The Logic of Consciousness\" för att medvetandet inte uppstår ur hjärnans högsta funktioner utan ur nervsystemets mest primitiva förnimmelser.",
+      "source": "Pantheon / Publishers Weekly",
+      "url": "https://www.publishersweekly.com/9798217207497",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "smilansky-paradoxical-ethics-bok-2026",
+      "title": "Smilansky utforskar etikens inbyggda paradoxer i ny bok",
+      "category": "Bok",
+      "date": "2026-06-11",
+      "location": "",
+      "summary": "I \"Paradoxical Ethics\" argumenterar filosofen Saul Smilansky för att moraliskt liv oundvikligen rymmer olösliga paradoxer, och att detta måste erkännas snarare än att teoretiseras bort.",
+      "source": "Oxford University Press",
+      "url": "https://global.oup.com/academic/product/paradoxical-ethics-9780198993896",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
     }
   ]
 }

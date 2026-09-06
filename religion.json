@@ -2,8 +2,8 @@
   "topic": "Religion – Nyheter",
   "description": "Religiösa nyheter från Vatikanen, kyrkor och trossamfund världen över. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-08-30",
-  "item_count": 120,
+  "last_updated": "2026-09-06",
+  "item_count": 126,
   "items": [
     {
       "id": "leo-xiv-tyska-studenter-2026",
@@ -1444,6 +1444,78 @@
       "url": "https://www.worldreligionnews.com/2026/08/sri-lanka-interfaith-peace-pilgrimage/",
       "added_on": "2026-08-30",
       "collected_week": "2026-W35"
+    },
+    {
+      "id": "leo-xiv-biskop-datong-vigning-2026",
+      "title": "Ny biskop av Datong vigd i Kina efter nästan 80 år",
+      "category": "Nyhet",
+      "date": "2026-08-31",
+      "location": "",
+      "summary": "Biskop Paolo Liu Honggang vigdes till biskop av det kinesiska stiftet Datong, den sjätte biskopsvigningen under Leo XIV och den tredje i Kina på tre månader inom ramen för Vatikanens avtal med Peking.",
+      "source": "Vatican News",
+      "url": "https://www.vaticannews.va/en/church/news/2026-08/bishop-of-datong-china-ordained.html",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "burke-rosenkransvandring-amsterdam-2026",
+      "title": "Kardinal Burke ledde botprocession i Amsterdams Vondelpark",
+      "category": "Nyhet",
+      "date": "2026-09-05",
+      "location": "",
+      "summary": "Kardinal Raymond Burke firade en högmässa i Amsterdam och ledde därefter en botrosenkransprocession till Vondelpark, platsen där stadens WorldPride hölls tidigare i år.",
+      "source": "Catholic World Report",
+      "url": "https://www.catholicworldreport.com/2026/09/05/cardinal-burke-to-lead-international-rosary-rally-in-amsterdam/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "metodistkyrkan-cyberbedrageri-stold-2026",
+      "title": "1,6 miljoner dollar stals från metodistkonferens genom cyberbedrägeri",
+      "category": "Nyhet",
+      "date": "2026-09-02",
+      "location": "",
+      "summary": "Bedragare utgav sig för bankanställda och tömde konton tillhörande United Methodist Church i New England/New York på över 1,6 miljoner dollar genom överföringar till 32 konton i 25 länder. Endast en mindre del har återfunnits.",
+      "source": "UM News",
+      "url": "https://www.umnews.org/en/news/conference-confronts-cyber-theft-with-faith-resolve",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "skapelsetiden-2026-levande-vatten",
+      "title": "Skapelsetiden 2026 har temat \"levande vatten\" mitt i krig och klimatkris",
+      "category": "Nyhet",
+      "date": "2026-09-01",
+      "location": "",
+      "summary": "Den ekumeniska skapelsetiden (1 september–4 oktober) har i år temat levande vatten, och Leo XIV kopplar i sitt budskap samman väpnade konflikter med miljöförstöring och hot mot vatten- och matsäkerhet.",
+      "source": "Anglican Communion News Service",
+      "url": "https://www.anglicannews.org/news/2026/09/season-of-creation-focuses-on-theme-of-%E2%80%98living-water%E2%80%99,-as-floods-and-droughts-batter-communities-around-the-world.aspx",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "leo-xiv-angelus-ukraina-fred-2026",
+      "title": "Leo XIV fördömde ryska attacker och vädjade om fred i Ukraina",
+      "category": "Nyhet",
+      "date": "2026-09-06",
+      "location": "",
+      "summary": "Vid söndagens angelusbön beklagade påven de senaste ryska attackerna mot Ukraina och uttryckte hopp om fred i samband med USA-ledda medlingsförsök.",
+      "source": "National Catholic Register",
+      "url": "https://www.ncregister.com/cna/pope-leo-angelus-sept-6-2026-9rdv5vqf",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
+    },
+    {
+      "id": "pew-muslimska-amerikaner-9-11-25-ar-2026",
+      "title": "Pew: synen på muslimer i USA har hårdnat 25 år efter 11 september",
+      "category": "Nyhet",
+      "date": "2026-09-04",
+      "location": "",
+      "summary": "En ny Pew-rapport visar att andelen amerikaner som tror att islam uppmuntrar våld mer än andra religioner har ökat sedan 2001, samtidigt som antalet muslimer i USA vuxit kraftigt under samma period.",
+      "source": "Pew Research Center",
+      "url": "https://www.pewresearch.org/newsletter/religion-weekly/25-years-after-9-11-a-portrait-of-muslim-americans/",
+      "added_on": "2026-09-06",
+      "collected_week": "2026-W36"
     }
   ]
 }

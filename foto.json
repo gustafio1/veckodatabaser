@@ -2,8 +2,8 @@
   "topic": "Fotografi",
   "description": "Nya kameror och objektiv, fototeknik, utställningar, tävlingar och fotografer. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-06",
-  "item_count": 54,
+  "last_updated": "2026-09-13",
+  "item_count": 62,
   "items": [
     {
       "id": "canon-eos-r6-v-lanseras-2026",
@@ -652,6 +652,102 @@
       "url": "https://www.sfoto.se/f/world-press-photo-gallerian/",
       "added_on": "2026-09-06",
       "collected_week": "2026-W36"
+    },
+    {
+      "id": "om-system-pen-officiell-lansering-2026",
+      "title": "OM System lanserar PEN-kameran officiellt",
+      "category": "Lansering",
+      "date": "2026-09-09",
+      "location": "",
+      "summary": "Efter flera veckors teasrar och läckor presenterade OM System officiellt sin nya PEN-systemkamera med sökare, väderskydd och en 20-megapixelsensor. Kameran kostar från 999 dollar och börjar levereras i slutet av oktober.",
+      "source": "Digital Camera World",
+      "url": "https://www.digitalcameraworld.com/cameras/mirrorless-cameras/the-legendary-pen-is-back-om-systems-new-mirrorless-camera-is-now-available-to-preorder",
+      "added_on": "2026-09-13",
+      "collected_week": "2026-W37"
+    },
+    {
+      "id": "sony-fe-8-14mm-f35-g-fisheye-lansering-2026",
+      "title": "Sony lanserar sitt första fisheyeobjektiv för E-mount på 20 år",
+      "category": "Lansering",
+      "date": "2026-09-08",
+      "location": "",
+      "summary": "Sony presenterade FE 8-14mm f/3,5 G, en fisheyezoom som går från cirkulär till diagonal fisheyeeffekt inom samma objektiv. Det är företagets första fullformatsfisheye på två decennier och riktar sig både till stillbilds- och videofotografer.",
+      "source": "PetaPixel",
+      "url": "https://petapixel.com/2026/09/08/the-8-14mm-f-3-5-fisheye-g-is-sonys-first-full-frame-fisheye-in-20-years/",
+      "added_on": "2026-09-13",
+      "collected_week": "2026-W37"
+    },
+    {
+      "id": "sigma-85mm-f12-dg-art-20-60mm-officiell-lansering-2026",
+      "title": "Sigma lanserar officiellt 85mm f/1,2 Art och 20-60mm f/2,8-4",
+      "category": "Lansering",
+      "date": "2026-09-08",
+      "location": "",
+      "summary": "Sigma bekräftade sitt tidigare läckta 85mm f/1,2 DG Art-objektiv tillsammans med en ny standardzoom, 20-60mm f/2,8-4, för Sony E och Leica L. Objektivet är det lättaste i sin klass och når butik i oktober för 1599 dollar.",
+      "source": "GlobeNewswire / Sigma",
+      "url": "https://www.globenewswire.com/news-release/2026/09/08/3357305/0/en/sigma-announces-new-85mm-f1-2-art-20-60mm-f-2-8-4-contemporary-lenses-youtube-first-look-video-and-more-info-at-b-h.html",
+      "added_on": "2026-09-13",
+      "collected_week": "2026-W37"
+    },
+    {
+      "id": "sigma-aizu-prime-cinelinser-2026",
+      "title": "Sigma utökar cinema-serien Aizu Prime med tre nya objektiv",
+      "category": "Lansering",
+      "date": "2026-09-02",
+      "location": "",
+      "summary": "Sigma introducerade tre nya filmobjektiv i serien Aizu Prime – 21mm, 100mm och 125mm, samtliga med bländare T1.3 för storformatssensorer som Arri Alexa LF och VistaVision-kameror. Objektiven riktar sig mot professionella filmproduktioner.",
+      "source": "Photo Rumors",
+      "url": "https://photorumors.com/2026/09/02/sigma-announced-new-21mm-t1-3-lf-100mm-t1-3-lf-and-125mm-t1-3-lf-aizu-prime-cine-lenses/",
+      "added_on": "2026-09-13",
+      "collected_week": "2026-W37"
+    },
+    {
+      "id": "viltrox-ibc-2026-nya-objektiv",
+      "title": "Viltrox visar upp nya objektiv för L-mount och APS-C på IBC 2026",
+      "category": "Nyhet",
+      "date": "2026-09-10",
+      "location": "Amsterdam",
+      "summary": "På filmmässan IBC i Amsterdam presenterade Viltrox flera nya objektiv, bland annat fullformatsserien AF 14mm, 20mm, 40mm och 50mm för L-mount samt ett ljusstarkt 35mm f/1,4 Pro. Företaget visade även nya APS-C-objektiv med f/1,2.",
+      "source": "Photo Rumors",
+      "url": "https://photorumors.com/2026/09/10/viltrox-unveiled-new-lenses-at-ibc-2026/",
+      "added_on": "2026-09-13",
+      "collected_week": "2026-W37"
+    },
+    {
+      "id": "nikon-nikkor-z-cinema-t19-vv-serie-2026",
+      "title": "Nikon utvecklar nio nya cinemaobjektiv i serien Nikkor Z Cinema T1.9 VV",
+      "category": "Nyhet",
+      "date": "2026-09-08",
+      "location": "",
+      "summary": "Nikon meddelade att man utvecklar nio nya filmobjektiv som täcker en bildcirkel större än fullformat, avsedda för kameror som Red V-Raptor. Serien är den första i sitt slag från Nikon och visades bland annat upp på mässan IBC i Amsterdam.",
+      "source": "DPReview",
+      "url": "https://www.dpreview.com/news/nikon-formally-announces-the-nine-cinema-lenses-its-been-teasing-for-a-year/",
+      "added_on": "2026-09-13",
+      "collected_week": "2026-W37"
+    },
+    {
+      "id": "canon-eos-r8-mark-ii-lackta-uppgifter-2026",
+      "title": "Läckor pekar mot Canon EOS R8 Mark II med lansering den 15 september",
+      "category": "Rykte",
+      "date": "2026-09-11",
+      "location": "",
+      "summary": "Enligt läckta bilder och specifikationer väntas Canon presentera EOS R8 Mark II med ny fyrkantigare design, joystick och förbättrad bildstabilisering byggd på sensorn från EOS R6 Mark II. Canon har ännu inte bekräftat uppgifterna officiellt.",
+      "source": "Canon Rumors",
+      "url": "https://www.canonrumors.com/canon-eos-r8-mark-ii-launching-sept-15-along-with-the-speedlite-el-5-ii-and-more/",
+      "added_on": "2026-09-13",
+      "collected_week": "2026-W37"
+    },
+    {
+      "id": "landskrona-foto-festival-2026-displacement",
+      "title": "Landskrona Foto Festival firar tioårsjubileum med utställningstemat Displacement",
+      "category": "Utställning",
+      "date": "2026-09-04",
+      "location": "Landskrona",
+      "summary": "Landskrona Foto Festival är tillbaka för tionde gången med en utomhusutställning på temat Displacement, som utforskar tvångsförflyttning och känslan av att inte höra hemma. Utställningen visas på offentliga platser runt om i staden till den 20 september.",
+      "source": "Landskrona Foto",
+      "url": "https://www.landskronafoto.org/utstallningar-festival-2026/",
+      "added_on": "2026-09-13",
+      "collected_week": "2026-W37"
     }
   ]
 }

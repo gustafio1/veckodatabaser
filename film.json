@@ -2,8 +2,8 @@
   "topic": "Film & TV",
   "description": "Biopremiärer, streaming, TV-serier, svensk film och filmfestivaler. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-06",
-  "item_count": 54,
+  "last_updated": "2026-09-13",
+  "item_count": 62,
   "items": [
     {
       "id": "sju-biopremiarer-juli-2026",
@@ -652,6 +652,102 @@
       "url": "https://www.forbes.com/sites/erikkain/2026/09/01/the-top-10-movies-new-to-netflix-in-september-2026/",
       "added_on": "2026-09-06",
       "collected_week": "2026-W36"
+    },
+    {
+      "id": "by-any-means-biopremiar-2026",
+      "title": "\"By Any Means\" med Mark Wahlberg har biopremiär",
+      "category": "Premiär",
+      "date": "2026-09-11",
+      "location": "",
+      "summary": "Thrillern om maffiafiguren Gregory Scarpa som samarbetar med FBI för att klara upp mord på medborgarrättsledare i 1960-talets Mississippi har fått svensk biopremiär. Filmen är regisserad av Elegance Bratton och spelas i huvudrollerna av Mark Wahlberg och Yahya Abdul-Mateen II.",
+      "source": "Bio.nu",
+      "url": "https://bio.nu/by-any-means/",
+      "added_on": "2026-09-13",
+      "collected_week": "2026-W37"
+    },
+    {
+      "id": "mutiny-statham-biopremiar-2026",
+      "title": "\"Mutiny\" med Jason Statham har biopremiär",
+      "category": "Premiär",
+      "date": "2026-09-11",
+      "location": "",
+      "summary": "Actionfilmen om en hämndlysten man som ombord på ett lastfartyg avslöjar en internationell konspiration har nått svenska biografer. Filmen regisseras av Jean-François Richet och recensenter har konstaterat att actionscenerna är färre än väntat trots Jason Stathams medverkan.",
+      "source": "Filmparadiset",
+      "url": "https://filmparadiset.se/2026/09/11/recension-mutiny-jason-statham-gar-pa-tomgang-till-havs/",
+      "added_on": "2026-09-13",
+      "collected_week": "2026-W37"
+    },
+    {
+      "id": "la-grazia-sorrentino-biopremiar-2026",
+      "title": "Sorrentinos \"La Grazia\" har svensk biopremiär",
+      "category": "Premiär",
+      "date": "2026-09-11",
+      "location": "",
+      "summary": "Paolo Sorrentinos politiska drama om en italiensk president som brottas med svåra moraliska beslut i sina sista ämbetsmånader visas nu på svenska biografer. Filmen, som öppnade filmfestivalen i Venedig 2025, är regissörens sjunde samarbete med skådespelaren Toni Servillo.",
+      "source": "Kulturbloggen",
+      "url": "https://kulturbloggen.com/?p=208582",
+      "added_on": "2026-09-13",
+      "collected_week": "2026-W37"
+    },
+    {
+      "id": "oasis-dokumentar-biopremiar-2026",
+      "title": "Oasis-dokumentären \"Don't Look Back In Anger\" har biopremiär",
+      "category": "Premiär",
+      "date": "2026-09-11",
+      "location": "",
+      "summary": "Dokumentären om bröderna Gallaghers återförening och Oasis efterlängtade comeback-turné visas nu på svenska biografer, bland annat på Filmstaden Luxe. Filmen bjuder på tidigare osläppt material och den första gemensamma intervjun med Liam och Noel Gallagher på över 25 år.",
+      "source": "Filmstaden",
+      "url": "https://www.filmstaden.se/film/oasis-dont-look-back-in-anger/",
+      "added_on": "2026-09-13",
+      "collected_week": "2026-W37"
+    },
+    {
+      "id": "frame-filmfestival-goteborg-2026",
+      "title": "Frame Filmfestival lyste upp Göteborg med kortfilm",
+      "category": "Festival",
+      "date": "2026-09-11",
+      "location": "Göteborg",
+      "summary": "Kortfilmsfestivalen Frame samlade filmare och publik i Göteborg med visningar av 37 filmer i fyra tävlingskategorier på Bio Roy. Festivalen inleddes med diskussioner och möten, bland andra med regissören Isabella Eklöf, och avslutades med prisutdelning.",
+      "source": "FilmCloud",
+      "url": "https://www.filmcloud.se/sidor/frame-filmfestival-11-12-sep-2026",
+      "added_on": "2026-09-13",
+      "collected_week": "2026-W37"
+    },
+    {
+      "id": "fauda-sasong-5-netflix-2026",
+      "title": "\"Fauda\" är tillbaka med femte säsongen på Netflix",
+      "category": "Streaming",
+      "date": "2026-09-08",
+      "location": "",
+      "summary": "Samtliga elva avsnitt av den femte säsongen av den israeliska actiondramat Fauda släpptes samtidigt på Netflix, inklusive i Sverige. Serien följer en hemlig israelisk insatsstyrka och har byggt upp en stor internationell fanskara sedan starten.",
+      "source": "Deadline",
+      "url": "https://deadline.com/2026/08/fauda-season-5-release-date-first-look-images-1237030047/",
+      "added_on": "2026-09-13",
+      "collected_week": "2026-W37"
+    },
+    {
+      "id": "dodlig-lek-sasong-2-svt-play-2026",
+      "title": "Brittiska krimserien \"Dödlig lek\" tillbaka på SVT Play",
+      "category": "Streaming",
+      "date": "2026-09-09",
+      "location": "",
+      "summary": "Andra säsongen av den brittiska mysterieserien Dödlig lek har fått premiär på SVT Play som en del av kanalens satsning på nya krimserier i september. Serien är en av flera brittiska produktioner som SVT Play lanserar under hösten.",
+      "source": "Filmtopp",
+      "url": "https://www.filmtopp.se/nyhet/svtplay-svt-play-slapper-ny-sasong-av-brittiska-krimserien-dodlig-lek-fran-2026",
+      "added_on": "2026-09-13",
+      "collected_week": "2026-W37"
+    },
+    {
+      "id": "diagnoser-mia-skaringer-svt-play-2026",
+      "title": "Mia Skäringer aktuell i ny SVT-serie \"Diagnoser\"",
+      "category": "Streaming",
+      "date": "2026-09-04",
+      "location": "",
+      "summary": "Den nya svenska dramaserien Diagnoser med Mia Skäringer har haft premiär på SVT Play. Serien handlar om ensamstående mamman Bella vars tolvåriga son får problem i skolan och rekommenderas en adhd-utredning.",
+      "source": "Filmtopp",
+      "url": "https://www.filmtopp.se/nyhet/svtplay-nu-slapps-svt-s-nya-serie-med-mia-skaringer-premiar-innan-helgen",
+      "added_on": "2026-09-13",
+      "collected_week": "2026-W37"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "topic": "Konst & design",
   "description": "Konstutställningar, design, arkitektur, auktioner och konstvärlden. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-06",
-  "item_count": 55,
+  "last_updated": "2026-09-13",
+  "item_count": 62,
   "items": [
     {
       "id": "moderna-museet-nisabas-hus-maleri-2026",
@@ -664,6 +664,90 @@
       "url": "https://www.bukowskis.com/en/auctions/online",
       "added_on": "2026-09-06",
       "collected_week": "2026-W36"
+    },
+    {
+      "id": "yung-lean-collected-works-stockholm-2026",
+      "title": "Yung Lean debuterar som bildkonstnär med retrospektiv i Stockholm",
+      "category": "Utställning",
+      "date": "2026-09-25",
+      "location": "Stockholm",
+      "summary": "Artisten Jonatan Leandoer Håstad, känd som Yung Lean, visar sin första stora bildkonstutställning på Torsgatan 22 med tio års måleri, collage, skulptur och film. Efter visningen ska ett urval av verken säljas på auktion i samarbete med Bukowskis.",
+      "source": "Kingsize Magazine",
+      "url": "https://www.kingsizemag.se/nyheter/yung-lean-presenterar-sin-forsta-utstallning-med-bildkonst/",
+      "added_on": "2026-09-13",
+      "collected_week": "2026-W37"
+    },
+    {
+      "id": "oslo-arkitekturtriennale-2026-natur-forst",
+      "title": "Oslos arkitekturtriennal frågar vad som händer om naturen kommer först",
+      "category": "Arkitektur",
+      "date": "2026-09-17",
+      "location": "Oslo, Norge",
+      "summary": "Den nionde upplagan av Oslo Architecture Triennale öppnar med temat \"What if Nature Comes First?\" i den ombyggda Sofienbergkyrkan, kuraterad av Line Ramstad. Triennalen pågår till 1 oktober och samlar internationella gäster kring hur ekologi kan styra framtidens stadsbyggande.",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1183847/oslo-architecture-triennale-2026-announces-programme-for-9th-edition-under-what-if-nature-comes-first",
+      "added_on": "2026-09-13",
+      "collected_week": "2026-W37"
+    },
+    {
+      "id": "herzog-de-meuron-in-focus-mplus-2026",
+      "title": "M+ i Hongkong hyllar Herzog & de Meurons kinesiska arkitektur",
+      "category": "Arkitektur",
+      "date": "2026-09-12",
+      "location": "Hongkong",
+      "summary": "I samband med museets femårsjubileum öppnar M+ utställningen \"Herzog & de Meuron: In Focus\" med modeller, ritningar och material från tio av arkitektkontorets kinesiska projekt, däribland M+-byggnaden själv och Pekings nationalstadion. Utställningen bygger på en ny donation till museets samling och pågår till januari 2027.",
+      "source": "ArchDaily",
+      "url": "https://www.archdaily.com/1184216/m-plus-hong-kong-exhibition-traces-herzog-and-de-meurons-design-process-across-china",
+      "added_on": "2026-09-13",
+      "collected_week": "2026-W37"
+    },
+    {
+      "id": "paris-design-week-2026-oppnar",
+      "title": "Paris Design Week fyller staden med designutställningar i tio dagar",
+      "category": "Design",
+      "date": "2026-09-10",
+      "location": "Paris, Frankrike",
+      "summary": "Paris Design Week pågår 10–19 september över 350 platser i fyra stadsdelar, med mässan Maison&Objet, hundratals unga formgivare i Design Week Factory och den irländske möbelformgivaren Joseph Walsh som årets hedersgäst på Hôtel de Sully. Programmet befäster Paris ställning som en av höstens viktigaste designstäder.",
+      "source": "Dezeen Events Guide",
+      "url": "https://www.dezeen.com/eventsguide/2026/09/paris-design-week-2026/",
+      "added_on": "2026-09-13",
+      "collected_week": "2026-W37"
+    },
+    {
+      "id": "johan-sundberg-pine-house-hallandsasen-2026",
+      "title": "Korsformat fritidshus av Johan Sundberg smyger in i skånsk skog",
+      "category": "Arkitektur",
+      "date": "2026-09-13",
+      "location": "Hallandsåsen, Sverige",
+      "summary": "Dezeen lyfter fram Johan Sundberg Arkitekturs fritidshus Pine House, en 152 kvadratmeter stor byggnad med korsformad planlösning som ligger inbäddad i en norrsluttning på Hallandsåsen. Huset är ritat i nära dialog med beställarna och visar en fortsatt svensk trend mot lågmäld arkitektur som underordnar sig landskapet.",
+      "source": "Dezeen",
+      "url": "https://www.dezeen.com/2026/09/13/johan-sundberg-arkitektur-pine-house/",
+      "added_on": "2026-09-13",
+      "collected_week": "2026-W37"
+    },
+    {
+      "id": "eva-gonzales-petit-palais-2026",
+      "title": "Petit Palais ger Eva Gonzalès sin första stora retrospektiv",
+      "category": "Utställning",
+      "date": "2026-09-15",
+      "location": "Paris, Frankrike",
+      "summary": "Petit Palais öppnar den första globala monografiska utställningen om impressionisten Eva Gonzalès, Édouard Manets enda elev, med närmare hundra verk som ställs mot samtida konstnärer som Berthe Morisot och Mary Cassatt. Utställningen pågår till 24 januari 2027 och reser sedan vidare till Van Gogh Museum i Amsterdam.",
+      "source": "Petit Palais",
+      "url": "https://www.petitpalais.paris.fr/decouvrir-la-programmation/expositions/eva-gonzales",
+      "added_on": "2026-09-13",
+      "collected_week": "2026-W37"
+    },
+    {
+      "id": "bukowskis-september-onlineauktioner-2026",
+      "title": "Bukowskis fyller september med parallella nätauktioner",
+      "category": "Auktion",
+      "date": "2026-09-09",
+      "location": "Stockholm",
+      "summary": "Bukowskis kör under september ett tiotal parallella temaauktioner online, bland annat Contemporary Art, Selected Design, Prints & Multiples och samlingar med enskilda konstnärskap som Eddie Figge och Lennart Olausson. Utbudet visar hur nischade nätauktioner blivit en stadig del av husets höstprogram vid sidan av de stora säsongsauktionerna.",
+      "source": "Bukowskis",
+      "url": "https://www.bukowskis.com/en/auctions/online",
+      "added_on": "2026-09-13",
+      "collected_week": "2026-W37"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "topic": "Psykologi – Vänskap",
   "description": "Ny forskning och insikter om vänskap, relationer och social anknytning. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-06",
-  "item_count": 92,
+  "last_updated": "2026-09-20",
+  "item_count": 99,
   "items": [
     {
       "id": "vanskap-folkhalsotillgang-2026",
@@ -1108,6 +1108,90 @@
       "url": "https://www.geriatrik.lu.se/artikel/ny-forskning-visar-att-ensamhet-kan-kopplas-till-okad-symtomborda-somnproblem-och",
       "added_on": "2026-09-06",
       "collected_week": "2026-W36"
+    },
+    {
+      "id": "ensamhet-sammanhang-personlighet-tonaringar-2026",
+      "title": "Sällskap räcker inte – personlighet och sammanhang avgör tonåringars ensamhet i stunden",
+      "category": "Forskning",
+      "date": "2026-09-13",
+      "location": "Tyskland",
+      "summary": "En studie med 294 ungdomar och unga vuxna som svarat på över 27 000 smartphone-baserade check-in visar att det inte räcker att vara med andra för att slippa känna sig ensam – avgörande är vem man är tillsammans med. Personer med mer instabila och maladaptiva personlighetsdrag rapporterade högre och mer varierande ensamhetskänsla oavsett socialt sammanhang.",
+      "source": "PsyPost / Development and Psychopathology",
+      "url": "https://www.psypost.org/how-personality-and-social-context-shape-adolescent-loneliness/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "musiksmak-relationskvalitet-par-2026",
+      "title": "Gemensam musiksmak hänger ihop med relationskvalitet – mer än liknande personlighet",
+      "category": "Forskning",
+      "date": "2026-09-19",
+      "location": "",
+      "summary": "Ny studie av romantiska par visar att partners musiksmak överlappar betydligt mer än deras personlighetsdrag eller värderingar, och att just delade favoritartister hänger samman med något högre relationsnöjdhet. Att matcha i personlighet eller värderingar visade sig däremot inte ha något tydligt samband med hur nöjda paren var.",
+      "source": "PsyPost",
+      "url": "https://www.psypost.org/musical-compatibility-often-outshines-personality-matching-in-romantic-couples/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "hjarnsynkronisering-generationer-sociala-band-2026",
+      "title": "Yngre och äldre par bygger sociala band på ett annat sätt i hjärnan",
+      "category": "Forskning",
+      "date": "2026-09-13",
+      "location": "",
+      "summary": "I en sex veckor lång studie fick par av samma eller olika generationer teckna tillsammans varje vecka medan hjärnaktiviteten mättes. Hjärnsynkroniseringen ökade över tid hos jämnåriga par men minskade hos par med stor åldersskillnad – trots att båda grupperna upplevde ökad närhet och minskad ensamhet under studiens gång.",
+      "source": "PsyPost / PLOS Biology",
+      "url": "https://www.psypost.org/tracking-brain-waves-reveals-a-surprising-twist-in-how-different-generations-form-social-bonds/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "nostalgi-expartner-relationsnojdhet-2026",
+      "title": "Att minnas en tidigare kärlek kan stärka nöjdheten i det nuvarande förhållandet",
+      "category": "Studie",
+      "date": "2026-09-08",
+      "location": "Sydkorea",
+      "summary": "En experimentstudie med 172 ogifta sydkoreanska vuxna, alla i pågående förhållanden, visar att nostalgiska minnen av en tidigare partner oväntat kan öka tillfredsställelsen med den nuvarande relationen. Resultaten utmanar tanken att längtan efter det förflutna alltid är ett hot mot en pågående kärleksrelation.",
+      "source": "PsyPost",
+      "url": "https://www.psypost.org/nostalgia-for-past-loves-can-surprisingly-boost-current-relationship-satisfactio/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "begransade-familjeband-vankontakt-ensamhet-25-lander-2026",
+      "title": "Täta vänkontakter dämpar ensamheten mest när familjebanden är svaga",
+      "category": "Forskning",
+      "date": "2026-09-01",
+      "location": "",
+      "summary": "En internationell studie av vuxna över 45 år i 25 länder visar att avsaknad av partner är starkt kopplad till ensamhet, men att frekvent kontakt med vänner tydligt dämpar effekten – särskilt för dem utan partner. I länder där vänskap värderas högt var risken för ensamhet generellt lägre.",
+      "source": "Social Science & Medicine (Mair et al.)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13246163/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "granovetter-styrkan-i-svaga-band-1973",
+      "title": "Klassikern om \"svaga bands styrka\" i våra sociala nätverk",
+      "category": "Insikt",
+      "date": "1973-05-01",
+      "location": "",
+      "summary": "Mark Granovetters klassiska sociologistudie visar att våra löst sammanhållna bekantskaper – snarare än våra närmaste vänner – ofta ger oss tillgång till ny information och nya möjligheter, eftersom nära vänner rör sig i samma sociala kretsar som vi själva. Studien blev ett av samhällsvetenskapens mest inflytelserika arbeten och lade grunden för mycket av dagens forskning om sociala nätverk.",
+      "source": "American Journal of Sociology (Granovetter)",
+      "url": "https://www.journals.uchicago.edu/doi/10.1086/225469",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "djupa-samtal-frammande-underskattas-2021",
+      "title": "Vi underskattar hur givande djupa samtal med främlingar faktiskt blir",
+      "category": "Insikt",
+      "date": "2021-09-14",
+      "location": "",
+      "summary": "En serie experiment visar att människor konsekvent förväntar sig att djupa, personliga samtal med okända ska kännas mer besvärande och mindre meningsfulla än de faktiskt visar sig bli. Deltagarna underskattade både sitt eget intresse för att lyssna och hur intresserad motparten skulle vara – och kände sig i efterhand lyckligare och mer samhöriga än de trott.",
+      "source": "American Psychological Association / Journal of Personality and Social Psychology",
+      "url": "https://www.apa.org/news/press/releases/2021/09/deep-conversations-strangers",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
     }
   ]
 }

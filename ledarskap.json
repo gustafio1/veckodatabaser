@@ -2,8 +2,8 @@
   "topic": "Ledarskap – John Maxwell",
   "description": "Ledarskapsprinciper och lärdomar från John C. Maxwell, inklusive De 21 oeftergivliga ledarskapslagarna. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-06",
-  "item_count": 120,
+  "last_updated": "2026-09-20",
+  "item_count": 127,
   "items": [
     {
       "id": "lockets-lag",
@@ -1444,6 +1444,90 @@
       "url": "https://www.simonandschuster.com/books/The-16-Undeniable-Laws-of-Communication/John-C-Maxwell/9798887100081",
       "added_on": "2026-09-06",
       "collected_week": "2026-W36"
+    },
+    {
+      "id": "bok-change-your-world",
+      "title": "Förändra din värld (Change Your World: How Anyone, Anywhere Can Make a Difference)",
+      "category": "Bok",
+      "date": "2021-01-01",
+      "location": "",
+      "summary": "Maxwell skriver tillsammans med Rob Hoskins om hur vanliga människor kan skapa positiv förändring i sin närmiljö genom att bygga upp fem kärnvärden i sina samhällen. Boken flyttar fokus från organisationsledarskap till gräsrotspåverkan och medborgerligt engagemang.",
+      "source": "John C. Maxwell & Rob Hoskins, HarperCollins Leadership",
+      "url": "https://www.harpercollinsleadership.com/9781400222315/change-your-world/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "bok-thinking-for-a-change",
+      "title": "Tänk om (Thinking for a Change: 11 Ways Highly Successful People Approach Life and Work)",
+      "category": "Bok",
+      "date": "2005-01-01",
+      "location": "",
+      "summary": "I denna bok beskriver Maxwell elva olika tankesätt – bland annat helhets-, fokuserat, kreativt och strategiskt tänkande – som han menar skiljer framgångsrika människor från andra. Grundtanken är att förändrat tänkande föregår förändrat handlande och därmed förändrade resultat.",
+      "source": "John C. Maxwell, Center Street",
+      "url": "https://www.goodreads.com/book/show/6182865",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "bok-running-with-the-giants",
+      "title": "Att springa med jättarna (Running with the Giants: What Old Testament Heroes Want You to Know About Life and Leadership)",
+      "category": "Bok",
+      "date": "2002-01-01",
+      "location": "",
+      "summary": "Maxwell analyserar ledarskapslärdomar från gestalter i Gamla testamentet, som Josef, Nehemja och David, och kopplar deras styrkor och misstag till praktiska principer för dagens ledare. Boken visar hur karaktär och kris ofta formar de mest bestående ledaregenskaperna.",
+      "source": "John C. Maxwell, Warner Faith",
+      "url": "https://www.goodreads.com/book/show/19848.Running_with_the_Giants",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "bok-be-a-people-person",
+      "title": "Bli en människokännare (Be a People Person: Effective Leadership Through Effective Relationships)",
+      "category": "Bok",
+      "date": "1989-01-01",
+      "location": "",
+      "summary": "En av Maxwells tidigaste böcker, där han argumenterar för att effektivt ledarskap i grunden handlar om relationsförmåga snarare än teknisk skicklighet. Boken ger konkreta råd om hur ledare bygger förtroende och hanterar svåra personer och relationer.",
+      "source": "John C. Maxwell, David C. Cook",
+      "url": "https://www.goodreads.com/book/show/353220.Be_a_People_Person",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "bok-maxwell-daily-reader",
+      "title": "Maxwells dagliga läsning (The Maxwell Daily Reader: 365 Days of Insight to Develop the Leader Within You and Influence Those Around You)",
+      "category": "Bok",
+      "date": "2007-01-01",
+      "location": "",
+      "summary": "En andaktsbok med 365 korta dagliga läsningar som sammanställer insikter från fjorton av Maxwells mest kända ledarskapsböcker. Tanken är att ledarutveckling sker gradvis genom daglig reflektion snarare än enstaka insikter.",
+      "source": "John C. Maxwell, Thomas Nelson",
+      "url": "https://www.goodreads.com/book/show/7107937-the-maxwell-daily-reader",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "citat-daily-agenda",
+      "title": "Citat: \"Din dagliga agenda avgör din framgång\" (The secret of your success is determined by your daily agenda)",
+      "category": "Citat",
+      "date": "2026-09-20",
+      "location": "",
+      "summary": "Citatet, hämtat från boken Idag räknas, uttrycker Maxwells grundtanke att stora resultat inte skapas av enstaka avgörande dagar utan av vilka val och rutiner man upprepar dag efter dag. Det är en kärnprincip i hans undervisning om disciplin och personlig utveckling.",
+      "source": "John C. Maxwell, Today Matters",
+      "url": "https://www.goodreads.com/quotes/9764196-the-secret-of-your-success-is-determined-by-your-daily",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "citat-perception-response-failure",
+      "title": "Citat: \"Skillnaden är hur man ser på och svarar på misslyckande\" (The difference between average people and achieving people is their perception of and response to failure)",
+      "category": "Citat",
+      "date": "2026-09-20",
+      "location": "",
+      "summary": "Citatet kommer från boken Att misslyckas framåt och sammanfattar Maxwells syn på att det inte är misslyckandet i sig som avgör framgång, utan hur en person tolkar och hanterar det efteråt. Det är ett av hans mest citerade uttalanden om motståndskraft.",
+      "source": "John C. Maxwell, Failing Forward",
+      "url": "https://www.brainyquote.com/quotes/john_c_maxwell_600862",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
     }
   ]
 }

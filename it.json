@@ -2,8 +2,8 @@
   "topic": "IT – Nya produkter",
   "description": "Nya IT- och teknikprodukter: hårdvara, mjukvara, AI och gaming. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-13",
-  "item_count": 125,
+  "last_updated": "2026-09-20",
+  "item_count": 132,
   "items": [
     {
       "id": "nvidia-rtx-spark-2026",
@@ -1504,6 +1504,90 @@
       "url": "https://news.xbox.com/en-us/2026/09/09/xbox-insiders-october-2026-console-features-3/",
       "added_on": "2026-09-13",
       "collected_week": "2026-W37"
+    },
+    {
+      "id": "dario-amodei-pace-the-frontier-2026",
+      "title": "Anthropic-vd lanserar plan för att bromsa AI-utvecklingen",
+      "category": "AI",
+      "date": "2026-09-12",
+      "location": "",
+      "summary": "Anthropics vd Dario Amodei publicerade essän \"We Must Pace the Frontier\" med ett tredelat förslag om oberoende granskare, samordning mellan AI-bolag i demokratier och ett framtida internationellt avtal som även omfattar Kina. OpenAI och flera branschledare ställde sig snabbt bakom förslaget om att ge oberoende utvärderare permanent systemåtkomst.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "macos-27-golden-gate-lansering-2026",
+      "title": "Apple släpper macOS 27 Golden Gate till alla användare",
+      "category": "Mjukvara",
+      "date": "2026-09-14",
+      "location": "",
+      "summary": "Apple lanserade macOS 27 Golden Gate den 14 september med en omdesignad AI-driven Siri, uppgraderingar av Safari, Foton, Mail och Kalender samt en ny reglerbar Liquid Glass-effekt i gränssnittet. Det blir den sista stora macOS-versionen som fullt ut stödjer det äldre Rosetta-översättningslagret.",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/09/10/macos-27-golden-gate-release-date/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "marvels-wolverine-lansering-2026",
+      "title": "Insomniacs Marvel's Wolverine har släppts",
+      "category": "Gaming",
+      "date": "2026-09-15",
+      "location": "",
+      "summary": "Insomniac Games actionspel Marvel's Wolverine släpptes den 15 september till Playstation 5 och har fått blandade till positiva recensioner, med lovord för den brutala klorbaserade striden men kritik för ett spelflöde som känns automatiserat och grafik som inte riktigt håller måttet för 2026.",
+      "source": "GameSpew",
+      "url": "https://www.gamespew.com/2026/09/marvels-wolverine-review/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "tokyo-game-show-2026-xbox-kojima",
+      "title": "Tokyo Game Show 2026 bjöd på nytt om Kojimas Physint och Persona 4 Revival",
+      "category": "Spel",
+      "date": "2026-09-17",
+      "location": "",
+      "summary": "På Tokyo Game Show, som firade sitt 30-årsjubileum, visade Hideo Kojima nytt material från Physint med skådespelaren Bill Skarsgård i huvudrollen, medan Xbox höll en stor showcase och Atlus bekräftade att nyinspelningen Persona 4 Revival kommer i februari 2027.",
+      "source": "Xbox Wire",
+      "url": "https://news.xbox.com/en-us/2026/09/17/xbox-tokyo-game-show-2026-recap/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "bose-sport-ultra-open-earbuds-2026",
+      "title": "Bose lanserar nya öronsnäckor för löpare och vardagsbruk",
+      "category": "Hårdvara",
+      "date": "2026-09-17",
+      "location": "",
+      "summary": "Bose presenterade den 17 september de svettåliga Sport Open Earbuds för 199 dollar och en andra generation av flaggskeppet Ultra Open Earbuds för 299 dollar, med längre batteritid, trådlöst laddningsfodral och bättre samtalskvalitet. Båda modellerna går att förboka från den 19 september och når butik den 1 oktober.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2260166/bose-refreshes-its-ultra-open-earbuds-and-adds-a-new-sport-model-to-the-lineup/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "klipsch-rp-500pm-hogtalarsystem-2026",
+      "title": "Klipsch lanserar sitt första aktiva högtalarsystem i Reference Premiere-serien",
+      "category": "Hårdvara",
+      "date": "2026-09-18",
+      "location": "",
+      "summary": "Klipsch RP-500PM är företagets första strömdrivna högtalarsystem i den högklassiga Reference Premiere-serien, med en tvåvägskonstruktion som kombinerar ett nytt Tractrix-horntweeter med ett 5,25-tums Cerametallic-baselement.",
+      "source": "Gear Patrol",
+      "url": "https://www.gearpatrol.com/audio/best-tech-audio-hi-fi-releases-2026-september-week-3/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "sonos-play-portable-sand-edition-2026",
+      "title": "Sonos Play portabla högtalare får ny sandfärgad utgåva",
+      "category": "Hårdvara",
+      "date": "2026-09-18",
+      "location": "",
+      "summary": "Sonos utökade sin bärbara högtalare Play, som lanserades i mars 2026, med en tredje kulör kallad sand som matchar finishen på bolagets nya Arc Ultra-soundbar, utöver de befintliga svarta och vita versionerna.",
+      "source": "Gear Patrol",
+      "url": "https://www.gearpatrol.com/audio/best-tech-audio-hi-fi-releases-2026-september-week-3/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
     }
   ]
 }

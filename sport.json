@@ -2,8 +2,8 @@
   "topic": "Sport – Fotboll, Tennis & Bordtennis",
   "description": "Nyheter inom fotboll, tennis och bordtennis med svenskt fokus. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-06",
-  "item_count": 97,
+  "last_updated": "2026-09-20",
+  "item_count": 102,
   "items": [
     {
       "id": "allsvenskan-sommaruppehall-2026",
@@ -1152,6 +1152,66 @@
       "url": "https://swetennis.se/internationellt/us-open-2026-tv-stream-sverige/",
       "added_on": "2026-09-06",
       "collected_week": "2026-W36"
+    },
+    {
+      "id": "orgryte-sirius-2-1-2026-09-19",
+      "title": "Örgryte vann Göteborgsbataljen mot Sirius",
+      "category": "Resultat",
+      "date": "2026-09-19",
+      "location": "Göteborg",
+      "summary": "Örgryte IS besegrade IK Sirius med 2–1 i Allsvenskan, ett viktigt steg i klubbens kamp mot nedflyttning.",
+      "source": "Svensk fotboll",
+      "url": "https://www.svenskfotboll.se/serier-cuper/tabell-och-resultat/allsvenskan-2026/133348/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "brommapojkarna-ifk-goteborg-2026-09-19",
+      "title": "IFK Göteborg vann på bortaplan mot Brommapojkarna",
+      "category": "Resultat",
+      "date": "2026-09-19",
+      "location": "Stockholm",
+      "summary": "IFK Göteborg tog en efterlängtad bortaseger med 1–0 mot IF Brommapojkarna i Allsvenskan.",
+      "source": "Flashscore",
+      "url": "https://www.flashscore.se/fotboll/sverige/allsvenskan/resultat/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "vasteras-malmo-ff-2-0-2026-09-19",
+      "title": "Västerås SK chockade Malmö FF",
+      "category": "Resultat",
+      "date": "2026-09-19",
+      "location": "Västerås",
+      "summary": "Nykomlingen Västerås SK vann överraskande med 2–0 mot Malmö FF i en match med stor betydelse för guldstriden.",
+      "source": "Flashscore",
+      "url": "https://www.flashscore.se/fotboll/sverige/allsvenskan/resultat/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "aik-mjallby-1-1-strawberry-arena-2026-09-16",
+      "title": "AIK och Mjällby delade på poängen inför fullsatt arena",
+      "category": "Resultat",
+      "date": "2026-09-16",
+      "location": "Stockholm",
+      "summary": "AIK och Mjällby AIF gjorde 1–1 på Strawberry Arena inför drygt 20 000 åskådare i en jämn allsvensk drabbning.",
+      "source": "Svensk fotboll",
+      "url": "https://www.svenskfotboll.se/serier-cuper/tabell-och-resultat/allsvenskan-2026/133348/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "davis-cup-sverige-taiwan-forlust-2026",
+      "title": "Sverige förlorade mot Taiwan i Davis Cup – tvingas till playoff",
+      "category": "Resultat",
+      "date": "2026-09-20",
+      "location": "Taipei",
+      "summary": "Sverige föll med 2–3 mot Taiwan i Davis Cup World Group 1, där Max Dahlin förlorade den avgörande femte matchen efter att ha lett 4–0 i första set. Sverige spelar nu playoff i februari för att stanna kvar i gruppen.",
+      "source": "hurbra.se",
+      "url": "https://hurbra.se/sverige-taiwan-davis-cup-20-september-2026/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
     }
   ]
 }

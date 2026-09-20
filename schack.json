@@ -2,8 +2,8 @@
   "topic": "Schack",
   "description": "Stora turneringar, elitspelare, onlineschack, svenskt schack och talanger. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-06",
-  "item_count": 51,
+  "last_updated": "2026-09-20",
+  "item_count": 56,
   "items": [
     {
       "id": "sindarov-vinner-kandidatturneringen-2026",
@@ -602,6 +602,66 @@
       "url": "https://schack.se/tavlingar/ungdomstavlingar/skol-sm/",
       "added_on": "2026-09-06",
       "collected_week": "2026-W36"
+    },
+    {
+      "id": "schack-os-samarkand-svenska-oppna-start-2026",
+      "title": "Bra start för Sverige i öppna klassen vid Schack-OS",
+      "category": "Resultat",
+      "date": "2026-09-16",
+      "location": "Samarkand, Uzbekistan",
+      "summary": "Sverige inledde Schack-OS i Samarkand starkt med en 4–0-seger mot Mauretanien i öppna klassen och en 3,5–0,5-seger mot Andorra, medan damlaget slog Haiti med 4–0.",
+      "source": "Sveriges Schackförbund",
+      "url": "https://schack.se/nyhet/internationellt/2026/09/sa-startar-sverige-i-schack-os/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "schack-os-samarkand-armenien-forlust-rond3-2026",
+      "title": "Motgång mot Armenien i tredje ronden av Schack-OS",
+      "category": "Resultat",
+      "date": "2026-09-18",
+      "location": "Samarkand, Uzbekistan",
+      "summary": "Sveriges öppna lag föll med 1,5–2,5 mot Armenien i tredje ronden av Schack-OS, medan damlaget spelade tre remier mot Azerbajdzjan där Angelina Fransson förlorade på fjärde bordet.",
+      "source": "Sveriges Schackförbund",
+      "url": "https://schack.se/nyhet/internationellt/2026/09/motgang-med-liten-marginal-i-tredje-ronden/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "schack-os-samarkand-sydafrika-uruguay-2026",
+      "title": "Två nya segrar för Sverige i Schack-OS",
+      "category": "Resultat",
+      "date": "2026-09-20",
+      "location": "Samarkand, Uzbekistan",
+      "summary": "Sveriges öppna lag vann 3–1 mot Sydafrika i fjärde ronden och följde upp med 2,5–1,5 mot Uruguay i femte ronden av Schack-OS.",
+      "source": "Sveriges Schackförbund",
+      "url": "https://schack.se/nyhet/internationellt/2026/09/tva-nya-segrar-for-sverige/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "schack-os-samarkand-damlaget-costa-rica-singapore-2026",
+      "title": "Svenska damlaget delade poängen i Schack-OS",
+      "category": "Resultat",
+      "date": "2026-09-20",
+      "location": "Samarkand, Uzbekistan",
+      "summary": "Sveriges damlag spelade remi mot Costa Rica med 2–2 i fjärde ronden och gjorde ytterligare oavgjort, 2–2, mot Singapore i femte ronden av Schack-OS.",
+      "source": "Sveriges Schackförbund",
+      "url": "https://schack.se/nyhet/internationellt/2026/09/rond-5-sverige-stalls-mot-uruguay-och-singapore/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "kristallen-jgp-barnturnering-stockholm-2026",
+      "title": "Kristallens JGP samlade unga schacktalanger i Stockholm",
+      "category": "Nyhet",
+      "date": "2026-09-19",
+      "location": "Stockholm",
+      "summary": "Kristallen SK arrangerade lagturneringen JGP den 19–20 september på Stockholms Schacksalonger, öppen för alla barn upp till tio år.",
+      "source": "Stockholms Schackförbund",
+      "url": "https://www.stockholmsschack.se/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "topic": "Löpning",
   "description": "Lopp och maraton, svensk löparelit, träningsforskning och utrustning. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-06",
-  "item_count": 55,
+  "last_updated": "2026-09-20",
+  "item_count": 60,
   "items": [
     {
       "id": "stockholm-marathon-kiptoo-vinner-2026",
@@ -646,6 +646,66 @@
       "url": "https://www.svt.se/sport/friidrott/guide-arets-storsta-loparfester-i-sverige-2026",
       "added_on": "2026-09-06",
       "collected_week": "2026-W36"
+    },
+    {
+      "id": "loparfesten-skanor-falsterbo-2026",
+      "title": "Löparfesten lockade löpare till Falsterbonäset",
+      "category": "Nyhet",
+      "date": "2026-09-19",
+      "location": "Falsterbo",
+      "summary": "Löparfesten i Skanör-Falsterbo bjöd på distanser mellan 5 och 21 kilometer på Falsterbonäset, med klasser för allt från elitlöpare till familjer och deltagare med funktionsvariation.",
+      "source": "Löparfesten",
+      "url": "https://www.loparfesten.se/inbjudan/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "mortruset-grebo-terranglopp-2026",
+      "title": "Mörtruset i Grebo bjöd på tuff terräng",
+      "category": "Tävling",
+      "date": "2026-09-19",
+      "location": "Grebo",
+      "summary": "Terränglöpningstävlingen Mörtruset i Grebo arrangerades med distanserna 14 och 28 kilometer för löpare som gillar att springa i skog och mark.",
+      "source": "Jogg.se tävlingskalender",
+      "url": "https://www.jogg.se/kalender/tavlingar.aspx",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "hoka-bondi-9-basta-loparskon-2026",
+      "title": "Hoka Bondi 9 utsedd till bästa löparskon 2026",
+      "category": "Utrustning",
+      "date": "2026-09-15",
+      "location": "",
+      "summary": "I årets skotester lyfts Hoka Bondi 9 fram som bäst i test tack vare hög komfort, medan Hoka Clifton 9 toppar listan bland asfaltskor med sin dämpande Meta Rocker-teknik.",
+      "source": "Test.se",
+      "url": "https://www.test.se/loparskor/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "saucony-triumph-23-daily-trainer-2026",
+      "title": "Saucony Triumph 23 – mjukare vardagssko för löpning",
+      "category": "Utrustning",
+      "date": "2026-09-15",
+      "location": "",
+      "summary": "Saucony Triumph 23 får en mjukare och lättare mellansula, mer dämpning och en ny, mer andningsbar ovandel, enligt årets löparskotester.",
+      "source": "Löplabbet",
+      "url": "https://www.loplabbet.se/landningssida/loplabbets-skoguide-2026-daily-trainer",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "terrang-sm-vasteras-oktober-2026",
+      "title": "Terräng-SM 2026 arrangeras i Västerås",
+      "category": "Tävling",
+      "date": "2026-09-16",
+      "location": "Västerås",
+      "summary": "Svenska mästerskapen i terränglöpning genomförs den 24–25 oktober i Västerås, med första start klockan tio båda dagarna.",
+      "source": "Friidrottsförbundet",
+      "url": "https://www.friidrott.se/svenska-masterskap/terrang-sm/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
     }
   ]
 }

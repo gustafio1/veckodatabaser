@@ -2,8 +2,8 @@
   "topic": "Friluftsliv",
   "description": "Vandringsleder, friluftsutrustning, naturvård, allemansrätt och äventyr. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-06",
-  "item_count": 51,
+  "last_updated": "2026-09-20",
+  "item_count": 56,
   "items": [
     {
       "id": "pusselleden-invigd-sigtuna-2026",
@@ -602,6 +602,66 @@
       "url": "https://www.utemagasinet.se/nyheter/20260817/vandra-en-langled/",
       "added_on": "2026-09-06",
       "collected_week": "2026-W36"
+    },
+    {
+      "id": "upprop-allemansratt-50000-underskrifter-2026",
+      "title": "Över 50 000 har skrivit under upprop för allemansrätten",
+      "category": "Nyhet",
+      "date": "2026-09-15",
+      "location": "Sverige",
+      "summary": "Ett rikstäckande upprop till stöd för allemansrätten har samlat över 50 000 underskrifter, samtidigt som en undersökning visar att 96 procent av svenskarna vill att rätten skyddas.",
+      "source": "Svenskt Friluftsliv",
+      "url": "https://svensktfriluftsliv.se/allemansratten/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "lansstyrelser-naturvard-budget-skars-ner-2026",
+      "title": "Kraftiga nedskärningar av statligt naturvårdsstöd oroar länsstyrelser",
+      "category": "Nyhet",
+      "date": "2026-09-14",
+      "location": "Sverige",
+      "summary": "Statens anslag till naturreservat och nationalparker har minskat kraftigt sedan 2022 – i Västra Götaland med 51 procent och i Sörmland med 47 procent, enligt en debattserie från flera länsstyrelser.",
+      "source": "Sörmlands Nyheter, debatt",
+      "url": "https://www.sn.se/debatt/artikel/visa-stod-for-allemansratten-i-sormland/rexn62zl",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "regeringsforslag-strandskydd-smasjoar-kritik-2026",
+      "title": "Förslag om slopat strandskydd vid små sjöar möter kritik",
+      "category": "Nyhet",
+      "date": "2026-09-14",
+      "location": "Sverige",
+      "summary": "Ett regeringsförslag som skulle ta bort strandskyddet vid hundratusentals mindre sjöar och vattendrag har väckt stark kritik från friluftsorganisationer som varnar för minskad tillgång till naturen.",
+      "source": "BT Debatt",
+      "url": "https://www.bt.se/debatt/radda-vara-naturreservat-och-allemansratten/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "lansstyrelsen-skane-slatterangar-sensommar-2026",
+      "title": "Länsstyrelsen slog 40 hektar ängsmark för hand i Skåne",
+      "category": "Nyhet",
+      "date": "2026-09-10",
+      "location": "Skåne",
+      "summary": "Under sensommaren slog länsstyrelsen manuellt 40 hektar ängsmark i omkring 30 naturområden i Skåne, ett arbete som görs sent på säsongen så att blommorna hinner fröa av sig inför nästa år.",
+      "source": "Länsstyrelsen Skåne",
+      "url": "https://www.lansstyrelsen.se/skane/besoksmal",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "basta-vandringslederna-sverige-guide-2026",
+      "title": "Guide: Sveriges bästa vandringsleder",
+      "category": "Guide",
+      "date": "2026-09-12",
+      "location": "Sverige",
+      "summary": "En uppdaterad guide lyfter fram Kungsleden, Padjelantaleden och Höga Kustenleden i norr samt Jämtlandstriangeln, Sörmlandsleden, Skåneleden och Bohusleden bland landets mest populära vandringsleder.",
+      "source": "Traningsgladje.se",
+      "url": "https://traningsgladje.se/uteliv/vandring/vandringsleder-sverige/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
     }
   ]
 }

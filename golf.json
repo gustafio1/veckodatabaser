@@ -2,8 +2,8 @@
   "topic": "Golf",
   "description": "Majors och tourtävlingar, svenska golfare, tävlingar och utrustning. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-06",
-  "item_count": 52,
+  "last_updated": "2026-09-20",
+  "item_count": 57,
   "items": [
     {
       "id": "ryan-fox-vinner-the-open-royal-birkdale-2026",
@@ -616,6 +616,66 @@
       "url": "https://www.golfstugan.se/utrustning/golfskor/",
       "added_on": "2026-09-06",
       "collected_week": "2026-W36"
+    },
+    {
+      "id": "jj-spaun-vinner-bmw-pga-wentworth-2026",
+      "title": "JJ Spaun vann BMW PGA Championship på Wentworth",
+      "category": "Resultat",
+      "date": "2026-09-20",
+      "location": "Wentworth, England",
+      "summary": "JJ Spaun avgjorde med en avslutande 67:a, med fyra birdies på de sista fem hålen, och vann DP World Tours flaggskeppstävling med två slags marginal på 17 under par.",
+      "source": "The Golf News Net",
+      "url": "https://thegolfnewsnet.com/golfnewsnetteam/2026/09/20/2026-bmw-pga-championship-final-results-prize-money-payout-dp-world-tour-leaderboard-how-much-each-golfer-won-144847/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "aberg-noren-wentworth-inledning-2026",
+      "title": "Stark start för Åberg och Norén på Wentworth",
+      "category": "Nyhet",
+      "date": "2026-09-17",
+      "location": "Wentworth, England",
+      "summary": "Ludvig Åberg öppnade med en 67:a och tre raka birdies, medan Alex Norén noterade 69 slag, när de båda svenskarna spelade i samma boll på BMW PGA Championship.",
+      "source": "Svensk Golf",
+      "url": "https://www.svenskgolf.se/tournytt/aberg-och-noren-i-samma-grupp-pa-wentworth/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "svenska-atta-bmw-pga-championship-2026",
+      "title": "Åtta svenskar i fältet på BMW PGA Championship",
+      "category": "Nyhet",
+      "date": "2026-09-16",
+      "location": "Wentworth, England",
+      "summary": "Hela åtta svenska golfare ställde upp i fältet när BMW PGA Championship, DP World Tours flaggskeppstävling, spelades på Wentworth i september.",
+      "source": "hurbra.se",
+      "url": "https://hurbra.se/svenskarna-bmw-pga-championship-2026/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "solheim-cup-2026-europa-vinner",
+      "title": "Europa vann Solheim Cup – svensk succé med Grant och Stark",
+      "category": "Resultat",
+      "date": "2026-09-13",
+      "location": "Bernardus Golf, Nederländerna",
+      "summary": "Europa vann Solheim Cup med 15–13 under kapten Anna Nordqvist. Linn Grant gick obesegrad genom hela veckan och Maja Stark delade andraplatsen i den europeiska poängligan.",
+      "source": "Svensk Golf",
+      "url": "https://www.svenskgolf.se/tournytt/nordqvist-grant-stark-europa-vinner-solheim-cup/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "skol-sm-golf-holms-gk-2026",
+      "title": "Skol-SM i golf avgjordes på Holms GK",
+      "category": "Tävling",
+      "date": "2026-09-16",
+      "location": "Halmstad",
+      "summary": "Det svenska skolmästerskapet i golf, med lagspel över fyra bollspelsrundor och fyra singelrundor, arrangerades den 15–16 september på Holms GK i Halmstad.",
+      "source": "Tournytt",
+      "url": "https://tournytt.se/masterskap/skol-sm",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "topic": "Cykling",
   "description": "Proffscykling, svenska cyklister, motionslopp, mountainbike och utrustning. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-06",
-  "item_count": 56,
+  "last_updated": "2026-09-20",
+  "item_count": 61,
   "items": [
     {
       "id": "pogacar-gula-trojan-etapp-3-2026",
@@ -664,6 +664,66 @@
       "url": "https://testix.se/test/el-landsvagscykel",
       "added_on": "2026-09-06",
       "collected_week": "2026-W36"
+    },
+    {
+      "id": "soderqvist-vm-tempo-montreal-2026",
+      "title": "Söderqvist i medaljkamp i VM-tempot",
+      "category": "Resultat",
+      "date": "2026-09-20",
+      "location": "Montreal, Kanada",
+      "summary": "Jakob Söderqvist gjorde en nästan perfekt inledning i elitmännens tempolopp vid cykel-VM i Montreal och låg efter den andra mellantiden bara bakom favoriten Remco Evenepoel.",
+      "source": "hurbra.se",
+      "url": "https://hurbra.se/jakob-soderqvist-vm-tempo-2026/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "wandel-krasch-byter-program-vm-montreal-2026",
+      "title": "Wändel byggde om programmet efter krasch inför VM",
+      "category": "Nyhet",
+      "date": "2026-09-18",
+      "location": "Montreal, Kanada",
+      "summary": "Junioren Elias Wändel valde bort tempoloppet vid cykel-VM i Montreal efter en krasch i Schweiz och satsar i stället allt på linjeloppet.",
+      "source": "hurbra.se",
+      "url": "https://hurbra.se/sveriges-trupp-cykel-vm-2026/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "andersson-stark-sensommar-vm-montreal-2026",
+      "title": "Caroline Andersson kommer till VM efter stark sensommar",
+      "category": "Nyhet",
+      "date": "2026-09-18",
+      "location": "Montreal, Kanada",
+      "summary": "Caroline Andersson tar sig an damernas linjelopp vid cykel-VM i Montreal efter en stark avslutning på sensommarens tävlingar.",
+      "source": "hurbra.se",
+      "url": "https://hurbra.se/sveriges-trupp-cykel-vm-2026/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "cyklistvelometern-trygghetsenkat-2026",
+      "title": "Cyklistvelometern kartlägger cyklisters trygghet",
+      "category": "Nyhet",
+      "date": "2026-09-01",
+      "location": "Sverige",
+      "summary": "Cyklistvelometern, en nationell trygghetsundersökning bland cyklister som genomförs vartannat år, var öppen för svar mellan 1 juni och 30 september och används av kommuner i arbetet med cykelbokslut och trafiksäkerhet.",
+      "source": "Cykelfrämjandet",
+      "url": "https://cykelframjandet.se/nyheter/2026/08/26/tyck-till-om-din-kommun-i-cyklistvelometern-2026/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "cykelframjandet-valenkat-partier-cykel-2026",
+      "title": "Cykelfrämjandet granskade partiernas cykelpolitik inför valet",
+      "category": "Nyhet",
+      "date": "2026-09-03",
+      "location": "Göteborg",
+      "summary": "Inför höstens val genomförde Cykelfrämjandet i Göteborg en enkät om hur de politiska partierna ställer sig till åtgärder för att öka andelen som cyklar.",
+      "source": "Cykelfrämjandet",
+      "url": "https://cykelframjandet.se/nyheter/2026/09/03/hur-mycket-bryr-sig-partierna-om-cykel-valet-2026/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
     }
   ]
 }

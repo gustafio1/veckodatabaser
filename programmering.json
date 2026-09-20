@@ -2,8 +2,8 @@
   "topic": "Programmering",
   "description": "Nyheter för utvecklare: språk, ramverk, verktyg, AI-kodning och öppen källkod. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-13",
-  "item_count": 66,
+  "last_updated": "2026-09-20",
+  "item_count": 73,
   "items": [
     {
       "id": "typescript-7-nativ-kompilator-2026",
@@ -796,6 +796,90 @@
       "url": "https://www.techrepublic.com/article/news-tiobe-september-2026-julia-nears-top-20/",
       "added_on": "2026-09-13",
       "collected_week": "2026-W37"
+    },
+    {
+      "id": "linux-7-3-rc3-2026",
+      "title": "Linux 7.3 går in i release candidate-fas med stort filsystemsfokus",
+      "category": "Öppen källkod",
+      "date": "2026-09-13",
+      "location": "",
+      "summary": "Linus Torvalds publicerade tredje release-kandidaten av Linux-kärnan 7.3, som trots att kandidater normalt krymper förblev ovanligt stor med tung tonvikt på lagring och filsystem samt en rad minnessäkerhetsfixar mot use-after-free- och overflow-buggar. Den slutgiltiga versionen väntas landa i andra halvan av oktober 2026.",
+      "source": "Phoronix",
+      "url": "https://www.phoronix.com/news/Linux-7.3-rc3-Released",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "homebrew-7-0-0-sakerhet-2026",
+      "title": "Homebrew 7.0.0 stramar åt säkerheten med hårdare sandlåda och egen macOS-app",
+      "category": "Öppen källkod",
+      "date": "2026-09-13",
+      "location": "",
+      "summary": "Paketverktyget Homebrew släppte version 7.0.0 med snabbare installationer och uppgraderingar, en ny nativ app för macOS och betydligt strängare sandlåda som begränsar programstarter, Mach-tjänster och Unix-uttag för att täppa till en tidigare LaunchServices-sårbarhet. Det är den mest omfattande säkerhetsuppgraderingen sedan version 6.0.",
+      "source": "Help Net Security",
+      "url": "https://www.helpnetsecurity.com/2026/09/15/homebrew-7-0-0-security-open-source/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "vscode-1-137-automations-rost-2026",
+      "title": "VS Code 1.137 låter agenter köra schemalagda uppgifter och lyssna på röstkommandon",
+      "category": "Verktyg",
+      "date": "2026-09-10",
+      "location": "",
+      "summary": "Visual Studio Code 1.137 introducerar förhandsfunktionen Automations där utvecklare kan schemalägga återkommande agentuppgifter timme-, dags- eller veckovis, samt ett experimentellt röstläge där man kan tala med och avbryta en agent medan den arbetar. Versionen gör det också möjligt att granska GitHub-ärenden och pull requests direkt i Agents-fönstret utan att öppna repot.",
+      "source": "Visual Studio Code",
+      "url": "https://code.visualstudio.com/updates/v1_137",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "github-copilot-weekly-sept14-2026",
+      "title": "Copilot får nya lägen för modellval och Sentry-integration",
+      "category": "Verktyg",
+      "date": "2026-09-18",
+      "location": "",
+      "summary": "GitHub la till tre nya inställningar – effektivitet, balans och intelligens – för Copilots automatiska modellval, så utvecklare kan styra avvägningen mellan kostnad, kvalitet och svarstid. Samtidigt fick Copilot-appen en Sentry-integration som låter agenten gå direkt från en kraschrapport till en föreslagen kodfix, och kodgranskningen markerar nu automatiskt åtgärdade kommentarer som lösta.",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "claude-code-projects-beta-2026",
+      "title": "Claude Code lanserar Projects för att samordna långsiktigt agentarbete",
+      "category": "AI-kodning",
+      "date": "2026-09-15",
+      "location": "",
+      "summary": "Anthropic introducerade en betaversion av Claude Code Projects där en samordnande agent driver flera parallella trådar, delar minne och håller ett projektbibliotek för att hantera långvarigt arbete över flera repon med mindre manuell handpåläggning. Utvecklaren beskriver vad som ska göras medan Claude planerar, delegerar arbetet och sätter ihop det färdiga resultatet.",
+      "source": "Claude Code changelog",
+      "url": "https://code.claude.com/docs/en/changelog",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "react-19-3-0-2026",
+      "title": "React 19.3 släppt med Fragment-referenser och snabbare transitions",
+      "category": "Ramverk",
+      "date": "2026-09-09",
+      "location": "",
+      "summary": "React-teamet gav ut version 19.3.0 med stöd för referenser på Fragment-element, en ny browser()-API i react-dom för att hantera beteende som bara finns i webbläsaren, och transitions som nu renderas oberoende av varandra så att en långsam övergång inte längre blockerar andra. Releasen innehåller också en rad mindre bugg- och kontexthanteringsfixar.",
+      "source": "React Blog",
+      "url": "https://github.com/facebook/react/releases/tag/v19.3.0",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "factory-ai-200m-finansiering-2026",
+      "title": "AI-kodningsbolaget Factory tredubblar värderingen till fem miljarder dollar",
+      "category": "Nyhet",
+      "date": "2026-09-15",
+      "location": "",
+      "summary": "Factory, som bygger autonoma AI-kodningsagenter för stora företag, tog in 200 miljoner dollar i en finansieringsrunda som värderar bolaget till fem miljarder dollar – mer än tre gånger värderingen för bara fem månader sedan. Vd Matan Grinberg beskriver en förskjutning från enskilda kodningsagenter till hela \"mjukvarufabriker\" som blir kärnan i företagens utvecklingsarbete.",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/09/15/factory-raises-200m-for-its-self-improving-software-development-platform/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
     }
   ]
 }

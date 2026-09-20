@@ -2,8 +2,8 @@
   "topic": "Mindfulness",
   "description": "Forskning om meditation, metoder, appar, retreater och mindfulness i vardagen. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-06",
-  "item_count": 51,
+  "last_updated": "2026-09-20",
+  "item_count": 59,
   "items": [
     {
       "id": "sju-dagars-meditation-forandrar-hjarnan-2026",
@@ -616,6 +616,102 @@
       "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1810049/full",
       "added_on": "2026-09-06",
       "collected_week": "2026-W36"
+    },
+    {
+      "id": "meditation-enhetlig-ramverk-tekniker-springer-2026",
+      "title": "Forskare föreslår enhetligt ramverk för att klassificera meditationstekniker",
+      "category": "Forskning",
+      "date": "2026-02-16",
+      "location": "",
+      "summary": "En artikel i tidskriften Mindfulness lanserar ett nytt teoretiskt ramverk som ska göra det lättare att jämföra och kategorisera de många olika meditationstekniker som används inom forskning och klinisk praxis. Författarna menar att avsaknaden av en gemensam terminologi hittills har försvårat jämförelser mellan studier av olika meditationsmetoder.",
+      "source": "Mindfulness (Springer Nature)",
+      "url": "https://link.springer.com/article/10.1007/s12671-026-02758-1",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "meditation-arbetsplats-metaanalys-halsopsykologi-2026",
+      "title": "Stor metaanalys: meditation ger tydliga hälsovinster för anställda",
+      "category": "Arbetsliv",
+      "date": "2026-04-16",
+      "location": "",
+      "summary": "En systematisk genomgång och metaanalys i Health Psychology Review sammanställer 132 randomiserade studier med över 23 000 deltagare och visar att meditation på arbetsplatsen minskar upplevd stress, ångest och utmattning samtidigt som sömn och välbefinnande förbättras. Forskarna fann även positiva, om än svagare, effekter på kroppsliga mått som blodtryck och andra kardiometabola riskfaktorer.",
+      "source": "Health Psychology Review",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/17437199.2026.2652892",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "mindfulness-studenter-somn-sjalvkontroll-frontiers-2026",
+      "title": "Mindfulnessövning kan stärka studenters psykiska hälsa via bättre sömn och självkontroll",
+      "category": "Studie",
+      "date": "2026-03-27",
+      "location": "Kina",
+      "summary": "En enkätstudie bland 470 kinesiska universitetsstudenter i Frontiers in Psychology visar att mindfulnessövning hänger samman med bättre psykisk hälsa, delvis genom att övningen först förbättrar sömnregelbundenheten och därefter förmågan till självkontroll. Resultaten pekar på en kedjeeffekt där goda sömnvanor och impulskontroll kan förklara en del av mindfulnessens positiva effekter på måendet.",
+      "source": "Frontiers in Psychology",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1783570/full",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "southern-dharma-hbtqi-retreat-september-2026",
+      "title": "Southern Dharma bjuder in till meditationsretreat för hbtqi-community i september",
+      "category": "Retreater",
+      "date": "2026-09-17",
+      "location": "USA",
+      "summary": "Southern Dharma Retreat Center i North Carolina håller den 17–20 september en meditationsretreat riktad till hbtqi-personer, där zen- och vipassanatraditionerna vävs samman i gemensam tystnad. Retreatet är ett exempel på hur meditationscenter allt oftare skräddarsyr program för specifika grupper som annars kan känna sig mindre välkomna i traditionella retreatmiljöer.",
+      "source": "Southern Dharma Retreat Center",
+      "url": "https://southerndharma.org/retreat-schedule/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "gold-buddha-monastery-retreat-september-2026",
+      "title": "Buddhistiskt kloster i Louisiana håller helgretreat med meditation i september",
+      "category": "Retreater",
+      "date": "2026-09-19",
+      "location": "USA",
+      "summary": "Gold Buddha Sagely Monastery i Louisiana inledde den 19 september ett meditationsretreat lett av klostrets munkar, med långa dagliga scheman av sittande meditation och sutrarecitation. Retreatet visar hur traditionella buddhistiska klosterinstitutioner i USA fortsätter erbjuda intensiva, avgiftsfria meditationsprogram öppna för allmänheten.",
+      "source": "Gold Buddha Sagely Monastery",
+      "url": "https://www.gbm-online.com/english/?p=1894",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "meditation-biverkningar-60-procent-van-dam-2025",
+      "title": "Studie: nästan sex av tio meditatörer upplever någon form av biverkan",
+      "category": "Forskning",
+      "date": "2025-11-05",
+      "location": "USA",
+      "summary": "En studie i Clinical Psychological Science, baserad på ett representativt urval av amerikanska meditatörer, finner att omkring 60 procent någon gång upplevt en ovanlig eller oönskad effekt av meditation, och att ungefär var tredje av dem upplevde det som påfrestande. Forskarna efterlyser bättre information om att meditation, precis som andra psykologiska metoder, kan ge biverkningar hos vissa utövare.",
+      "source": "Clinical Psychological Science / ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2025/11/251105050730.htm",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "mbsr-blodtryck-depression-tidig-livsmotgang-brown-2026",
+      "title": "Mindfulnessprogram mot högt blodtryck minskade även depression, särskilt efter svår barndom",
+      "category": "Forskning",
+      "date": "2026-02-05",
+      "location": "USA",
+      "summary": "I en randomiserad studie vid Brown University fick över 200 deltagare antingen ett mindfulnessbaserat program mot högt blodtryck eller sedvanlig vård, och resultaten efter sex månader visade tydligt minskade depressionssymtom i mindfulnessgruppen. Effekten var starkast hos deltagare som upplevt svåra påfrestningar tidigt i livet, vilket forskarna tolkar som att mindfulness kan vara extra värdefullt för just den gruppen.",
+      "source": "Brown University School of Public Health",
+      "url": "https://sph.brown.edu/news/2026-02-05/mindfulness",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "headspace-ucsf-arbetsplats-stress-jama-2025",
+      "title": "Stor Headspace-studie på arbetsplatsen visade minskad stress och utbrändhet",
+      "category": "Studie",
+      "date": "2025-01-14",
+      "location": "USA",
+      "summary": "Forskare vid UC San Francisco lottade över 1 400 anställda till antingen meditationsappen Headspace eller en väntelista, och fann i en studie publicerad i JAMA Network Open tydliga minskningar av stress, arbetsrelaterad utmattning och ångest direkt efter insatsen. Flera positiva effekter, som ökad arbetstillfredsställelse, kvarstod även månader senare.",
+      "source": "JAMA Network Open / UCSF",
+      "url": "https://psych.ucsf.edu/news/ucsf-researchers-examine-effects-workplace-digital-mindfulness-intervention",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
     }
   ]
 }

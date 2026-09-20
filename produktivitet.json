@@ -2,8 +2,8 @@
   "topic": "Produktivitet",
   "description": "Produktivitetsmetoder, verktyg, forskning om fokus, arbetsliv och AI. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-06",
-  "item_count": 54,
+  "last_updated": "2026-09-20",
+  "item_count": 61,
   "items": [
     {
       "id": "fyradagarsvecka-bevisen-vaxer-2026",
@@ -652,6 +652,90 @@
       "url": "https://workspaceupdates.googleblog.com/2026/08/ask-gemini-in-chat.html",
       "added_on": "2026-09-06",
       "collected_week": "2026-W36"
+    },
+    {
+      "id": "notion-agent-skills-lansering-2026",
+      "title": "Notion 3.7 ger team gemensamma AI-agenter med egna kompetensområden",
+      "category": "Verktyg",
+      "date": "2026-09-15",
+      "location": "",
+      "summary": "Notion har lanserat version 3.7 där agenter kan tilldelas olika 'skills' och delegera uppgifter sinsemellan, till exempel genom att en projektagent skickar buggrapporter till en triageagent och sedan sammanställer svaren i en Slack-uppdatering. Uppdateringen gör det också möjligt för anpassade agenter att automatiskt sköta uppföljning direkt efter möten.",
+      "source": "Notion",
+      "url": "https://www.notion.com/releases/2026-09-15",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "reuters-ai-produktivitet-langsam-lyft-2026",
+      "title": "Reuters: Snabb AI-adoption ger ännu inget tydligt produktivitetslyft",
+      "category": "Analys",
+      "date": "2026-09-16",
+      "location": "",
+      "summary": "En analys från Reuters Breakingviews konstaterar att trots att 44 procent av företagen nu använder AI syns ännu ingen tydlig ökning av den samlade arbetsproduktiviteten, ett mönster som liknar hur det dröjde innan datorer gav utslag i statistiken på 1980-talet. Artikeln pekar på omställningskostnader som en trolig förklaring till eftersläpningen.",
+      "source": "Reuters Breakingviews",
+      "url": "https://www.breakingviews.com/columns/considered-view/fast-embraced-ai-will-be-slow-lift-productivity-2026-09-16/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "bth-workflex-forskningssatsning-2026",
+      "title": "Ny svensk forskningssatsning ska reda ut vilka arbetsmodeller som faktiskt fungerar",
+      "category": "Forskning",
+      "date": "2026-09-15",
+      "location": "Karlskrona",
+      "summary": "Blekinge Tekniska Högskola lanserar forskningsprogrammet WorkFlex+, finansierat av KK-stiftelsen, för att undersöka hur AI förändrar förutsättningarna för kontorsarbete, distansarbete och hybridarbete. Målet är att förstå vilka arbetsuppgifter som faktiskt fungerar bäst var, i stället för att utgå från en modell som passar alla verksamheter.",
+      "source": "Blekinge Tekniska Högskola (via TT)",
+      "url": "https://via.tt.se/pressmeddelande/4534593/ny-forskning-om-ai-hybridarbete-och-framtidens-arbetsplats?lang=sv",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "anthropic-claude-cowork-sammanslagning-2026",
+      "title": "Anthropic slår ihop Claude Cowork och chatten till en enda upplevelse",
+      "category": "AI",
+      "date": "2026-09-16",
+      "location": "",
+      "summary": "Anthropic har meddelat att Claude Cowork och den vanliga Claude-chatten slås samman till ett enhetligt gränssnitt, där Claude själv avgör om en förfrågan ska besvaras direkt eller hanteras som ett större researchprojekt. Samtidigt lanseras betafunktionerna Claude Docs och Claude Slides, som låter användare skapa och redigera dokument och presentationer tillsammans med AI:n.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "mckinsey-ai-produktivitetsparadox-2026",
+      "title": "McKinsey: Åtta av tio känner sig mer produktiva med AI – men vinsten syns sällan i resultatet",
+      "category": "Rapport",
+      "date": "2026-08-01",
+      "location": "",
+      "summary": "McKinseys globala AI-enkät visar att 80 procent av de tillfrågade upplever högre personlig produktivitet tack vare AI, men bara 37 procent ser något avtryck i företagets rörelseresultat, en andel som knappt förändrats sedan året innan. Rapporten beskriver en produktivitetsparadox där individuella tidsvinster sällan omvandlas till mätbar organisatorisk lönsamhet.",
+      "source": "McKinsey / TheNextWeb",
+      "url": "https://thenextweb.com/news/mckinsey-ai-productivity-paradox-enterprise-roi-capex",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "tng-proximity-bias-hybridarbete-2025",
+      "title": "Proximity bias gör chefer omedvetet orättvisa i hybridarbete, visar TNG",
+      "category": "Metod",
+      "date": "2025-12-30",
+      "location": "",
+      "summary": "Rekryteringsföretaget TNG beskriver hur proximity bias, den omedvetna tendensen att gynna medarbetare man ofta ser fysiskt på kontoret, riskerar att missgynna distansarbetande och därmed snedvrida både utvärderingar och karriärmöjligheter. Artikeln ger konkreta råd till chefer om hur de kan motverka snedvridningen och i stället bedöma medarbetare efter faktiska resultat.",
+      "source": "TNG Insights",
+      "url": "https://www.tng.se/research-rapporter/proximity-bias/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "iss-kontorslivet-proximity-bias-2026",
+      "title": "ISS-rapport: Stor klyfta mellan chefer och medarbetare i synen på kontorsnärvaro",
+      "category": "Studie",
+      "date": "2026-04-27",
+      "location": "Sverige",
+      "summary": "ISS Sveriges årliga rapport Kontorslivet 2026 visar att 41 procent av cheferna tror att kontorsnärvaro gynnar medarbetarna, medan bara 14 procent av medarbetarna själva håller med. Rapporten mäter för första gången proximity bias och visar dessutom tydliga generationsskillnader i hur chefer ser på distansarbetets effekter på kollegarelationer och engagemang.",
+      "source": "ISS Sverige",
+      "url": "https://marketing.issworld.com/sv-se/trendrapport_kontorslivet_2026",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
     }
   ]
 }

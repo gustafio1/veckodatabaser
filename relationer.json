@@ -2,8 +2,8 @@
   "topic": "Relationer",
   "description": "Forskning om kärlek, familj, dejting och social gemenskap. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-06",
-  "item_count": 51,
+  "last_updated": "2026-09-20",
+  "item_count": 57,
   "items": [
     {
       "id": "oarlighet-parforhallanden-forskning-2026",
@@ -616,6 +616,78 @@
       "url": "https://www.psypost.org/the-enduring-health-cost-of-a-hostile-divorce/",
       "added_on": "2026-09-06",
       "collected_week": "2026-W36"
+    },
+    {
+      "id": "musiksmak-parkompatibilitet-2026",
+      "title": "Liknande musiksmak säger mer om ett pars relation än gemensam personlighet",
+      "category": "Forskning",
+      "date": "2026-09-19",
+      "location": "",
+      "summary": "En studie av 309 par, publicerad i Social Psychological and Personality Science, visar att partners liknar varandra betydligt mer i musiksmak än i personlighetsdrag eller värderingar. Att gilla samma artister hängde också ihop med högre relationsnöjdhet, till skillnad från likhet i personlighet som inte gav samma effekt.",
+      "source": "PsyPost / Social Psychological and Personality Science",
+      "url": "https://www.psypost.org/musical-compatibility-often-outshines-personality-matching-in-romantic-couples/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "aktenskap-dalig-livsstil-biologisk-aldrande-2026",
+      "title": "Lyckliga äktenskap kan påskynda biologiskt åldrande om paret delar ohälsosamma vanor",
+      "category": "Forskning",
+      "date": "2026-09-17",
+      "location": "",
+      "summary": "Ny forskning visar att äktenskaplig lycka normalt hänger samman med längre liv, men att sambandet vänds om paret delar dåliga vanor som ohälsosam kost och dålig sömn. När partners bekräftar varandras ohälsosamma beteenden tycks den känslomässiga närheten i stället påskynda cellernas biologiska åldrande.",
+      "source": "PsyPost",
+      "url": "https://www.psypost.org/how-a-happy-marriage-might-accelerate-your-biological-aging/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "mankeeping-kvinnors-halsa-2026",
+      "title": "Nytt mätinstrument visar hur \"mankeeping\" tär på kvinnors relationsnöjdhet",
+      "category": "Studie",
+      "date": "2026-09-18",
+      "location": "",
+      "summary": "Forskare har utvecklat och validerat en skala i tidskriften Sex Roles för att mäta \"mankeeping\" – det extra känslomässiga arbete kvinnor lägger ner när deras manliga partner saknar ett eget vänskapsnätverk. Kvinnor med en mer traditionell syn på könsroller rapporterade mer sådant arbete, vilket i sin tur hängde samman med högre utmattning och lägre relationsnöjdhet.",
+      "source": "PsyPost / Sex Roles",
+      "url": "https://www.psypost.org/mankeeping-takes-a-toll-on-womens-mental-health-and-relationship-satisfaction-study-suggests/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "kinsey-singlar-i-usa-2026",
+      "title": "Kinsey-institutets 15:e Singles in America-undersökning kartlägger ny syn på äktenskap och familj",
+      "category": "Rapport",
+      "date": "2026-09-14",
+      "location": "USA",
+      "summary": "Den femtonde årliga Singles in America-undersökningen, med omkring 5000 amerikanska singlar, visar att allt fler i dag har en tydlig \"checklista\" för en framtida partner och att hälften av Generation Z bakgrundskollar sina dejter online innan de träffas. Rapporten visar också bredare förändringar i synen på äktenskap, pengar och familjebildning bland ensamstående.",
+      "source": "phys.org / Kinsey Institute",
+      "url": "https://phys.org/news/2026-09-singles-america-survey-reveals-relationships.html",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "ai-chattbottar-isolering-relationer-2026",
+      "title": "AI-chattbottar stärker det egna måendet – men kan tränga undan riktiga relationer",
+      "category": "Forskning",
+      "date": "2026-09-06",
+      "location": "",
+      "summary": "Ett kontrollerat experiment med 167 collegestudenter, publicerat i Psychology & Marketing, visar att AI-chattbottar med hög emotionell intelligens kan förbättra användarens mående på kort sikt. Samtidigt riskerar den bekväma digitala uppmärksamheten att göra att användaren tappar motivationen att underhålla sina verkliga, mänskliga relationer.",
+      "source": "PsyPost / Psychology & Marketing",
+      "url": "https://www.psypost.org/the-hidden-cost-of-artificial-empathy-how-chatbots-boost-mental-health-but-isola/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "motivation-partnersokande-utfall-2026",
+      "title": "Anledningen till att du letar efter en partner formar vilken relation du hittar",
+      "category": "Studie",
+      "date": "2026-09-06",
+      "location": "",
+      "summary": "En studie ledd av doktoranden Laura Hawkins vid University of Toronto visar att singlars underliggande motivation till att dejta, snarare än bara viljan att hitta någon, avgör både vilken typ av partner de söker och hur nöjda de blir sex månader senare. De som dejtade mest för andras skull fokuserade mest på antalet dejter, medan de utan tydligt relationsmål ändå rapporterade störst framsteg vid uppföljningen.",
+      "source": "PsyPost",
+      "url": "https://www.psypost.org/struggling-to-find-the-one-a-new-psychology-study-says-the-problem-might-be-your-underlying-motivation/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
     }
   ]
 }

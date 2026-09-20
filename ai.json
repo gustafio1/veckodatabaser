@@ -2,8 +2,8 @@
   "topic": "AI & maskininlärning",
   "description": "Nyheter om nya AI-modeller, verktyg, forskning, företag och reglering. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-13",
-  "item_count": 69,
+  "last_updated": "2026-09-20",
+  "item_count": 75,
   "items": [
     {
       "id": "openai-gpt-5-6-lansering-2026",
@@ -832,6 +832,78 @@
       "url": "https://www.deepseek.com/en/news/deepseek-v4-1-flash/",
       "added_on": "2026-09-13",
       "collected_week": "2026-W37"
+    },
+    {
+      "id": "amodei-pace-the-frontier-2026",
+      "title": "Anthropics vd Dario Amodei uppmanar branschen att sakta ned AI-utvecklingen",
+      "category": "Nyhet",
+      "date": "2026-09-12",
+      "location": "",
+      "summary": "I ett uppmärksammat inlägg, 'We Must Pace the Frontier', argumenterade Anthropics vd Dario Amodei för att AI-labben medvetet bör bromsa takten i förmågeökningar tills säkerhetsforskning och styrning hinner ikapp. Anthropic utlovade samtidigt permanent tillgång för oberoende granskare som METR, och både OpenAI:s Sam Altman och xAI:s Elon Musk ställde sig snabbt bakom uppropet.",
+      "source": "Forbes / darioamodei.com",
+      "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "openai-anthropic-google-ai-sakerhetssamtal-2026",
+      "title": "OpenAI bekräftar veckor av AI-säkerhetssamtal med Anthropic och Google DeepMind",
+      "category": "Nyhet",
+      "date": "2026-09-15",
+      "location": "",
+      "summary": "OpenAI:s policychef Chris Lehane bekräftade att bolaget under flera veckor diskuterat gemensamma säkerhetsåtgärder med Anthropic och Google DeepMind, bland annat kring tredjepartsgranskning av frontlinjemodeller. Samordningen väcker samtidigt konkurrensrättsliga frågor om huruvida branschens säkerhetssamarbete kan strida mot amerikansk antitrustlagstiftning.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "antitrust-stamning-ai-bolag-uppbromsning-2026",
+      "title": "AI-jättar stäms för misstänkt otillåten samordning om att sakta ned utvecklingen",
+      "category": "Reglering",
+      "date": "2026-09-18",
+      "location": "USA",
+      "summary": "Fyra betalande abonnenter stämde Anthropic, OpenAI, SpaceXAI och Google vid federal domstol i norra Kalifornien och hävdar att bolagens offentliga stöd för att 'sakta ned' AI-utvecklingen utgör en otillåten konkurrensbegränsande överenskommelse enligt Sherman Act. Stämningen bygger direkt på Dario Amodeis uppmaning om branschsamordning och chefernas efterföljande offentliga instämmanden.",
+      "source": "Bloomberg Law",
+      "url": "https://news.bloomberglaw.com/litigation/openai-anthropic-google-spacexai-hit-with-antitrust-lawsuit",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "anthropic-claude-rd-automation-index-2026",
+      "title": "Anthropic: Claude leder nu 26 procent av bolagets egen AI-forskning",
+      "category": "Forskning",
+      "date": "2026-09-17",
+      "location": "",
+      "summary": "Anthropic publicerade sitt första R&D Automation Index och rapporterade att Claude i augusti 2026 självständigt ledde 26 procent av bolagets modellforskning och utveckling, upp från under en procent i februari samma år. Omkring 30 000 Claude-agenter arbetade samtidigt med forsknings- och ingenjörsuppgifter under mänsklig övervakning, vilket bolaget presenterar tillsammans med nya åtgärder för agentövervakning.",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/tech/tech-news/anthropic-says-model-claude-helping-build-next-version-rcna598494",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "shanghai-ai-lab-atria-dawn-preview-2026",
+      "title": "Shanghai AI Lab öppen-källkodar agentmodellen Atria Dawn Preview",
+      "category": "Modeller",
+      "date": "2026-09-11",
+      "location": "Kina",
+      "summary": "Shanghai Artificial Intelligence Laboratory släppte Atria Dawn Preview, en 744 miljarder parametrar stor MoE-modell byggd för långvariga forsknings- och ingenjörsuppgifter med verktygsanvändning och 256 000 tokens kontext. Modellen publicerades under en tillåtande MIT-licens på Hugging Face och presterar enligt bolaget i nivå med ledande slutna system på flera agentbenchmarks.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/technology/ai/articles/atria-releases-atria-dawn-preview-121900267.html",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "openai-navier-stokes-bevis-tvist-2026",
+      "title": "OpenAI hävdar löst klassiskt matematikproblem – men bevisas ifrågasätts",
+      "category": "Forskning",
+      "date": "2026-09-08",
+      "location": "San Francisco, USA",
+      "summary": "OpenAI meddelade att omkring 10 000 AI-agenter på 88 timmar tagit fram ett motexempel som visar att lösningar till Navier-Stokes ekvationer kan bryta samman, ett av matematikens klassiska olösta millennieproblem. Anspråket möttes snabbt av en prioritetstvist sedan en matematiker kopplad till Anthropic hävdade att information om ett pågående samarbete läckt till OpenAI, och beviset har ännu inte oberoende granskats.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/09/openai-navier-stokes-math-problem-solved.html",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "topic": "Kyrkohistoria",
   "description": "Kyrkohistorisk forskning, jubileer, kristen arkeologi, böcker och kulturarv. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-06",
-  "item_count": 54,
+  "last_updated": "2026-09-20",
+  "item_count": 59,
   "items": [
     {
       "id": "iznik-nicaeakyrkans-lamningar-utgravda-2026",
@@ -652,6 +652,66 @@
       "url": "https://www.foxnews.com/travel/lost-pages-ghost-text-recovered-one-worlds-most-important-new-testament-manuscripts",
       "added_on": "2026-09-06",
       "collected_week": "2026-W36"
+    },
+    {
+      "id": "reformationsbibeln-jubileumsutgava-2026",
+      "title": "Reformationsbibeln ges ut i jubileumsutgåva efter 32 års arbete",
+      "category": "Bok",
+      "date": "2026-03-25",
+      "location": "",
+      "summary": "Efter 32 års översättningsarbete är Reformationsbibeln nu komplett i en jubileumsutgåva, utgiven 500 år efter Gustav Vasas bibel – Sveriges första bibelöversättning. Arbetet bygger på samma grundtext som användes under reformationstiden och har moderniserat språket för att bli mer tillgängligt.",
+      "source": "BibelFokus",
+      "url": "https://www.bibelfokus.se/sv/reformationsbibeln_2026",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "medeltida-bok-forlorade-sidor-aterfunna-2026",
+      "title": "Förlorade sidor ur medeltida andaktsbok återfunna efter sekler",
+      "category": "Arkeologi",
+      "date": "2026-09-01",
+      "location": "",
+      "summary": "Sex bortkomna pergamentsidor ur en 1400-talsavskrift av Nicholas Loves 'Mirror of the Blessed Life of Jesus Christ' – en av medeltida Englands mest spridda andaktsböcker – har återfunnits i ett arkiv i Brighton och återförenats med huvudverket, som förvaras vid Yale University.",
+      "source": "Medievalists.net",
+      "url": "https://www.medievalists.net/2026/09/lost-pages-of-medieval-bestseller-rediscovered-after-centuries/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "nycklar-till-det-forflutna-antologi-2026",
+      "title": "Ny antologi ger nycklar till forskning om kyrkors historia",
+      "category": "Bok",
+      "date": "2026-01-01",
+      "location": "",
+      "summary": "Antologin 'Nycklar till det förflutna: Om källor till kyrkors historia', redigerad av Urban Claesson, Stina Fallberg Sundmark, David Gudmundsson och Erik Sidenvall, ger en introduktion till källmaterial för den som forskar i eller vill utforska den kristna trons uttryck genom historien.",
+      "source": "Gidlunds förlag",
+      "url": "https://svenskhistoria.se/om-kallor-till-kyrkors-historia/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "heliga-gravens-kyrka-tradgard-rapportering-2026",
+      "title": "Utgrävningen under Gravkyrkan i Jerusalem sammanfattas i ny rapportering",
+      "category": "Arkeologi",
+      "date": "2026-09-18",
+      "location": "Jerusalem",
+      "summary": "Ny rapportering sammanfattar den omfattande utgrävningen under Heliga gravens kyrka, ledd av Sapienza-professorn Francesca Stasolla, som funnit cirka 2000 år gamla frön och pollen från olivträd och vinrankor. Fynden ger arkeologiskt stöd åt landskapsbeskrivningen i Johannesevangeliet 19:41, utan att kunna bevisa den exakta gravplatsen.",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/news/mena/2026/09/18/where-jesus-buried-burial-spot-christianity-jerusalem/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "arkeologi-ostergotland-2026-arsskrift",
+      "title": "Årsskriften Arkeologi i Östergötland 2026 lyfter kristnandets spår",
+      "category": "Arkeologi",
+      "date": "2026-06-17",
+      "location": "Östergötland",
+      "summary": "I årets utgåva av tidskriften Arkeologi i Östergötland beskriver länets arkeologer bland annat en vikingatida grav utanför Linköping med kristna drag, ett fynd som belyser övergången mellan hednisk och kristen gravsed i regionen.",
+      "source": "Nättidningen Svensk Historia",
+      "url": "https://svenskhistoria.se/arkeologi-i-ostergotland-2026/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
     }
   ]
 }

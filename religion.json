@@ -2,8 +2,8 @@
   "topic": "Religion – Nyheter",
   "description": "Religiösa nyheter från Vatikanen, kyrkor och trossamfund världen över. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-06",
-  "item_count": 126,
+  "last_updated": "2026-09-20",
+  "item_count": 131,
   "items": [
     {
       "id": "leo-xiv-tyska-studenter-2026",
@@ -1516,6 +1516,66 @@
       "url": "https://www.pewresearch.org/newsletter/religion-weekly/25-years-after-9-11-a-portrait-of-muslim-americans/",
       "added_on": "2026-09-06",
       "collected_week": "2026-W36"
+    },
+    {
+      "id": "nostra-aetate-60-ar-vandring-hopp-2026",
+      "title": "Vatikanen publicerar nytt dokument till 60-årsminnet av Nostra Aetate",
+      "category": "Vatikanen",
+      "date": "2026-09-16",
+      "location": "",
+      "summary": "Tre vatikandikasterier gav ut noten 'En vandring av hopp' till 60-årsminnet av konciliedeklarationen Nostra Aetate. Dokumentet efterlyser ett nytt förhållningssätt till dialog mellan religioner, bortom försvarsinställning och fientlighet.",
+      "source": "Vatican News",
+      "url": "https://www.vaticannews.va/en/vatican-city/news/2026-09/nostra-aetate-60th-anniversary-vatican-journey-to-hope.html",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "leo-xiv-frankrike-resa-september-2026",
+      "title": "Leo XIV förbereder apostolisk resa till Frankrike 25–28 september",
+      "category": "Vatikanen",
+      "date": "2026-09-17",
+      "location": "",
+      "summary": "Påvens femte utlandsresa går till Paris, Lourdes och Metz. Programmet omfattar vesper i Notre-Dame, ett besök hos Unesco och en friluftsmässa i Lourdes med 150 000 väntade pilgrimer.",
+      "source": "Vatican News",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-09/france-pope-leo-xiv-brief-matteo-bruni-holy-see-press-office.html",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "leo-xiv-upphaver-lonesankningar-2026",
+      "title": "Påven upphäver Franciskus lönesänkningar för Vatikanens anställda",
+      "category": "Vatikanen",
+      "date": "2026-09-15",
+      "location": "",
+      "summary": "Genom ett motu proprio återkallade Leo XIV de lönesänkningar som infördes 2021 under pandemins ekonomiska kris för kardinaler och högre prelater i kurian, med hänvisning till förtroende för Heliga stolens ekonomiska hållbarhet.",
+      "source": "Katolskt magasin",
+      "url": "https://katolsktmagasin.se/2026/09/15/paven-upphaver-beslut-om-lonesankningar-for-anstallda-i-vatikanen/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "biskopar-mellanostern-mote-med-paven-2026",
+      "title": "Biskopar från Mellanöstern möter påven om dialog och förföljelse",
+      "category": "Vatikanen",
+      "date": "2026-09-04",
+      "location": "",
+      "summary": "Påven tog emot den latinska biskopskonferensen för de arabiska regionerna (CELRA) och uppmanade den katolska minoriteten i Mellanöstern att fortsätta dialogen mellan kyrkor och med andra religioner, samtidigt som han påminde om kristna som förföljts i Jemen, Irak och Syrien.",
+      "source": "Signum",
+      "url": "https://signum.se/biskopar-fran-mellanostern-i-mote-med-paven/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "svenska-nt-2026-lansering-bokmassan",
+      "title": "Ny svensk översättning av Nya testamentet lanseras på Bokmässan",
+      "category": "Kristendom",
+      "date": "2026-09-24",
+      "location": "",
+      "summary": "Svenska Bibelsällskapet lanserar NT 2026, en nyöversättning av Nya testamentet, på Bokmässan i Göteborg. Lanseringen sker 500 år efter att den första svenska översättningen av Nya testamentet trycktes 1526.",
+      "source": "Bibelsällskapet",
+      "url": "https://bokmassan.se/2026/05/nya-testamentet-2026-lanseras-under-bokmassan/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
     }
   ]
 }

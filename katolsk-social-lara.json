@@ -2,8 +2,8 @@
   "topic": "Katolska kyrkans sociala lära",
   "description": "Den katolska kyrkans sociala lära – principerna och temana som vägleder ett rättvist samhälle. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-06",
-  "item_count": 110,
+  "last_updated": "2026-09-20",
+  "item_count": 115,
   "items": [
     {
       "id": "liv-och-vardighet",
@@ -1324,6 +1324,66 @@
       "url": "https://www.catholicworldreport.com/2026/05/29/new-collaboration-based-on-catholic-social-teaching-prepares-students-for-public-service/",
       "added_on": "2026-09-06",
       "collected_week": "2026-W36"
+    },
+    {
+      "id": "corpus-leoninum-leo-xiii-filosofisk-grund-2026",
+      "title": "Essä: Leo XIII:s filosofiska encyklikor som grund för sociallärans 'Corpus Leoninum'",
+      "category": "Princip",
+      "date": "2026-09-16",
+      "location": "",
+      "summary": "En essä i Catholic World Report lyfter fram hur Leo XIII:s encyklika Aeterni Patris, tillsammans med åtta andra filosofiska skrifter, lade den filosofiska grunden för den katolska sociallärans senare utveckling. Naturalismen pekas ut som den rot till samhällelig oordning som sociallärans principer ville motverka.",
+      "source": "Catholic World Report",
+      "url": "https://www.catholicworldreport.com/2026/09/16/catholic-social-thought-and-the-corpus-leoninum/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "leo-xiv-augustinian-center-kritiskt-tankande-2026",
+      "title": "Leo XIV till nytt augustinskt centrum: kritiskt tänkande centralt för sociallärans framtid",
+      "category": "Nyhet",
+      "date": "2026-09-19",
+      "location": "",
+      "summary": "Vid invigningen av Internationella centret Påve Leo XIV, ett augustinskt initiativ i Rom för forskning kring kyrkans sociallära, betonade påven vikten av reflektion och kritiskt tänkande för att bygga en 'kärlekens civilisation' och kallade indoktrinering omoraliskt.",
+      "source": "Aleteia",
+      "url": "https://aleteia.org/2026/09/19/pope-to-scholars-at-new-leo-xiv-center-be-experts-in-gods-newness/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "dorothea-project-dc-procession-migranter-2026",
+      "title": "Katoliker processionerar till Kongressen i Washington för migranters värdighet",
+      "category": "Nyhet",
+      "date": "2026-09-15",
+      "location": "",
+      "summary": "Över hundra katoliker, samlade av Dorothea Project, firade mässa på Capitol Hill och processionerade till Upper Senate Park för att möta kongressmedarbetare och visa solidaritet med migranter, med paroller om värdighet, familj och solidaritet – kärnbegrepp i sociallärans tillämpning.",
+      "source": "Catholic World Report",
+      "url": "https://www.catholicworldreport.com/2026/09/16/catholics-process-in-washington-head-to-congress-in-solidarity-with-migrants/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "fratelli-tutti-fjarde-synodala-motet-2026",
+      "title": "Fjärde Fratelli Tutti-mötet: påven varnar för att framsteg lämnar nya ruiner",
+      "category": "Nyhet",
+      "date": "2026-09-12",
+      "location": "",
+      "summary": "Vid det fjärde synodala mötet kring encyklikan Fratelli Tutti, hållet i Rom 10–12 september med företrädare för de latinamerikanska, amazonska och nordamerikanska biskopskonferenserna, varnade Leo XIV för att ekonomiska och tekniska framsteg inte får lämna nya sociala ruiner efter sig.",
+      "source": "Vatican News",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-09/pope-leo-fratelli-tutti-synodal-north-south-americas-progress.html",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "marian-university-cst-foredragsserie-2026",
+      "title": "Marian University startar föreläsningsserie om katolska intellektuella traditionen och sociallära",
+      "category": "Nyhet",
+      "date": "2026-08-26",
+      "location": "",
+      "summary": "Universitetets kommitté för uppdragsintegration inledde en nioserie föreläsningar om den katolska intellektuella traditionen, med det första passet ägnat åt människans värdighet – ett centralt tema i den katolska sociallären.",
+      "source": "Marian University",
+      "url": "https://www.marian.edu/faith/catholic-social-teaching",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
     }
   ]
 }

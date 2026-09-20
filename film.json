@@ -2,8 +2,8 @@
   "topic": "Film & TV",
   "description": "Biopremiärer, streaming, TV-serier, svensk film och filmfestivaler. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-13",
-  "item_count": 62,
+  "last_updated": "2026-09-20",
+  "item_count": 68,
   "items": [
     {
       "id": "sju-biopremiarer-juli-2026",
@@ -748,6 +748,78 @@
       "url": "https://www.filmtopp.se/nyhet/svtplay-nu-slapps-svt-s-nya-serie-med-mia-skaringer-premiar-innan-helgen",
       "added_on": "2026-09-13",
       "collected_week": "2026-W37"
+    },
+    {
+      "id": "tony-bourdain-biopik-streaming-2026",
+      "title": "Bourdain-biopiken Tony strömmas efter kort biovisning",
+      "category": "Streaming",
+      "date": "2026-09-15",
+      "location": "",
+      "summary": "A24:s biopik Tony, om en 19-årig Anthony Bourdains kaotiska sommar i ett restaurangkök i Provincetown, finns nu att strömma efter en kort biopremiär i augusti. Dominic Sessa spelar huvudrollen mot bland andra Antonio Banderas.",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/timlammers/2026/09/15/tony-2nd-screen-project-based-on-bourdains-kitchen-confidential-joins-streaming-menu-after-short-box-office-run/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "practical-magic-2-premiar-2026",
+      "title": "Practical Magic 2 har premiär – Bullock och Kidman återvänder",
+      "category": "Bio",
+      "date": "2026-09-10",
+      "location": "",
+      "summary": "Uppföljaren Practical Magic 2 med Sandra Bullock och Nicole Kidman i huvudrollerna hade biopremiär i USA den 10 september, i regi av Susanne Bier. Filmen är en sen uppföljare till 1998 års kultklassiker.",
+      "source": "Movie Insider",
+      "url": "https://www.movieinsider.com/m23002/practical-magic-2",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "hope-na-hong-jin-actionthriller-2026",
+      "title": "Na Hong-jins actionthriller Hope slår Koreas biopublikrekord",
+      "category": "Premiär",
+      "date": "2026-07-15",
+      "location": "",
+      "summary": "Regissören Na Hong-jins (The Wailing) sciencefiction-actionthriller Hope, som visades i Cannes-tävlingen med Michael Fassbender och Alicia Vikander, öppnade i Sydkorea med årets starkaste biopremiär och slog försäljningsrekord.",
+      "source": "Screen Daily",
+      "url": "https://www.screendaily.com/news/na-hong-jins-hope-delivers-koreas-biggest-box-office-opening-of-2026/5218739.article",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "streamingnyheter-september-2026",
+      "title": "Netflix och HBO Max fylls på med höstpremiärer i september",
+      "category": "Streaming",
+      "date": "2026-09-01",
+      "location": "",
+      "summary": "September bjuder på ett stort utbud nya premiärer på Netflix och HBO Max, bland annat säsong två av The Gentlemen, säsong fem av Fauda och den svenska filmen Quick på Netflix, samt nya HBO-serien Youth och skräckfilmen Backrooms på HBO Max.",
+      "source": "MovieZine",
+      "url": "https://www.moviezine.se/nyheter/nya-filmer-och-serier-pa-netflix-i-september-2026",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "svenska-filmpremiarer-hosten-2026",
+      "title": "Flera nya svenska filmer har premiär under hösten",
+      "category": "Svensk film",
+      "date": "2026-09-01",
+      "location": "Sverige",
+      "summary": "Hösten 2026 bjuder på ett ovanligt starkt utbud av svensk film, med premiärer som De levande döda i Rojava, Resan till Piemonte och Första blatten på månen. Utbudet spänner från dokumentär och komedi till thriller.",
+      "source": "Hänt",
+      "url": "https://www.hant.se/tv-serier-och-streaming/svenska-filmer-hosten-2026-alla-premiarer-att-halla-koll-pa/11579693",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "biopremiarer-september-2026-oversikt",
+      "title": "Blandat premiärutbud på bio i september 2026",
+      "category": "Bio",
+      "date": "2026-09-01",
+      "location": "",
+      "summary": "Filmtopp sammanfattar september månads biopremiärer, som spänner från stora Hollywoodtitlar till mindre dramafilmer, och pekar ut flera filmer värda att se under månaden.",
+      "source": "Filmtopp",
+      "url": "https://www.filmtopp.se/lista/biopremiarer-i-september-2026-hojdpunkterna-bland-manadens-biofilmer",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
     }
   ]
 }

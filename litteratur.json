@@ -2,8 +2,8 @@
   "topic": "Litteratur",
   "description": "Boksläpp, litterära priser, författarnyheter och förlagsbranschen. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-13",
-  "item_count": 64,
+  "last_updated": "2026-09-20",
+  "item_count": 69,
   "items": [
     {
       "id": "taiwan-travelogue-international-booker-2026",
@@ -772,6 +772,66 @@
       "url": "https://www.albertbonniersforlag.se/forfattare/61423/hanna-rajs/",
       "added_on": "2026-09-13",
       "collected_week": "2026-W37"
+    },
+    {
+      "id": "nobelpriset-litteratur-2026-tillkannagivande",
+      "title": "Nobelpriset i litteratur 2026 tillkännages i oktober",
+      "category": "Pris",
+      "date": "2026-10-08",
+      "location": "Stockholm",
+      "summary": "Svenska Akademien meddelar att Nobelpriset i litteratur för 2026 tillkännages torsdagen den 8 oktober, tidigast klockan 13.00. Beskedet väntas med stort intresse efter flera års spekulationer kring vem som tilldelas priset.",
+      "source": "NobelPrize.org",
+      "url": "https://www.nobelprize.org/press-release/the-2026-nobel-prize-announcements/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "augustpriset-2026-nominerade-tillkannages",
+      "title": "Augustprisets nominerade presenteras i oktober",
+      "category": "Pris",
+      "date": "2026-10-19",
+      "location": "Stockholm",
+      "summary": "De nominerade till Augustpriset 2026, ett av Sveriges mest prestigefyllda litteraturpriser, tillkännages måndagen den 19 oktober av Svenska Förläggareföreningen.",
+      "source": "Svenska Förläggareföreningen",
+      "url": "https://forlaggare.se/kalendarium/augustpriset-och-de-nominerade-ar/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "katapultpriset-2026-vinnare-ellika-lagerlof",
+      "title": "Ellika Lagerlöf vann Katapultpriset för sin debut",
+      "category": "Pris",
+      "date": "2026-03-13",
+      "location": "Umeå",
+      "summary": "Ellika Lagerlöf tilldelades Katapultpriset 2026 för novellsamlingen Den sista kastraten på Albert Bonniers förlag. Priset delas årligen ut av Författarförbundet till årets bästa svenska skönlitterära debut.",
+      "source": "Boktugg.se",
+      "url": "https://www.boktugg.se/2026/03/13/ellika-lagerlof-far-katapultpriset-2026/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "kjell-westo-coda-ny-roman-2026",
+      "title": "Kjell Westö utkommer med sin tionde roman Coda",
+      "category": "Utgivning",
+      "date": "2026-09-01",
+      "location": "",
+      "summary": "Kjell Westö ger ut sin tionde roman Coda, 40 år efter sin debut. Boken utspelar sig i den litterära världen och skildrar konflikten mellan en äldre manlig författare och en yngre generation kritiker.",
+      "source": "Albert Bonniers Förlag",
+      "url": "https://www.albertbonniersforlag.se/bocker/293633/coda/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "bokslapp-september-2026-oversikt",
+      "title": "Flera välkomnade boksläpp under september",
+      "category": "Utgivning",
+      "date": "2026-09-01",
+      "location": "",
+      "summary": "Bokbloggen enligt O lyfter fram flera septembersläpp, bland andra Brott av Johanna Lindbäck och Sara Ohlsson, Döden i den vinröda läsfåtöljen av Sofia Rutbäck Eriksson och För alltid Zäta av Kajsa Timgren.",
+      "source": "enligt O",
+      "url": "https://www.enligto.se/2026/08/31/bocker-att-se-fram-emot-i-september-2026/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
     }
   ]
 }

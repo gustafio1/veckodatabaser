@@ -2,8 +2,8 @@
   "topic": "Fotografi",
   "description": "Nya kameror och objektiv, fototeknik, utställningar, tävlingar och fotografer. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-13",
-  "item_count": 62,
+  "last_updated": "2026-09-20",
+  "item_count": 68,
   "items": [
     {
       "id": "canon-eos-r6-v-lanseras-2026",
@@ -748,6 +748,78 @@
       "url": "https://www.landskronafoto.org/utstallningar-festival-2026/",
       "added_on": "2026-09-13",
       "collected_week": "2026-W37"
+    },
+    {
+      "id": "sony-tre-nya-teleobjektiv-2026",
+      "title": "Sony presenterar tre nya objektiv med superteleräckvidd",
+      "category": "Objektiv",
+      "date": "2026-09-08",
+      "location": "",
+      "summary": "Sony höll en presentation den 8 september där tre nya objektiv visades: superteleobjektiven FE 400mm f/4.5 GM OSS och FE 600mm f/6.3 GM OSS samt vidvinkelzoomen FE 8-14mm f/3.5 G Fisheye, alla ovanligt lätta för sin klass.",
+      "source": "Photografix-Magazin",
+      "url": "https://www.photografix-magazin.de/sony-diese-beiden-objektive-waeren-eine-kampfansage/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "om-system-pen-kamera-lansering-2026",
+      "title": "OM System lanserar ny kamera i klassiska Pen-serien",
+      "category": "Kameror",
+      "date": "2026-09-09",
+      "location": "",
+      "summary": "OM System har lanserat en ny kamera i den historiska Pen-serien efter att ha retat med en teaser om det klassiska kompaktformatet, en satsning på kamerans arv från halvformatstiden.",
+      "source": "PetaPixel",
+      "url": "https://petapixel.com/2026/08/26/om-system-teases-new-pen-series-camera-launch-on-september-9/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "light-lens-lab-35mm-apo-leverans-2026",
+      "title": "Light Lens Lab börjar leverera sitt första apokromatiska objektiv",
+      "category": "Objektiv",
+      "date": "2026-09-30",
+      "location": "",
+      "summary": "Det kinesiska objektivmärket Light Lens Lab inleder leveranserna av 35mm f/2 Apochromatic, det första objektivet i bolagets satsning på högpresterande optik, efter förbeställning sedan augusti.",
+      "source": "PetaPixel",
+      "url": "https://petapixel.com/2026/08/04/light-lens-lab-unveils-35mm-f-2-apochromatic-its-first-high-performance-series-lens/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "insta360-flagship-store-nyc-2026",
+      "title": "Insta360 öppnar första flaggskeppsbutiken utanför Asien",
+      "category": "Bransch",
+      "date": "2026-09-19",
+      "location": "New York",
+      "summary": "Actionkamerabolaget Insta360 öppnade den 19 september sin första flaggskeppsbutik utanför Asien, mitt i Times Square i New York, samtidigt som bolaget passerade tio miljoner sålda kameror.",
+      "source": "PetaPixel",
+      "url": "https://petapixel.com/2026/09/19/as-insta360-sells-its-10-millionth-camera-it-opens-first-flagship-store-in-the-us/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "brassai-hemliga-tecken-paris-moderna-museet-2026",
+      "title": "Brassaïs nattliga Paris visas på Moderna Museet",
+      "category": "Utställning",
+      "date": "2026-08-25",
+      "location": "Stockholm",
+      "summary": "Fotografen Brassaïs utställning The Secret Signs of Paris visas på Moderna Museet 25 augusti till 4 oktober, med bilder från 1930-talets nattliga Paris.",
+      "source": "Moderna Museet",
+      "url": "https://www.modernamuseet.se/sv/stockholm/utstallningar/ar/2026/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "nikon-london-event-produktnyheter-2026",
+      "title": "Nikon bjuder in till produktvisning i London",
+      "category": "Kameror",
+      "date": "2026-09-25",
+      "location": "London",
+      "summary": "Nikon håller ett exklusivt evenemang i London den 25 september med visning av kommande produktnyheter, där ryktena pekar på kameran Nikon Z70 och objektivet Nikkor Z 120-300mm f/2.8 TC VR S.",
+      "source": "fotoMAGAZIN",
+      "url": "https://www.fotomagazin.de/test-technik/kameras-und-objektive/kameras-und-objektive-das-bringt-2026-teil-1/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
     }
   ]
 }

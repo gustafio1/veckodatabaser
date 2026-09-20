@@ -2,8 +2,8 @@
   "topic": "Konst & design",
   "description": "Konstutställningar, design, arkitektur, auktioner och konstvärlden. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-13",
-  "item_count": 62,
+  "last_updated": "2026-09-20",
+  "item_count": 67,
   "items": [
     {
       "id": "moderna-museet-nisabas-hus-maleri-2026",
@@ -748,6 +748,66 @@
       "url": "https://www.bukowskis.com/en/auctions/online",
       "added_on": "2026-09-13",
       "collected_week": "2026-W37"
+    },
+    {
+      "id": "arkdes-nyoppnar-2026",
+      "title": "ArkDes slår upp dörrarna efter ombyggnad",
+      "category": "Arkitektur",
+      "date": "2026-09-27",
+      "location": "Stockholm",
+      "summary": "Arkitektur- och designmuseet ArkDes öppnar sina dörrar igen efter ombyggnad med en premiärhelg 27–29 september, med fri entré, verkstäder och familjeaktiviteter.",
+      "source": "ArkDes",
+      "url": "https://arkdes.se/nyheter/nu-slar-arkdes-upp-dorrarna/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "moderna-museet-subterranean-sky-surrealism-2026",
+      "title": "Moderna Museet visar surrealism ur egen samling",
+      "category": "Utställning",
+      "date": "2026-09-06",
+      "location": "Stockholm",
+      "summary": "Utställningen The Subterranean Sky: Surrealism in the Moderna Museet Collection öppnar den 6 september och pågår till 10 november, med fokus på surrealismens uttryck i museets egna samlingar.",
+      "source": "Moderna Museet",
+      "url": "https://www.modernamuseet.se/sv/stockholm/utstallningar/ar/2026/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "fargfabriken-ndidi-dike-rare-earth-rare-justice-2026",
+      "title": "Ndidi Dike utforskar råvaror och rättvisa på Färgfabriken",
+      "category": "Utställning",
+      "date": "2026-08-29",
+      "location": "Stockholm",
+      "summary": "Konsthallen Färgfabriken visar Ndidi Dikes utställning Rare Earth Rare Justice, som pågår till 22 november och behandlar råvaruutvinning och global rättvisa genom konst.",
+      "source": "Färgfabriken",
+      "url": "https://www.mynewsdesk.com/se/fargfabriken",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "affordable-art-fair-stockholm-2026",
+      "title": "Affordable Art Fair återvänder till Nacka Strand",
+      "category": "Mässa",
+      "date": "2026-09-30",
+      "location": "Stockholm",
+      "summary": "Affordable Art Fair Stockholm hålls för 14:e året i följd, 30 september–4 oktober på Nacka Strandsmässan, med över 75 gallerier och verk prissatta mellan 900 och 90 000 kronor under temat Konst och välmående.",
+      "source": "Visit Stockholm",
+      "url": "https://www.visitstockholm.com/events/affordable-art-fair-stockholm-2026/2026-09-30/",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
+    },
+    {
+      "id": "bukowskis-swedish-modern-lighting-auktion-2026",
+      "title": "Bukowskis auktionerar ut svensk modern belysningsdesign",
+      "category": "Auktion",
+      "date": "2026-09-04",
+      "location": "",
+      "summary": "Bukowskis håller specialauktionen Swedish Modern Lighting 4–13 september, med formgivna lampor och belysningsobjekt från svenska designklassiker.",
+      "source": "Bukowskis",
+      "url": "https://www.bukowskis.com/en/auctions/live",
+      "added_on": "2026-09-20",
+      "collected_week": "2026-W38"
     }
   ]
 }

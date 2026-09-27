@@ -2,8 +2,8 @@
   "topic": "Film & TV",
   "description": "Biopremiärer, streaming, TV-serier, svensk film och filmfestivaler. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-20",
-  "item_count": 68,
+  "last_updated": "2026-09-27",
+  "item_count": 76,
   "items": [
     {
       "id": "sju-biopremiarer-juli-2026",
@@ -820,6 +820,102 @@
       "url": "https://www.filmtopp.se/lista/biopremiarer-i-september-2026-hojdpunkterna-bland-manadens-biofilmer",
       "added_on": "2026-09-20",
       "collected_week": "2026-W38"
+    },
+    {
+      "id": "bytet-netflix-premiar-2026",
+      "title": "Svenska thrillerserien \"Bytet\" har premiär på Netflix",
+      "category": "Streaming",
+      "date": "2026-10-30",
+      "location": "",
+      "summary": "Den svenska psykologiska thrillerserien \"Bytet\", internationellt känd som \"A Couple of Lies\", har premiär på Netflix den 30 oktober med Fares Fares, Jakob Oftebro, Frida Gustavsson och Emma Appleton som två par som byter hus och liv med mörka konsekvenser. Serien bygger på Stefan Ahnhems roman och regisseras av Kasper Barfoed.",
+      "source": "Filmtopp",
+      "url": "https://www.filmtopp.se/nyhet/netflix-nu-kommer-bytet-med-fares-fares-till-netflix-svensk-psykologisk-thriller",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "the-storm-netflix-premiar-2026",
+      "title": "Josephine Bornebuschs komedi \"The Storm\" har premiär på Netflix",
+      "category": "Streaming",
+      "date": "2026-10-15",
+      "location": "",
+      "summary": "Josephine Bornebuschs nya komedifilm \"The Storm\" får premiär på Netflix den 15 oktober, med en stjärnspäckad svensk ensemble som Gizem Erdogan, Aliette Opheim och Gustaf Skarsgård. Filmen är en av två svenska storsatsningar i tjänstens ovanligt starka oktoberutbud.",
+      "source": "Filmtopp",
+      "url": "https://www.filmtopp.se/lista/netflix-extremt-stark-premiarmanad-pa-netflix-i-oktober-dubbla-svenska-premiarer",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "crystal-lake-hbo-max-premiar-2026",
+      "title": "\"Fredag den 13:e\"-prequeln \"Crystal Lake\" har premiär på HBO Max",
+      "category": "Premiär",
+      "date": "2026-10-15",
+      "location": "",
+      "summary": "Skräckserien \"Crystal Lake\", som skildrar förhistorien till \"Fredag den 13:e\" med fokus på Pamela Voorhees, mamma till Jason Voorhees, har premiär på HBO Max den 15 oktober. Serien är en av höstens mest omtalade skräcksatsningar bland de 37 nya titlarna på tjänsten i oktober.",
+      "source": "MovieZine",
+      "url": "https://www.moviezine.se/nyheter/crystal-lake-bland-37-nya-serier-och-filmer-pa-hbo-max-i-oktober",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "viaplay-oktober-2026-nyheter",
+      "title": "Viaplay fyller på med över 130 nya titlar i oktober – tungt Halloween-tema",
+      "category": "Streaming",
+      "date": "2026-10-01",
+      "location": "",
+      "summary": "Viaplay laddar för Halloween med runt 131 nya filmer och serier i oktober, bland annat klassiker som \"The Shining\" och hela \"The Conjuring\"-trilogin samt nya thrillerserien \"Memory of a Killer\" med Patrick Dempsey. Månaden bjuder även på samtliga säsonger av \"True Blood\" och en rad Tarantino-klassiker.",
+      "source": "MovieZine",
+      "url": "https://www.moviezine.se/nyheter/hela-131-nya-filmer-och-serier-kommer-in-pa-viaplay-i-oktober",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "stockholm-fantastic-film-festival-2026",
+      "title": "Stockholm International Fantastic Film Festival gästar huvudstaden i oktober",
+      "category": "Festival",
+      "date": "2026-10-14",
+      "location": "Stockholm",
+      "summary": "Sveriges största filmfestival för skräck, sci-fi, fantasy och mörk konstfilm, även kallad Monsters of Film, arrangeras 14–25 oktober i Stockholm. Festivalen samlar ett brett urval genrefilmer från hela världen för publik och branschfolk.",
+      "source": "FilmFreeway",
+      "url": "https://filmfreeway.com/MONSTERSOFFILM",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "uppsala-short-film-festival-2026",
+      "title": "Uppsala kortfilmfestival firar 45 år med filmvisningar och prisutdelning",
+      "category": "Festival",
+      "date": "2026-10-19",
+      "location": "Uppsala",
+      "summary": "Den 45:e upplagan av Uppsala kortfilmfestival hålls 19–25 oktober och räknas som Sveriges huvudarena för kortfilm och en av Europas viktigaste kortfilmfestivaler. Programmet bjuder på tävlingsfilmer, branschmöten och seminarier.",
+      "source": "Uppsala Short Film Festival",
+      "url": "https://shortfilmfestival.com/en/",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "biopremiarer-oktober-2026-oversikt",
+      "title": "Stjärnspäckad biomånad väntar när oktober bjuder på brett premiärutbud",
+      "category": "Bio",
+      "date": "2026-10-01",
+      "location": "",
+      "summary": "Oktober 2026 bjuder på ett ovanligt brett biopremiärutbud, med bland annat en actionfilm där Tom Cruise spelar en fallande världsledare, en filmatisering av Kazuo Ishiguros robotroman och en övernaturlig skräckfilm där Jessica Chastain gör dubbelroll som mor och kuslig garderobsvarelse. Filmtopp lyfter också fram Alex Schulmans regidebut som redan utsetts till Sveriges Oscarsbidrag.",
+      "source": "Filmtopp",
+      "url": "https://www.filmtopp.se/lista/biopremiarer-i-oktober-2026-hojdpunkterna-bland-manadens-biofilmer",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "east-of-eden-netflix-premiar-2026",
+      "title": "Ny filmatisering av \"East of Eden\" har premiär på Netflix",
+      "category": "Streaming",
+      "date": "2026-10-01",
+      "location": "",
+      "summary": "Netflix inleder oktober med en nyproduktion baserad på John Steinbecks klassiska roman \"East of Eden\", med Florence Pugh, Christopher Abbott och Mike Faist i huvudrollerna. Filmen är en av de stora internationella premiärerna i tjänstens höstutbud.",
+      "source": "What's on Netflix",
+      "url": "https://www.whats-on-netflix.com/coming-soon/whats-coming-to-netflix-in-october-2026/",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
     }
   ]
 }

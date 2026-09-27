@@ -2,8 +2,8 @@
   "topic": "Fotografi",
   "description": "Nya kameror och objektiv, fototeknik, utställningar, tävlingar och fotografer. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-20",
-  "item_count": 68,
+  "last_updated": "2026-09-27",
+  "item_count": 75,
   "items": [
     {
       "id": "canon-eos-r6-v-lanseras-2026",
@@ -820,6 +820,90 @@
       "url": "https://www.fotomagazin.de/test-technik/kameras-und-objektive/kameras-und-objektive-das-bringt-2026-teil-1/",
       "added_on": "2026-09-20",
       "collected_week": "2026-W38"
+    },
+    {
+      "id": "global-photography-awards-2026-vinnare",
+      "title": "Vinnarna i Global Photography Awards 2026 utsedda",
+      "category": "Tävling",
+      "date": "2026-09-25",
+      "location": "",
+      "summary": "Megumi Murakami från Japan korades till årets professionella fotograf och João Coelho från Portugal till årets amatörfotograf i tävlingen som lockade över 6 000 bidrag från fler än 40 länder. Bilderna bedömdes anonymt inom kategorier som porträtt, natur, arkitektur och konstnärligt foto.",
+      "source": "EIN Presswire",
+      "url": "https://www.einnews.com/pr_news/945098937/2026-global-photography-awards-reveals-photographers-of-the-year-and-category-winners",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "bird-photographer-of-the-year-2026-vinnare",
+      "title": "Henley Spiers vinner Bird Photographer of the Year 2026",
+      "category": "Tävling",
+      "date": "2026-09-21",
+      "location": "",
+      "summary": "Den brittiske fotografen Henley Spiers tog hem det övergripande priset i vad som beskrivs som världens största fågelfototävling, med drygt 24 000 bidrag från fotografer världen över. Vinnarbilden visar en dykande havssula i sin naturliga miljö.",
+      "source": "PetaPixel",
+      "url": "https://petapixel.com/2026/09/21/the-phenomenal-winners-of-bird-photographer-of-the-year-2026/",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "astronomy-photographer-of-the-year-2026-vinnare",
+      "title": "Vinnarna i Astronomy Photographer of the Year 2026 avslöjade",
+      "category": "Tävling",
+      "date": "2026-09-17",
+      "location": "London, Storbritannien",
+      "summary": "Royal Observatory Greenwich presenterade under en digital prisceremoni vinnarbilderna i årets astrofototävling, utvalda bland de tidigare presenterade slutnominerade. Bilderna visas nu i en utställning på National Maritime Museum i London.",
+      "source": "BBC Sky at Night Magazine",
+      "url": "https://www.skyatnightmagazine.com/news/astronomy-photographer-year-winning-images-2026",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "dokfotosalong-2026-norrkoping-hander",
+      "title": "Dokfotosalongen 2026 öppnar på Arbetets museum med temat Händer",
+      "category": "Utställning",
+      "date": "2026-09-26",
+      "location": "Norrköping",
+      "summary": "För tionde året i rad visar Arbetets museum Dokfotosalongen, denna gång med 118 bilder av 26 fotografer valda ur 163 sökande under temat Händer. Utställningen invigdes under Norrköpings kulturnatt och pågår till januari 2027, med stipendier som delas ut under hösten.",
+      "source": "Kamera & Bild",
+      "url": "https://www.kamerabild.se/nyheter/dokfotosalong-2026-har-ar-alla-fotografer-som-staller-ut-i-ar/1686199",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "f3-foto-nya-fotodagar-sverige-2026",
+      "title": "F3 Foto lanseras som nya fotodagar i Göteborg, Lund och Stockholm",
+      "category": "Evenemang",
+      "date": "2026-10-03",
+      "location": "Göteborg",
+      "summary": "Ett nytt fotoevenemang, F3 Foto, ersätter de tidigare Sveriges Fotodagar och arrangeras i samarbete med SM i Fotografi, med separata dagar i Göteborg den 3 oktober, Lund i november och Stockholm i januari 2027. Dagarna bjuder på föreläsningar, workshops, bildutställningar och möten med fotobranschens utställare.",
+      "source": "Kamera & Bild",
+      "url": "https://www.kamerabild.se/nyheter/f3-foto-sveriges-nya-fotodagar-till-goteborg-lund-stockholm/1691959",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "iphone-18-pro-variabel-blandare-dxomark-2026",
+      "title": "iPhone 18 Pros nya kamera med rörlig bländare godkänd i oberoende test",
+      "category": "Teknik",
+      "date": "2026-09-27",
+      "location": "",
+      "summary": "Apples första kamera med fysiskt rörlig bländare, som varierar mellan f/1,48 och f/4 med hjälp av hårtunna blad, har nu testats av det oberoende labbet DxOMark. Tekniken ska ge bättre bildkvalitet i mörker och skarpare gruppfoton, men testet pekar även på vissa begränsningar i praktiken.",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/paulmonckton/2026/09/27/iphone-18-pro-variable-aperture-dxomark-test/",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "canon-eos-r8-mark-ii-officiell-lansering-2026",
+      "title": "Canon lanserar officiellt EOS R8 Mark II med bildstabilisering",
+      "category": "Kameror",
+      "date": "2026-09-15",
+      "location": "",
+      "summary": "Canon bekräftade de tidigare läckta uppgifterna och presenterade fullformatskameran EOS R8 Mark II, som blir den lättaste EOS-modellen med inbyggd bildstabilisering och får en ny fyrkantigare design med joystick. Kameran kostar 1 899 dollar för kroppen och börjar levereras i oktober.",
+      "source": "Canon U.S.A.",
+      "url": "https://www.usa.canon.com/newsroom/2026/20260915-consumer",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
     }
   ]
 }

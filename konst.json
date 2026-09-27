@@ -2,8 +2,8 @@
   "topic": "Konst & design",
   "description": "Konstutställningar, design, arkitektur, auktioner och konstvärlden. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-20",
-  "item_count": 67,
+  "last_updated": "2026-09-27",
+  "item_count": 74,
   "items": [
     {
       "id": "moderna-museet-nisabas-hus-maleri-2026",
@@ -808,6 +808,90 @@
       "url": "https://www.bukowskis.com/en/auctions/live",
       "added_on": "2026-09-20",
       "collected_week": "2026-W38"
+    },
+    {
+      "id": "cattelan-night-neue-nationalgalerie-2026",
+      "title": "Maurizio Cattelan får Preis der Nationalgalerie och öppnar utställningen Night i Berlin",
+      "category": "Utställning",
+      "date": "2026-09-10",
+      "location": "Berlin, Tyskland",
+      "summary": "Neue Nationalgalerie i Berlin visar den italienske konstnären Maurizio Cattelans utställning Night, kopplad till att han tilldelats 2026 års Preis der Nationalgalerie. Utställningen samlar kända verk som Him och La Rivoluzione Siamo Noi tillsammans med nya beställda arbeten i Mies van der Rohes ikoniska museibyggnad.",
+      "source": "Staatliche Museen zu Berlin (SMB)",
+      "url": "https://www.smb.museum/en/press/press-releases/detail/neue-nationalgalerie-preis-der-nationalgalerie-2026-goes-to-maurizio-cattelan/",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "taryn-simon-guggenheim-father-country-2026",
+      "title": "Taryn Simon fyller Guggenheims rotunda med ny fotobaserad installation",
+      "category": "Utställning",
+      "date": "2026-09-18",
+      "location": "New York, USA",
+      "summary": "På Guggenheim Museum i New York visar fotografen Taryn Simon verket Father Country I Do Love You, ett nästan tio år långt projekt som följer en anonym amerikansk myndighetsagents liv genom 42 fotografiska och skulpturala arbeten. Det är den första monografiska presentationen av en fotobaserad konstnär i museets rotunda och pågår till mars 2027.",
+      "source": "Guggenheim Museum",
+      "url": "https://www.guggenheim.org/press-release/taryn-simon-father-country-i-do-love-you",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "bukowskis-female-artists-auktion-2026",
+      "title": "Bukowskis auktionerar ut kvinnliga konstnärers verk i ny temaauktion",
+      "category": "Auktion",
+      "date": "2026-09-25",
+      "location": "Stockholm",
+      "summary": "Auktionshuset Bukowskis håller nätauktionen Female Artists 25 september till 4 oktober, med verk enbart signerade av kvinnliga konstnärer. Auktionen löper parallellt med en separat temaauktion för svensk grafik, som en del av husets täta höstprogram med nischade nätauktioner.",
+      "source": "Bukowskis",
+      "url": "https://www.bukowskis.com/en/auctions/online",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "armory-show-2026-new-york",
+      "title": "Armory Show öppnade i New York med fokus på Karibiens konstscen",
+      "category": "Mässa",
+      "date": "2026-09-24",
+      "location": "New York, USA",
+      "summary": "New Yorks stora konstmässa Armory Show gick av stapeln 24–27 september på Javits Center med omkring 230 gallerier från över 30 länder, efter att i år ha flyttats till en senare septemberdatum. Mässans kuraterade sektioner lyfte fram konstnärer med rötter i den karibiska diasporan, kompletterat av ett nytt karnevalsinspirerat kvällsevenemang.",
+      "source": "ARTnews",
+      "url": "https://www.artnews.com/art-news/market/armory-show-2026-sales-new-york-1234799366/",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "maebashi-biennale-2026-oppnar",
+      "title": "Maebashi Biennale invigde Japans nya konstfestival",
+      "category": "Utställning",
+      "date": "2026-09-19",
+      "location": "Maebashi, Japan",
+      "summary": "Den japanska staden Maebashi lanserade sin första internationella konstbiennal den 19 september, med omkring 70 deltagande konstnärer och kollektiv verksamma inom samtidskonst, arkitektur, mode och musik. Festivalen pågår i 80 dagar till den 20 december och ska enligt arrangörerna återkomma vartannat år som en del av satsningen på att liva upp stadens centrum.",
+      "source": "Tokyo Weekender",
+      "url": "https://www.tokyoweekender.com/tw-collabs/maebashi-biennale-2026-discover-a-new-art-destination-in-japan/",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "hkk-nu-2026-huddinge-konstnarsklubb",
+      "title": "Huddinge Konstnärsklubb samlade medlemmarna i höstens grupputställning HKK.nu",
+      "category": "Utställning",
+      "date": "2026-09-19",
+      "location": "Huddinge",
+      "summary": "Huddinge Konstnärsklubb höll vernissage för sin årliga medlemsutställning HKK.nu den 19 september, där klubbens konstnärer visade nya verk i skiftande tekniker. Utställningen är ett återkommande inslag i klubbens höstprogram och ett sätt för lokala konstnärer att nå en bredare publik utanför storstadens gallerier.",
+      "source": "Konstkalendern",
+      "url": "https://www.konstkalendern.se/vernissage.php",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "svenska-designpriset-2026-rostning",
+      "title": "Svenska Designpriset öppnade för röstning inför sitt 20-årsjubileum",
+      "category": "Design",
+      "date": "2026-09-14",
+      "location": "Stockholm",
+      "summary": "Svenska Designpriset, som firar 20 år och i år utökar med fler AI-relaterade kategorier, höll öppen allmän röstning i 27 kategorier fram till den 14 september. Vinnarna koras vid en prisgala på Nalen i Stockholm den 23 oktober.",
+      "source": "IT-Kanalen",
+      "url": "https://it-kanalen.se/fler-ai-kategorier-nar-svenska-designpriset-fyller-20-ar/",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
     }
   ]
 }

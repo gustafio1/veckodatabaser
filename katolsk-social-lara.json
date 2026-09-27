@@ -2,8 +2,8 @@
   "topic": "Katolska kyrkans sociala lära",
   "description": "Den katolska kyrkans sociala lära – principerna och temana som vägleder ett rättvist samhälle. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-20",
-  "item_count": 115,
+  "last_updated": "2026-09-27",
+  "item_count": 122,
   "items": [
     {
       "id": "liv-och-vardighet",
@@ -1384,6 +1384,90 @@
       "url": "https://www.marian.edu/faith/catholic-social-teaching",
       "added_on": "2026-09-20",
       "collected_week": "2026-W38"
+    },
+    {
+      "id": "leo-xiv-frankrike-ai-livets-varde",
+      "title": "Leo XIV varnar för ett \"maskinernas paradis\" under Frankrikebesök",
+      "category": "Nyhet",
+      "date": "2026-09-25",
+      "location": "",
+      "summary": "Under sitt besök i Frankrike varnade påve Leo XIV för att artificiell intelligens riskerar att underminera mänskligheten och underströk att skyddet av mänskligt liv är allas ansvar, med udd mot dödshjälp och surrogatmödraskap. Talet vid Élyséepalatset knöt an till katolska socialläran genom att sätta människans värdighet före vinstdrivna teknikintressen.",
+      "source": "NPR/Houston Public Media",
+      "url": "https://www.houstonpublicmedia.org/npr/2026/09/25/nx-s1-5981140/pope-leo-warns-a-paradise-of-machines-could-undermine-humanity-on-his-france-visit/",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "varldsdagen-migranter-flyktingar-2026",
+      "title": "Påvens budskap till Världsdagen för migranter och flyktingar 2026: \"Även bara ett av dessa barn\"",
+      "category": "Uttalande",
+      "date": "2026-09-27",
+      "location": "",
+      "summary": "I sitt budskap till den 112:e Världsdagen för migranter och flyktingar riktar Leo XIV uppmärksamheten mot barn på flykt och kräver att debatten flyttas från ren migrationshantering till fullt skydd av barns mänskliga rättigheter. Budskapet knyter migrationsfrågan direkt till socialläran om människans okränkbara värdighet.",
+      "source": "Vatican News / vatican.va",
+      "url": "https://www.vatican.va/content/leo-xiv/en/messages/migration/documents/20260811-world-migrants-day-2026.html",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "caritas-gemensamt-uttalande-barn-flykt-2026",
+      "title": "Caritas och partnerorganisationer kräver rättigheter för barn på flykt",
+      "category": "Nyhet",
+      "date": "2026-09-27",
+      "location": "",
+      "summary": "Caritas Internationalis, COATNET, RED CLAMOR och RAEMH publicerade ett gemensamt uttalande på Världsdagen för migranter och flyktingar om barn som tvingas fly krig, fattigdom och våld men ändå bär på hopp om upprättelse. Uttalandet visar hur katolska organisationer omsätter socialläran om människovärdighet och solidaritet i konkret påverkansarbete.",
+      "source": "Caritas Internationalis",
+      "url": "https://www.caritas.org/statement/children-on-the-move-rights-without-borders/",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "dikasteriet-manniskans-utveckling-ny-ledning-2026",
+      "title": "Nytt ledarskap för Vatikanens dikasterium för mänsklig utveckling",
+      "category": "Nyhet",
+      "date": "2026-09-01",
+      "location": "",
+      "summary": "Påve Leo XIV utsåg syster Alessandra Smerilli till prefekt, kardinal Fabio Baggio till proprefekt och monsignore Jozef Barlaš till sekreterare för Dikasteriet för att främja integral mänsklig utveckling, med tillträde 1 september 2026. Dikasteriet ansvarar för Vatikanens arbete med rättvisa, fred, migration, hälsa och skapelsens vård - socialläran satt i institutionell praktik.",
+      "source": "Vatican News",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-06/pope-makes-appointments-dicastery-for-integral-human-development.html",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "octogesima-adveniens-dokument",
+      "title": "Octogesima Adveniens: Paul VI:s brev om nya sociala utmaningar",
+      "category": "Dokument",
+      "date": "1971-05-14",
+      "location": "",
+      "summary": "I det apostoliska brevet Octogesima Adveniens (1971), skrivet till 80-årsminnet av Rerum Novarum, tar Paul VI upp urbanisering, kvinnors värdighet och politisk pluralism och lyfter fram jämlikhet och delaktighet som två växande mänskliga strävanden. Brevet avvisar både marxism och obunden liberalism och överlåter i stället åt lokala kyrkor att tolka tidens tecken utifrån sina egna sammanhang.",
+      "source": "Vatikanen (vatican.va)",
+      "url": "https://www.vatican.va/content/paul-vi/en/apost_letters/documents/hf_p-vi_apl_19710514_octogesima-adveniens.html",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "kompendiet-kyrkans-sociallara-2004",
+      "title": "Kompendiet om kyrkans sociallära - en samlad översikt",
+      "category": "Dokument",
+      "date": "2004-10-25",
+      "location": "",
+      "summary": "Kompendiet om kyrkans sociallära, utgivet 2004 av Pontifikala rådet för rättvisa och fred på Johannes Paulus II:s initiativ, samlar för första gången hela den katolska socialläran i ett systematiskt referensverk om människan, samhället, ekonomin och freden. Verkets bärande principer är människans värdighet, det gemensamma bästa, subsidiaritet och solidaritet.",
+      "source": "Vatikanen (vatican.va)",
+      "url": "https://www.vatican.va/roman_curia/pontifical_councils/justpeace/documents/rc_pc_justpeace_doc_20060526_compendio-dott-soc_en.html",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "leo-xiv-kristen-humanism-audiens-2026",
+      "title": "Leo XIV: Katolsk sociallära föddes ur en kristen humanism",
+      "category": "Uttalande",
+      "date": "2026-09-18",
+      "location": "",
+      "summary": "Vid en audiens med Leo XIV International Study Center beskrev påven den kristna humanismen som en \"öppen vision mot Skaparen\" som föder broderliga relationer, och underströk att den katolska socialläran växte fram ur just denna humanistiska tradition. Han efterlyste en fostran till offentligt liv grundad i solidaritet, rättvisa och fred, särskilt hos lekmän och ordensfolk som format läran historiskt.",
+      "source": "CathNews",
+      "url": "https://cathnews.com/2026/09/21/pope-praises-catholics-leading-church-in-new-directions/",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
     }
   ]
 }

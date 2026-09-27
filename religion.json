@@ -2,8 +2,8 @@
   "topic": "Religion – Nyheter",
   "description": "Religiösa nyheter från Vatikanen, kyrkor och trossamfund världen över. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-20",
-  "item_count": 131,
+  "last_updated": "2026-09-27",
+  "item_count": 140,
   "items": [
     {
       "id": "leo-xiv-tyska-studenter-2026",
@@ -1576,6 +1576,114 @@
       "url": "https://bokmassan.se/2026/05/nya-testamentet-2026-lanseras-under-bokmassan/",
       "added_on": "2026-09-20",
       "collected_week": "2026-W38"
+    },
+    {
+      "id": "kyrkomote-katolska-judar-radgivning-2026",
+      "title": "Brittisk lag ska tillåta katoliker och judar ge kungen råd om kyrkoutnämningar",
+      "category": "Lagförslag",
+      "date": "2026-09-15",
+      "location": "London, Storbritannien",
+      "summary": "Storbritanniens regering lade fram lagförslaget \"Church Appointments (Repeal of Discriminatory Provision) Bill\" som river upp 1800-talslagar som förbjöd katoliker och judar att ge monarken råd om utnämningar inom engelska och skotska statskyrkan. Premiärminister Andy Burnham, själv katolik, kallade de gamla lagarna en föråldrad och arkaisk anomali.",
+      "source": "Law & Religion UK / Catholic Herald",
+      "url": "https://lawandreligionuk.com/2026/09/15/church-appointments-repeal-of-discriminatory-provision/",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "ghana-biskopar-varnar-knarkhandel-2026",
+      "title": "Ghanas katolska biskopar varnar för växande knarkhandel",
+      "category": "Uttalande",
+      "date": "2026-09-21",
+      "location": "Accra, Ghana",
+      "summary": "Ghanas katolska biskopskonferens gick ut med en skarp varning om att landet riskerar att bli ett nav för internationell narkotikasmuggling, efter att franska tullen i Dunkerque beslagtagit nästan fyra ton kokain från en container med ursprung i Ghana. Biskoparna manar till akuta och samordnade åtgärder från myndigheter, kyrkor och familjer.",
+      "source": "Vatican News",
+      "url": "https://www.vaticannews.va/en/africa/news/2026-09/ghana-s-bishops-call-for-action-against-drug-menace.html",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "usccb-migrationsvecka-barn-2026",
+      "title": "Amerikanska katolska kyrkan riktar migrationsvecka mot flyktingbarn",
+      "category": "Nyhet",
+      "date": "2026-09-21",
+      "location": "USA",
+      "summary": "USA:s katolska biskopskonferens inledde sin nationella migrationsvecka med temat \"Even One of These Little Ones\", samma tema som påve Leo XIV valt för världsdagen för migranter och flyktingar. Fokus ligger på barn som är på flykt och kyrkans ansvar att skydda dem.",
+      "source": "USCCB",
+      "url": "https://www.usccb.org/news/2026/national-migration-week-focus-presence-christ-within-each-migrant-child",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "patriark-bartholomeos-kung-charles-balmoral-2026",
+      "title": "Ekumeniske patriarken Bartholomeos träffade kung Charles på Balmoral",
+      "category": "Möte",
+      "date": "2026-09-21",
+      "location": "Balmoral, Skottland",
+      "summary": "Konstantinopels ekumeniske patriark Bartholomeos I möttes med kung Charles III på dennes privata sommarresidens Balmoral Castle under ett vecka långt Storbritannienbesök. Det planerade halvtimmesmötet förlängdes till en timme i vad som beskrevs som en mycket varm stämning.",
+      "source": "Greek City Times",
+      "url": "https://greekcitytimes.com/2026/09/22/ecumenical-patriarch-bartholomew-meets-king-charles-balmoral/",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "leo-xiv-klimat-vetenskapsakademin-2026",
+      "title": "Leo XIV manar till förebyggande klimatarbete inför Vatikanens vetenskapsakademi",
+      "category": "Uttalande",
+      "date": "2026-09-24",
+      "location": "Vatikanstaten",
+      "summary": "Vid plenarmötet för Pontificia Accademia delle Scienze uppmanade påven Leo XIV världen att gå från katastrofhantering till förebyggande arbete kring klimatförändringarna, och pekade på att värmeböljor, torka och översvämningar drabbar de fattigaste hårdast. Han efterlyste samarbete mellan forskare, beslutsfattare och lokalsamhällen.",
+      "source": "Vatican News",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-09/pope-climate-crisis-not-only-environmental-challenge-but-justice.html",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "biskop-salisbury-ekonomiskt-fusk-2026",
+      "title": "Biskopen av Salisbury möter nya disciplinanklagelser om ekonomiskt fusk",
+      "category": "Nyhet",
+      "date": "2026-09-11",
+      "location": "Salisbury, Storbritannien",
+      "summary": "En finansiell granskning har lett till ett formellt disciplinärende mot biskop Stephen Lake av Salisbury, som redan tidigare dragit sig tillbaka från sitt ämbete i väntan på utredning om misstänkta oegentligheter kopplade till fonder vid biskopsämbetet. Lake möter nu även ett separat ärende om ett uppförandeärende som inte rör barn.",
+      "source": "Church Times",
+      "url": "https://www.churchtimes.co.uk/articles/2026/11-september/news/uk/bishop-of-salisbury-subject-to-disciplinary-complaint-after-financial-audit",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "kyrkornas-varldsrad-fredsvecka-palestina-israel-2026",
+      "title": "Kyrkornas världsråd höll global fredsvecka för Palestina och Israel",
+      "category": "Kampanj",
+      "date": "2026-09-20",
+      "location": "Genève, Schweiz",
+      "summary": "Kyrkornas världsråd (WCC) samlade kyrkor världen över den 20–26 september till bön och solidaritetshandlingar för människorna i det Heliga landet, med särskilt fokus på skydd av barn under temat \"Barnen är en gåva från Herren\" (Psaltaren 127:3).",
+      "source": "World Council of Churches",
+      "url": "https://www.oikoumene.org/news/new-resources-available-for-world-week-for-peace-in-palestine-and-israel-2026",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "mormonkyrkan-tempel-barcelona-spadtag-2026",
+      "title": "Mormonkyrkan tog första spadtaget för nytt tempel i Barcelona",
+      "category": "Nyhet",
+      "date": "2026-09-19",
+      "location": "Sant Cugat del Vallès, Spanien",
+      "summary": "Jesu Kristi Kyrka av Sista Dagars Heliga (mormonkyrkan) höll en officiell grundstensceremoni för Barcelona Spain Temple, som blir kyrkans andra tempel i Spanien. Ceremonin markerar byggstarten för det nya templet utanför Barcelona.",
+      "source": "Church Newsroom (LDS)",
+      "url": "https://newsroom.churchofjesuschrist.org/article/temple-news-house-of-the-lord-2026",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "svenska-kyrkan-kyrkomusiksymposium-linkoping-2026",
+      "title": "900 deltagare på Svenska kyrkans musik- och teologisymposium i Linköping",
+      "category": "Nyhet",
+      "date": "2026-09-20",
+      "location": "Linköping, Sverige",
+      "summary": "Svenska kyrkan höll ett stort symposium i Linköping med omkring 900 deltagare som samlade präster och kyrkomusiker för att diskutera psalmsångens framtid. Bland inslagen fanns bidrag från ett klassiskt jazzorkester på kyrkans scen.",
+      "source": "Dagen",
+      "url": "https://www.dagen.se/nyheter/svenska-kyrkan-satsar-pa-nytt-koncept-foer-samman-praester-och-musiker/10538995",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
     }
   ]
 }

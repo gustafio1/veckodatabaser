@@ -2,8 +2,8 @@
   "topic": "IT – Nya produkter",
   "description": "Nya IT- och teknikprodukter: hårdvara, mjukvara, AI och gaming. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-20",
-  "item_count": 132,
+  "last_updated": "2026-09-27",
+  "item_count": 140,
   "items": [
     {
       "id": "nvidia-rtx-spark-2026",
@@ -1588,6 +1588,102 @@
       "url": "https://www.gearpatrol.com/audio/best-tech-audio-hi-fi-releases-2026-september-week-3/",
       "added_on": "2026-09-20",
       "collected_week": "2026-W38"
+    },
+    {
+      "id": "anthropic-claude-opus-5-5-2026",
+      "title": "Anthropic lanserar Claude Opus 5.5 till lägre pris",
+      "category": "Mjukvara",
+      "date": "2026-09-22",
+      "location": "",
+      "summary": "Anthropic har släppt Claude Opus 5.5, en flaggskeppsmodell som enligt bolaget presterar i klass med den större modellen Fable men kostar cirka 40 procent mindre att köra. Modellen har också cirka 30 procent snabbare svarshastighet och riktar in sig särskilt på programmering, agentuppgifter och säkerhetsanalys.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "openai-gpt-6-sol-luna-2026",
+      "title": "OpenAI släpper billigare GPT-6-modeller Sol och Luna",
+      "category": "Mjukvara",
+      "date": "2026-09-22",
+      "location": "",
+      "summary": "OpenAI har lanserat GPT-6 Sol och GPT-6 Luna, två mer prisvärda varianter av flaggskeppsmodellen GPT-6 Astra som ärver mycket av dess förmågor inom resonemang, kodning och agentstyrning men är optimerade för hastighet och lägre kostnad. Priserna sänks jämfört med föregångarna Sol och Luna i GPT-5.6-familjen.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "dell-xps-googlebook-2026",
+      "title": "Dell lanserar XPS Googlebook - en ny sorts bärbar dator",
+      "category": "Hårdvara",
+      "date": "2026-09-21",
+      "location": "",
+      "summary": "Dell har presenterat XPS Googlebook, den första bärbara datorn i XPS-serien byggd för Googles Gemini-assistent och en helt ny datorkategori som bygger på Android- och ChromeOS-teknik. Datorn har en Snapdragon X Elite-processor, en 13-tums 120Hz-skärm och kostar från 999 dollar.",
+      "source": "TechPowerUp",
+      "url": "https://www.techpowerup.com/352905/dell-technologies-introduces-the-xps-googlebook-the-first-xps-laptop-built-for-gemini-intelligence",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "openai-sora-api-stangs-ner-2026",
+      "title": "OpenAI stänger ner Sora-videons API",
+      "category": "Mjukvara",
+      "date": "2026-09-24",
+      "location": "",
+      "summary": "OpenAI har stängt av API:et för videogenereringsverktyget Sora 2, vilket innebär att tredjepartsutvecklare inte längre kan skapa AI-video via tjänsten i sina egna applikationer. Nedstängningen aviserades redan i mars med sex månaders varsel, men innebär ändå slutet för flera integrationer, bland annat ett större samarbete med Disney.",
+      "source": "Startup Fortune",
+      "url": "https://startupfortune.com/openai-shuts-down-soras-api-this-week-ending-its-billion-dollar-disney-deal/",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "android-september-2026-systemuppdatering",
+      "title": "Google rullar ut nya systemfunktioner till Android i september",
+      "category": "Mjukvara",
+      "date": "2026-09-21",
+      "location": "",
+      "summary": "Googles septemberuppdatering av Android-systemet lägger bland annat till stöd för nedladdning av nya, mer detaljerade emoji-typsnitt över telefoner, surfplattor och Wear OS-enheter. Uppdateringen sprids gradvis som en del av Googles löpande system för mindre funktionspaket utanför de stora Android-versionerna.",
+      "source": "9to5Google",
+      "url": "https://9to5google.com/2026/09/21/september-2026-google-system-updates/",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "steam-frame-vr-recensioner-2026",
+      "title": "Valves VR-headset Steam Frame får blandade recensioner",
+      "category": "Hårdvara",
+      "date": "2026-09-20",
+      "location": "",
+      "summary": "Efter releasen av Valves trådlösa VR-headset Steam Frame har de första recensionerna kommit in. Kritiker lovordar den bekväma designen och den trådlösa spelstreamingen från dator, men pekar samtidigt på kort batteritid och ett högt pris på upp till 1299 dollar som svagheter.",
+      "source": "PC Gamer",
+      "url": "https://arvrtips.com/steam-frame-review/",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "nighthawks-wadjet-eye-lansering-2026",
+      "title": "Vampyr-RPG:t Nighthawks lanseras efter åtta års utveckling",
+      "category": "Gaming",
+      "date": "2026-09-22",
+      "location": "",
+      "summary": "Wadjet Eye Games har äntligen släppt sitt efterlängtade rollspel Nighthawks på Steam och GOG, efter åtta års utveckling. Spelet, skrivet av Richard Cobbett med musik av Thomas Regin, utspelar sig i en mörk vampyrmiljö och säljs till lanseringspris med tio procents rabatt.",
+      "source": "RPGamer",
+      "url": "https://rpgamer.com/2026/09/nighthawks-out-now/",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "ps5-systemuppdatering-september-2026",
+      "title": "PS5 får ny systemuppdatering med förbättringar för PS5 Pro",
+      "category": "Gaming",
+      "date": "2026-09-16",
+      "location": "",
+      "summary": "Sony har släppt en ny PS5-systemuppdatering (version 26.06-14.00.00) som bland annat aktiverar en förbättrad bilduppskalning för PS5 Pro-ägare, en ny community-widget i välkomsthubben samt möjlighet att visa vem som pratar i röstchatt. En ny funktion låter även esportarrangörer stänga av Bluetooth för att undvika störningar mellan handkontroller.",
+      "source": "BGR",
+      "url": "https://www.bgr.com/2261640/playstation-5-new-features-added-september-2026-update/",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
     }
   ]
 }

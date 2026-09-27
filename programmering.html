@@ -69,8 +69,8 @@ const DB = /*__DATA__*/{
   "topic": "Programmering",
   "description": "Nyheter för utvecklare: språk, ramverk, verktyg, AI-kodning och öppen källkod. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-20",
-  "item_count": 73,
+  "last_updated": "2026-09-27",
+  "item_count": 80,
   "items": [
     {
       "id": "typescript-7-nativ-kompilator-2026",
@@ -947,6 +947,90 @@ const DB = /*__DATA__*/{
       "url": "https://siliconangle.com/2026/09/15/factory-raises-200m-for-its-self-improving-software-development-platform/",
       "added_on": "2026-09-20",
       "collected_week": "2026-W38"
+    },
+    {
+      "id": "claude-opus-5-5-lansering-2026",
+      "title": "Anthropic lanserar Claude Opus 5.5",
+      "category": "AI-kodning",
+      "date": "2026-09-22",
+      "location": "",
+      "summary": "Anthropic släppte Claude Opus 5.5, som enligt bolaget presterar i nivå med Fable 5.1 på de flesta uppgifter men kostar 40 procent mindre att köra och genererar svar över 30 procent snabbare än Opus 5. Priset sänks samtidigt med 20 procent till 4/20 dollar per miljon token, och modellen finns redan tillgänglig hos stora molnleverantörer.",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/claude-opus-5-5",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "github-copilot-weekly-sept21-2026",
+      "title": "GitHub Copilot får Claude Opus 5.5, GPT-6 Sol/Luna och Grok 4.7",
+      "category": "AI-kodning",
+      "date": "2026-09-25",
+      "location": "",
+      "summary": "I veckans Copilot-uppdatering lade GitHub till stöd för flera nya modeller, bland annat Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna och Grok 4.7, tillgängliga för olika Copilot-abonnemang från Pro till Enterprise. Utvecklare kan därmed växla mellan fler toppmodeller direkt i Copilot utan att byta verktyg.",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21/",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "github-copilot-lokal-sandlada-2026",
+      "title": "GitHub Copilot-appen får lokal sandlådekörning",
+      "category": "Verktyg",
+      "date": "2026-09-23",
+      "location": "",
+      "summary": "GitHub introducerade lokal sandboxning i Copilot-appen som förhandsvisning, vilket ger projektnivåkontroll över filsystem-, nätverks- och autentiseringsåtkomst för lokala AI-sessioner. Funktionen minskar risken för att oavsiktliga eller skadliga kommandon från en AI-agent påverkar utvecklarens dator.",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app/",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "nextjs-sakerhetsuppdatering-sept22-2026",
+      "title": "Next.js patchar allvarlig säkerhetsbrist i bildgenerering",
+      "category": "Ramverk",
+      "date": "2026-09-22",
+      "location": "",
+      "summary": "Vercel gav ut en akut säkerhetsuppdatering, Next.js 16.3.6 och 15.5.26, efter att en brist i SVG-hanteringen via Satori i next/og kunde leda till fjärrkodkörning under vissa förhållanden. Sårbarheten (GHSA-vcvr-r3jv-pc5j) drabbar versioner från 16.2.0 upp till men inte inklusive 16.3.6, och utvecklare uppmanas uppgradera omgående.",
+      "source": "Next.js Blog",
+      "url": "https://nextjs.org/blog/nextjs-security-update-september-22-2026",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "cncf-security-slam-2026",
+      "title": "CNCF och OpenSSF startar höstens Security Slam",
+      "category": "Öppen källkod",
+      "date": "2026-09-25",
+      "location": "",
+      "summary": "Open Source Security Foundation och CNCF:s säkerhetsgrupp annonserade höstens Security Slam, en 30 dagar lång utmaning från 5 oktober till 6 november där underhållare av öppen källkod ska höja säkerhetsnivån i sina projekt med hjälp av OpenSSF:s verktyg och en ny resurssamling kallad Slam Library med vägledning.",
+      "source": "CNCF Blog",
+      "url": "https://www.cncf.io/blog/2026/09/25/security-slam-2026-fall-edition/",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "intellij-idea-2026-2-3-2026",
+      "title": "IntelliJ IDEA 2026.2.3 rättar buggar inför hösten",
+      "category": "Verktyg",
+      "date": "2026-09-16",
+      "location": "",
+      "summary": "JetBrains släppte underhållsversionen IntelliJ IDEA 2026.2.3 med ett antal bugg- och stabilitetsfixar, tillgänglig via IDE:ns egna uppdateringsfunktion, Toolbox App eller som snap-paket på Ubuntu. Uppdateringen kommer samtidigt som Java-communityn förbereder sig för de senaste OpenJDK-nyheterna kring JDK 27.",
+      "source": "JetBrains Blog",
+      "url": "https://blog.jetbrains.com/idea/2026/09/intellij-idea-2026-2-3/",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "pytorch-2-14-2026",
+      "title": "PyTorch 2.14 förbättrar kompilator och distribuerad träning",
+      "category": "Ramverk",
+      "date": "2026-09-02",
+      "location": "",
+      "summary": "PyTorch 2.14 landade med nästan 3 000 commits från 487 bidragsgivare och innehåller uppdateringar av Inductor, PyTorch Distributed, c10d, dynamiska shapes samt bättre stöd för Apple Silicon och nya acceleratorplattformar. Releasen är ett tecken på hur snabbt ramverket för maskininlärning fortsätter utvecklas parallellt med AI-boomen bland utvecklare.",
+      "source": "PyTorch Blog",
+      "url": "https://pytorch.org/blog/pytorch-2-14-release-blog/",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
     }
   ]
 }/*__END_DATA__*/;

@@ -2,8 +2,8 @@
   "topic": "Kyrkohistoria",
   "description": "Kyrkohistorisk forskning, jubileer, kristen arkeologi, böcker och kulturarv. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-20",
-  "item_count": 59,
+  "last_updated": "2026-09-27",
+  "item_count": 67,
   "items": [
     {
       "id": "iznik-nicaeakyrkans-lamningar-utgravda-2026",
@@ -712,6 +712,102 @@
       "url": "https://svenskhistoria.se/arkeologi-i-ostergotland-2026/",
       "added_on": "2026-09-20",
       "collected_week": "2026-W38"
+    },
+    {
+      "id": "nt-2026-lanserad-bokmassan",
+      "title": "NT 2026 – ny svensk bibelöversättning lanserad på Bokmässan",
+      "category": "Bok",
+      "date": "2026-09-24",
+      "location": "Göteborg",
+      "summary": "Svenska Bibelsällskapet lanserade sin nya ekumeniska översättning av Nya testamentet, NT 2026, på Bokmässan i Göteborg – den första nya svenska NT-översättningen på 45 år. Lanseringen sker på dagen 500 år efter att Gustav Vasas Nya testamente 1526 blev den första tryckta svenska bibeltexten.",
+      "source": "POSK / Bibelsällskapet",
+      "url": "https://www.posk.se/2026/09/nt-2026-lanserad-pa-bokmassan/",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "dodahavsrullar-kalendergata-tel-aviv",
+      "title": "Dödahavsrullarnas kalendergåta möjligen löst",
+      "category": "Forskning",
+      "date": "2026-09-19",
+      "location": "Qumran/Tel Aviv",
+      "summary": "Forskare vid Tel Aviv-universitetet föreslår att Qumransektens omdiskuterade 364-dagarskalender faktiskt tillämpades under en period innan den förlorade sin praktiska funktion och blev ett religiöst identitetsideal, vilket förklarar dess centrala plats i rullarna trots att den försvann ur bruk.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260919031035.htm",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "basel-klostervarmesystem-medeltida",
+      "title": "Medeltida värmesystem funnet under kloster i Basel",
+      "category": "Arkeologi",
+      "date": "2026-09-24",
+      "location": "Basel, Schweiz",
+      "summary": "Arkeologer har grävt fram ett nästan helt bevarat, 700 år gammalt varmluftssystem under det medeltida Gnadentalklostret i Basel. Anläggningen, som troligen värmde nunnornas matsal, räknas som en av de bäst bevarade av sitt slag i Europa.",
+      "source": "Arkeonews",
+      "url": "https://arkeonews.net/rare-700-year-old-heating-system-found-almost-intact-beneath-swiss-convent/",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "sankt-clara-kloster-roskilde-georadar",
+      "title": "Glömt nunnekloster återfunnet under fotbollsplan i Roskilde",
+      "category": "Arkeologi",
+      "date": "2026-08-31",
+      "location": "Roskilde, Danmark",
+      "summary": "Georadarundersökningar har avslöjat välbevarade murar, korsgångar och en kyrka från Sankt Clara kloster, grundat 1256, endast en meter under en idrottsplats i Roskilde. Fyndet överraskar forskarna eftersom klostret länge ansetts nästan helt utraderat efter reformationen.",
+      "source": "TV 2 / ROMU",
+      "url": "https://nyheder.tv2.dk/samfund/2026-08-31-forskere-finder-kloster-fra-middelalderen-under-sportsbane-i-roskilde",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "tokod-tidigkristen-kyrka-ciborium",
+      "title": "Tidigkristen kyrka med altarciborium grävs fram i Ungern",
+      "category": "Arkeologi",
+      "date": "2026-08-20",
+      "location": "Tokod, Ungern",
+      "summary": "Utgrävningar vid den senromerska fästningen Tokod-Várberek har blottlagt grundstenarna till en tidigkristen kyrkas altarciborium samt målade freskfragment. Fyndet ger ny kunskap om hur sakrala rum utformades i den romerska gränsprovinsen Pannonien.",
+      "source": "HeritageDaily",
+      "url": "https://www.heritagedaily.com/2026/08/new-discoveries-reveal-secrets-of-late-roman-fort-at-tokod/159099",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "church-crawling-rachel-morley-bok",
+      "title": "Ny bok utforskar Englands landsbygdskyrkor",
+      "category": "Bok",
+      "date": "2026-09-03",
+      "location": "England",
+      "summary": "I boken \"Church Crawling\" vandrar Rachel Morley genom engelska sockenkyrkor och skildrar spöken, reliker, bortglömda berättelser och excentriska personligheter knutna till kyrkorummen på den engelska landsbygden.",
+      "source": "Church Times / The Bodley Head",
+      "url": "https://www.churchtimes.co.uk/articles/2026/28-august/books-arts/book-reviews/book-review-church-crawling-the-secret-lives-and-hidden-stories-of-england-s-churches-by-rachel-morley",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "northern-saints-holy-places-recension",
+      "title": "Pilgrimsguide till nordostengelska helgonplatser recenseras",
+      "category": "Bok",
+      "date": "2026-09-18",
+      "location": "Nordöstra England",
+      "summary": "Gavin Wakefields \"Northern Saints in Holy Places\" guidar läsaren genom 1400 år av tro, historia och legender kring helgonplatser i nordöstra England, och har fått en uppmärksammad recension i Church Times.",
+      "source": "Church Times",
+      "url": "https://www.churchtimes.co.uk/articles/2026/18-september/books-arts/book-reviews/book-review-northern-saints-in-holy-places-a-pilgrim-s-guide-to-north-east-england-by-gavin-wakefield",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "danslegender-historiska-museet-kyrkokonst",
+      "title": "Utställning förenar medeltida kyrkokonst och dans",
+      "category": "Kulturarv",
+      "date": "2026-09-17",
+      "location": "Stockholm",
+      "summary": "Historiska museet öppnar, i samarbete med Dansmuseet, utställningen \"Danslegender – myter i rörelse\" där medeltida kyrkokonst möter dräkter från svenska dansverk av bland andra Birgit Cullberg och Mats Ek, för att visa hur religiösa motiv och myter fortsätter att inspirera.",
+      "source": "Dansmuseet / Historiska museet",
+      "url": "https://www.magasinett.net/2026/09/danslegender-myter-i-rorelse-historiska-museet-17-september-2026-14-februari-2027/",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
     }
   ]
 }

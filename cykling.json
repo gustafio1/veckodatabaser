@@ -2,8 +2,8 @@
   "topic": "Cykling",
   "description": "Proffscykling, svenska cyklister, motionslopp, mountainbike och utrustning. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-20",
-  "item_count": 61,
+  "last_updated": "2026-09-27",
+  "item_count": 68,
   "items": [
     {
       "id": "pogacar-gula-trojan-etapp-3-2026",
@@ -724,6 +724,90 @@
       "url": "https://cykelframjandet.se/nyheter/2026/09/03/hur-mycket-bryr-sig-partierna-om-cykel-valet-2026/",
       "added_on": "2026-09-20",
       "collected_week": "2026-W38"
+    },
+    {
+      "id": "wandel-jvm-brons-linjelopp-montreal-2026",
+      "title": "Elias Wändel tog historiskt VM-brons i juniorernas linjelopp",
+      "category": "Landsväg",
+      "date": "2026-09-25",
+      "location": "Montréal, Kanada",
+      "summary": "Elias Wändel spurtade till brons i juniorernas linjelopp vid cykel-VM i Montréal trots kramp i båda benen efter en krasch två veckor tidigare, och blev den förste svensken sedan 1983 med en VM-medalj i grenen. Guldet gick till fransmannen Benjamin Noval efter en soloflykt i slutet av loppet.",
+      "source": "Svenska Cykelförbundet",
+      "url": "https://scf.se/landsvag/elias-wandel-tog-vm-brons-efter-en-urstark-avslutning-i-montreal/",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "barry-u23-vm-guld-linjelopp-montreal-2026",
+      "title": "Ashlin Barry tog U23-guld i linjeloppet i Montréal",
+      "category": "Landsväg",
+      "date": "2026-09-25",
+      "location": "Montréal, Kanada",
+      "summary": "Amerikanen Ashlin Barry vann herrarnas U23-linjelopp vid cykel-VM i Montréal, ett lopp på drygt 174 kilometer där Sveriges ende deltagare Teodor De Luca fick möta ett tungt startfält på 176 cyklister.",
+      "source": "Dicodusport",
+      "url": "https://dicodusport.fr/blog/le-classement-et-les-resultats-de-la-course-en-ligne-u23-hommes-des-championnats-du-monde-2026-remportee-par-ashlin-barry/",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "soderqvist-femma-vm-tempo-krasch-montreal-2026",
+      "title": "Söderqvist kraschade nära medalj men höll femteplatsen i VM-tempot",
+      "category": "Landsväg",
+      "date": "2026-09-20",
+      "location": "Montréal, Kanada",
+      "summary": "Jakob Söderqvist låg trea vid den sista mellantiden i elitmännens tempolopp vid cykel-VM, men föll omkring tre kilometer före mål, troligen på grus i vägbanan. Trots skavsår och en förlorad medaljchans klarade han ändå en femteplats, bara 13 sekunder från brons.",
+      "source": "Svenska Cykelförbundet (TT)",
+      "url": "https://via.tt.se/pressmeddelande/4559454/jakob-var-pa-vag-mot-vm-medalj-nar-han-kraschade-men-stolt-femma?publisherId=3235773&lang=sv",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "vollering-vm-guld-linjelopp-montreal-2026",
+      "title": "Vollering tog sitt första VM-guld på linjeloppet",
+      "category": "Landsväg",
+      "date": "2026-09-26",
+      "location": "Montréal, Kanada",
+      "summary": "Demi Vollering vann damernas linjelopp vid cykel-VM i Montréal efter en jämn spurtstrid med Katarzyna Niewiadoma och Elisa Longo Borghini, och kunde därmed för första gången i karriären dra på sig regnbågströjan.",
+      "source": "CyclingUpToDate",
+      "url": "https://cyclinguptodate.com/cycling/results-womens-road-race-world-championships-montreal-2026-demi-vollering-wins-in-amazing-battle-against-niewiadoma-and-longo-borghini",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "gravel-gritngrind-halmstad-2026-bome-tva",
+      "title": "Svenska Bome tvåa när Gravel Grit'n Grind avgjordes i Halmstad",
+      "category": "Gravel",
+      "date": "2026-09-26",
+      "location": "Halmstad",
+      "summary": "Nederländskan Femke Markus tog sin tredje raka seger i damklassen i det UCI-klassade gravelloppet Grit'n Grind utanför Halmstad, med svenska Caroline Bome på en stark andra plats. Hos herrarna vann dansken Magnus Bak Klaris, och lördagens etapp fungerade samtidigt som uttagning till gravel-VM i Australien i oktober.",
+      "source": "Gran Fondo Daily News",
+      "url": "https://granfondodailynews.com/2026/09/27/markus-completes-halmstad-hat-trick-as-klaris-takes-mens-honours-at-uci-gravel-gritn-grind/",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "cykeldator-basti-test-2026",
+      "title": "Garmin Edge 1040 utsedd till bästa cykeldator i årets test",
+      "category": "Utrustning",
+      "date": "2026-09-15",
+      "location": "",
+      "summary": "I Test.se:s genomgång av cykeldatorer 2026 pekas Garmin Edge 1040 ut som bäst i test, medan andra svenska jämförelser istället lyfter fram modeller som Garmin Edge Explore 2 och Wahoo Elemnt Ace beroende på vilka kriterier som vägts tyngst.",
+      "source": "Test.se",
+      "url": "https://www.test.se/cykeldator/",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "cykeltroja-basti-test-2026",
+      "title": "Danish Endurance-tröja bäst i test bland cykeltröjor",
+      "category": "Utrustning",
+      "date": "2026-09-15",
+      "location": "",
+      "summary": "I Testras jämförelse av herrcykeltröjor för långdistans tar DANISH ENDURANCE:s kortärmade modell med hel dragkedja och bakfickor förstaplatsen, tack vare ett fukttransporterande material som håller cyklisten torr och sval på långa turer.",
+      "source": "Testra",
+      "url": "https://testra.se/test/cykeltrojor-bast-i-test-2026",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
     }
   ]
 }

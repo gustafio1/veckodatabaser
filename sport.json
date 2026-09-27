@@ -2,8 +2,8 @@
   "topic": "Sport – Fotboll, Tennis & Bordtennis",
   "description": "Nyheter inom fotboll, tennis och bordtennis med svenskt fokus. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-20",
-  "item_count": 102,
+  "last_updated": "2026-09-27",
+  "item_count": 111,
   "items": [
     {
       "id": "allsvenskan-sommaruppehall-2026",
@@ -1212,6 +1212,114 @@
       "url": "https://hurbra.se/sverige-taiwan-davis-cup-20-september-2026/",
       "added_on": "2026-09-20",
       "collected_week": "2026-W38"
+    },
+    {
+      "id": "sverige-rumanien-nations-league-2026-09-25",
+      "title": "Sverige inledde Nations League med 2–1 mot Rumänien",
+      "category": "Fotboll",
+      "date": "2026-09-25",
+      "location": "Solna",
+      "summary": "Herrlandslaget vann sin öppningsmatch i höstens Nations League mot Rumänien med 2–1 på Strawberry Arena, där Alexander Isak och Viktor Gyökeres gjorde varsitt mål. Debutanten Patrik Wålemark fick även speltid från bänken.",
+      "source": "ESPN",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401861051/romania-sweden",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "kalmar-hacken-0-5-2026-09-20",
+      "title": "Häcken vann stort borta mot Kalmar FF",
+      "category": "Resultat",
+      "date": "2026-09-20",
+      "location": "Kalmar",
+      "summary": "BK Häcken vann med hela 5–0 borta mot Kalmar FF på Guldfågeln Arena, säsongens hittills största bortaseger i Allsvenskan, sedan Gustav Lindgren gjort tre av målen.",
+      "source": "Sofascore",
+      "url": "https://www.sofascore.com/football/match/kalmar-ff-bk-hacken/kKsQM",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "degerfors-hammarby-0-1-2026-09-20",
+      "title": "Hammarby tog tre poäng borta mot Degerfors",
+      "category": "Resultat",
+      "date": "2026-09-20",
+      "location": "Degerfors",
+      "summary": "Hammarby vann bortamötet med Degerfors IF med 1–0 i Allsvenskan och höll sig därmed kvar i toppstriden bakom serieledande Sirius.",
+      "source": "Svensk fotboll",
+      "url": "https://www.svenskfotboll.se/serier-cuper/tabell-och-resultat/allsvenskan-2026/133348/",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "djurgarden-elfsborg-1-2-2026-09-20",
+      "title": "Elfsborg vann uppgörelsen mot Djurgården",
+      "category": "Resultat",
+      "date": "2026-09-20",
+      "location": "Stockholm",
+      "summary": "IF Elfsborg besegrade Djurgården med 2–1 på bortaplan i Allsvenskan, ett resultat som satte press på Djurgårdens jakt på en topplacering inför slutspurten.",
+      "source": "Svensk fotboll",
+      "url": "https://www.svenskfotboll.se/serier-cuper/tabell-och-resultat/allsvenskan-2026/133348/",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "sirius-tio-poang-landslagsuppehall-2026",
+      "title": "Sirius går mot landslagsuppehållet med tio poängs ledning",
+      "category": "Fotboll",
+      "date": "2026-09-21",
+      "location": "Uppsala",
+      "summary": "Trots ett par tuffare omgångar i september håller IK Sirius i serieledningen och toppar Allsvenskan med 51 poäng, åtta före Hammarby och tio före Djurgården, inför landslagsuppehållet med nio omgångar kvar att spela.",
+      "source": "UNT",
+      "url": "https://www.unt.se/sport/fotboll/artikel/sirius-guldkalkyl-infor-slutspurten-i-allsvenskan/rgo85yej",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "hacken-dam-krossar-norrkoping-6-0-2026-09-26",
+      "title": "Häcken krossade Norrköping i Damallsvenskan",
+      "category": "Resultat",
+      "date": "2026-09-26",
+      "location": "Norrköping",
+      "summary": "BK Häckens damlag vann bortamötet med IFK Norrköping med hela 6–0 i Damallsvenskan och befäste därmed sin position i toppen av tabellen inför säsongens slutskede.",
+      "source": "Fotbollskanalen",
+      "url": "https://www.fotbollskanalen.se/artiklar/damallsvenskan/norrkoping-hacken-i-damallsvenskan",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "laver-cup-2026-team-europe-titel",
+      "title": "Team Europa tog hem Laver Cup i London",
+      "category": "Tennis",
+      "date": "2026-09-27",
+      "location": "London",
+      "summary": "Team Europa säkrade en klar seger över Team Världen med 13–5 i årets Laver Cup på The O2 i London, där Alexander Zverev avgjorde med en rak setseger över Learner Tien.",
+      "source": "ATP Tour",
+      "url": "https://www.atptour.com/en/news/laver-cup-2026-results",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "billie-jean-king-cup-tjeckien-mastare-2026",
+      "title": "Tjeckien vann Billie Jean King Cup efter Wimbledon-duon",
+      "category": "Tennis",
+      "date": "2026-09-27",
+      "location": "Shenzhen, Kina",
+      "summary": "Tjeckien besegrade Ukraina med 2–0 i finalen av Billie Jean King Cup i Shenzhen, där årets båda Wimbledon-finalister Linda Nosková och Karolina Muchová avgjorde varsin match mot Elina Svitolina respektive Anhelina Kalinina.",
+      "source": "Billie Jean King Cup",
+      "url": "https://www.clickorlando.com/sports/2026/09/27/wimbledon-finalists-noskova-and-muchova-secure-the-billie-jean-king-cup-title-for-czechia/",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "bordtennis-svensk-trupp-em-ljubljana-guldgeneration-2026",
+      "title": "Tio svenskar och en ny guldgeneration redo för bordtennis-EM",
+      "category": "Bordtennis",
+      "date": "2026-09-14",
+      "location": "Ljubljana, Slovenien",
+      "summary": "Med tio uttagna spelare, fem herrar och fem damer, pekas den svenska truppen ut som en del av en ny gyllene generation inför bordtennis-EM i Ljubljana 11–18 oktober, där bland andra tonåringarna Siri Benjegård och Angelina Bebawy ingår.",
+      "source": "Skåne Plus",
+      "url": "https://skaneplus.se/guldfeber-och-tonarssensationer-nar-svensk-pingis-intar-europa/",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
     }
   ]
 }

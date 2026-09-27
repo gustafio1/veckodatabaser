@@ -2,8 +2,8 @@
   "topic": "Golf",
   "description": "Majors och tourtävlingar, svenska golfare, tävlingar och utrustning. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-20",
-  "item_count": 57,
+  "last_updated": "2026-09-27",
+  "item_count": 64,
   "items": [
     {
       "id": "ryan-fox-vinner-the-open-royal-birkdale-2026",
@@ -676,6 +676,90 @@
       "url": "https://tournytt.se/masterskap/skol-sm",
       "added_on": "2026-09-20",
       "collected_week": "2026-W38"
+    },
+    {
+      "id": "jacob-bridgeman-vinner-biltmore-championship-2026",
+      "title": "Jacob Bridgeman vann historiska Biltmore Championship",
+      "category": "Tour",
+      "date": "2026-09-20",
+      "location": "Asheville, North Carolina, USA",
+      "summary": "Jacob Bridgeman kom ikapp med en avslutande 61:a och vann den nyinstiftade Biltmore Championship med två slags marginal, sin andra PGA Tour-seger för säsongen efter Genesis Invitational.",
+      "source": "PGA Tour",
+      "url": "https://www.pgatour.com/article/news/daily-wrapup/2026/09/20/round-4-biltmore-championship-asheville-storylines-leaderboard-scores-results",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "presidents-cup-internationals-historisk-ledning-2026",
+      "title": "Internationella laget tog historisk ledning i Presidents Cup",
+      "category": "Tävling",
+      "date": "2026-09-26",
+      "location": "Medinah, Illinois, USA",
+      "summary": "Efter lördagens fyrbollar och foursomes gick det internationella laget in i söndagens singelmatcher med en ledning på 10,5–7,5 mot USA, den största ledningen i Presidents Cups historia inför avslutningsdagen.",
+      "source": "PGA Tour",
+      "url": "https://www.pgatour.com/article/news/latest/2026/09/26/presidents-cup-match-recap-saturday-foursomes-fourballs-us-international-medinah-country-club-scottie-scheffler-si-woo-kim",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "matt-fitzpatrick-vinner-fedex-open-de-france-2026",
+      "title": "Matt Fitzpatrick vann FedEx Open de France",
+      "category": "Resultat",
+      "date": "2026-09-27",
+      "location": "Saint-Quentin-en-Yvelines, Frankrike",
+      "summary": "Matt Fitzpatrick vann DP World Tour-tävlingen FedEx Open de France på Le Golf National med tre slags marginal på 20 under par, före bland andra spanjoren Angel Hidalgo.",
+      "source": "The Golf News Net",
+      "url": "https://thegolfnewsnet.com/golfnewsnetteam/2026/09/27/2026-fedex-open-de-france-final-results-prize-money-payout-dp-world-tour-leaderboard-how-much-each-golfer-won-144936/",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "aberg-debut-fedex-open-de-france-2026",
+      "title": "Åberg gjorde debut i Frankrikes öppna golf",
+      "category": "Svensk golf",
+      "date": "2026-09-24",
+      "location": "Saint-Quentin-en-Yvelines, Frankrike",
+      "summary": "Ludvig Åberg spelade för första gången Open de France, DP World Tours äldsta nationella öppna mästerskap, på Le Golf National tillsammans med Ryder Cup-kollegorna Tommy Fleetwood och Viktor Hovland.",
+      "source": "DP World Tour",
+      "url": "https://www.europeantour.com/dpworld-tour/news/articles/detail/ludvig-aberg-to-bring-further-flair-to-fedex-open-de-france/",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "weplayagain-lanserar-i-sverige-2026",
+      "title": "Dansk klubbytesaktör startar i Sverige",
+      "category": "Nyhet",
+      "date": "2026-09-26",
+      "location": "Halmstad",
+      "summary": "Danska bolaget WePlayAgain, som köper och säljer begagnade golfklubbor, hade svensk premiär den 26 september hos Tylösands Golfshop i Halmstad och siktar på omkring 100 inbytesevent runt om i Sverige under 2027.",
+      "source": "Svensk Golf",
+      "url": "https://www.svenskgolf.se/nyheter/dansk-golfaktor-satsar-pa-sverige/",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "taylormade-qi4d-basta-drivern-2026",
+      "title": "TaylorMade Qi4D korad till årets bästa driver",
+      "category": "Utrustning",
+      "date": "2026-09-15",
+      "location": "",
+      "summary": "I 2026 års stora drivertest utsågs TaylorMade Qi4D till den mest kompletta modellen tack vare en jämn kombination av längd, precision och tolerans, med fyra huvudformer att välja mellan i serien.",
+      "source": "MyGolfSpy",
+      "url": "https://mygolfspy.com/news-opinion/the-taylormade-qi4d-won-our-2026-driver-test-heres-who-shouldnt-buy-it/",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
+    },
+    {
+      "id": "taylormade-spider-tour-x-basta-puttern-2026",
+      "title": "TaylorMade Spider Tour X toppar årets putterjämförelse",
+      "category": "Utrustning",
+      "date": "2026-09-10",
+      "location": "",
+      "summary": "I ett omfattande test av över 75 puttermodeller pekas TaylorMade Spider Tour X ut som den bästa totalt sett, tack vare stabilitet, förlåtande egenskaper och bra känsla i slaget.",
+      "source": "MyGolfSpy",
+      "url": "https://mygolfspy.com/buyers-guide/best-putters-of-2026-test-data-from-75-putters/",
+      "added_on": "2026-09-27",
+      "collected_week": "2026-W39"
     }
   ]
 }

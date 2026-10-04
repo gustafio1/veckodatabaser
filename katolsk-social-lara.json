@@ -2,8 +2,8 @@
   "topic": "Katolska kyrkans sociala lära",
   "description": "Den katolska kyrkans sociala lära – principerna och temana som vägleder ett rättvist samhälle. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-27",
-  "item_count": 122,
+  "last_updated": "2026-10-04",
+  "item_count": 128,
   "items": [
     {
       "id": "liv-och-vardighet",
@@ -1468,6 +1468,78 @@
       "url": "https://cathnews.com/2026/09/21/pope-praises-catholics-leading-church-in-new-directions/",
       "added_on": "2026-09-27",
       "collected_week": "2026-W39"
+    },
+    {
+      "id": "st-marys-twickenham-ai-manniskans-blomstring-2026",
+      "title": "Konferens om AI och mänsklig blomstring vid St Mary's University i London",
+      "category": "Nyhet",
+      "date": "2026-10-26",
+      "location": "Twickenham, London",
+      "summary": "Den 26 oktober hålls en konferens på St Mary's University om AI:s snabba utveckling, med utgångspunkt i Leo XIV:s encyklika Magnifica Humanitas om teknikens plats i den mänskliga värdigheten.",
+      "source": "Catholic Social Thought",
+      "url": "https://catholicsocialthought.org.uk/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "joel-stade-arbete-vardighet-rapport-2026",
+      "title": "Ny rapport: \"Arbete och värdighet - Katolsk sociallära och den svenska modellen\"",
+      "category": "Dokument",
+      "date": "2026-10-01",
+      "location": "Sverige",
+      "summary": "Joel Stade publicerar i oktober en rapport som sätter katolsk sociallära om arbetets värdighet i dialog med den svenska partsmodellen på arbetsmarknaden.",
+      "source": "Katolska kyrkan i Sverige",
+      "url": "https://www.katolskakyrkan.se/aktuellt/stiftsnyheter/2026/guide-till-material-om-katolska-kyrkan",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "magnus-strand-ai-forskarperspektiv-rapport-2026",
+      "title": "Forskarrapport om AI, människosyn och tro av Magnus Strand",
+      "category": "Dokument",
+      "date": "2026-10-01",
+      "location": "Sverige",
+      "summary": "Rapporten \"Artificiell intelligens: ett forskarperspektiv på teknik, människosyn och tro\" diskuterar hur AI-utvecklingen utmanar den kristna människosyn som katolsk sociallära vilar på.",
+      "source": "Katolska kyrkan i Sverige",
+      "url": "https://www.katolskakyrkan.se/aktuellt/stiftsnyheter/2026/guide-till-material-om-katolska-kyrkan",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "mikael-schink-samvetet-rapport-2026",
+      "title": "Pater Mikael Schink SJ om samvetets roll i ny rapport",
+      "category": "Dokument",
+      "date": "2026-10-01",
+      "location": "Sverige",
+      "summary": "I rapporten \"Samvetet - vad är det och vad är det inte?\" reder jesuitpatern Mikael Schink ut samvetets plats i katolsk moralteologi, ett tema nära knutet till sociallärans betoning på personens värdighet och ansvar.",
+      "source": "Katolska kyrkan i Sverige",
+      "url": "https://www.katolskakyrkan.se/aktuellt/stiftsnyheter/2026/guide-till-material-om-katolska-kyrkan",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "america-magazine-socialism-sociallara-2026",
+      "title": "Är dagens socialism förenlig med katolsk sociallära?",
+      "category": "Nyhet",
+      "date": "2026-08-18",
+      "location": "USA",
+      "summary": "America Magazine diskuterar om det förnyade intresset för demokratisk socialism i USA är förenligt med katolska sociallärans principer om egendomens sociala funktion, solidaritet och det gemensamma goda.",
+      "source": "America Magazine",
+      "url": "https://www.americamagazine.org/short-take/2026/08/18/democratic-socialists-america-catholic-social-teaching/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "mother-teresa-sociallarans-foregangare-2026",
+      "title": "Moder Teresa lyfts fram som förebild för katolsk sociallära",
+      "category": "Princip",
+      "date": "2026-09-15",
+      "location": "Calcutta, Indien",
+      "summary": "En artikelserie om sociallärans föregångare porträtterar Moder Teresa av Calcutta och hennes praktiska vittnesbörd om företrädesvalet för de fattiga och människans okränkbara värde.",
+      "source": "Mike Fox Catechist (Substack)",
+      "url": "https://mikefoxcatechist.substack.com/p/mother-teresa-of-calcutta-champions",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
     }
   ]
 }

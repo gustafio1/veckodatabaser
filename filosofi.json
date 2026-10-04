@@ -2,8 +2,8 @@
   "topic": "Filosofi",
   "description": "Nya filosofiböcker, debatt, forskning, evenemang och klassiker i nytt ljus. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-27",
-  "item_count": 69,
+  "last_updated": "2026-10-04",
+  "item_count": 75,
   "items": [
     {
       "id": "routledge-basta-filosofibockerna-2026",
@@ -832,6 +832,78 @@
       "url": "https://now.temple.edu/events/2026-09-25/fall-2026-philosophy-colloquium-speaker-series",
       "added_on": "2026-09-27",
       "collected_week": "2026-W39"
+    },
+    {
+      "id": "ai-forfragan-daily-nous-filosofitavling-2026",
+      "title": "En AI bad om draghjälp i en filosofisk resonemangstävling",
+      "category": "Nyhet",
+      "date": "2026-10-02",
+      "location": "Online",
+      "summary": "Filosofibloggen Daily Nous rapporterade om vad som tros vara det första kända fallet där en AI-agent själv vände sig till redaktionen, i samband med en tävling vid National University of Singapore som ska mäta AI:s filosofiska resonemangsförmåga.",
+      "source": "Daily Nous",
+      "url": "https://dailynous.com/2026/10/02/a-request-from-an-ai/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "bermudez-valente-verdejo-intersubjektivitet-recension-2026",
+      "title": "Ny antologi om intersubjektivitet och kommunikation recenseras",
+      "category": "Bok",
+      "date": "2026-09-30",
+      "location": "USA",
+      "summary": "Antologin \"Sharing Thoughts: Philosophical Perspectives on Intersubjectivity and Communication\", redigerad av José Luis Bermúdez, Matheus Valente och Víctor M. Verdejo, recenseras vid Notre Dame Philosophical Reviews.",
+      "source": "Notre Dame Philosophical Reviews / Daily Nous",
+      "url": "https://dailynous.com/2026/09/28/online-philosophy-resources-weekly-update-441/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "crowder-isaiah-berlin-liberal-pluralism-recension-2026",
+      "title": "Ny bok om Isaiah Berlins liberala pluralism för oroliga tider",
+      "category": "Bok",
+      "date": "2026-09-30",
+      "location": "Storbritannien",
+      "summary": "George Crowders \"Isaiah Berlin in the Twenty-First Century: Liberal Pluralism for Troubled Times\" recenseras i Dublin Review of Books och sätter Berlins idéer om värdepluralism i samtida ljus.",
+      "source": "Dublin Review of Books / Daily Nous",
+      "url": "https://dailynous.com/2026/09/28/online-philosophy-resources-weekly-update-441/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "dresow-paleontologins-filosofi-essaer-2026",
+      "title": "Femtio essäer samlar filosofin kring paleontologi",
+      "category": "Bok",
+      "date": "2026-09-30",
+      "location": "USA",
+      "summary": "Max Dresow har samlat femtio korta essäer om paleontologins vetenskapsfilosofi på bloggen Extinct, ett ovanligt tillskott till filosofin om de historiska vetenskaperna.",
+      "source": "Extinct (blogg) / Daily Nous",
+      "url": "https://dailynous.com/2026/09/28/online-philosophy-resources-weekly-update-441/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "socrates-project-toronto-20-ar-2026",
+      "title": "Torontos Socrates Project fyller 20 år",
+      "category": "Nyhet",
+      "date": "2026-10-01",
+      "location": "Toronto, Kanada",
+      "summary": "Vid University of Toronto har programmet Socrates Project i två decennier anställt äldre filosofistudenter för att hålla veckovisa seminarier för nybörjare i filosofi, ett modellexempel på kamratlärande i ämnet.",
+      "source": "Daily Nous",
+      "url": "https://dailynous.com/2026/09/28/online-philosophy-resources-weekly-update-441/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "tizzard-kants-moral-world-bok-2026",
+      "title": "Ny bok försvarar Kants praktiska metafysik",
+      "category": "Bok",
+      "date": "2026-09-20",
+      "location": "Storbritannien",
+      "summary": "Jessica Tizzards \"Kant's Moral World: Ideas and the Real Use of Pure Practical Reason\" ger ett utförligt försvar av Kants praktiska metafysik som grund för hans etik.",
+      "source": "PhilPapers",
+      "url": "https://philpapers.org/recent?preset=books",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
     }
   ]
 }

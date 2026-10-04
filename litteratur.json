@@ -2,8 +2,8 @@
   "topic": "Litteratur",
   "description": "Boksläpp, litterära priser, författarnyheter och förlagsbranschen. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-27",
-  "item_count": 77,
+  "last_updated": "2026-10-04",
+  "item_count": 85,
   "items": [
     {
       "id": "taiwan-travelogue-international-booker-2026",
@@ -928,6 +928,102 @@
       "url": "https://www.bta.bg/en/news/culture/1209552-georgi-gospodinov-s-the-physics-of-sorrow-to-be-presented-at-gothenburg-book-f",
       "added_on": "2026-09-27",
       "collected_week": "2026-W39"
+    },
+    {
+      "id": "oktoberlista-bocker-enligto-2026",
+      "title": "enligt O listar höstens efterlängtade boksläpp i oktober",
+      "category": "Boksläpp",
+      "date": "2026-10-01",
+      "location": "",
+      "summary": "Bokbloggen enligt O sammanställer en lista över oktobers mest efterlängtade titlar, bland annat nya böcker av David Lagercrantz, Kristina Ohlsson och Tove Alsterdal. Listan ger en överblick över höstens fortsatta bokutgivning efter Bokmässan.",
+      "source": "enligt O",
+      "url": "https://www.enligto.se/2026/10/01/bocker-att-se-fram-emot-i-oktober-2026/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "caroline-wahl-22-langder-svensk-utgivning-2026",
+      "title": "Caroline Wahls roman \"22 längder\" ges ut på svenska",
+      "category": "Boksläpp",
+      "date": "2026-10-06",
+      "location": "",
+      "summary": "Den tyska författaren Caroline Wahl, som fått stor uppmärksamhet för sina generationsskildrande romaner, är aktuell på svenska med \"22 längder\" i början av oktober. Boken lyfts fram bland höstens mest väntade utländska boksläpp.",
+      "source": "enligt O",
+      "url": "https://www.enligto.se/2026/10/01/bocker-att-se-fram-emot-i-oktober-2026/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "lagercrantz-ur-djupen-ropar-jag-2026",
+      "title": "David Lagercrantz släpper fjärde delen \"Ur djupen ropar jag\"",
+      "category": "Boksläpp",
+      "date": "2026-10-08",
+      "location": "",
+      "summary": "David Lagercrantz fortsätter sin bokserie med den fjärde delen \"Ur djupen ropar jag\", som väntas bli ett av höstens stora samtalsämnen efter det uppmärksammade ljudboksupplägget kring hans tidigare bok Intränglingen. Utgivningen bekräftar författarens höga utgivningstakt under 2026.",
+      "source": "enligt O",
+      "url": "https://www.enligto.se/2026/10/01/bocker-att-se-fram-emot-i-oktober-2026/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "sf-bokhandeln-vinst-2026",
+      "title": "SF-bokhandeln går med vinst igen efter flera förlustår",
+      "category": "Bransch",
+      "date": "2026-10-01",
+      "location": "Stockholm",
+      "summary": "Efter fem år med förluster vänder SF-bokhandeln till sin bästa vinstmarginal på över tjugo år, med ökad omsättning i butikerna i Stockholm, Göteborg och Malmö samt en lyckad nyöppning i Linköping. Vändningen beskrivs som ett styrkebesked för den nischade bokhandeln.",
+      "source": "Svensk Bokhandel",
+      "url": "https://www.svb.se/foerdjupning/vaendningen-nu-gar-sf-bokhandeln-med-vinst-igen/4499330",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "bonnierforlagen-avvecklar-faltforsaljning-2026",
+      "title": "Bonnierförlagen avvecklar sina resande säljare",
+      "category": "Bransch",
+      "date": "2026-09-29",
+      "location": "Stockholm",
+      "summary": "Bonnierförlagen lägger ner sitt fältsälj och förlagsgruppen står nu utan resande säljare för första gången, sedan branschveteranerna Bo Bergman och Mats Lennquist lämnat sina roller efter lång tid i yrket. Beskedet speglar en bredare omställning i hur förlag säljer in sin utgivning till bokhandeln.",
+      "source": "Svensk Bokhandel",
+      "url": "https://www.svb.se/nyheter/inga-fler-resande-saeljare-pa-bonnier-branschveteranerna-laemnar/4498601",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "bokmassan-monterdebuter-smaforlag-2026",
+      "title": "Småförlag besvikna på sin montplacering vid årets Bokmässa",
+      "category": "Bransch",
+      "date": "2026-09-30",
+      "location": "Göteborg",
+      "summary": "Flera mindre förlag som debuterade med egen monter på Bokmässan vittnar om dyra investeringar och missnöje med var deras montrar placerades, trots mässans rekordbesök. Ett förlag valde att formellt klaga på sin placering hos mässarrangören.",
+      "source": "Svensk Bokhandel",
+      "url": "https://www.svb.se/nyheter/monterdebuter-pa-arets-maessa-smafoerlag-besvikna-pa-placering/4500052",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "bokmassan-monterkostnader-kritik-2026",
+      "title": "Kritik mot Bokmässans prissättning av montrar efter mässan",
+      "category": "Bransch",
+      "date": "2026-10-02",
+      "location": "Göteborg",
+      "summary": "I efterspelet till Bokmässan 2026 riktas kritik mot hur mässarrangören prissätter och fördelar montrar, där mindre aktörer menar att de större utställarna gynnas på deras bekostnad. Debatten belyser spänningen mellan mässans kommersiella intäkter och de mindre förlagens möjlighet att synas.",
+      "source": "Svensk Bokhandel",
+      "url": "https://www.svb.se/nyheter/de-maxar-sina-intaekter-och-tar-bort-moejligheten-till-vara/4500469",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "nobelpriset-litteratur-2026-oddsfavoriter",
+      "title": "Can Xue toppar vadslagningen inför Nobelpriset i litteratur 2026",
+      "category": "Nyhet",
+      "date": "2026-10-01",
+      "location": "Stockholm",
+      "summary": "Inför tillkännagivandet av Nobelpriset i litteratur den 8 oktober toppar kinesiska författaren Can Xue spelbolagens odds, följd av namn som Haruki Murakami och Gerald Murnane. Eftersom Svenska Akademien sedan 2018 växlat mellan kvinnliga och manliga pristagare jämna och udda år väntas en kvinna tilldelas priset 2026.",
+      "source": "Lit Hub",
+      "url": "https://lithub.com/here-are-the-bookies-odds-for-the-2026-nobel-prize-in-literature/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
     }
   ]
 }

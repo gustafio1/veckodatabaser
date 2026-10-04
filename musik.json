@@ -2,8 +2,8 @@
   "topic": "Musik",
   "description": "Nya album, konserter, festivaler, svensk musik och musikbranschen. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-27",
-  "item_count": 75,
+  "last_updated": "2026-10-04",
+  "item_count": 83,
   "items": [
     {
       "id": "madonna-confessions-ii-slapp-2026",
@@ -904,6 +904,102 @@
       "url": "https://www.musikindustrin.se/2026/09/22/programmet-till-mirac-2026-klart/",
       "added_on": "2026-09-27",
       "collected_week": "2026-W39"
+    },
+    {
+      "id": "way-out-west-2027-biljettpaus",
+      "title": "Way Out West pausar biljettförsäljningen inför 2027",
+      "category": "Festival",
+      "date": "2026-10-02",
+      "location": "Göteborg",
+      "summary": "Trycket på biljetter till Way Out West 2027 är så stort att arrangören pausat försäljningen trots att ingen artist ännu är presenterad. De flesta festivalpass är redan slutsålda och fler biljetter väntas släppas senare i höst.",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/lokalt/vast/way-out-west-pausar-biljettforsaljningen",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "abba-museum-dancing-queen-utstallning-2026",
+      "title": "Dancing Queen får egen utställning på ABBA The Museum",
+      "category": "Nyhet",
+      "date": "2026-09-29",
+      "location": "Stockholm",
+      "summary": "Till 50-årsjubileet av Dancing Queen öppnar ABBA The Museum den 11 oktober en ny utställning som följer låten från arbetstiteln Boogaloo till att bli en av gruppens största internationella hitlåtar. Utställningen bjuder bland annat på nya kopior av scenkostymerna från framträdandet inför kungabröllopet 1976.",
+      "source": "Musikindustrin",
+      "url": "https://www.musikindustrin.se/2026/09/29/dancing-queen-far-egen-utstallning-pa-abba-the-museum/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "skarsgard-rolling-stones-mr-charm-2026",
+      "title": "Alexander Skarsgård i huvudrollen i ny Rolling Stones-video",
+      "category": "Nyhet",
+      "date": "2026-10-01",
+      "location": "",
+      "summary": "Den svenske skådespelaren Alexander Skarsgård spelar huvudrollen i Rolling Stones musikvideo till Mr. Charm, en låt från albumet Foreign Tongues. Han blir därmed den senaste i raden av kända skådespelare, bland andra Sydney Sweeney och Angelina Jolie, som medverkat i videor från skivan.",
+      "source": "Rolling Stone",
+      "url": "https://www.rollingstone.com/music/music-news/alexander-skarsgard-the-rolling-stones-mr-charm-music-video-1235635756/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "qobuz-ai-markning-tar-bort-latar-2026",
+      "title": "Qobuz börjar märka ut AI-genererad musik och rensar katalogen",
+      "category": "Bransch",
+      "date": "2026-09-24",
+      "location": "",
+      "summary": "Streamingtjänsten Qobuz har infört en egen taggning som identifierar AI-genererade låtar, vilket gör att de plockas bort från redaktionella listor och sökfunktionen. Omkring fyra miljoner misstänkta AI-låtar utan lyssning har redan tagits bort, och bolaget uppger att runt 60 procent av strömmarna på AI-märkt musik bedöms vara bedrägliga.",
+      "source": "Music Business Worldwide",
+      "url": "https://www.musicbusinessworldwide.com/qobuz-starts-tagging-ai-generated-music-in-its-app-and-says-60-of-streams-on-ai-tracks-are-fraudulent/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "epidemic-group-ny-vd-wahlberg-2026",
+      "title": "Epidemic Group får ny vd i Erik Wahlberg",
+      "category": "Bransch",
+      "date": "2026-10-01",
+      "location": "Stockholm",
+      "summary": "Erik Wahlberg, grundare av videoteknikbolaget Blenda Labs som Epidemic Group köpte tidigare i år, tillträder som koncernchef för musik- och medietech-bolaget från den 1 oktober. Tidigare interim-vd:n Sara Börsvik går i stället in i en kombinerad roll som operativ chef och ekonomichef.",
+      "source": "Breakit",
+      "url": "https://www.breakit.se/artikel/47501/efter-tuffa-aret-erik-wahlberg-blir-ny-vd-pa-musikjatten-epidemic-sound",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "strom-mer-strom-at-folket-2026",
+      "title": "Rockbandet Ström släpper tredje albumet Mer Ström Åt Folket",
+      "category": "Släpp",
+      "date": "2026-10-02",
+      "location": "Strömstad",
+      "summary": "Bandet Ström ger ut sitt tredje studioalbum, inspelat i Strömstad och mixat av Johan Forsman Löwenström som tidigare arbetat med The Soundtrack of Our Lives och Håkan Hellström. Skivan beskrivs av recensenter som raware och mer självsäker än bandets tidigare utgivning.",
+      "source": "Rocknytt",
+      "url": "https://www.rocknytt.net/cd/195850-strom-mer-strom-at-folket-2",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "fanny-avonne-vad-gor-jag-nu-2026",
+      "title": "Fanny Avonne släpper efterlängtat debutalbum",
+      "category": "Släpp",
+      "date": "2026-10-02",
+      "location": "",
+      "summary": "Grammisvinnaren Fanny Avonne ger ut sitt debutalbum Vad gör jag nu?, elva låtar om livet efter en turbulent period, bland annat på turkos vinyl. Titelspåret släpptes redan i maj och har följts av fortsatt uppmärksamhet inför albumsläppet.",
+      "source": "VK",
+      "url": "https://www.vk.se/2026-10-02/fanny-avonne-gjorde-omstart-som-sig-sjalv-ffbcc",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "sverigetopplistan-vecka40-djurens-vaggvisa-2026",
+      "title": "Djurens vaggvisa tar tillbaka förstaplatsen på Sverigetopplistan",
+      "category": "Nyhet",
+      "date": "2026-10-04",
+      "location": "",
+      "summary": "Humlan Djojjs och Josefine Götestams barnlåt klättrar tillbaka till förstaplatsen på veckans Sverigetopplista, före Taylor Swifts Patient Zero och fjolårets VM-hit Dai Dai med Shakira och Burna Boy. Samtidigt toppar Dai Dai fortfarande den rena streaminglistan DigiListan.",
+      "source": "Sverigetopplistan",
+      "url": "https://sverigetopplistan.se/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
     }
   ]
 }

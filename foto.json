@@ -2,8 +2,8 @@
   "topic": "Fotografi",
   "description": "Nya kameror och objektiv, fototeknik, utställningar, tävlingar och fotografer. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-27",
-  "item_count": 75,
+  "last_updated": "2026-10-04",
+  "item_count": 83,
   "items": [
     {
       "id": "canon-eos-r6-v-lanseras-2026",
@@ -904,6 +904,102 @@
       "url": "https://www.usa.canon.com/newsroom/2026/20260915-consumer",
       "added_on": "2026-09-27",
       "collected_week": "2026-W39"
+    },
+    {
+      "id": "nocs-provisions-portal-afn7-lansering-2026",
+      "title": "Optikmärket Nocs Provisions lanserar sin första kamera – skärmfria Portal AFN7",
+      "category": "Kameralansering",
+      "date": "2026-10-01",
+      "location": "",
+      "summary": "Det amerikanska kikarmärket Nocs Provisions gör entré på kameramarknaden med Portal AFN7, en skärmfri äventyrskamera som går att koppla direkt till bolagets kikare och monokulärer. Kameran väger bara 140 gram, tål tuff väderexponering och innehåller filmliknande bildprofiler inspirerade av klassisk analog film.",
+      "source": "DPReview / PetaPixel",
+      "url": "https://www.dpreview.com/news/nocs-provisions-first-camera-is-a-179-screenless-model-for-outdoor-adventures/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "rugone-xsnap-7-pro-lansering-2026",
+      "title": "RugOne Xsnap 7 Pro kombinerar tålig mobiltelefon och löstagbar actionkamera",
+      "category": "Lansering",
+      "date": "2026-10-01",
+      "location": "",
+      "summary": "Ulefone-märket RugOne har lanserat Xsnap 7 Pro, en robust mobiltelefon med en magnetiskt fästad actionkameramodul som kan lossas och styras trådlöst på upp till 50 meters avstånd. Modulen filmar i 2,7K medan telefonens egen huvudkamera klarar 4K, vilket gör kombinationen ovanlig på marknaden.",
+      "source": "PetaPixel",
+      "url": "https://petapixel.com/2026/10/01/the-rugone-xsnap-7-pro-is-both-a-smartphone-and-an-action-camera/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "huawei-ruiying-z10-kameramodul-2026",
+      "title": "Huawei lanserar fristående kameramodul som fästs på mobilen",
+      "category": "Teknik",
+      "date": "2026-10-01",
+      "location": "",
+      "summary": "Huawei har presenterat Ruiying Z10, en komplett påbyggbar kameramodul med 50-megapixelsensor och zoomobjektiv som kan monteras på en vanlig mobiltelefon. Lanseringen visar hur tillverkare fortsätter söka nya vägar att höja mobilfotots bildkvalitet utan att bygga in all hårdvara permanent i telefonen.",
+      "source": "PetaPixel",
+      "url": "https://petapixel.com/2026/10/01/huawei-launches-an-entire-camera-you-put-on-a-phone/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "fujifilm-prishojning-japan-2026",
+      "title": "Fujifilm höjer kamerapriserna i Japan med upp till 23 procent",
+      "category": "Nyhet",
+      "date": "2026-10-01",
+      "location": "Japan",
+      "summary": "Fujifilm meddelar kraftiga prishöjningar på kameror och objektiv på den japanska hemmamarknaden, med hänvisning till stigande material- och komponentkostnader. Störst enskild höjning får teleobjektivet XF 500mm f/5.6, som blir omkring tolv procent dyrare.",
+      "source": "PetaPixel",
+      "url": "https://petapixel.com/2026/10/01/fujifilm-increases-japanese-camera-prices-by-up-to-23/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "thypoch-tre-nya-objektiv-teaser-2026",
+      "title": "Thypoch retar inför tre nya objektiv – första autofokusobjektivet för Fujifilm X väntas",
+      "category": "Objektiv",
+      "date": "2026-10-01",
+      "location": "Paris, Frankrike",
+      "summary": "Objektivtillverkaren Thypoch har teasat tre nya objektiv som väntas visas vid fotomässan Salon de la Photo et de la Vidéo i Paris i oktober. Ett av objektiven ska bli företagets första autofokusobjektiv för Fujifilms X-fattning, enligt branschbedömare som pekar på en möjlig ny trio av ljusstarka primlinser.",
+      "source": "Photo Rumors",
+      "url": "https://photorumors.com/2026/10/01/thypoch-is-teasing-three-new-lenses/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "polaroid-mod-instant-kamera-2026",
+      "title": "Polaroid lanserar Mod – instantkamera med fysisk rattstyrd kreativitet",
+      "category": "Kameralansering",
+      "date": "2026-09-29",
+      "location": "",
+      "summary": "Polaroid har presenterat Mod, en ny instantkamera med ett fysiskt lägesratt som ger fyra olika analoga kreativa effekter för rörelse, ljus och delade bildrutor utan att kräva en app. Kameran riktar sig till fotografer som vill experimentera analogt men ändå på ett enkelt och tillgängligt sätt.",
+      "source": "DPReview",
+      "url": "https://www.dpreview.com/news/polaroid-mod-is-an-instant-camera-for-playing-with-motion-light-and-split-frames/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "7artisans-18mm-f2-objektiv-2026",
+      "title": "7Artisans lanserar extremt lätt 18mm f/2-objektiv för Sonys APS-C-kameror",
+      "category": "Objektiv",
+      "date": "2026-09-29",
+      "location": "",
+      "summary": "Den kinesiska objektivtillverkaren 7Artisans har släppt ett nytt autofokusobjektiv på 18mm f/2 som väger endast 109 gram, vilket företaget beskriver som det lättaste autofokusobjektivet i sin ljusstyrkeklass för APS-C-kameror. Objektivet kostar omkring 169 dollar och riktar sig till Sonys E-mountsystem.",
+      "source": "DPReview",
+      "url": "https://www.dpreview.com/news/7artisans-109g-18mm-f2-is-an-ultra-light-autofocus-prime-for-aps-c-sony-cameras/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "rolling-square-await-kamera-2026",
+      "title": "Schweiziska Await vill motverka digital fotoutmattning med rullfilmskänsla",
+      "category": "Teknik",
+      "date": "2026-09-29",
+      "location": "Schweiz",
+      "summary": "Elektronikbolaget Rolling Square har tagit fram digitalkameran Await, byggd för att efterlikna känslan av analog film genom att dölja bilderna för fotografen tills en hel \"rulle\" på 24 bilder är tagen. Konceptet speglar ett växande intresse för långsammare, mer eftertänksamt fotograferande som motvikt till ständig direktgranskning av bilder.",
+      "source": "PetaPixel",
+      "url": "https://petapixel.com/2026/09/29/this-film-photography-inspired-await-digital-camera-is-for-people-experiencing-digital-fatigue/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
     }
   ]
 }

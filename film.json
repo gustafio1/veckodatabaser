@@ -2,8 +2,8 @@
   "topic": "Film & TV",
   "description": "Biopremiärer, streaming, TV-serier, svensk film och filmfestivaler. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-27",
-  "item_count": 76,
+  "last_updated": "2026-10-04",
+  "item_count": 84,
   "items": [
     {
       "id": "sju-biopremiarer-juli-2026",
@@ -916,6 +916,102 @@
       "url": "https://www.whats-on-netflix.com/coming-soon/whats-coming-to-netflix-in-october-2026/",
       "added_on": "2026-09-27",
       "collected_week": "2026-W39"
+    },
+    {
+      "id": "digger-tom-cruise-inarritu-biopremiar-2026",
+      "title": "\"Digger\" med Tom Cruise har biopremiär",
+      "category": "Biopremiär",
+      "date": "2026-10-02",
+      "location": "",
+      "summary": "Alejandro González Iñárritus katastrofsatir \"Digger\" fick svensk biopremiär den 2 oktober, med Tom Cruise i rollen som en inflytelserik men inkompetent affärsman vars bolag riskerar att utlösa en ekologisk katastrof. SVT:s recensent ansåg att filmens satiriska grepp inte riktigt bar hela vägen trots en uppmärksammad insats av Cruise.",
+      "source": "SVT Kultur",
+      "url": "https://www.svt.se/kultur/recension-digger-av-alejandro-gonzalez-inarritu",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "filmfest-sundsvall-2026",
+      "title": "Filmfest Sundsvall avslutade sin sjunde upplaga",
+      "category": "Filmfestival",
+      "date": "2026-10-04",
+      "location": "Sundsvall",
+      "summary": "Filmfest Sundsvall pågick 29 september till 4 oktober med fyra tävlingskategorier: internationell kort- och långfilm, barnfilm och svensk kortfilm. Bland prisen delades Stone City Award ut till bästa svenska kortfilm och bästa Norrlandsfilm samt Pija Lindenbaum-priset för bästa barnfilm.",
+      "source": "FilmCloud / Filmfest Sundsvall",
+      "url": "https://filmfestsundsvall.se/sv/filmer/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "karlek-over-tanger-biopremiar-2026",
+      "title": "\"Kärlek över Tanger\" har biopremiär",
+      "category": "Biopremiär",
+      "date": "2026-10-09",
+      "location": "",
+      "summary": "Maryam Touzanis uppföljare till \"Den blå kaftanen\" får svensk biopremiär den 9 oktober, med Carmen Maura i rollen som den livsbejakande María Ángeles i en marockansk miljö. Filmen beskrivs som en sinnlig feelgood-berättelse och vann publikpriset på Göteborg Film Festival.",
+      "source": "Filmstaden",
+      "url": "https://www.filmstaden.se/film/karlek/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "faret-shaun-monstret-bondgarden-biopremiar-2026",
+      "title": "\"Fåret Shaun och monstret på bondgården\" har biopremiär",
+      "category": "Biopremiär",
+      "date": "2026-10-16",
+      "location": "",
+      "summary": "Aardmans nya animerade familjeäventyr med den lerfigursanimerade fårskaran får svensk biopremiär den 16 oktober och räknas som en av höstens stora barnfilmssatsningar på bio.",
+      "source": "Elle",
+      "url": "https://www.elle.se/noje/11-nya-filmer-som-har-premiar-pa-bio-2026/11219553",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "karlek-och-andra-diagnoser-biopremiar-2026",
+      "title": "\"Kärlek och andra diagnoser\" har biopremiär",
+      "category": "Biopremiär",
+      "date": "2026-10-30",
+      "location": "Sverige",
+      "summary": "Den svenska dramakomedin \"Kärlek och andra diagnoser\" får biopremiär den 30 oktober och är en av höstens sena svenska filmsatsningar i en annars stjärnspäckad premiärmånad.",
+      "source": "Hänt",
+      "url": "https://www.hant.se/tv-serier-och-streaming/svenska-filmer-hosten-2026-alla-premiarer-att-halla-koll-pa/11579693",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "below-netflix-premiar-2026",
+      "title": "Skräckserien \"Below\" har premiär på Netflix",
+      "category": "Streaming",
+      "date": "2026-10-08",
+      "location": "",
+      "summary": "Den kanadensiska miniserien \"Below\" med Josh Hartnett och Mackenzie Davis i huvudrollerna får premiär på Netflix den 8 oktober. Serien blandar monsterskräck och drama om en fiskeby på Newfoundland som hemsöks av en okänd havsvarelse.",
+      "source": "What's on Netflix",
+      "url": "https://www.whats-on-netflix.com/what-to-watch/below-netflix-horror-series-tiff-premiere-reactions/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "doing-life-netflix-premiar-2026",
+      "title": "Tyler Perrys \"Doing Life\" har premiär på Netflix",
+      "category": "Streaming",
+      "date": "2026-10-02",
+      "location": "",
+      "summary": "Tyler Perrys nya romantiska drama \"Doing Life\", om hur en brevväxling mellan en ensamstående mamma och en frigiven fånge växer till kärlek, fick premiär på Netflix den 2 oktober. Filmen är Perrys sjunde samarbete med streamingtjänsten.",
+      "source": "What's on Netflix",
+      "url": "https://www.whats-on-netflix.com/news/doing-life-tyler-perry-netflix-movie-release-date/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "svensk-medverkan-london-film-festival-2026",
+      "title": "Svenska samproduktioner syns i programmet för London Film Festival",
+      "category": "Filmfestival",
+      "date": "2026-10-07",
+      "location": "London, Storbritannien",
+      "summary": "Den 70:e upplagan av BFI London Film Festival öppnar den 7 oktober och programmet rymmer flera filmer med svensk medverkan, bland annat Cristian Mungius samproduktion \"Fjord\" och May el-Toukhys \"Woman Unknown\" med nordiskt deltagande. Festivalen pågår till 18 oktober.",
+      "source": "Variety",
+      "url": "https://variety.com/2026/film/global/london-film-festival-2026-competition-lineup-1236836085/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
     }
   ]
 }

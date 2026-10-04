@@ -2,8 +2,8 @@
   "topic": "AI & maskininlärning",
   "description": "Nyheter om nya AI-modeller, verktyg, forskning, företag och reglering. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-27",
-  "item_count": 84,
+  "last_updated": "2026-10-04",
+  "item_count": 90,
   "items": [
     {
       "id": "openai-gpt-5-6-lansering-2026",
@@ -1012,6 +1012,78 @@
       "url": "https://fintech.global/2026/09/22/go-ai-raises-85m-series-a-for-on-prem-ai-push/",
       "added_on": "2026-09-27",
       "collected_week": "2026-W39"
+    },
+    {
+      "id": "openai-dots-alltid-pa-agenter-2026",
+      "title": "OpenAI lanserar \"dots\" – alltid påslagna AI-agenter med egen molndator",
+      "category": "Produkt",
+      "date": "2026-09-29",
+      "location": "",
+      "summary": "På DevDay 2026 presenterade OpenAI dots: agenter byggda på GPT-6 Astra som kör i molnet, kopplar till över 4 000 appar och fortsätter arbeta mellan konversationer. Funktionen är först tillgänglig för ChatGPT Pro- och Business Premium-kunder, men ej i EU, Schweiz eller Storbritannien.",
+      "source": "Android Headlines",
+      "url": "https://www.androidheadlines.com/2026/09/openai-launches-dots-always-on-ai-agents.html",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "google-gemini-4-argon-cybersakerhet-2026",
+      "title": "Google lanserar Gemini 4 Argon – men begränsar tillgången av säkerhetsskäl",
+      "category": "Produkt",
+      "date": "2026-09-30",
+      "location": "",
+      "summary": "Googles nya toppmodell Gemini 4 Argon ska vara extra stark på kodning och cybersäkerhet, men släpps först till utvalda säkerhetsorganisationer inom Fairwind-programmet medan Google testar skydd mot missbruk för cyberattacker.",
+      "source": "Tech Wire Asia",
+      "url": "https://techwireasia.com/2026/10/google-gemini-4-argon-cybersecurity-access/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "openai-synopsys-gpt-synopsys-2026",
+      "title": "OpenAI och Synopsys bygger specialmodellen GPT-Synopsys för chipdesign",
+      "category": "Samarbete",
+      "date": "2026-09-30",
+      "location": "",
+      "summary": "OpenAI och kretsdesignjätten Synopsys inleder ett flerårigt samarbete för att skapa GPT-Synopsys, en AI-modell som ska lära sig styra Synopsys EDA-verktyg direkt och automatisera delar av halvledardesign, med en delad intäktsmodell mellan bolagen.",
+      "source": "Synopsys Newsroom",
+      "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "tavus-griffin-lite-human-interaction-model-2026",
+      "title": "Tavus lanserar Griffin-Lite, första \"Human Interaction Model\" för videosamtal",
+      "category": "Forskning",
+      "date": "2026-10-01",
+      "location": "",
+      "summary": "Startupen Tavus presenterar Griffin-Lite, en AI-modell som i realtid för och genererar tal och video samtidigt i videosamtal. I ett internt test trodde 48 procent av deltagarna att de pratade med en riktig människa efter en minuts samtal.",
+      "source": "Tavus",
+      "url": "https://www.tavus.io/griffin",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "eu-ai-act-gpai-efterlevnad-oktober-2026",
+      "title": "EU:s AI-förordning skärper kraven på leverantörer av generella AI-modeller",
+      "category": "Reglering",
+      "date": "2026-10-02",
+      "location": "",
+      "summary": "Sedan reglerna för generella AI-modeller (GPAI) trädde i full kraft i augusti möter bolag som placerar modeller på EU-marknaden nu krav på teknisk dokumentation, sammanfattningar av träningsdata och redovisning av energianvändning enligt artikel 53.",
+      "source": "Cubbbix",
+      "url": "https://cubbbix.com/blog/ai-regulation-october-2026-global-update",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "microsoft-copilot-home-code-autopilot-2026",
+      "title": "Microsoft bygger om Copilot med lägena Home, Code och agenten Autopilot",
+      "category": "Produkt",
+      "date": "2026-09-25",
+      "location": "",
+      "summary": "Microsoft presenterar en ombyggd Copilot-app med tre lägen: Home för vardagsfrågor, Code för att bygga appar via naturligt språk, och Autopilot – en agent med egen roll och mål som kan arbeta självständigt åt användaren. Autopilot når privat förhandsgranskning i slutet av september.",
+      "source": "Bismart",
+      "url": "https://blog.bismart.com/en/new-microsoft-copilot-home-code-autopilot",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
     }
   ]
 }

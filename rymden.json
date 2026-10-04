@@ -2,8 +2,8 @@
   "topic": "Rymden",
   "description": "Raketuppskjutningar, rymdsonder, astronomiska upptäckter och rymdindustri. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-27",
-  "item_count": 80,
+  "last_updated": "2026-10-04",
+  "item_count": 85,
   "items": [
     {
       "id": "ariane-6-amazon-leo-tyngsta-lasten-2026",
@@ -964,6 +964,66 @@
       "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-nasa-delay-next-astronaut-launch-to-iss-due-to-leak-on-dragon-spacecraft",
       "added_on": "2026-09-27",
       "collected_week": "2026-W39"
+    },
+    {
+      "id": "starship-flight-14-omloppsbana-lyckad-2026",
+      "title": "SpaceX Starship nådde omloppsbana för första gången i sin 14:e testflygning",
+      "category": "Uppskjutning",
+      "date": "2026-09-28",
+      "location": "",
+      "summary": "Efter 13 suborbitala testflygningar skickade SpaceX för första gången Starship i en riktig bana runt jorden. Tidigare flygningar hölls medvetet på en säker suborbital bana, men flygning 14 markerar nästa steg mot ett fullt återanvändbart system.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/09/28/science/live-news/spacex-starship-flight-14-launch",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "spacex-tre-uppskjutningar-13-timmar-2026",
+      "title": "SpaceX sköt upp tre raketer på 13 timmar, inklusive Crew-13 till ISS",
+      "category": "Uppskjutning",
+      "date": "2026-10-01",
+      "location": "",
+      "summary": "SpaceX genomförde en \"trippelheader\": Crew-13 nådde ISS på under åtta timmar och satte fart-rekord för amerikanska farkoster, en Falcon 9 sköt upp 130 nyttolaster inklusive en prototyp-AI-satellit från Google på Transporter-18, och en Falcon Heavy sköt upp ett spaningsuppdrag för amerikanska myndigheter.",
+      "source": "Space.com",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/launch-tripleheader-spacex-to-fly-3-rockets-in-13-hours-today",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "roman-teleskopet-coronagraf-forsta-ljuset-2026",
+      "title": "Nancy Grace Roman-teleskopets planetjägare tog sina första bilder",
+      "category": "Rymdteleskop",
+      "date": "2026-09-30",
+      "location": "",
+      "summary": "NASA bekräftar att Roman-teleskopets koronagrafinstrument, som ska avbilda planeter runt andra stjärnor genom att blockera ut stjärnljus, tagit sina första testobservationer i omloppsbana efter att styrsystemet godkänts.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261001214057.htm",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "esa-juice-jordens-gravitationsassist-2026",
+      "title": "ESA:s Juice-sond använde jorden som gravitationsslunga mot Jupiter",
+      "category": "Rymdsond",
+      "date": "2026-09-28",
+      "location": "",
+      "summary": "Jupitersonden Juice passerade bara 8 640 kilometer över Indiska oceanen och fick både en hastighetsökning på 3,5 km/s och en ny kurs mot Jupiter, utan att förbruka bränsle. Manövern gav även forskarna chansen att testa instrumenten mot jorden och månen.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261001214102.htm",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "radiovagor-fran-exoplaneten-beta-pictoris-b-2026",
+      "title": "Astronomer upptäcker radiosignaler från en exoplanet för första gången",
+      "category": "Upptäckt",
+      "date": "2026-10-02",
+      "location": "",
+      "summary": "Forskare har för första gången direkt detekterat radioutbrott från en planet utanför solsystemet: gasjätten Beta Pictoris b, 63 ljusår bort. Signalen tros komma från planetens kolossala magnetfält, inte från intelligent liv.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/10/02/science/radio-signal-detection-exoplanet-beta-pictoris-b",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
     }
   ]
 }

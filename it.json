@@ -2,8 +2,8 @@
   "topic": "IT – Nya produkter",
   "description": "Nya IT- och teknikprodukter: hårdvara, mjukvara, AI och gaming. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-27",
-  "item_count": 140,
+  "last_updated": "2026-10-04",
+  "item_count": 147,
   "items": [
     {
       "id": "nvidia-rtx-spark-2026",
@@ -1684,6 +1684,90 @@
       "url": "https://www.bgr.com/2261640/playstation-5-new-features-added-september-2026-update/",
       "added_on": "2026-09-27",
       "collected_week": "2026-W39"
+    },
+    {
+      "id": "windows-11-memory-integrity-standard-2026",
+      "title": "Windows 11 börjar aktivera säkerhetsfunktionen Memory Integrity automatiskt",
+      "category": "Säkerhet",
+      "date": "2026-10-01",
+      "location": "",
+      "summary": "Från den 13 oktober slår Microsoft på Memory Integrity (HVCI) som standard på fler Windows 11-datorer, vilket spärrar osäkra drivrutiner men kan sänka spelprestandan med upp till 15 procent på äldre system.",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/software/windows/microsoft-will-expand-windows-11-memory-integrity-feature-to-more-pcs-starting-in-october-security-feature-reduces-gaming-performance-on-some-systems",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "nvidia-slutar-geforce-drivrutiner-windows-10-2026",
+      "title": "Nvidia släpper sista Game Ready-drivrutinen för Windows 10 i oktober",
+      "category": "Hårdvara",
+      "date": "2026-10-02",
+      "location": "",
+      "summary": "Nvidia avslutar den vanliga drivrutinsutvecklingen för GeForce-kort på Windows 10 i oktober. Korten slutar inte fungera, men nya spelprofiler och optimeringar kräver Windows 11 från november.",
+      "source": "Guru3D",
+      "url": "https://www.guru3d.com/story/nvidia-ends-windows-10-game-ready-driver-support-in-october-2026/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "steam-hardware-survey-september-32gb-ram-2026",
+      "title": "Steams hårdvaruundersökning: 32 GB RAM går om 16 GB, RTX 5070 vanligast",
+      "category": "Hårdvara",
+      "date": "2026-10-01",
+      "location": "",
+      "summary": "Enligt Valves senaste Steam Hardware Survey har andelen speldatorer med 32 GB RAM stigit till över 42 procent och gått om 16 GB-system, samtidigt som RTX 5070 nu är det vanligaste grafikkortet bland Steam-spelare.",
+      "source": "Tech Insider",
+      "url": "https://tech-insider.org/steam-hardware-survey-32gb-ram-overtakes-16gb-2026",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "geforce-now-oktober-2026-nya-spel",
+      "title": "GeForce Now får 25 nya spel i oktober, med Witcher 3 Remastered i spetsen",
+      "category": "Gaming",
+      "date": "2026-10-01",
+      "location": "",
+      "summary": "Nvidia har bekräftat att 25 spel ansluter till molnspeltjänsten GeForce Now under oktober. The Witcher 3: Wild Hunt – Remastered och Gears of War: E-Day är de största nyheterna och körs med rayspårning via RTX 5080-klassade servrar.",
+      "source": "Tech Insider",
+      "url": "https://tech-insider.org/geforce-now-october-2026-games-witcher-3-gears-of-war/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "ps-plus-oktober-2026-spellista",
+      "title": "PS Plus-lineupen för oktober landar på tre spel, ned från fyra",
+      "category": "Gaming",
+      "date": "2026-10-01",
+      "location": "",
+      "summary": "Sony har presenterat oktobers gratisspel för PS Plus-prenumeranter. Den här månaden ingår bara tre titlar istället för det vanliga fyra, vilket väckt diskussion bland prenumeranter.",
+      "source": "Tech Insider",
+      "url": "https://tech-insider.org/ps-plus-october-2026-lineup-3-games-2026",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "samsung-oktoberuppdatering-galaxy-s26-2026",
+      "title": "Samsung rullar tidigt ut oktobers säkerhetsuppdatering till Galaxy S26 och Z Fold8",
+      "category": "Mjukvara",
+      "date": "2026-10-03",
+      "location": "",
+      "summary": "Samsung har börjat distribuera oktober månads säkerhetspatch till sina flaggskepp, däribland Galaxy S26-serien och vikbara Z Fold8 och Z Flip8, tidigare än väntat.",
+      "source": "SammyFans",
+      "url": "https://sammyfans.com/2026/10/03/samsungs-october-2026-patch-already-released-for-these-galaxy-phones",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "apple-iphone-duo-forhandsbokning-oktober-2026",
+      "title": "Apples vikbara iPhone Duo väntas öppna för förhandsbokning den 16 oktober",
+      "category": "Hårdvara",
+      "date": "2026-10-02",
+      "location": "",
+      "summary": "Enligt uppgifter kring Apples produktplaner ska det första vikbara iPhone, kallat iPhone Duo, öppna för förhandsbokning den 16 oktober med leveranser en vecka senare, som en del av ett bredare händelserikt oktober för bolaget.",
+      "source": "Macworld",
+      "url": "https://www.macworld.com/article/672537/when-is-apples-next-event.html",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
     }
   ]
 }

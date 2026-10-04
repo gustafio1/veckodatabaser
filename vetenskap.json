@@ -2,8 +2,8 @@
   "topic": "Vetenskap",
   "description": "Ny forskning inom fysik, medicin, biologi, klimat och nya upptäckter. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-27",
-  "item_count": 87,
+  "last_updated": "2026-10-04",
+  "item_count": 94,
   "items": [
     {
       "id": "kvantljud-kommunikation-2026",
@@ -1048,6 +1048,90 @@
       "url": "https://phys.org/news/2026-09-methane-beneath-greenland-ice-sheet.html",
       "added_on": "2026-09-27",
       "collected_week": "2026-W39"
+    },
+    {
+      "id": "d-vitamin-analog-bukspottkortelcancer-2026",
+      "title": "D-vitaminanalog kan knäcka bukspottkörtelcancerns skyddssköld",
+      "category": "Forskning",
+      "date": "2026-10-03",
+      "location": "",
+      "summary": "En klinisk studie från Dana-Farber visar att paricalcitol, en redan godkänd D-vitaminanalog, kan kombineras säkert med cellgifter och göra tumörens skyddande miljö mer sårbar. Patienter med hög nivå av D-vitaminreceptorn som fick tillägget levde längst.",
+      "source": "Dana-Farber Cancer Institute",
+      "url": "https://www.dana-farber.org/newsroom/news-releases/2026/from-discovery-to-patient-care-vitamin-d-analog-shuts-down-pancreatic-cancers-shield-in-clinical-trial",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "lattdrycker-vatten-viktnedgang-switch-studien-2026",
+      "title": "Stor studie: lightläsk fungerar lika bra som vatten för viktnedgång",
+      "category": "Forskning",
+      "date": "2026-10-02",
+      "location": "",
+      "summary": "I den tvååriga SWITCH-studien med 493 överviktiga vuxna gav lightläsk med sötningsmedel samma viktnedgång och metabola förbättringar som vatten, vilket ger starkare bevis för att sötningsmedel kan vara ett säkert verktyg i viktprogram.",
+      "source": "ScienceDaily",
+      "url": "http://www.sciencedaily.com/releases/2026/10/261002080017.htm",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "superledare-elektronpar-brytpunkt-2026",
+      "title": "Ultrakorta strömpulser avslöjar superledares dolda brytpunkt",
+      "category": "Forskning",
+      "date": "2026-09-30",
+      "location": "",
+      "summary": "Genom att skicka strömpulser på bara några pikosekunder genom superledare lyckades forskare vid Max Planck-institutet nå långt bortom den vanliga kritiska strömstyrkan och se exakt var elektronparen börjar brytas upp, med tydliga skillnader mellan materialen NbN och YBCO.",
+      "source": "ScienceDaily",
+      "url": "http://www.sciencedaily.com/releases/2026/09/260930225452.htm",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "tarmbakterier-hjarnans-aldrande-ucla-2026",
+      "title": "Tarmbakterier kopplas till hur snabbt hjärnan åldras",
+      "category": "Forskning",
+      "date": "2026-10-01",
+      "location": "",
+      "summary": "En UCLA-studie av nästan 1 500 vuxna visar att vissa tarmbakterier och deras ämnesomsättningsprodukter hänger ihop med snabbare hjärnåldrande, som i sin tur kopplas till sämre arbetsminne, koncentration och mer nedstämdhet.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261001214106.htm",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "vitamin-b3-glioblastom-studie-2026",
+      "title": "Vanligt vitamin visar tidiga lovande resultat mot hjärntumören glioblastom",
+      "category": "Forskning",
+      "date": "2026-10-01",
+      "location": "",
+      "summary": "I en liten fas I/II-studie vid University of Calgary var 82 procent av patienterna fria från cancerprogression efter sex månader när högdos vitamin B3 (niacin) lades till standardbehandling, möjligen genom att väcka immunceller som tumören trycker ner.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261001095423.htm",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "plant-armor-jordgubbsskord-tredubblas-2026",
+      "title": "Ny skyddsväv tredubblar skörden av jordgubbar utan pesticider",
+      "category": "Forskning",
+      "date": "2026-09-30",
+      "location": "",
+      "summary": "Forskare vid North Carolina State University har utvecklat \"Plant Armor\", en tredimensionell, porös textil som stänger ute skadeinsekter men släpper in sol, regn och luft. I fälttester ökade den jordgubbsskörden med upp till 3,56 gånger.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260930020257.htm",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "nya-pinnskrake-arter-australien-2026",
+      "title": "Två nya arter av jättepinnskräckor upptäckta i Australien",
+      "category": "Upptäckt",
+      "date": "2026-09-30",
+      "location": "",
+      "summary": "Forskare vid University of Sydney har genom DNA-analys, museisamlingar och medborgarforskning visat att vad man trott var två arter av pinnskräckor i släktet Anchiale i själva verket är fem, inklusive en art med unika \"locklagda\" ägg som aldrig setts hos gruppen tidigare.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/09/260930020315.htm",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
     }
   ]
 }

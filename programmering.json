@@ -2,8 +2,8 @@
   "topic": "Programmering",
   "description": "Nyheter för utvecklare: språk, ramverk, verktyg, AI-kodning och öppen källkod. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-27",
-  "item_count": 80,
+  "last_updated": "2026-10-04",
+  "item_count": 85,
   "items": [
     {
       "id": "typescript-7-nativ-kompilator-2026",
@@ -964,6 +964,66 @@
       "url": "https://pytorch.org/blog/pytorch-2-14-release-blog/",
       "added_on": "2026-09-27",
       "collected_week": "2026-W39"
+    },
+    {
+      "id": "cloudflare-forge-oppen-kallkod-sdk-2026",
+      "title": "Cloudflare öppen-källkodar SDK-verktyget Forge efter att Anthropic stängt Stainless",
+      "category": "Öppen källkod",
+      "date": "2026-09-28",
+      "location": "",
+      "summary": "Sedan Anthropic köpt och lagt ner SDK-generatorn Stainless har Cloudflare släppt sitt eget verktyg Forge som öppen källkod under Apache 2.0. Forge genererar SDK:er i nio språk, en CLI, API-dokumentation och MCP-servrar direkt från ett API-spec.",
+      "source": "The New Stack",
+      "url": "https://thenewstack.io/cloudflare-forge-anthropic-stainless/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "astro-cloudflare-triagebot-oppen-kallkod-2026",
+      "title": "Cloudflare öppen-källkodar AI-boten som nollade Astros ärendekö",
+      "category": "Öppen källkod",
+      "date": "2026-09-28",
+      "location": "",
+      "summary": "Astro-projektets öppna GitHub-ärenden har gått från över 200 till runt 20 för första gången på fem år, tack vare en fyrstegs AI-pipeline som reproducerar, diagnostiserar, verifierar och försöker fixa buggar automatiskt. Cloudflare släpper nu verktyget, triagebot-action, öppet för andra underhållare.",
+      "source": "The New Stack",
+      "url": "https://thenewstack.io/cloudflare-astro-triage-bot/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "vscode-1-140-agent-worktrees-2026",
+      "title": "VS Code 1.140 breddar agentarbetsflöden och delade worktrees",
+      "category": "Verktyg",
+      "date": "2026-09-30",
+      "location": "",
+      "summary": "Den nya VS Code-versionen lägger till en gemensam \"Copilot harness\" för konsekvent agentbeteende, experimentellt stöd för att arbeta i flera mappar i samma agentsession, delegering av uppgifter till fjärranslutna agentvärdar och delade worktree-mappar som slipper upprepade beroendeinstallationer.",
+      "source": "Visual Studio Code",
+      "url": "https://code.visualstudio.com/updates/v1_140",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "jdk-27-postkvant-tls-g1-2026",
+      "title": "JDK 27 släpps med post-kvant-TLS som standard och mindre minnesanvändning",
+      "category": "Språk",
+      "date": "2026-09-15",
+      "location": "",
+      "summary": "Java 27 slår på hybrid post-kvant-nyckelutbyte för TLS 1.3 som standard, gör G1 till standard skräpsamlare i alla miljöer och minskar heap-användningen med 10–20 procent genom kompakta objekthuvuden. Strukturerad concurrency och mönstermatchning för primitiver fortsätter som förhandsvisningar.",
+      "source": "The Register",
+      "url": "https://www.theregister.com/devops/2026/09/16/java-27-grows-up-makes-better-choices/5296707",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "mojo-1-1-oppen-kompilator-bidrag-2026",
+      "title": "Mojo 1.1 öppnar för externa bidrag till kompilatorn",
+      "category": "Språk",
+      "date": "2026-09-17",
+      "location": "",
+      "summary": "Modular släpper Mojo 1.1 med stöd för härledda medlemsreferenser, snabbare kompileringstider och fler stabila standardbiblioteks-API:er som String, SIMD och List. Viktigast är att projektet nu börjar ta emot bidrag från communityn till själva kompilatorn.",
+      "source": "Phoronix",
+      "url": "https://www.phoronix.com/news/Mojo-1.1-Released",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
     }
   ]
 }

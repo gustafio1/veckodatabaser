@@ -2,8 +2,8 @@
   "topic": "Produktivitet",
   "description": "Produktivitetsmetoder, verktyg, forskning om fokus, arbetsliv och AI. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-20",
-  "item_count": 61,
+  "last_updated": "2026-10-04",
+  "item_count": 69,
   "items": [
     {
       "id": "fyradagarsvecka-bevisen-vaxer-2026",
@@ -736,6 +736,102 @@
       "url": "https://marketing.issworld.com/sv-se/trendrapport_kontorslivet_2026",
       "added_on": "2026-09-20",
       "collected_week": "2026-W38"
+    },
+    {
+      "id": "openai-dots-alltid-pakopplade-agenter-2026",
+      "title": "OpenAI lanserar Dots – alltid påkopplade AI-agenter med egna molndatorer",
+      "category": "AI",
+      "date": "2026-09-29",
+      "location": "",
+      "summary": "OpenAI presenterade på sin utvecklarkonferens DevDay agenterna Dots, som bygger på GPT-6 Astra och kan arbeta självständigt dygnet runt mot över 4 000 appar via en egen molndator och webbläsare. Lanseringen ses som ett svar på Metas assistent Muse och riktar sig först mot Pro- och företagsanvändare av ChatGPT.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "chatgpt-kontorspaket-space-pages-slides-2026",
+      "title": "ChatGPT får eget kontorspaket med delade arbetsytor, dokument och presentationer",
+      "category": "Verktyg",
+      "date": "2026-09-29",
+      "location": "",
+      "summary": "OpenAI har lanserat funktionerna Space, Pages och gemensamma presentationer i ChatGPT, så att medarbetare och AI-agenter kan skriva, researcha och bygga presentationer tillsammans i samma gränssnitt. Satsningen ställer ChatGPT i direkt konkurrens med Microsofts kontorssvit, som OpenAI tidigare byggt stora delar av sin verksamhet kring.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "microsoft-copilot-home-code-autopilot-2026",
+      "title": "Microsoft gör om Copilot med nya funktionerna Home, Code och Autopilot",
+      "category": "Verktyg",
+      "date": "2026-09-25",
+      "location": "",
+      "summary": "Microsoft presenterar en omarbetad Copilot-upplevelse med en samlande startsida (Home), ett verktyg för att bygga appar och dashboards genom naturligt språk (Code) och en agent som kan driva löpande arbete utan upprepade instruktioner (Autopilot, tidigare Scout). Funktionerna rullas gradvis ut via Microsofts Frontier-program under hösten 2026.",
+      "source": "Microsoft (officiell blogg)",
+      "url": "https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "gartner-fyra-skiften-framtidens-arbete-2026",
+      "title": "Gartner pekar ut fyra skiften som formar framtidens arbetsliv",
+      "category": "Rapport",
+      "date": "2026-09-09",
+      "location": "",
+      "summary": "Gartners analys varnar för att företag som skär ned personal på grund av AI riskerar att behöva återanställa en stor andel av dem till högre kostnad redan 2029. Rapporten uppmanar ledningar att satsa på att AI förstärker medarbetarnas kompetens i stället för att enbart jaga kostnadsbesparingar.",
+      "source": "Gartner",
+      "url": "https://www.gartner.com/en/newsroom/press-releases/2026-09-09-gartner-identifies-four-shifts-shaping-the-future-of-work",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "sanders-takano-32-timmars-arbetsvecka-forslag-2026",
+      "title": "Sanders och Takano lägger fram nytt lagförslag om 32-timmars arbetsvecka i USA",
+      "category": "Arbetsliv",
+      "date": "2026-09-23",
+      "location": "",
+      "summary": "Kongressledamoten Mark Takano och senator Bernie Sanders har på nytt lagt fram the Thirty-Two Hour Workweek Act, som gradvis skulle sänka gränsen för övertidsersättning från 40 till 32 timmar per vecka under fyra år utan att sänka lön eller förmåner. Förslaget har väckts flera gånger tidigare och måste fortfarande klara både representanthuset och senaten för att bli lag.",
+      "source": "WTTW News",
+      "url": "https://news.wttw.com/2026/09/23/new-bill-would-create-32-hour-workweek-us-here-s-what-know",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "forbes-fyradagarsvecka-distansjobb-2026",
+      "title": "Fler distansarbetsgivare lockar nu med fyradagarsvecka för att rekrytera",
+      "category": "Arbetsliv",
+      "date": "2026-09-25",
+      "location": "",
+      "summary": "Forbes listar elva distansvänliga företag som 2026 använder fyradagarsvecka som ett sätt att sticka ut i konkurrensen om personal, ett tecken på att modellen fortsätter sprida sig fyra år efter Storbritanniens stora pilotförsök. Artikeln knyter samman trenden med tidigare resultat om bibehållen produktivitet och lägre personalomsättning.",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/rachelwells/2026/09/25/11-remote-companies-hiring-four-day-workweeks-in-2026/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "rice-nsf-fokus-digitala-distraktioner-2026",
+      "title": "Rice-forskare får stort NSF-bidrag för att kartlägga hur digitala distraktioner stör fokus",
+      "category": "Forskning",
+      "date": "2026-01-09",
+      "location": "",
+      "summary": "Psykologen Kirsten Adam vid Rice University har tilldelats ett femårigt CAREER-bidrag på 600 000 dollar från amerikanska NSF för att med hjälp av EEG undersöka exakt hur notiser, blinkande larm och rörig skärmmiljö drar bort uppmärksamheten och varför vissa distraktioner stör fokus mer än andra. Forskningen ska även användas för att träna doktorander i avancerade neurovetenskapliga metoder.",
+      "source": "InnovationMap (Houston)",
+      "url": "https://houston.innovationmap.com/rice-nsf-grant-focus-distraction-2674862009.html",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "lns-research-industriell-produktivitetsindex-2026",
+      "title": "Industrins mest produktiva företag drar ännu mer ifrån resten av fältet",
+      "category": "Analys",
+      "date": "2026-06-17",
+      "location": "",
+      "summary": "LNS Research årliga industriella produktivitetsindex visar att de 100 mest produktiva börsnoterade industribolagen ökat sin produktivitet med omkring 25 procent sedan 2019, jämfört med bara 3 procent för övriga 512 bolag i jämförelsen. Rapporten pekar på att klyftan mellan toppskiktet och resten blivit alltmer självförstärkande efter flera år av osäkerhet kring tullar och leveranskedjor.",
+      "source": "LNS Research / Business Wire",
+      "url": "https://www.businesswire.com/news/home/20260617396045/en/LNS-Research-Announces-2026-Industrial-Productivity-Index-Worlds-Most-Productive-Companies",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
     }
   ]
 }

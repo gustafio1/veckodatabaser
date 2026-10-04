@@ -2,8 +2,8 @@
   "topic": "Personlig utveckling",
   "description": "Tekniker, vanor och tankesätt för personlig utveckling och produktivitet. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-20",
-  "item_count": 107,
+  "last_updated": "2026-10-04",
+  "item_count": 114,
   "items": [
     {
       "id": "pomodoro-tekniken",
@@ -1288,6 +1288,90 @@
       "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1603700/full",
       "added_on": "2026-09-20",
       "collected_week": "2026-W38"
+    },
+    {
+      "id": "sex-faktorer-vanestyrka",
+      "title": "Sex faktorer avgör hur starkt en ny vana sitter",
+      "category": "Forskning",
+      "date": "2026-04-01",
+      "location": "",
+      "summary": "En stor omanalys av en sex månader lång studie med 254 deltagare visar att självstyrd motivation, hur ofta beteendet utförs, en stabil kontext, känslor av energi och tillfredsställelse samt låg upplevd svårighet tillsammans avgör hur automatisk en vana blir. Resultatet ger konkret vägledning för vilka faktorer man bör optimera när man själv vill bygga en ny vana.",
+      "source": "Personality and Social Psychology Bulletin",
+      "url": "https://doi.org/10.1177/01461672261440446",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "snackvanor-degraderas-snabbare-rct",
+      "title": "Konkreta strategier får osunda snackvanor att försvagas snabbare, visar kontrollerad studie",
+      "category": "Forskning",
+      "date": "2026-03-03",
+      "location": "",
+      "summary": "I en kontrollerad långtidsstudie fick deltagare testa konkreta strategier som att byta ut, hämma eller försvåra tillgången till sitt snacksug, och dessa grupper visade en snabbare tidig minskning av vanans styrka än en kontrollgrupp. Studien pekar på att uteblivet utförande av vanan och minskad belöning driver fram vanedegradering, medan möten med gamla triggers kan motverka framstegen.",
+      "source": "Communications Psychology (Nature Portfolio)",
+      "url": "https://www.nature.com/articles/s44271-026-00432-9",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "personlighet-genetiska-varianter-storstudie",
+      "title": "Enorm genstudie kopplar 1 260 genvarianter till personligheten",
+      "category": "Forskning",
+      "date": "2026-09-02",
+      "location": "",
+      "summary": "Forskare som analyserade data från över en miljon människor i 46 kohorter identifierade 1 260 genetiska varianter kopplade till de fem stora personlighetsdragen, varav över 800 tidigare okända. Fyndet bekräftar att personligheten, som ofta ligger till grund för hur vi arbetar med vår egen utveckling, formas av tusentals små genetiska bidrag snarare än några få avgörande gener.",
+      "source": "Nature (News)",
+      "url": "https://www.nature.com/articles/d41586-026-02761-5",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "mindset-i-vagen-psychology-today",
+      "title": "Ditt tankesätt kan stå i vägen för dig utan att du märker det",
+      "category": "Tankesätt",
+      "date": "2026-10-02",
+      "location": "",
+      "summary": "En psykologiartikel beskriver hur omedvetna grundantaganden om till exempel stress, åldrande eller egen förmåga styr våra val mer än vi tror, och att samma situation kan upplevas och hanteras helt olika beroende på vilket tankesätt man bär på. Genom att medvetet ifrågasätta och omformulera dessa antaganden går det att aktivt förändra hur man presterar och mår.",
+      "source": "Psychology Today",
+      "url": "https://www.psychologytoday.com/us/blog/brainstorm/202610/does-your-mindset-get-in-your-way",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "stabil-sjalvdisciplin-hallbara-vanor",
+      "title": "Stabil självdisciplin - inte tillfällig viljestyrka - ligger bakom hållbara vanor",
+      "category": "Studie",
+      "date": "2026-05-12",
+      "location": "",
+      "summary": "En longitudinell studie visar att människor med en genomgående hög grad av självkontroll lever mer miljövänligt över tid, medan tillfälliga toppar i viljestyrka inte ger några varaktiga beteendeförändringar. Forskarna rekommenderar att i stället fokusera på att sänka friktionen för det önskade beteendet, så att det goda valet blir det enkla valet.",
+      "source": "PsyPost / Journal of Environmental Psychology",
+      "url": "https://www.psypost.org/new-study-finds-sustainable-living-relies-on-stable-personality-traits-not-temporary-bursts-of-willpower/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "digital-detox-biomarkorer-medicinstudenter",
+      "title": "Två veckors digital detox sänkte stresshormoner hos medicinstudenter",
+      "category": "Studie",
+      "date": "2025-12-29",
+      "location": "",
+      "summary": "I en randomiserad studie med medicinstudenter sänkte en strukturerad tvåveckors digital detox, kombinerad med alternativa aktiviteter, både stresshormonet kortisol och inflammationsmarkörer samtidigt som hjärtfrekvensvariabiliteten förbättrades. Gruppen som bara minskade skärmtiden utan ersättande aktiviteter fick måttligare resultat, vilket tyder på att det är kombinationen av mindre skärmtid och fler meningsfulla aktiviteter som gör skillnaden.",
+      "source": "BMC Medical Education",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41462197/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "karriarplan-minskar-sanglaggningsprokrastinering",
+      "title": "Tydlig karriärplan hänger ihop med mindre sen sänggåendetid hos studenter",
+      "category": "Studie",
+      "date": "2026-09-13",
+      "location": "",
+      "summary": "En studie bland högskolestudenter visar att de som har en tydlig bild av sin framtida karriär oftare har klara studiemål, vilket i sin tur hänger samman med mindre sen sänggåendetid och lägre sänggåendeångest. Resultatet tyder på att brist på långsiktig riktning, inte bara dålig impulskontroll på kvällen, kan vara en bakomliggande orsak till sänggåendeprokrastinering.",
+      "source": "Frontiers in Public Health",
+      "url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1842996/full",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
     }
   ]
 }

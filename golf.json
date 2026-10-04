@@ -2,8 +2,8 @@
   "topic": "Golf",
   "description": "Majors och tourtävlingar, svenska golfare, tävlingar och utrustning. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-27",
-  "item_count": 64,
+  "last_updated": "2026-10-04",
+  "item_count": 70,
   "items": [
     {
       "id": "ryan-fox-vinner-the-open-royal-birkdale-2026",
@@ -760,6 +760,78 @@
       "url": "https://mygolfspy.com/buyers-guide/best-putters-of-2026-test-data-from-75-putters/",
       "added_on": "2026-09-27",
       "collected_week": "2026-W39"
+    },
+    {
+      "id": "lagergren-alfred-dunhill-links-2026",
+      "title": "Lagergren klättrade i Alfred Dunhill Links Championship",
+      "category": "Tävling",
+      "date": "2026-10-02",
+      "location": "Skottland",
+      "summary": "Joakim Lagergren spelade sig uppåt på leaderboarden i Alfred Dunhill Links Championship, veckans stora svenska golfnyhet.",
+      "source": "Svensk Golf",
+      "url": "https://www.tvmatchen.nu/sport/golf/golf-idag-3-oktober-2026/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "lindberg-townsend-dunhill-links-oppning-2026",
+      "title": "Lindberg och Townsend öppnade starkt på Dunhill Links",
+      "category": "Tävling",
+      "date": "2026-10-01",
+      "location": "Skottland",
+      "summary": "Mikael Lindberg och Hugo Townsend inledde Alfred Dunhill Links Championship med varsin runda på 67 slag och låg delad femma på fem under par.",
+      "source": "Svensk Golf",
+      "url": "https://www.tvmatchen.nu/sport/golf/golf-idag-2-oktober-2026/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "stark-topp-tio-lotte-championship-hawaii-2026",
+      "title": "Maja Stark i toppstrid på Hawaii i LOTTE Championship",
+      "category": "Tävling",
+      "date": "2026-10-03",
+      "location": "Hawaii, USA",
+      "summary": "Maja Stark låg kvar i toppstriden på delad niondeplats med åtta under par i LOTTE Championship på Hawaii.",
+      "source": "Svensk Golf",
+      "url": "https://svenskgolf.se/tournytt/stark-i-slaglage-pa-hawaii-karlsson-leder-i-pennsylvania",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "karlsson-delad-ledning-pga-tour-champions-2026",
+      "title": "Robert Karlsson delade ledningen på PGA Tour Champions",
+      "category": "Tävling",
+      "date": "2026-10-03",
+      "location": "Pennsylvania, USA",
+      "summary": "Robert Karlsson tog en delad ledarplats på PGA Tour Champions i Pennsylvania och siktar på ännu en titel på seniortouren.",
+      "source": "Svensk Golf",
+      "url": "https://svenskgolf.se/tournytt/stark-i-slaglage-pa-hawaii-karlsson-leder-i-pennsylvania",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "destination-gotland-open-sasongsfinal-2026",
+      "title": "Destination Gotland Open avslutar säsongen på Visby GK",
+      "category": "Tävling",
+      "date": "2026-10-04",
+      "location": "Visby",
+      "summary": "Swedish Golf Tour avslutas med Destination Gotland Open på Visby GK 5–7 oktober, tourfinalen som avgör säsongens sista placeringar.",
+      "source": "OWGR",
+      "url": "https://www.owgr.com/events/destination-gotland-open-10620",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "soderberg-klattrar-skottland-2026",
+      "title": "Söderberg klättrade i Skottland med viktiga poäng på spel",
+      "category": "Tävling",
+      "date": "2026-10-02",
+      "location": "Skottland",
+      "summary": "Söderberg klättrade på resultatlistan i Skottland i en tävling där viktiga rankingpoäng stod på spel inför säsongsavslutningen.",
+      "source": "Svensk Golf",
+      "url": "https://svenskgolf.se/tournytt/soderberg-klattrar-i-skottland-viktiga-poang-star-pa-spel",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "topic": "Löpning",
   "description": "Lopp och maraton, svensk löparelit, träningsforskning och utrustning. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-27",
-  "item_count": 67,
+  "last_updated": "2026-10-04",
+  "item_count": 73,
   "items": [
     {
       "id": "stockholm-marathon-kiptoo-vinner-2026",
@@ -790,6 +790,78 @@
       "url": "https://global.techradar.com/sv-se/best/test-basta-garmin-klocka",
       "added_on": "2026-09-27",
       "collected_week": "2026-W39"
+    },
+    {
+      "id": "malmo-marathon-wiberg-nilsson-luc-vinner-2026",
+      "title": "Wiberg och Nilsson Luc vann Malmö Marathon",
+      "category": "Tävling",
+      "date": "2026-10-03",
+      "location": "Malmö",
+      "summary": "Niklas Wiberg från Hälle IF vann herrklassen på Malmö Marathon med tiden 2:26:19, medan Julia Nilsson Luc från OK Pallas tog damsegern på 2:48:29.",
+      "source": "hurbra.se",
+      "url": "https://hurbra.se/malmo-marathon-2026-resultat/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "almgren-marathondebut-new-york-2026",
+      "title": "Almgren gör maratondebut i New York",
+      "category": "Nyhet",
+      "date": "2026-10-01",
+      "location": "New York, USA",
+      "summary": "Efter sitt VM-guld på halvmaraton i Köpenhamn meddelar Andreas Almgren att han gör sin efterlängtade maratondebut i New York Marathon den 1 november.",
+      "source": "LetsRun.com",
+      "url": "https://www.letsrun.com/news/2026/09/wtw-andreas-almgren-makes-history-at-world-half-us-women-stun-for-team-silver-jakob-shocked-by-seare-in-5k-athlos-travels-to-london/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "goteborg-marathon-forberedelser-2026",
+      "title": "Göteborg Marathon går av stapeln 10 oktober",
+      "category": "Tävling",
+      "date": "2026-10-04",
+      "location": "Göteborg",
+      "summary": "Höstens löparsäsong fortsätter med Göteborg Marathon den 10 oktober, en av de stora publikfesterna på svensk maratonkalender.",
+      "source": "Marathon.se",
+      "url": "https://www.marathon.se/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "uppsala-vaxjo-marathon-samma-helg-2026",
+      "title": "Uppsala Marathon och Växjö Marathon arrangeras samma helg",
+      "category": "Tävling",
+      "date": "2026-10-04",
+      "location": "Uppsala och Växjö",
+      "summary": "Den 17 oktober går både Uppsala Marathon och Växjö Marathon av stapeln, vilket ger löpare runt om i landet flera alternativ samma helg.",
+      "source": "ahotu.com",
+      "url": "https://www.ahotu.com/calendar/running/marathon/october/sweden",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "hostjoggen-marathonsallskapet-2026",
+      "title": "Höstjoggen bjuder in till milen och maraton i oktober",
+      "category": "Tävling",
+      "date": "2026-10-04",
+      "location": "Sverige",
+      "summary": "Svenska Marathonsällskapets årliga Höstjoggen arrangeras 24–25 oktober, där deltagare kan springa allt från en engelsk mil upp till ett helt maraton.",
+      "source": "Marathonsällskapet",
+      "url": "https://marathonsallskapet.se/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "loparskor-vinter-test-icebug-asics-2026",
+      "title": "Vinterns löparskor i test: Icebug och Asics tar täten",
+      "category": "Utrustning",
+      "date": "2026-10-02",
+      "location": "",
+      "summary": "Årets test av vinterlöparskor lyfter fram Icebug Arcus BUGrip GTX för sitt marknadsledande grepp, medan Asics Gel-FujiSetsu 3 GTX imponerar på snö och is.",
+      "source": "Outdoor.se",
+      "url": "https://www.outdoor.se/loparskor-vinter",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
     }
   ]
 }

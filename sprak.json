@@ -2,8 +2,8 @@
   "topic": "Språk",
   "description": "Forskning om språkinlärning, svenskan, språkteknik och flerspråkighet. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-06",
-  "item_count": 56,
+  "last_updated": "2026-10-04",
+  "item_count": 64,
   "items": [
     {
       "id": "onskvarda-svarigheter-glosinlarning-2026",
@@ -676,6 +676,102 @@
       "url": "https://onlinelibrary.wiley.com/doi/10.1111/desc.70063",
       "added_on": "2026-09-06",
       "collected_week": "2026-W36"
+    },
+    {
+      "id": "ukrainska-ortnamn-ny-stavning-svenska-2026",
+      "title": "Nya stavningsregler för ukrainska ortnamn på svenska",
+      "category": "Nyhet",
+      "date": "2026-09-22",
+      "location": "",
+      "summary": "Institutet för språk och folkminnen och svenska myndigheter övergår till stavningarna Kyjiv, Odesa, Donbas och Tjornobyl i stället för de ryskpräglade formerna Kiev, Odessa, Donbass och Tjernobyl. Syftet är att ukrainska ortnamn ska translittereras enligt svenska regler direkt från ukrainskan i stället för via ryskan.",
+      "source": "SVT Kultur",
+      "url": "https://www.svt.se/kultur/kiev-blir-kyjiv-svt-andrar-ukrainska-namnformerna",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "sprakkrav-aldreomsorgen-motala-2026",
+      "title": "Kommuner larmar om svårt att klara nytt språkkrav i äldreomsorgen",
+      "category": "Nyhet",
+      "date": "2026-10-04",
+      "location": "",
+      "summary": "Sedan den nya lagen om språkkrav i äldreomsorgen trädde i kraft i juli 2026 ska personal ha svenska kunskaper motsvarande gymnasienivå. I Motala uppger kommunen att flera hundra anställda behöver kompetensutveckling för att nå den nivån, vilket sätter fingret på hur stor utmaningen är för sektorn.",
+      "source": "Corren",
+      "url": "https://www.corren.se/nyheter/motala/artikel/ny-lag-om-sprakkrav-i-aldreomsorgen-fran-juli/r1w9m6xl",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "pde-ramverk-ai-sprakundervisning-2026",
+      "title": "Nytt ramverk ska hjälpa lärare fatta beslut om AI i språkundervisningen",
+      "category": "Forskning",
+      "date": "2026-09-04",
+      "location": "",
+      "summary": "Forskarna Zhongfeng Tian och Xinyue Lu presenterar ramverket Position-Design-Enact (PDE), som ska stötta språklärares pedagogiska och etiska avvägningar när generativ AI integreras i klassrummet. Fokus ligger på lärarens omdöme snarare än på vad AI-verktygen i sig kan producera.",
+      "source": "Language Magazine",
+      "url": "https://languagemagazine.com/2026/09/04/when-ai-meets-language-class/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "sprakbanken-nationell-webbplats-2026",
+      "title": "Språkbanken samlar sina resurser på ny nationell webbplats",
+      "category": "Språkteknik",
+      "date": "2026-09-04",
+      "location": "",
+      "summary": "En ny webbplats, sprakbanken.se, gör det lättare för forskare i Sverige och internationellt att hitta och använda Språkbankens språkliga data och verktyg. Lanseringen sker i samband med att Språkbanken byggs ut till en nationell forskningsinfrastruktur för språkteknologi med stöd på 210 miljoner kronor över sju år.",
+      "source": "Institutet för språk och folkminnen (Isof)",
+      "url": "https://www.isof.se/aktuellt/nyheter/nyheter-isof/2026-09-04-ny-webbplats-samlar-sprakbankens-resurser-for-forskare",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "tvarvetenskaplig-oversikt-tvasprakighetsforskning-2026",
+      "title": "Forskare efterlyser tätare samarbete mellan fält i tvåspråkighetsforskningen",
+      "category": "Forskning",
+      "date": "2026-09-08",
+      "location": "",
+      "summary": "I en översiktsartikel argumenterar Jason Rothman och kollegor för att lingvistik, kognitiv neurovetenskap och psykologi ofta arbetar isolerat trots att de studerar samma fenomen hos tvåspråkiga. De menar att djupare korsbefruktning mellan fälten behövs för att besvara centrala frågor om hur tvåspråkighet formar hjärna och språk.",
+      "source": "Linguistic Approaches to Bilingualism",
+      "url": "https://doi.org/10.1075/lab.26033.rot",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "dyslexi-forskningsoversikt-prinsparets-stiftelse-2026",
+      "title": "Ny forskningsöversikt om dyslexi pekar på brister i svensk läsundervisning",
+      "category": "Forskning",
+      "date": "2026-09-17",
+      "location": "",
+      "summary": "Prinsparets Stiftelse och forskargruppen KIND vid Karolinska Institutet, under ledning av professor Sven Bölte, lanserade en forskningsöversikt som visar att 5-10 procent av befolkningen beräknas ha dyslexi. Rapporten pekar på att evidensbaserad läs- och skrivundervisning, särskilt strukturerad ljudning tidigt i skolgången, ofta saknas i svenska skolor.",
+      "source": "Prinsparets Stiftelse",
+      "url": "https://www.prinsparetsstiftelse.se/ny-forskningsoversikt-visar-att-onodigt-manga-barn-far-las-och-skrivsvarigheter/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "minoritetsveckan-2026-nationella-minoritetssprak",
+      "title": "Minoritetsveckan 2026 satte nationella minoritetsspråk i fokus",
+      "category": "Nyhet",
+      "date": "2026-09-28",
+      "location": "",
+      "summary": "Under Minoritetsveckan, som pågick 28 september till 4 oktober i Gävleborg, uppmärksammades Sveriges fem nationella minoriteter och deras språk genom aktiviteter och programpunkter. Satsningen syftar till att öka kunskapen om judiska, romska, samiska, sverigefinska och tornedalska språk och kulturer.",
+      "source": "Region Gävleborg",
+      "url": "https://www.regiongavleborg.se/nyheter/minoritetsveckan-2026--var-med-och-bidra-till-programmet/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "sanningskommissionen-samiska-spraket-utbildning-2026",
+      "title": "Sanningskommissionen föreslår kraftig satsning på samisk språkundervisning",
+      "category": "Nyhet",
+      "date": "2026-09-30",
+      "location": "",
+      "summary": "Sanningskommissionen för det samiska folket föreslår långsiktiga resurser för undervisning i och på samiska från förskola till vuxenutbildning, bland annat fler utbildade lärare och bättre läromedel. Bakgrunden är att antalet elever som läser samiska som modersmål har minskat från över 800 till omkring 500 under en femårsperiod.",
+      "source": "Sejfer",
+      "url": "https://www.sejfer.se/nyheter/nyheter/2026/09/30/sanningskommissionen-kraver-statlig-ursakt-till-samerna/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
     }
   ]
 }

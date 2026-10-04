@@ -2,8 +2,8 @@
   "topic": "Ekonomi & börs",
   "description": "Forskning om börs, makroekonomi, räntor och hushållens ekonomi. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-06",
-  "item_count": 60,
+  "last_updated": "2026-10-04",
+  "item_count": 67,
   "items": [
     {
       "id": "skuldkvot-mot-aktievardering-debt-equity-spread-2026",
@@ -724,6 +724,90 @@
       "url": "https://www.borskollen.se/nyheter/27/ny-analys-avslojar-fyra-av-fem-svenska-aktier-har-backat-de-senaste-fem-aren-trots-borsrekord",
       "added_on": "2026-09-06",
       "collected_week": "2026-W36"
+    },
+    {
+      "id": "fed-rantehojning-september-2026",
+      "title": "Fed höjde räntan för första gången sedan 2023",
+      "category": "Räntor",
+      "date": "2026-09-16",
+      "location": "",
+      "summary": "Federal Reserve höjde styrräntan med 25 punkter till intervallet 3,75-4,00 procent efter envist hög kärninflation och geopolitisk oro, den första höjningen sedan 2023. Centralbanken signalerade samtidigt att ytterligare en höjning kan komma innan året är slut, vilket pekar mot 4,1 procent vid årsskiftet.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "riksbanken-protokoll-september-2026-hokaktig",
+      "title": "Riksbankens protokoll: hela direktionen mer hökaktig inför höstens räntebeslut",
+      "category": "Räntor",
+      "date": "2026-09-30",
+      "location": "",
+      "summary": "Riksbanken lämnade styrräntan oförändrad på 1,75 procent vid mötet 23 september, men protokollet som offentliggjordes en vecka senare visar att samtliga direktionsledamöter blivit mer hökaktiga. Frågan har gått från om till när räntan höjs, och de mest hökaktiga ledamöterna förordar redan en höjning i november.",
+      "source": "FXStreet",
+      "url": "https://www.fxstreet.com/analysis/september-2026-riksbank-minutes-all-governors-moved-in-a-more-hawkish-direction-202609300845",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "konjunkturinstitutet-barometer-september-2026-hushall",
+      "title": "Konjunkturbarometern: hushållens optimism på högsta nivån sedan 2021",
+      "category": "Makroekonomi",
+      "date": "2026-09-29",
+      "location": "",
+      "summary": "Konjunkturinstitutets barometerindikator steg till 107,1 i september och hushållens stämningsläge nådde sin högsta nivå sedan december 2021, med tydligt förbättrad syn på både den egna och Sveriges ekonomi. Samtidigt fortsätter företagens prissättningsplaner att peka på ett fortsatt inflationstryck framöver.",
+      "source": "Konjunkturinstitutet",
+      "url": "https://www.konj.se/publikationer/konjunkturbarometern/2026-09-29-kraftigt-forbattrat-stamningslage-hos-hushallen",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "scb-kpif-inflation-september-2026-nedgang",
+      "title": "Inflationen föll något i september enligt preliminära siffror",
+      "category": "Makroekonomi",
+      "date": "2026-10-01",
+      "location": "",
+      "summary": "KPIF-inflationen föll preliminärt till 3,1 procent i september från 3,2 procent i augusti, och den energijusterade underliggande inflationen sjönk till 2,7 procent. Nedgången ger Riksbanken ett visst andrum inför höstens räntebeslut, trots en i övrigt mer hökaktig ton i direktionen.",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/ekonomi/sa-blev-inflationen-i-september",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "usa-jobbrapport-september-2026-svag-okning",
+      "title": "Svag amerikansk jobbrapport förstärker oron för avmattning",
+      "category": "Makroekonomi",
+      "date": "2026-10-02",
+      "location": "",
+      "summary": "USA skapade endast 29 000 nya jobb i september, långt under analytikernas prognos på cirka 84 000, samtidigt som arbetslösheten steg till 4,2 procent och tidigare månaders sysselsättning reviderades ner rejält. Rapporten förstärker bilden av en snabbt svalnande amerikansk arbetsmarknad mitt i Feds pågående räntehöjningscykel.",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/10/02/economy/us-jobs-report-september-final",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "maklarstatistik-september-2026-villor-brf",
+      "title": "Villapriserna upp och blandad bild för bostadsrätter i september",
+      "category": "Hushållsekonomi",
+      "date": "2026-10-01",
+      "location": "",
+      "summary": "Villapriserna i riket steg 1,1 procent i september och är nu 5,0 procent högre än för ett år sedan, medan bostadsrätter steg mer måttligt med 0,8 procent på månaden med stora regionala skillnader mellan storstadsregionerna. Prisbilden skiljer sig alltså tydligt mellan villor och bostadsrätter inför vinterns bostadsmarknad.",
+      "source": "Svensk Mäklarstatistik",
+      "url": "https://www.maklarstatistik.se/pressmeddelanden/blandad-bild-pa-bostadsmarknaden-under-september/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "stockholmsborsen-nedgang-oljepris-oktober-2026",
+      "title": "Stockholmsbörsen föll i veckostarten på stigande oljepris",
+      "category": "Börs",
+      "date": "2026-10-01",
+      "location": "",
+      "summary": "OMXS30 föll 1,3 procent i en bred nedgång som drevs av stigande oljepriser efter uppgifter om att kinesiska raffinaderier stoppat bränsleexporten för att säkra den inhemska försörjningen. Råvarusektorn tyngdes hårdast medan teknikbolagen klarade sig bäst av den breda nedgången.",
+      "source": "Placera",
+      "url": "https://www.placera.se/nyheter/nedgang-pa-stockholmsborsen--omxs30-foll-13-2026-10-01",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "topic": "Entreprenörskap",
   "description": "Forskning om startups, finansiering, grundare och innovation. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-06",
-  "item_count": 60,
+  "last_updated": "2026-10-04",
+  "item_count": 68,
   "items": [
     {
       "id": "grundaregenskaper-startupframgang-2026",
@@ -724,6 +724,102 @@
       "url": "https://phys.org/news/2026-08-high-school-friends-entrepreneur-decades.html",
       "added_on": "2026-09-06",
       "collected_week": "2026-W36"
+    },
+    {
+      "id": "normative-greenly-forvarv-koldioxidredovisning-2026",
+      "title": "Franska Greenly köper svenska Normative för att bygga global klimatdataplattform",
+      "category": "Förvärv",
+      "date": "2026-09-11",
+      "location": "",
+      "summary": "Det franska klimatmjukvarubolaget Greenly har förvärvat Stockholmsbaserade Normative i en affär värd omkring 64 miljoner euro och slår samman bolagens utsläppsdata till en gemensam plattform för scope 3-rapportering. Sammanslagningen är ett tydligt tecken på den pågående konsolideringen inom klimatredovisningsbranschen, där flera startups nu går samman istället för att konkurrera separat.",
+      "source": "ESG Today",
+      "url": "https://www.esgtoday.com/greenly-acquires-normative-as-carbon-accounting-consolidation-accelerates/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "ema-ai-agenter-serie-b-2026",
+      "title": "AI-bolaget Ema tar in 77 miljoner dollar för att automatisera företagsprocesser",
+      "category": "Finansiering",
+      "date": "2026-09-23",
+      "location": "",
+      "summary": "Startupen Ema, som använder team av AI-agenter för att automatisera HR-, IT- och ekonomiuppgifter inom företag, har rest 77 miljoner dollar i en serie B-runda ledd av indiska riskkapitalbolaget Creaegis. Rundan understryker hur snabbt AI tar sig in på marknaden för traditionell företagsprogramvara och konsulttjänster.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "factory-ai-kodningsplattform-200miljoner-2026",
+      "title": "Factory tredubblar värderingen till fem miljarder dollar efter ny AI-kodningsrunda",
+      "category": "Finansiering",
+      "date": "2026-09-16",
+      "location": "",
+      "summary": "Startupen Factory, som bygger självförbättrande AI-agenter för hela mjukvaruutvecklingscykeln, har rest 200 miljoner dollar och värderas nu till fem miljarder dollar - mer än en tredubbling sedan april samma år. Bland investerarna finns Sequoia Capital, Khosla Ventures och Blackstone, samt privata änglainvesterare som Marc Benioff.",
+      "source": "Dealroom",
+      "url": "https://dealroom.co/news/151015-factory-raises-200m-at-5b-valuation-to-build-autonomous-coding-agents/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "profound-ai-sokmarknadsforing-serie-d-2026",
+      "title": "Profound reser 180 miljoner dollar för att hjälpa varumärken synas i AI-sökningar",
+      "category": "Finansiering",
+      "date": "2026-09-15",
+      "location": "",
+      "summary": "Startupen Profound, som hjälper varumärken att synas i AI-genererade sökresultat, har rest 180 miljoner dollar i en serie D-runda ledd av Sequoia Capital och Kleiner Perkins och värderas nu till 1,8 miljarder dollar. Bolaget uppger att det tredubblat sin omsättning på sex månader i takt med att AI-sök omformar digital marknadsföring.",
+      "source": "Tech Funding News",
+      "url": "https://techfundingnews.com/profound-hits-1-8b-valuation-with-180m-raise-led-by-sequoia-capital-to-help-brands-rank-in-ai-search/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "entreprenoriell-overtalning-logisk-omramning-2026",
+      "title": "Ny teori om hur grundare övertygar investerare genom \"logisk omramning\"",
+      "category": "Forskning",
+      "date": "2026-09-29",
+      "location": "",
+      "summary": "Forskarna Timo Ehrig och Jens Schmidt presenterar i Strategic Entrepreneurship Journal en teoribaserad modell för hur entreprenörer använder retoriska omramningar för att övertyga skeptiska investerare och andra intressenter om nya, osäkra affärsidéer. Studien bidrar till att förklara varför vissa grundare lyckas mobilisera stöd för radikalt nya koncept medan andra misslyckas med att vinna över sin omgivning.",
+      "source": "Strategic Entrepreneurship Journal",
+      "url": "https://sms.onlinelibrary.wiley.com/toc/1932443x/0/0",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "freemium-betalversion-differentiering-forskning-2026",
+      "title": "Studie: så undviker freemium-bolag att den fria versionen äter upp betalande kunder",
+      "category": "Forskning",
+      "date": "2026-10-02",
+      "location": "",
+      "summary": "En studie i Strategic Entrepreneurship Journal visar hur nystartade mjukvarubolag kan balansera gratis- och betalversionen av sin produkt för att dra nytta av gratisversionens marknadsföringseffekt utan att den kannibaliserar på betalande kunder. Forskarna pekar på tydligare funktionsskillnader och högre användningströsklar som nycklar till en lyckad freemium-strategi för unga tillväxtbolag.",
+      "source": "Strategic Entrepreneurship Journal",
+      "url": "https://sms.onlinelibrary.wiley.com/toc/1932443x/0/0",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "spiich-ai-saljagenter-finansiering-2026",
+      "title": "Stockholms Spiich tar in tre miljoner euro till AI-säljagenter",
+      "category": "Finansiering",
+      "date": "2026-09-23",
+      "location": "",
+      "summary": "Säljtech-startupen Spiich i Stockholm har rest tre miljoner euro i en såddrunda ledd av danska Ugly Duckling Ventures, med bland andra Cherry Ventures och Alliance VC som nya investerare. Bolagets AI-agenter ska sköta administrativt säljarbete som prospektering och dataregistrering så att säljare kan fokusera på kunderna.",
+      "source": "EU-Startups",
+      "url": "https://www.eu-startups.com/2026/09/stockholms-spiich-raises-e3-million-to-let-ai-handle-admin-work-while-sales-teams-focus-on-customers",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "papershell-eu-stod-biokomposit-2026",
+      "title": "Papershell närmar sig jättestöd från EU för sin plastersättande kartongkomposit",
+      "category": "Finansiering",
+      "date": "2026-10-02",
+      "location": "",
+      "summary": "Det svenska materialbolaget Papershell, som tillverkar en vattenavvisande biokomposit av returkartong tänkt att ersätta plast och aluminium, har tagit in drygt 50 miljoner kronor och närmar sig villkoren för ett EU-stöd på uppemot 400 miljoner kronor. Enligt bolagets egna livscykelanalyser kan materialet minska utsläppen med omkring 90 procent jämfört med fossilbaserad plast.",
+      "source": "Breakit",
+      "url": "https://www.breakit.se/artikel/47604/papershells-pappmaterial-lockar-kapital-narmar-sig-jattestod-fran-eu",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "topic": "Resor",
   "description": "Forskning om resmål, hållbart resande, flyg och tågresor. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-06",
-  "item_count": 58,
+  "last_updated": "2026-10-04",
+  "item_count": 65,
   "items": [
     {
       "id": "hamndresor-till-udda-resmal-2026",
@@ -700,6 +700,90 @@
       "url": "https://www.iata.org/en/pressroom/2026-releases/06-06-saf-production-volumes-still-disappointing/",
       "added_on": "2026-09-06",
       "collected_week": "2026-W36"
+    },
+    {
+      "id": "sas-mumbai-koppenhamn-nytt-direktflyg-2026",
+      "title": "SAS startar direktflyg Köpenhamn–Mumbai efter 17 år",
+      "category": "Flyg",
+      "date": "2026-10-01",
+      "location": "Köpenhamn/Mumbai",
+      "summary": "SAS återvänder till den indiska marknaden med ett nytt helårsdrivet direktflyg mellan Köpenhamn och Mumbai, fem gånger i veckan med Airbus A330. Rutten är bolagets första nonstop-förbindelse till Indien på 17 år och understryker hur Köpenhamn stärks som SAS huvudnav inför vintersäsongen.",
+      "source": "Aviation24.be",
+      "url": "https://www.aviation24.be/airlines/scandinavian-airlines-system-sas/sas-returns-to-india-after-17-years-with-copenhagen-mumbai-route/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "tiny-tourism-trend-overturism-2026",
+      "title": "\"Tiny tourism\" – nya trenden som ska motverka överturism",
+      "category": "Trend",
+      "date": "2026-09-27",
+      "location": "",
+      "summary": "Begreppet \"tiny tourism\", lanserat av brittiska plattformen It's Nice That, uppmanar resenärer att utforska mindre kända platser, bostadsområden och lokala vardagsmiljöer istället för klassiska sevärdheter. Trenden beskrivs som ett svar på sommarens omfattande turistprotester i Spanien och på andra populära resmål.",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/travel/2026/09/27/is-tiny-tourism-the-solution-to-overcrowded-holiday-destinations/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "spanien-flygplatsutbyggnad-protester-2026",
+      "title": "Tusentals protesterar mot flygplatsutbyggnader i Barcelona, Mallorca och Ibiza",
+      "category": "Nyhet",
+      "date": "2026-09-20",
+      "location": "Spanien",
+      "summary": "Omkring 5 000 personer marscherade i Barcelona mot en planerad utbyggnad av flygplatsen El Prat, samtidigt som parallella demonstrationer hölls på Mallorca och Ibiza. Protesterna, som stöddes av över 210 organisationer och 130 akademiker, riktade in sig på kopplingen mellan ökad flygplatskapacitet, överturism, bostadsbrist och klimatpåverkan.",
+      "source": "The Local Spain",
+      "url": "https://www.thelocal.es/20260921/locals-in-barcelona-ibiza-and-palma-protest-spains-airport-expansions",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "euronews-turismtoppmote-bryssel-2026",
+      "title": "Turismtoppmöte i Bryssel: satsa på \"andra städer\" för att avlasta turisttrycket",
+      "category": "Nyhet",
+      "date": "2026-09-29",
+      "location": "Bryssel",
+      "summary": "Vid Euronews Travel & Tourism Summit i Bryssel diskuterade politiker och branschföreträdare hur Europa kan möta överturism genom att investera i tåg- och flygförbindelser till mindre besökta \"andra städer\" snarare än att bara begränsa redan populära resmål. Mötet tog även upp klimatfrågan efter en sommar med rekordmånga resenärer i Europa.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/09/29/euronews-travel-tourism-summit-2026-watch-live-today-from-brussels",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "overturism-flygplatsutbyggnad-paradox-2026",
+      "title": "Analys: Överturism är inte längre bara en siffra",
+      "category": "Forskning",
+      "date": "2026-09-23",
+      "location": "",
+      "summary": "En analys i Forbes pekar på en motsättning i europeisk turistpolitik: samtidigt som städer inför turistskatter och uthyrningsrestriktioner expanderas flygplatser som Venedigs Marco Polo och Atens flygplats kraftigt. Slutsatsen är att överturism lika mycket handlar om vilken typ av resenär som kommer och hur länge de stannar, som om det rena antalet besökare.",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/alexledsom/2026/09/23/overtourism-is-no-longer-just-a-numbers-problem/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "euromeet-sundsvall-friluftsturism-2026",
+      "title": "Euro'Meet 2026: Sundsvall samlade Europas friluftsforskare",
+      "category": "Forskning",
+      "date": "2026-09-10",
+      "location": "Sundsvall",
+      "summary": "Vid konferensen Euro'Meet 2026 i Sundsvall möttes forskare, föreningar och beslutsfattare från hela Europa för att diskutera hur friluftsliv och naturturism kan utvecklas hållbart. Forskare vid ETOUR ledde bland annat workshops om hur idrotts- och utomhusevenemang kan minska sin klimatpåverkan kopplad till transporter och konsumtion.",
+      "source": "Mittuniversitetet/ETOUR",
+      "url": "https://www.miun.se/Forskning/forskningscentra/etour/nyheter/nyhetsarkiv/2026-8/euromeet-2026-sundsvall-blir-europas-motesplats-for-friluftsliv-och-naturturism",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
+    },
+    {
+      "id": "flygbranslekris-sas-installda-flyg-2026",
+      "title": "Flygbränslekrisen slår mot SAS – flyg ställs in",
+      "category": "Flyg",
+      "date": "2026-09-21",
+      "location": "",
+      "summary": "Stigande priser på flygbränsle, som i september passerade 1 700 dollar per ton, omkring 150 procent högre än ett år tidigare, tvingar SAS till besparingar, indragna rekryteringar och neddragningar i trafikprogrammet. Prognoser pekar på ett fortsatt globalt underskott på flygbränsle under fjärde kvartalet, vilket riskerar ytterligare inställda avgångar i Europa under hösten och vintern.",
+      "source": "Dagens PS",
+      "url": "https://www.dagensps.se/weekend/resor/flygbranslekrisen-slar-mot-sas-nu-stalls-flyg-in/",
+      "added_on": "2026-10-04",
+      "collected_week": "2026-W40"
     }
   ]
 }

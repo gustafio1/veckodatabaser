@@ -2,8 +2,8 @@
   "topic": "Ekonomi & börs",
   "description": "Forskning om börs, makroekonomi, räntor och hushållens ekonomi. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-04",
-  "item_count": 67,
+  "last_updated": "2026-10-11",
+  "item_count": 73,
   "items": [
     {
       "id": "skuldkvot-mot-aktievardering-debt-equity-spread-2026",
@@ -808,6 +808,78 @@
       "url": "https://www.placera.se/nyheter/nedgang-pa-stockholmsborsen--omxs30-foll-13-2026-10-01",
       "added_on": "2026-10-04",
       "collected_week": "2026-W40"
+    },
+    {
+      "id": "oljepris-103-dollar-hormuzsundet-oktober-2026",
+      "title": "Oljepriset nära 103 dollar fatet i oktober efter upptrappad oro vid Hormuzsundet",
+      "category": "Marknad",
+      "date": "2026-10-05",
+      "location": "Hormuzsundet",
+      "summary": "Brentoljan handlades kring 103 dollar per fat i början av oktober, en uppgång med omkring 57 procent på ett år, sedan storbanken HSBC beskrivit Hormuzsundet som \"strukturellt skadat\" i spåren av den upptrappade Iran-konflikten. Samtidigt dämpas uppgången av att Gulfstaternas export återhämtat sig och att USA frisläppt stora mängder olja ur sin strategiska reserv.",
+      "source": "Moneymagpie (Trading Economics-data)",
+      "url": "https://www.moneymagpie.com/investment-articles/oil-price-prediction-october-2026",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "forskning-hushallsskuld-penningpolitik-transmission-2026",
+      "title": "Ny studie: Hög hushållsskuld förstärker räntesänkningars kortsiktiga effekt i Sverige och Norge",
+      "category": "Forskning",
+      "date": "2026-01-01",
+      "location": "",
+      "summary": "En studie i Macroeconomic Dynamics jämför Sverige, Norge, Australien och USA, fyra länder med historiskt hög hushållsskuldsättning, och finner att en räntesänkning ger en starkare kortsiktig effekt på produktionen när hushållens skulder redan är höga, men att effekten klingar av snabbare på medellång sikt. Resultaten nyanserar bilden av att skuldtyngda hushåll alltid gör penningpolitiken mindre verkningsfull.",
+      "source": "Macroeconomic Dynamics (Cambridge University Press)",
+      "url": "https://doi.org/10.1017/s1365100526101163",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "forskning-inflationskunskap-fortroende-centralbank-2025",
+      "title": "Studie: Bättre kunskap om inflation ökar hushållens förtroende för centralbanken",
+      "category": "Forskning",
+      "date": "2025-03-05",
+      "location": "",
+      "summary": "En studie publicerad i Review of Economics and Statistics visar i ett randomiserat experiment att enkel information om inflation och penningpolitik höjer både hushållens förmåga att göra inflationsprognoser och deras förtroende för centralbanken. Kvalitativ information om hur penningpolitiken fungerar hade en egen, självständig effekt utöver rena sifferuppgifter om inflationsmålet.",
+      "source": "The Review of Economics and Statistics (MIT Press)",
+      "url": "https://doi.org/10.1162/rest_a_01576",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "forskning-dispositionseffekten-riskpremie-aktier-2024",
+      "title": "Forskning: Investerares ovilja att sälja förlustaktier hjälper förklara riskpremien på börsen",
+      "category": "Forskning",
+      "date": "2024-05-10",
+      "location": "USA",
+      "summary": "En studie i Journal of Forecasting visar att dispositionseffekten - investerares tendens att sitta kvar i förlustaktier men sälja vinnare för tidigt - kan förklara varför riskpremien på den amerikanska börsen varierar över tid. Riskaversionen slog tydligt igenom i uppgångsfaser men inte i nedgångsfaser, vilket gav forskarna bättre prognoser för börsens riskpremie.",
+      "source": "Journal of Forecasting (Wiley)",
+      "url": "https://doi.org/10.1002/for.3145",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "forskning-bostadsutbud-prisrimlighet-australien-2025",
+      "title": "Studie: Ökat bostadsbyggande löser inte ensamt Australiens problem med dyra bostäder",
+      "category": "Forskning",
+      "date": "2025-11-24",
+      "location": "Australien",
+      "summary": "En studie i Economic Record undersöker om ökat bostadsbyggande kan bromsa de stigande bostadspriserna i Australien, ett land med liknande affordability-problem som Sverige. Resultatet är att ett större utbud dämpar prisuppgången något, men att effekten är för liten för att på egen hand lösa krisen med bostäder som allt färre hushåll har råd att köpa.",
+      "source": "Economic Record (Wiley)",
+      "url": "https://doi.org/10.1111/1467-8454.70014",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "forskning-hushallsinkomst-konsumtion-penningpolitik-2024",
+      "title": "Studie: Höginkomsthushåll reagerar mest på Fed:s räntesänkningar",
+      "category": "Forskning",
+      "date": "2024-03-24",
+      "location": "USA",
+      "summary": "En studie i Journal of Money, Credit and Banking visar att amerikanska höginkomsthushåll ökar sin konsumtion mer än låginkomsthushåll när centralbanken sänker räntan, framför allt tack vare att de äger mer illikvida tillgångar som stiger i värde vid lättare penningpolitik. Fynden nyanserar bilden av att expansiv penningpolitik gynnar alla hushållsgrupper lika mycket.",
+      "source": "Journal of Money, Credit and Banking (Wiley)",
+      "url": "https://doi.org/10.1111/jmcb.13147",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "topic": "Geografi",
   "description": "Kartor och kartografi, upptäckter, klimat- och landskapsförändringar och platser. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-04",
-  "item_count": 60,
+  "last_updated": "2026-10-11",
+  "item_count": 65,
   "items": [
     {
       "id": "sanborn-kartor-webbtjanst-2026",
@@ -724,6 +724,66 @@
       "url": "https://www.aktuellhallbarhet.se/miljo-och-klimat/klimatforskning/kebnekaises-sydtopp-fortsatter-smalta/",
       "added_on": "2026-10-04",
       "collected_week": "2026-W40"
+    },
+    {
+      "id": "arktis-havsis-minimum-september-2026",
+      "title": "Arktis havsis nådde sitt sommarminimum i mitten av september 2026",
+      "category": "Klimat",
+      "date": "2026-09-12",
+      "location": "Arktis",
+      "summary": "NASA och amerikanska National Snow and Ice Data Center rapporterar att den arktiska havsisen nådde sitt årliga minimum omkring den 12 september 2026, med en utbredning på ungefär 4,6 miljoner kvadratkilometer. Nivån delar tionde plats för lägsta sommarminimum i den satellitbaserade mätserien sedan 1979, och de senaste 20 somrarna utgör samtidigt de 20 lägsta som uppmätts.",
+      "source": "NASA / NSIDC",
+      "url": "https://science.nasa.gov/science-research/earth-science/climate-science/sea-ice/arctic-sea-ice-2026-min/",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "antarktis-ozonhal-over-genomsnittet-2026",
+      "title": "Antarktis ozonhål växte snabbt och låg över genomsnittet hösten 2026",
+      "category": "Klimat",
+      "date": "2026-09-15",
+      "location": "Antarktis",
+      "summary": "Enligt EU:s klimatövervakningstjänst Copernicus växte ozonhålet över Antarktis ovanligt snabbt under september 2026 och nådde omkring 25 miljoner kvadratkilometer i mitten av månaden, cirka fem miljoner kvadratkilometer större än genomsnittet för årstiden. Forskarna kopplar den snabba tillväxten till kallare temperaturer och mer polära stratosfäriska moln högt uppe i atmosfären ovanför kontinenten.",
+      "source": "Copernicus / Down To Earth",
+      "url": "https://www.downtoearth.org.in/climate-change/ozone-hole-reaches-notable-threshold-early-again-as-area-increases-above-average-in-2026-copernicus",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "kilauea-utbrott-fortsatter-oktober-2026",
+      "title": "Kilaueas pågående utbrott fortsätter in i oktober 2026",
+      "category": "Geologi",
+      "date": "2026-10-01",
+      "location": "Hawaii, USA",
+      "summary": "USGS Hawaiian Volcano Observatory rapporterar att det utbrott vid vulkanen Kilaueas topp som pågått sedan december 2024 fortfarande var aktivt i början av oktober 2026, efter en ny magmaintrång i slutet av september. Vid en översiktsflygning den 1 oktober syntes både stelnad och flytande lava strömma från toppens krater, utan tecken på att de nyligen bildade sprickorna hade vidgats nämnvärt.",
+      "source": "USGS Hawaiian Volcano Observatory",
+      "url": "https://www.usgs.gov/observatories/hvo/news/photo-video-chronology-kilauea-summit-monitoring-overflight-7",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "tarfala-glaciarer-is-tjocklek-karta-2026",
+      "title": "Nya detaljerade kartor visar isens tjocklek under Sveriges referensglaciärer",
+      "category": "Kartografi",
+      "date": "2026-06-22",
+      "location": "Tarfala, Sverige",
+      "summary": "Forskare vid Tarfala forskningsstation, Stockholms universitet, har med radarmätningar under 2024–2025 tagit fram högupplösta kartor över istjocklek och berggrund under de fyra svenska referensglaciärerna Storglaciären, Mårmaglaciären, Rabots glaciär och Riukojietna. Studien, publicerad i Earth System Science Data, visar att medeltjockleken varierar mellan drygt 35 och 98 meter, kunskap som är central för att följa hur snabbt glaciärerna smälter bort.",
+      "source": "Earth System Science Data (ESSD)",
+      "url": "https://essd.copernicus.org/articles/18/4241/2026/",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "panamakanalen-torka-djupgaende-2026",
+      "title": "Torka tvingar Panamakanalen att strama åt djupgåendet för fartyg",
+      "category": "Klimat",
+      "date": "2026-09-03",
+      "location": "Panamakanalen, Panama",
+      "summary": "Efter en regnperiod maj–augusti 2026 som gav omkring 34 procent mindre nederbörd än normalt i kanalens avrinningsområde har Panamakanalens myndighet infört successiva begränsningar av fartygens maximala djupgående, först till 48 fot den 26 augusti och därefter till 47,5 fot från 3 september. Samtidigt har antalet dagliga fartygspassager minskat, vilket visar hur känslig den konstgjorda vattenvägen är för nederbördsmönster som påverkas av klimatvariationer som El Niño.",
+      "source": "Panama Canal Authority / Marine Insight",
+      "url": "https://www.marineinsight.com/falling-water-levels-push-panama-canal-to-restrict-maximum-ship-draft-to-47-5-feet-from-september/",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
     }
   ]
 }

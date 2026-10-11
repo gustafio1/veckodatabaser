@@ -2,8 +2,8 @@
   "topic": "Historia",
   "description": "Historisk forskning, arkeologiska fynd, svensk historia, böcker och jubileer. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-04",
-  "item_count": 67,
+  "last_updated": "2026-10-11",
+  "item_count": 72,
   "items": [
     {
       "id": "herlaugshaugen-skeppsgrav-2026",
@@ -808,6 +808,66 @@
       "url": "https://historiskamedia.se/bok/rekordaren/",
       "added_on": "2026-10-04",
       "collected_week": "2026-W40"
+    },
+    {
+      "id": "svinesund-neolitisk-gravkammare-norge-2026",
+      "title": "4000 år gammal gravkammare funnen på Svinesundsplatån i Norge",
+      "category": "Fynd",
+      "date": "2026-10-05",
+      "location": "Svinesund, Norge",
+      "summary": "En räddningsundersökning på Svinesundsplatån, ledd av Carine Rosenvinge vid Kulturhistorisk museum i Oslo, har avslöjat en cirka 4000 år gammal stenkammargrav från regionens tidiga bönder. Till skillnad från jämförbara gravar innehöll den bara en pilspets, en bärnstenspärla och en keramikskärva, men inga dolkar.",
+      "source": "Archaeology Magazine (Science Norway)",
+      "url": "https://archaeology.org/?p=61740",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "pilisszentivan-venusfigurin-ungern-2026",
+      "title": "Blyfigurin av gudinnan Venus hittad vid romersk boplats i Ungern",
+      "category": "Fynd",
+      "date": "2026-10-05",
+      "location": "Pilisszentiván, Ungern",
+      "summary": "Vid den romerska boplatsen Pilisszentiván-Hárs har arkeologer under ledning av Bence Simon vid Eötvös Loránd-universitetet hittat en liten blyfigurin som föreställer Venus Pudica. Det är det första religiösa föremål som påträffats på platsen, vid sidan av rustningsfragment, järnredskap, broscher och mynt.",
+      "source": "Archaeology Magazine (Greek Reporter)",
+      "url": "https://archaeology.org/?p=61744",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "lismore-tidigmedeltida-kloster-skottland-2026",
+      "title": "Betydande tidigmedeltida klosteranläggning grävs fram på skotska ön Lismore",
+      "category": "Arkeologi",
+      "date": "2026-10-02",
+      "location": "Lismore (Lios Mòr), Skottland",
+      "summary": "Ett lokalt, folkligt drivet grävprojekt lett av Clare Ellis har på ön Lismore i västra Skottland frilagt ett tidigmedeltida kloster med gravar, hantverksverkstäder och spår av ädelmetallbearbetning, enligt en studie i tidskriften Antiquity. Forskare som Gordon Noble vid University of Aberdeen menar att klostret, traditionellt kopplat till den helige Mo Luóc, kan ha varit lika betydelsefullt som några av de mest kända klosteranläggningarna i tidigmedeltida Storbritannien.",
+      "source": "Antiquity / Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smart-news/a-community-led-archaeology-dig-on-a-tiny-scottish-isle-has-unearthed-a-medieval-monastery-of-international-importance-180989654/",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "hwangja-hwatong-krutvapen-sydkorea-2026",
+      "title": "Sydkoreas äldsta bevarade krutvapen identifierat efter tre års forskning",
+      "category": "Forskning",
+      "date": "2026-10-01",
+      "location": "Naju, Sydkorea",
+      "summary": "Ett bronsrör som av misstag hittades under en minsökning i Naju 2023 har efter tre års forskning identifierats som Hwangja Hwatong, det äldsta bevarade krutvapnet från Korea. Inskriptioner daterar vapnet till 1377 eller 1437, vilket gör det omkring 118 år äldre än det tidigast kända koreanska eldvapnet med ett säkert fastställt tillverkningsår.",
+      "source": "Archaeology Magazine",
+      "url": "https://archaeology.org/?p=61664",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "sioux-city-jarnvagsarbetarlager-iowa-2026",
+      "title": "Spår av 1900-talslägret för järnvägsarbetare funna i Iowa",
+      "category": "Fynd",
+      "date": "2026-10-02",
+      "location": "Sioux City, Iowa, USA",
+      "summary": "Arkeologer knutna till delstatsarkeologen vid University of Iowa har vid Sioux City Railroad Museum hittat lämningar av det arbetarläger som användes av dem som byggde Milwaukee Railroads stora reparationsterminal åren 1916-1918. Fyndet ger nya inblickar i vardagen för de arbetare som uppförde en av regionens viktigaste järnvägsanläggningar.",
+      "source": "Archaeology Magazine",
+      "url": "https://archaeology.org/?p=61693",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
     }
   ]
 }

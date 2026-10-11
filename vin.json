@@ -2,8 +2,8 @@
   "topic": "Vin",
   "description": "Forskning om vinframställning, odling, smak och hälsa. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-06",
-  "item_count": 53,
+  "last_updated": "2026-10-11",
+  "item_count": 60,
   "items": [
     {
       "id": "arom-ekologiskt-vs-konventionellt-vitt-vin-2026",
@@ -640,6 +640,90 @@
       "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13062559/",
       "added_on": "2026-09-06",
       "collected_week": "2026-W36"
+    },
+    {
+      "id": "awri-teknisk-oversikt-host-2026",
+      "title": "Australiska vinforskningsinstitutet sammanfattar höstens forskningsläge",
+      "category": "Forskning",
+      "date": "2026-10-01",
+      "location": "",
+      "summary": "Australian Wine Research Institute har publicerat sin tekniska höstöversikt för 2026, som sammanfattar ny forskning om klimatanpassning i vingården, jästgenomik för mer förutsägbar jäsning, bekämpning av mjöldagg och det nyligen bekräftade bärinreinekrosviruset i australiska vingårdar. Översikten ger odlare och vinmakare en samlad bild av vad som är nytt inom vinvetenskapen just nu.",
+      "source": "Vinetur / Australian Wine Research Institute",
+      "url": "https://www.vinetur.com/en/20260930108067/australian-wine-research-institute-releases-spring-2026-technical-review.html",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "trad-nara-vingard-vattenstress-oeno-one-2026",
+      "title": "Träd nära vingårdar ökar vattenstressen hos vinstockar",
+      "category": "Odling",
+      "date": "2026-07-01",
+      "location": "",
+      "summary": "En studie i OENO One visar att träd i vingårdens närhet höjer vattenstressen hos vinstockar och ändrar riktningen på rotutvecklingen, troligen genom underjordisk konkurrens om markfukt snarare än skuggning eller luftflöde. Resultaten kan påverka hur odlare planerar trädridåer och agroforestry invid vinodlingar.",
+      "source": "Vinetur / OENO One",
+      "url": "https://www.vinetur.com/en/20260701103621/study-finds-trees-near-vineyards-increase-water-stress-in-grapevines.html",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "tidig-borttagning-marktacke-torrar-ar-frankrike-2026",
+      "title": "Tidig borttagning av marktäckningsväxter skyddar skörden i torra år",
+      "category": "Odling",
+      "date": "2026-07-27",
+      "location": "",
+      "summary": "En fransk fältstudie i sju vingårdar i Occitanien visar att marktäckningsväxter mellan vinraderna kan slås eller ytligt bearbetas bort tidigt, kring knoppsprickning, utan att vattenstressen hos vinstockarna ökar under torra säsonger. Metoden ger odlare ett sätt att behålla markens fördelar samtidigt som vattentillgången skyddas när klimatet blir torrare.",
+      "source": "Vinetur / OENO One",
+      "url": "https://www.vinetur.com/en/20260727104866/french-vineyard-study-finds-early-cover-crop-removal-protects-yields-in-dry-years.html",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "vinjast-lipider-jasningsstyrka-2026",
+      "title": "Jästens fettsammansättning kan göra vinjäsningen mer robust",
+      "category": "Vinframställning",
+      "date": "2026-08-03",
+      "location": "",
+      "summary": "Forskning i International Journal of Food Microbiology visar att vinjästens lipidsammansättning påverkar hur väl cellmembranet tål stress under jäsningen, vilket kan minska risken för tröga eller avstannade jäsningar. Fyndet pekar mot att man i framtiden skulle kunna välja eller förädla jäststammar efter deras fettprofil för säkrare vinframställning.",
+      "source": "Vinetur / International Journal of Food Microbiology",
+      "url": "https://www.vinetur.com/en/20260803105174/study-finds-wine-yeast-lipids-can-strengthen-fermentation-performance.html",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "ginv-virus-bordsdruvor-australien-2026",
+      "title": "Nytt druvvirus bekräftat i australiska bordsdruvor",
+      "category": "Nyhet",
+      "date": "2026-04-24",
+      "location": "",
+      "summary": "Australiska myndigheter har bekräftat att bärinreinekrosviruset (GINV) finns i vingårdar med bordsdruvor i flera delstater, vilket kan försena knoppsprickning, förändra bladens utseende och sänka skörden hos smittade stockar. Viruset sprids främst via infekterat planteringsmaterial och kan ha funnits obemärkt i landet i flera år, utan att det ännu finns botemedel eller handelsrestriktioner kopplade till fyndet.",
+      "source": "Vinetur",
+      "url": "https://www.vinetur.com/en/amp/2026042499640/australia-confirms-grapevine-virus-in-table-grapes.html",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "medelhavskost-mattligt-vin-dodlighet-spanien-2026",
+      "title": "Medelhavskost med måttligt vin kopplas till 33 procent lägre dödlighet",
+      "category": "Hälsa",
+      "date": "2026-03-12",
+      "location": "",
+      "summary": "En spansk analys i European Heart Journal, som kombinerar PREDIMED-studien och SUN-kohorten med över 18 000 deltagare, visar att personer som följer medelhavskost strikt och dessutom dricker vin måttligt (upp till knappt tre glas per dag) har 33 procent lägre total dödlighet, jämfört med 23 procent för medelhavskost utan vin. Forskarna betonar att nyttan är beroende av dos och sammanhang och att resultatet inte innebär att man bör börja dricka vin av hälsoskäl.",
+      "source": "Vinetur / European Heart Journal",
+      "url": "https://www.vinetur.com/de/2026031297493/mediterranean-diet-and-moderate-wine-linked-to-33-drop-in-mortality-spanish-study-finds.html",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "vinforskare-oenig-halsoeffekter-cancer-2026",
+      "title": "Forskare oense om vinets hälsoeffekter och cancerrisk",
+      "category": "Hälsa",
+      "date": "2026-04-30",
+      "location": "",
+      "summary": "Vid ett vetenskapligt möte i Turin stod förespråkare för måttligt vindrickande inom en medelhavskost, som kopplar det till lägre risk för hjärt-kärlsjukdom, demens och diabetes, mot forskare som betonar att alkohol är cancerframkallande oavsett dryckesslag. Debatten visar att frågan om vinets nettoeffekt på hälsan fortfarande är vetenskapligt kontroversiell och starkt beroende av dos och sammanhang.",
+      "source": "Vinetur",
+      "url": "https://www.vinetur.com/2026043099989/scientists-clash-over-wines-health-effects.html",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
     }
   ]
 }

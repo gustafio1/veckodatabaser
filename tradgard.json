@@ -2,8 +2,8 @@
   "topic": "Trädgård",
   "description": "Forskning om odling, biologisk mångfald, jord, pollinatörer och hälsa. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-06",
-  "item_count": 54,
+  "last_updated": "2026-10-11",
+  "item_count": 60,
   "items": [
     {
       "id": "naturbaserad-rorelse-psykisk-halsa-2026",
@@ -652,6 +652,78 @@
       "url": "https://www.slu.se/forskning/forskningskatalog/projekt/s/fortsatt-sortprovning-av-tradgardsgrodor-2026---2029/",
       "added_on": "2026-09-06",
       "collected_week": "2026-W36"
+    },
+    {
+      "id": "frontiers-urban-tradgard-biodiversitet-review-2026",
+      "title": "Stor forskningsgenomgång visar vad som styr biologisk mångfald i stadsträdgårdar",
+      "category": "Biologisk mångfald",
+      "date": "2026-01-15",
+      "location": "",
+      "summary": "En sammanställning av 30 studier om urbana trädgårdar visar att faktorer som trädgårdens storlek, växtstruktur och grön konnektivitet hänger starkt ihop med artrikedom, medan odlarnas socioekonomiska bakgrund och skötselmetoder också påverkar vilka arter som trivs. Forskarna menar att både ekologisk utformning och sociala förhållanden behöver vägas in för att gynna mångfalden i stadsträdgårdar.",
+      "source": "Frontiers in Horticulture",
+      "url": "https://www.frontiersin.org/journals/horticulture/articles/10.3389/fhort.2025.1651999/full",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "eu-vitbok-pollinatorer-135-forskare-2026",
+      "title": "135 forskare varnar: splittrad EU-politik bromsar räddningen av pollinatörer",
+      "category": "Pollinatörer",
+      "date": "2026-06-22",
+      "location": "",
+      "summary": "En ny vitbok från 135 forskare i åtta EU-finansierade forskningskonsortier pekar på att det framför allt är spretig och osammanhängande politik, inte enbart bekämpningsmedel, som hindrar återhämtningen för vilda pollinatörer i Europa. Rapporten lägger fram 15 konkreta rekommendationer för hur jordbruk, kemikalieregler, forskning och utbildning bättre kan samordnas till nytta för bin och andra pollinatörer, även i trädgårdssammanhang.",
+      "source": "Universitetet i Bergen (UiB)",
+      "url": "https://www4.uib.no/en/research/featured/europe-risks-a-crisis-if-it-fails-to-halt-pollinator-loss-researchers-warn",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "warszawa-koloniomraden-grasmatta-biologisk-mangfald-2025",
+      "title": "Gräsmatta i koloniträdgårdar ger minst biologisk mångfald, visar studie i Warszawa",
+      "category": "Biologisk mångfald",
+      "date": "2025-07-01",
+      "location": "Warszawa, Polen",
+      "summary": "En studie av 44 koloniträdgårdslotter i Warszawa visar att lotter med ren gräsmatta har lägst artrikedom av alla undersökta odlingstyper och ger betydligt mindre nytta i form av svalka, vattenhållning och nektar än blomster-, köksväxt- och fruktodlingar. Resultaten visar att valet av odlingstyp i kolonilotter har stor betydelse för både biologisk mångfald och ekosystemtjänster i städer.",
+      "source": "Sustainability (MDPI)",
+      "url": "https://www.mdpi.com/2071-1050/17/13/6216",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "bonn-tradgardsjord-kollagring-skotsel-2026",
+      "title": "Hur trädgården sköts avgör hur mycket kol jorden kan lagra, visar tysk studie",
+      "category": "Jord",
+      "date": "2026-04-01",
+      "location": "Bonn, Tyskland",
+      "summary": "En doktorand vid Bonn-Rhein-Sieg University of Applied Sciences har undersökt kolinnehållet i jorden hos nästan 100 privata och offentliga gröna ytor, bland annat villaträdgårdar och kolonilotter, och funnit att skötselmetoder som gödning och bevattning påverkar kolinlagringen mer än jordtyp eller klimat. Resultatet visar att även den egna trädgården kan spela en roll för det lokala klimatarbetet.",
+      "source": "IZNE / Bonn-Rhein-Sieg University of Applied Sciences",
+      "url": "https://www.h-brs.de/en/node/116467",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "stopwaste-kompost-jordkol-parker-kalifornien-2026",
+      "title": "Decennier av kompostering ger betydligt mer kol i parkjord, visar kalifornisk studie",
+      "category": "Jord",
+      "date": "2026-03-01",
+      "location": "Alameda County, Kalifornien, USA",
+      "summary": "En studie av kommunala parker i Kalifornien, gjord tillsammans med UC Merced, visar att mark som fått kompost under 20–30 år innehåller 19–30 procent mer kol ner till en meters djup och har upp till 59 procent större rotmassa i gräset än obehandlad mark. Resultaten lyfts fram som stöd för att kompostering av trädgårds- och parkavfall kan vara ett effektivt sätt att binda kol även i tätbebyggda områden.",
+      "source": "StopWaste / UC Merced",
+      "url": "https://www.stopwaste.org/about-us/whats-new/topic-briefs/carbon-farming-city-parks-march-2026",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "propollsoil-jordkvalitet-pollinatorer-eu-projekt-2026",
+      "title": "Nytt EU-projekt ska kartlägga hur jordkvalitet avgör pollinatörernas överlevnad",
+      "category": "Pollinatörer",
+      "date": "2026-03-30",
+      "location": "Murcia, Spanien (del av EU-projekt)",
+      "summary": "Det nya Horizon Europe-projektet ProPollSoil, med en budget på omkring 7,7 miljoner euro över fyra år, ska undersöka hur föroreningar, pH och markskötsel i jorden påverkar marklevande pollinatörer som vildbin, varav uppskattningsvis tre av fyra arter bygger bo och övervintrar just i jorden. Forskarna menar att jordens kvalitet är avgörande för pollinatörernas överlevnad, fortplantning och motståndskraft mot miljöförändringar, en kunskap som på sikt kan komma trädgårdsodlare till nytta.",
+      "source": "Región de Murcia / Universidad de Murcia",
+      "url": "https://murciaregioneuropea.carm.es/en/-/investigadores-de-la-umu-analizan-la-salud-del-suelo-en-un-gran-proyecto-europeo-para-frenar-la-desaparici%C3%B3n-de-los-polinizadores",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
     }
   ]
 }

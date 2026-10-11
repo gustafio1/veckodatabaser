@@ -2,8 +2,8 @@
   "topic": "Husdjur",
   "description": "Forskning om hundar, katter, beteende och hälsa. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-09-06",
-  "item_count": 53,
+  "last_updated": "2026-10-11",
+  "item_count": 60,
   "items": [
     {
       "id": "lek-starker-band-hund-agare-2026",
@@ -640,6 +640,90 @@
       "url": "https://journals.sagepub.com/doi/10.1177/20438087261467795",
       "added_on": "2026-09-06",
       "collected_week": "2026-W36"
+    },
+    {
+      "id": "hundgard-doft-viktigare-an-storlek-2026",
+      "title": "Doftrik trädgård gör mer för hunden än en stor gräsmatta",
+      "category": "Beteende",
+      "date": "2026-07-22",
+      "location": "",
+      "summary": "En analys av beteendedata från över 43 000 hundar i det amerikanska Dog Aging Project visar att mängden dofter och sinnesintryck i trädgården spelar större roll för hundens välbefinnande än själva tomtens storlek. Forskarna menar att enkel doftberikning kan vara ett billigt sätt att förbättra hundars vardag.",
+      "source": "Dog Aging Project",
+      "url": "https://content.dogagingproject.org/news/new-research-says-your-dog-doesnt-need-a-bigger-yard-it-needs-one-with-far-more-things-to-sniff/",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "hundar-tjuvlyssnar-nya-ord-2026",
+      "title": "Vissa hundar kan lära sig nya ord genom att tjuvlyssna på sina ägare",
+      "category": "Forskning",
+      "date": "2026-01-08",
+      "location": "",
+      "summary": "En studie publicerad i Science visar att en liten grupp särskilt språkbegåvade hundar kan koppla ett nytt leksaksnamn till ett föremål bara genom att höra sin ägare nämna det i ett samtal med någon annan, även när leksaken är gömd ur sikte. Förmågan liknar hur småbarn lär sig ord genom att lyssna på andras samtal, men tycks bara finnas hos ett fåtal hundar.",
+      "source": "Science / AP",
+      "url": "https://www.kpbs.org/news/science-technology/2026/01/08/these-dogs-can-learn-new-words-just-by-eavesdropping",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "slu-separationsproblem-monster-2026",
+      "title": "SLU-studie kartlägger mönster bakom hundars separationsrelaterade problem",
+      "category": "Forskning",
+      "date": "2026-04-06",
+      "location": "Sverige",
+      "summary": "Forskare vid SLU har genom intervjuer med hundprofessionella i Sverige, Danmark och Norge identifierat återkommande mönster i hur separationsrelaterade problem uppstår och tar sig uttryck hos hund. Studien, publicerad i Scientific Reports, understryker att problemen oftast beror på en kombination av flera faktorer snarare än en enskild orsak.",
+      "source": "SLU / Scientific Reports",
+      "url": "https://www.slu.se/en/research/knowledge-bank/vh/sport--och-sallskapsdjur/hund/new-study-highlights-key-patterns-in-dogs-separation-related-problems/",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "agarens-emotionella-narhet-separationsangest-2026",
+      "title": "För stark emotionell närhet hos ägaren kan bidra till hundens separationsångest",
+      "category": "Forskning",
+      "date": "2025-12-01",
+      "location": "",
+      "summary": "En studie i Journal of Veterinary Behavior visar att ägarens stressnivå, emotionella närhet till hunden, samsovande och positiv inställning till bestraffningsbaserad träning hänger samman med separationsrelaterade problem hos hund. Forskarna föreslår att överdriven emotionell närhet från ägaren kan vara en viktigare riskfaktor än otrygg anknytning hos hunden själv.",
+      "source": "Journal of Veterinary Behavior",
+      "url": "https://www.rdpc.uevora.pt/handle/10174/40233",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "hundtemperament-kortisol-serotonin-2026",
+      "title": "Hundars temperament kopplas till salivhalter av kortisol och serotonin",
+      "category": "Beteende",
+      "date": "2026-02-04",
+      "location": "",
+      "summary": "I en sydkoreansk studie testades 24 hundars temperament med ett standardiserat beteendetest samtidigt som salivprover togs. Hundar som skötte sig bättre under testet hade lägre kortisolnivåer och en svagare kortisolökning efteråt, medan sambandet med signalämnet serotonin var svagare och inte statistiskt säkerställt.",
+      "source": "PLOS ONE",
+      "url": "https://www.myvetcandy.com/news/2026/2/5/dog-behavioral-traits-are-linked-with-salivary-hormone-cortisol-and-neurotransmitter-serotonin",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "gen-paverkar-kattens-spinnande-2025",
+      "title": "En gen kan förklara varför vissa katter spinner och jamar mer än andra",
+      "category": "Katter",
+      "date": "2025-05-29",
+      "location": "",
+      "summary": "Forskare vid Kyoto University fann att variationer i androgenreceptorgenen hos 280 tamkatter hänger samman med hur mycket katterna spinner och jamar mot människor. Den kortare genvarianten var kopplad till mer ljud, medan den längre varianten, som bara finns hos tamkatter och inte hos vilda kattdjur, kan göra tystare katter svårare att läsa av för sina ägare.",
+      "source": "Kyoto University / PLOS ONE",
+      "url": "https://www.kyoto-u.ac.jp/en/research-news/2025-05-29",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "niclosamid-prodrug-osteosarkom-hund-2026",
+      "title": "Ny prodrug-formulering visar lovande resultat mot osteosarkom hos hundar",
+      "category": "Hälsa",
+      "date": "2026-01-30",
+      "location": "",
+      "summary": "En liten klinisk studie på tio hundar med spontant uppkommet osteosarkom testade en intravenös nanopartikelformulering av niclosamidstearat som tillägg till cellgiftsbehandling. Resultaten visade lovande överlevnadssignaler och stödjer enligt forskarna att behandlingen nu prövas i en större fas III-studie.",
+      "source": "American Journal of Veterinary Research / dvm360",
+      "url": "https://www.dvm360.com/view/wrap-up-study-finds-promising-results-for-niclosamide-stearate-in-treating-canine-osteosarcoma-and-other-news",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "topic": "IT – Nya produkter",
   "description": "Nya IT- och teknikprodukter: hårdvara, mjukvara, AI och gaming. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-04",
-  "item_count": 147,
+  "last_updated": "2026-10-11",
+  "item_count": 152,
   "items": [
     {
       "id": "nvidia-rtx-spark-2026",
@@ -1768,6 +1768,66 @@
       "url": "https://www.macworld.com/article/672537/when-is-apples-next-event.html",
       "added_on": "2026-10-04",
       "collected_week": "2026-W40"
+    },
+    {
+      "id": "google-pixel-oktober-2026-sakerhetsuppdatering",
+      "title": "Pixel-telefoner får oktobers stora säkerhetsuppdatering",
+      "category": "Säkerhet",
+      "date": "2026-10-06",
+      "location": "",
+      "summary": "Google har rullat ut oktobers säkerhetsuppdatering till Pixel-telefoner med Android 17, som åtgärdar närmare 30 säkerhetsbrister samt buggar i tangentbord, samtalsljud och bildrotering. Uppdateringen blir sannolikt den sista stora patchen för Pixel 6 och 6 Pro.",
+      "source": "Beebom",
+      "url": "https://gadgets.beebom.com/news/google-pixel-phones-october-2026-security-update-rolled-out",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "apple-welcome-home-event-2026",
+      "title": "Apple bekräftar event \"Welcome Home\" om smarta hem-prylar",
+      "category": "Nyhet",
+      "date": "2026-10-09",
+      "location": "",
+      "summary": "Apple har officiellt bjudit in media till ett event i New York den 13 oktober under namnet \"Welcome Home\", där bolaget väntas visa en ny smart hem-hubb samt uppdaterade HomePod mini och Apple TV 4K. Företaget har ännu inte bekräftat exakt vilka produkter som visas.",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/10/09/apple-welcome-home-launch/",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "gears-of-war-e-day-slapp-2026",
+      "title": "Gears of War: E-Day har släppts till hyllande recensioner",
+      "category": "Spel",
+      "date": "2026-10-06",
+      "location": "",
+      "summary": "Prequel-spelet Gears of War: E-Day lanserades den 6 oktober till Xbox, PC och Game Pass och har fått goda betyg från de flesta recensenter, med särskilt beröm för karaktärerna och stridssystemet, även om några kritiker tycker att berättelsen och den öppna världen känns upprepande.",
+      "source": "Windows Central",
+      "url": "https://www.windowscentral.com/gaming/xbox/gears-of-war-e-day-review-round-up",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "star-wars-galactic-racer-slapp-2026",
+      "title": "Star Wars: Galactic Racer har lanserats",
+      "category": "Spel",
+      "date": "2026-10-06",
+      "location": "",
+      "summary": "Podracing-spelet Star Wars: Galactic Racer från Secret Mode och Fuse Games släpptes den 6 oktober till PS5, Xbox Series X|S och PC, med en handling förlagd till Yttre randen och ett gästframträdande av Sebulba.",
+      "source": "Secret Mode",
+      "url": "https://wearesecretmode.com/news/star-wars-galactic-racer-release-date",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "out-of-bounds-showcase-2026",
+      "title": "Indiemässan Out of Bounds visade 16 nya spel",
+      "category": "Spel",
+      "date": "2026-10-06",
+      "location": "",
+      "summary": "Den digitala indiespelsmässan Out of Bounds sändes den 6 oktober och presenterade 16 kommande oberoende spel från studior runt om i världen, med två helt nya avslöjanden bland dem.",
+      "source": "Games.gg",
+      "url": "https://games.gg/news/out-of-bounds-2026-showcase-reveals-16-indie-games-this-october/",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "topic": "Rymden",
   "description": "Raketuppskjutningar, rymdsonder, astronomiska upptäckter och rymdindustri. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-04",
-  "item_count": 85,
+  "last_updated": "2026-10-11",
+  "item_count": 90,
   "items": [
     {
       "id": "ariane-6-amazon-leo-tyngsta-lasten-2026",
@@ -1024,6 +1024,66 @@
       "url": "https://www.cnn.com/2026/10/02/science/radio-signal-detection-exoplanet-beta-pictoris-b",
       "added_on": "2026-10-04",
       "collected_week": "2026-W40"
+    },
+    {
+      "id": "falcon-heavy-nrol-97-forsta-nro-uppdrag-2026",
+      "title": "SpaceX Falcon Heavy sköt upp sitt första uppdrag för amerikanska underrättelsemyndigheten NRO",
+      "category": "Nyhet",
+      "date": "2026-10-02",
+      "location": "",
+      "summary": "Falcon Heavy lyfte från Kennedy Space Center med den hemliga satelliten NROL-97, det första NRO-uppdraget på raketen efter 22 tidigare flygningar med Falcon 9. Båda sidoboostrarna landade tillbaka på Cape Canaveral, vilket gav SpaceX fyra boosterlandningar på ett och samma dygn.",
+      "source": "AIAA",
+      "url": "https://aiaa.org/?p=36769",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "nasa-sprite-cubesat-transporter18-2026",
+      "title": "NASA:s kubsat SPRITE sköts upp för att studera supernovarester och galaxers joniserande strålning",
+      "category": "Forskning",
+      "date": "2026-10-01",
+      "location": "",
+      "summary": "Den NASA-finansierade kubsatelliten SPRITE följde med SpaceX Transporter-18-uppdraget från Vandenberg och ska undersöka hur högenergistrålning och materia rör sig genom galaxer. Projektet leds av NASA:s Marshall-center tillsammans med MIT och Georgia Tech.",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/blogs/smallsatellites/2026/10/01/nasa-smallsats-launch-to-advance-science-technology-orbital-operations/",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "google-suncatcher-ai-satellit-rymden-2026",
+      "title": "Google testar AI-chip i rymden med första Suncatcher-satelliten",
+      "category": "Produkt",
+      "date": "2026-10-01",
+      "location": "",
+      "summary": "Googles första prototypsatellit inom projektet Suncatcher följde med samma Transporter-18-uppskjutning och bär fyra TPU-chip för att testa om AI-hårdvara klarar strålning, vibrationer och värmeavledning i omloppsbana. Bolaget vill på sikt bygga ett nätverk av satelliter länkade med laser för AI-beräkningar i rymden.",
+      "source": "Space.com",
+      "url": "https://www.space.com/space-exploration/satellites/spacex-google-project-suncatcher-ai-satellite-transporter-18-mission",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "nasa-starliner-1-obemannad-testflygning-december-2026",
+      "title": "NASA siktar på obemannad Starliner-testflygning i december efter tidigare tekniska problem",
+      "category": "Nyhet",
+      "date": "2026-09-29",
+      "location": "",
+      "summary": "NASA meddelade att Boeings Starliner ska göra en obemannad testflygning, Starliner-1, tidigast i december för att verifiera förbättringar efter de tidigare trimmer- och heliumläckageproblemen. Först därefter kan en ny bemannad flygning bli aktuell.",
+      "source": "Fox 13 News",
+      "url": "https://www.fox13news.com/news/nasa-boeing-discuss-whats-next-starliner",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "frb-20240304b-mest-avlagsna-radioblixt-2026",
+      "title": "Astronomer bekräftar den mest avlägsna snabba radioblixten som hittills upptäckts",
+      "category": "Forskning",
+      "date": "2026-10-08",
+      "location": "",
+      "summary": "Ett forskarlag lett från University of Sydney publicerade i tidskriften Science att radioblixten FRB 20240304B kommer från en galax med rödförskjutning 2,148, vilket motsvarar universums första tre miljarder år. James Webb-teleskopet användes för att identifiera värdgalaxen, som var alldeles för svag för markbaserade teleskop.",
+      "source": "Sky & Telescope",
+      "url": "https://skyandtelescope.org/astronomy-news/fast-radio-burst-shatters-distance-record/",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
     }
   ]
 }

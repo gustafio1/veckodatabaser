@@ -2,8 +2,8 @@
   "topic": "Cykling",
   "description": "Proffscykling, svenska cyklister, motionslopp, mountainbike och utrustning. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-04",
-  "item_count": 73,
+  "last_updated": "2026-10-11",
+  "item_count": 78,
   "items": [
     {
       "id": "pogacar-gula-trojan-etapp-3-2026",
@@ -868,6 +868,66 @@
       "url": "https://scf.se/cykelcross/nyheter/",
       "added_on": "2026-10-04",
       "collected_week": "2026-W40"
+    },
+    {
+      "id": "soderqvist-em-tempo-slovenien-2026",
+      "title": "Söderqvist åtta i EM-tempot i Slovenien",
+      "category": "Tävling",
+      "date": "2026-10-06",
+      "location": "Slovenien",
+      "summary": "Jakob Söderqvist slutade på åttonde plats i herrarnas tempolopp vid landsvägs-EM i Slovenien och fick beröm av förbundskaptenerna för insatsen.",
+      "source": "Svenska Cykelförbundet",
+      "url": "https://scf.se/landsvag/",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "wandel-em-tempo-slovenien-2026",
+      "title": "Wändel niondeplats i samma EM-tempo",
+      "category": "Tävling",
+      "date": "2026-10-06",
+      "location": "Slovenien",
+      "summary": "Elias Wändel körde in på nionde plats i herrarnas tempolopp vid landsvägs-EM i Slovenien, strax bakom lagkamraten Jakob Söderqvist.",
+      "source": "Svenska Cykelförbundet",
+      "url": "https://scf.se/landsvag/",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "borgstrom-em-linjelopp-slovenien-2026",
+      "title": "Borgström gjorde stark insats i damelitens EM-linjelopp",
+      "category": "Tävling",
+      "date": "2026-10-03",
+      "location": "Slovenien",
+      "summary": "Julia Borgström stod för en stark insats i damelitens linjelopp vid landsvägs-EM i Slovenien, i ett mästerskap som inledde den svenska landslagstruppens höstprogram.",
+      "source": "Svenska Cykelförbundet",
+      "url": "https://scf.se/landsvag/",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "svenska-juniorer-em-fjardeplats-slovenien-2026",
+      "title": "Svenska juniorer kämpade om fjärdeplats vid landsvägs-EM",
+      "category": "Tävling",
+      "date": "2026-10-03",
+      "location": "Slovenien",
+      "summary": "Två svenska juniorer låg i en grupp som kämpade om fjärdeplatsen vid landsvägs-EM i Slovenien, en av flera lovande insatser från den svenska ungdomstruppen under mästerskapet.",
+      "source": "Svenska Cykelförbundet",
+      "url": "https://scf.se/landsvag/landslagsprogram-2026/",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "scf-sm-arrangorer-atta-grenar-2026",
+      "title": "Svenska Cykelförbundet söker SM-arrangörer till åtta grenar",
+      "category": "Nyhet",
+      "date": "2026-10-04",
+      "location": "",
+      "summary": "Svenska Cykelförbundet har gått ut med en förfrågan om arrangörer till nästa års svenska mästerskap i åtta olika cykelgrenar, en process som varje höst formar kommande säsongs tävlingskalender.",
+      "source": "Svenska Cykelförbundet",
+      "url": "https://scf.se/forbundet/svenska-cykelforbundet-soker-sm-arrangorer-2026-till-atta-grenar/",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
     }
   ]
 }

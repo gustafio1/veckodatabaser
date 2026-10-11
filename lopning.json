@@ -2,8 +2,8 @@
   "topic": "Löpning",
   "description": "Lopp och maraton, svensk löparelit, träningsforskning och utrustning. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-04",
-  "item_count": 73,
+  "last_updated": "2026-10-11",
+  "item_count": 78,
   "items": [
     {
       "id": "stockholm-marathon-kiptoo-vinner-2026",
@@ -862,6 +862,66 @@
       "url": "https://www.outdoor.se/loparskor-vinter",
       "added_on": "2026-10-04",
       "collected_week": "2026-W40"
+    },
+    {
+      "id": "goteborg-marathon-resultat-2026",
+      "title": "Göteborg Marathon avgjordes med preliminär seger för Anton Gustafsson",
+      "category": "Tävling",
+      "date": "2026-10-10",
+      "location": "Göteborg",
+      "summary": "Göteborg Marathon gick av stapeln lördagen den 10 oktober. Enligt preliminära resultat försvarade Anton Gustafsson sin seger från föregående år på herrsidan, medan Christina Nordback tog damsegern. De officiella resultaten väntas bekräftas av arrangören inom kort.",
+      "source": "Hurbra.se",
+      "url": "https://hurbra.se/goteborg-marathon-2026-resultat/",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "umemaran-umea-2026",
+      "title": "Umemaran samlade löpare till halv- och helmaraton i Umeå",
+      "category": "Tävling",
+      "date": "2026-10-10",
+      "location": "Umeå",
+      "summary": "Umemaran arrangerades i Umeå lördagen den 10 oktober med distanserna halv- och helmaraton, och blev ett av höstens större norrländska löparevenemang.",
+      "source": "Löparkalendern",
+      "url": "https://loparkalendern.se/",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "gih-forskning-loopstil-superskor-2026",
+      "title": "GIH studerar hur löpstil och \"superskor\" påverkar skaderisk",
+      "category": "Forskning",
+      "date": "2026-10-07",
+      "location": "Stockholm",
+      "summary": "Ett pågående forskningsprojekt vid Gymnastik- och idrottshögskolan undersöker över flera år hur samspelet mellan löpstil och avancerade tävlingsskor (så kallade superskor) påverkar löpekonomi och skaderisk, med över 100 motionslöpare och svenska elitlöpare som deltagare.",
+      "source": "GIH",
+      "url": "https://www.gih.se/forskning/forskningsprojekt/hur-paverkar-samspelet-av-lopstil-och-aft-skor-superskor-prestation-och-skaderisk-under-lopning",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "svenskt-maratonrekord-suldan-hassan-bakgrund-2026",
+      "title": "Suldan Hassan innehar fortfarande det svenska maratonrekordet",
+      "category": "Bakgrund",
+      "date": "2026-10-06",
+      "location": "",
+      "summary": "Det svenska herrrekordet på maraton, 2.07.36, sattes av Suldan Hassan i Sevilla 2024 och står sig alltjämt. På damsidan håller Isabellah Andersson rekordet sedan segerloppet i Dubai 2011.",
+      "source": "Marathons.com",
+      "url": "https://www.marathons.com/sv/maraton",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "svt-guide-loparfester-sverige-2026",
+      "title": "SVT guidar till höstens största löparfester i Sverige",
+      "category": "Bakgrund",
+      "date": "2026-10-05",
+      "location": "",
+      "summary": "SVT Sport har sammanställt en guide till årets största svenska löplopp, med Stockholm Marathon – Nordens största maratonlopp sedan 1979 med omkring 20 000 deltagare – och Göteborgsvarvet i centrum.",
+      "source": "SVT Sport",
+      "url": "https://www.svt.se/sport/friidrott/guide-arets-storsta-loparfester-i-sverige-2026",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
     }
   ]
 }

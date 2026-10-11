@@ -2,8 +2,8 @@
   "topic": "Friluftsliv",
   "description": "Vandringsleder, friluftsutrustning, naturvård, allemansrätt och äventyr. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-04",
-  "item_count": 69,
+  "last_updated": "2026-10-11",
+  "item_count": 74,
   "items": [
     {
       "id": "pusselleden-invigd-sigtuna-2026",
@@ -818,6 +818,66 @@
       "url": "https://www.lansstyrelsen.se/halland/besoksmal/friluftsliv-och-allemansratt/aktiviteter-och-guidningar-2026.html",
       "added_on": "2026-10-04",
       "collected_week": "2026-W40"
+    },
+    {
+      "id": "ekeredsrundan-ny-vandringsled-ulricehamn-2026",
+      "title": "Ny vandringsled invigd i Ulricehamn väcker debatt om skogsavverkning",
+      "category": "Nyhet",
+      "date": "2026-10-10",
+      "location": "Ulricehamn",
+      "summary": "Ulricehamns kommun har anlagt den nya vandringsleden Ekeredsrundan nära Brunnsnäs, men den samtidiga kalhuggningen av skog intill leden har väckt kritik bland lokala friluftsintresserade.",
+      "source": "UT.se",
+      "url": "https://ut.se/ulricehamn/oppnade-ny-vandringsled-da-avverkades-skogen",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "igenvuxna-utsikter-sunne-2026",
+      "title": "Igenvuxna utsiktsplatser engagerar vandrare i Sunne",
+      "category": "Nyhet",
+      "date": "2026-10-09",
+      "location": "Sunne",
+      "summary": "Flera populära vandringsstråk kring Sunne, bland dem Åmbergsbanan och Sundsbergsleden, har vuxit igen och tappat sina utsikter, vilket engagerat boende som hoppas på röjning från kommunen.",
+      "source": "Fryksdalsbygden",
+      "url": "https://fryksdalsbygden.se/sunne/fortfarande-igenvaxt-vid-utsikten-hoppas-kunna-losa-det",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "naturskyddsforeningen-fossillan-arktis-2026",
+      "title": "Naturskyddsföreningen kritiserar nya miljardlån till fossilbolag i Arktis",
+      "category": "Nyhet",
+      "date": "2026-10-08",
+      "location": "",
+      "summary": "Naturskyddsföreningen pekar i en ny genomgång ut svenska banker som fortsatta långivare till fossilbolag med verksamhet i Arktis, trots klimatlöften, vilket organisationen menar hotar både klimatet och orörd natur.",
+      "source": "Naturskyddsföreningen",
+      "url": "https://www.naturskyddsforeningen.se/",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "naturskyddsforeningen-cop17-armenien-2026",
+      "title": "Naturskyddsföreningen tar fram ståndpunkter inför CBD-mötet i Armenien",
+      "category": "Nyhet",
+      "date": "2026-10-07",
+      "location": "",
+      "summary": "Inför FN:s biologiska mångfaldsmöte CBD COP17 i Armenien har Naturskyddsföreningen publicerat positionspapper som bland annat rör skydd av naturområden viktiga för det svenska friluftslivet.",
+      "source": "Naturskyddsföreningen",
+      "url": "https://www.naturskyddsforeningen.se/",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "statliga-fjalleder-forvaltning-bakgrund-2026",
+      "title": "550 mil statliga fjälleder förvaltas av länsstyrelserna",
+      "category": "Bakgrund",
+      "date": "2026-10-06",
+      "location": "",
+      "summary": "Det statliga fjälledssystemet omfattar omkring 550 mil leder för vandring och skidåkning. Naturvårdsverket har det övergripande ansvaret, medan länsstyrelserna sköter den löpande förvaltningen av leder och vindskydd som många friluftsmänniskor förlitar sig på.",
+      "source": "Riksdagen",
+      "url": "https://data.riksdagen.se/fil/089EB245-BE55-4D9B-A8C5-C963D6CCBBC5",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
     }
   ]
 }

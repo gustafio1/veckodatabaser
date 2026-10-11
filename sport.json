@@ -2,8 +2,8 @@
   "topic": "Sport – Fotboll, Tennis & Bordtennis",
   "description": "Nyheter inom fotboll, tennis och bordtennis med svenskt fokus. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-04",
-  "item_count": 117,
+  "last_updated": "2026-10-11",
+  "item_count": 122,
   "items": [
     {
       "id": "allsvenskan-sommaruppehall-2026",
@@ -1392,6 +1392,66 @@
       "url": "https://www.svt.se/sport/bordtennis/sa-sander-svt-bordtennis-2026",
       "added_on": "2026-10-04",
       "collected_week": "2026-W40"
+    },
+    {
+      "id": "moregardh-kvartsfinal-china-smash-2026",
+      "title": "Möregårdh åkte ut i kvartsfinal i WTT China Smash",
+      "category": "Tävling",
+      "date": "2026-10-09",
+      "location": "Peking",
+      "summary": "Truls Möregårdh, fjärdeseedad, föll med 0–4 i set mot taiwanesen Lin Yun-ju i kvartsfinalen av WTT China Smash i Peking, efter att ha tagit sig förbi första omgången i en femsetsmatch.",
+      "source": "China Smash / WTT",
+      "url": "https://china-smash.com/",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "bordtennis-em-ljubljana-premiar-2026",
+      "title": "Bordtennis-EM i Ljubljana inledd med fem svenska matcher",
+      "category": "Tävling",
+      "date": "2026-10-11",
+      "location": "Ljubljana",
+      "summary": "EM i bordtennis drog igång i Ljubljana med fem svenska matcher redan premiärdagen. Truls Möregårdh, rankad femma i världen, pekas ut som Sveriges största medaljhopp i en trupp som även räknar in Kristian Karlsson och Anton Källberg.",
+      "source": "Svenska Bordtennisförbundet",
+      "url": "https://sbtf.se/em-2026/herrtruppen-till-em-i-ljubljana/",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "kallberg-karlsson-herrdubbel-em-ljubljana-2026",
+      "title": "Källberg och Karlsson satsar på herrdubbelmedalj i Ljubljana",
+      "category": "Tävling",
+      "date": "2026-10-11",
+      "location": "Ljubljana",
+      "summary": "Anton Källberg och Kristian Karlsson bildar ett av Sveriges herrdubbelpar i bordtennis-EM, och paret räknas som Karlssons starkaste medaljchans i mästerskapet.",
+      "source": "Hurbra.se",
+      "url": "https://hurbra.se/kristian-karlsson-bordtennis-em-2026/",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "damlandslaget-fotboll-litauen-vm-kval-2026",
+      "title": "Damlandslaget mötte Litauen i VM-kvalets playoff",
+      "category": "Nyhet",
+      "date": "2026-10-09",
+      "location": "",
+      "summary": "Sveriges damlandslag i fotboll inledde playoff-rundan i kvalet till VM 2027 i Brasilien mot Litauen, efter en tredjeplats i den egna VM-kvalgruppen bakom Danmark och Italien. Returmatchen spelas den 13 oktober, och vinnaren väntas möta segraren mellan Tjeckien och Skottland i en novemberfinal.",
+      "source": "SVT Sport",
+      "url": "https://www.tv4.se/artikel/tt-251104-vmkval1-b4cbfbaf/har-ar-sveriges-vm-kvalmotstand-kliar-i-en",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "allsvenskan-program-slutspurt-omgang-24-2026",
+      "title": "Allsvenskans slutspurt: programmet för omgång 24 och 25 klart",
+      "category": "Nyhet",
+      "date": "2026-10-11",
+      "location": "",
+      "summary": "Med säsongsfinalen satt till 29 november stundar Allsvenskans slutspurt. Omgång 24 spelas 16–19 oktober med bland annat Malmö FF–BK Häcken och AIK–IFK Göteborg, och omgång 25 inleds redan 23 oktober med Elfsborg–Malmö FF.",
+      "source": "Fotbolldirekt",
+      "url": "https://fotbolldirekt.se/allsvenskan/klart-sa-spelas-omgang-24-30-i-allsvenskan/",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
     }
   ]
 }

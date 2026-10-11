@@ -2,8 +2,8 @@
   "topic": "Schack",
   "description": "Stora turneringar, elitspelare, onlineschack, svenskt schack och talanger. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-04",
-  "item_count": 70,
+  "last_updated": "2026-10-11",
+  "item_count": 75,
   "items": [
     {
       "id": "sindarov-vinner-kandidatturneringen-2026",
@@ -830,6 +830,66 @@
       "url": "https://schack.se/nyhet/sverige/2026/10/helglasning-med-nya-tidskrift-for-schack/",
       "added_on": "2026-10-04",
       "collected_week": "2026-W40"
+    },
+    {
+      "id": "jung-min-seo-vinner-snabbschack-sm-2026",
+      "title": "Jung Min Seo vann Snabbschack-SM i Västerås",
+      "category": "Tävling",
+      "date": "2026-10-04",
+      "location": "Västerås",
+      "summary": "Jung Min Seo från Limhamns SK vann Snabbschack-SM i Västerås på 8 poäng av 9 möjliga, i en tävling med 106 deltagare på Rudbeckianska gymnasiet och förstapris på 10 000 kronor.",
+      "source": "Sveriges Schackförbund",
+      "url": "https://schack.se/nyhet/ettan/2026/10/sm-i-snabbschack-jung-min-tog-hem-segern/",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "axel-kleist-leder-skol-sm-karlstad-2026",
+      "title": "Axel Kleist leder äldsta klassen i Skol-SM i Karlstad",
+      "category": "Tävling",
+      "date": "2026-10-11",
+      "location": "Karlstad",
+      "summary": "I Skol-SM i Karlstad, som samlar skolelever från hela landet 9–11 oktober, går Axel Kleist i täten i den äldsta åldersklassen när mästerskapet går mot sitt avslut.",
+      "source": "Sveriges Schackförbund",
+      "url": "https://schack.se/tavlingar/ungdomstavlingar/skol-sm/",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "sk-rockaden-dominerar-ratingtoppen-bakgrund-2026",
+      "title": "SK Rockaden dominerar den svenska ratingtoppen",
+      "category": "Bakgrund",
+      "date": "2026-10-08",
+      "location": "",
+      "summary": "De fyra högst rankade spelarna på Svenska Schackförbundets ratinglista spelar samtliga för klubben SK Rockaden, en dominans som sätter sin prägel på årets Sverigemästarklass.",
+      "source": "Sveriges Schackförbund",
+      "url": "https://schack.se/tavlingar/ranking/ratingtoppen/",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "rilton-cup-nyarsturnering-bakgrund-2026",
+      "title": "Rilton Cup samlar hundratals spelare i Stockholm över nyår",
+      "category": "Bakgrund",
+      "date": "2026-10-09",
+      "location": "Stockholm",
+      "summary": "Rilton Cup, Nordens traditionsenliga nyårsturnering på Scandic Continental i Stockholm, arrangeras återigen som en niorundors schweizerturnering med krav på minst 2200 i rating i huvudgruppen, med lägre tröskel för kvinnor och vissa juniorer.",
+      "source": "Rilton.se",
+      "url": "https://rilton.se/images/pdf/Invitation_Rilton_Cup_2024_2025.pdf",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "pia-cramling-cup-bakgrund-2026",
+      "title": "Pia Cramling Cup etablerar sig som ny satsning för flickor och kvinnor",
+      "category": "Bakgrund",
+      "date": "2026-10-10",
+      "location": "Stockholm",
+      "summary": "Den nyinstiftade Pia Cramling Cup, uppkallad efter den svenska stormästaren, spelades för första gången i januari 2026 i anslutning till Rilton Cup och är tänkt att bli en återkommande satsning på kvinnligt schack.",
+      "source": "FIDE",
+      "url": "https://wom.fide.com/wp-content/uploads/2025/11/1st-Pia-Cramling-Cup-FULL-REGULATIONS.docx",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
     }
   ]
 }

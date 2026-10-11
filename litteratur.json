@@ -2,8 +2,8 @@
   "topic": "Litteratur",
   "description": "Boksläpp, litterära priser, författarnyheter och förlagsbranschen. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-04",
-  "item_count": 85,
+  "last_updated": "2026-10-11",
+  "item_count": 90,
   "items": [
     {
       "id": "taiwan-travelogue-international-booker-2026",
@@ -1024,6 +1024,66 @@
       "url": "https://lithub.com/here-are-the-bookies-odds-for-the-2026-nobel-prize-in-literature/",
       "added_on": "2026-10-04",
       "collected_week": "2026-W40"
+    },
+    {
+      "id": "nobelpriset-litteratur-2026-anne-carson",
+      "title": "Anne Carson tilldelas Nobelpriset i litteratur 2026",
+      "category": "Pris",
+      "date": "2026-10-08",
+      "location": "Stockholm",
+      "summary": "Den kanadensiska poeten och essäisten Anne Carson får Nobelpriset i litteratur 2026 för sitt lekfulla sätt att röra sig i den klassiska traditionen. Beskedet kom från Svenska Akademien i Börshuset.",
+      "source": "SVT Kultur",
+      "url": "https://www.svt.se/kultur/nobelpriset-i-litteratur-2026",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "anne-carson-svenska-oversattningar-2026",
+      "title": "Anne Carsons böcker finns redan tillgängliga i svensk översättning",
+      "category": "Nyhet",
+      "date": "2026-10-08",
+      "location": "",
+      "summary": "Efter Nobelbeskedet uppmärksammas att flera av Anne Carsons verk redan finns på svenska, bland annat ”Fel Norma” i Lars-Håkan Svenssons översättning och två böcker översatta av Niklas Haga.",
+      "source": "SVT Kultur",
+      "url": "https://www.svt.se/kultur/anne-carson-respekterar-inte-nagra-som-helst-granser",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "nordiska-radets-barnlitteraturpris-2026-svenska-nominerade",
+      "title": "Två svenska titlar nominerade till Nordiska rådets barn- och ungdomslitteraturpris 2026",
+      "category": "Pris",
+      "date": "2026-10-20",
+      "location": "",
+      "summary": "Johanna Gustafsson-Ahlzéns ”Det känns så fake” och Elin Lindells ”Jenka och jag” finns med på listan över 13 nominerade verk. Vinnaren koras den 20 oktober i samband med Nordiska rådets session i Helsingfors.",
+      "source": "Norden.org",
+      "url": "https://www.norden.org/sv/news/har-ar-de-nominerade-till-nordiska-radets-barn-och-ungdomslitteraturpris-2026",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "katarina-wennstam-arets-deckarforfattare-2026",
+      "title": "Katarina Wennstam utsedd till Årets svenska deckarförfattare 2026",
+      "category": "Pris",
+      "date": "2026-10-01",
+      "location": "",
+      "summary": "Wennstam fick utmärkelsen under Crimetime Awards på Bokmässan samma dag som fjärde delen i hennes serie Sekelskiftesmorden kom ut.",
+      "source": "Bookmark Förlag",
+      "url": "https://via.tt.se/pressmeddelande/4568071/katarina-wennstam-tilldelas-arets-hederspris-och-arets-svenska-deckarforfattare-2026?lang=sv",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "bergenstav-jakob-flodvag-deckarserie-2026",
+      "title": "Jeanette Bergenstav och Nis Jakob fortsätter dansk-svenska deckarserien om Jannike och Jonas",
+      "category": "Nyhet",
+      "date": "2026-10-11",
+      "location": "",
+      "summary": "I ”Flodvåg”, den andra delen i det svensk-danska deckarsamarbetet, hittas en ung journalist hängd under Öresundsbron på Malmösidan – ett spår som leder till en religiös sekt i Värmland.",
+      "source": "BookBeat",
+      "url": "https://www.bookbeat.com/dk/book/flodvag-2009774",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
     }
   ]
 }

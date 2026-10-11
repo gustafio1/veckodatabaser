@@ -2,8 +2,8 @@
   "topic": "Musik",
   "description": "Nya album, konserter, festivaler, svensk musik och musikbranschen. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-04",
-  "item_count": 83,
+  "last_updated": "2026-10-11",
+  "item_count": 88,
   "items": [
     {
       "id": "madonna-confessions-ii-slapp-2026",
@@ -1000,6 +1000,66 @@
       "url": "https://sverigetopplistan.se/",
       "added_on": "2026-10-04",
       "collected_week": "2026-W40"
+    },
+    {
+      "id": "stockholm-jazz-festival-2026",
+      "title": "Stockholm Jazz Festival hölls 9–10 oktober",
+      "category": "Festival",
+      "date": "2026-10-09",
+      "location": "Stockholm",
+      "summary": "Stockholm Jazz Festival samlade ett brett program av jazzkonserter i huvudstaden den 9–10 oktober.",
+      "source": "Konsertkollen",
+      "url": "https://konsertkollen.se/stockholm/oktober",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "melodifestivalen-2027-ny-projektledare-abrahamsson",
+      "title": "Hans Abrahamsson ny projektledare för Melodifestivalen 2027",
+      "category": "Nyhet",
+      "date": "2026-10-06",
+      "location": "",
+      "summary": "Hans Abrahamsson, som arbetat på SVT sedan 2024, tar över som projektledare och exekutiv producent för Melodifestivalen 2027 efter Anders Wistbacka.",
+      "source": "Eurovoix",
+      "url": "https://eurovoix.com/?p=200736",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "svenska-album-23-oktober-2026",
+      "title": "Flera svenska artister släpper nya album den 23 oktober",
+      "category": "Skivsläpp",
+      "date": "2026-10-23",
+      "location": "",
+      "summary": "Den 23 oktober väntas nya album från bland andra Diket (”Dikter i solen”), Junior Brielle (”Nya Känslor”), HMLT (”FANGS”) och Lagun (”Tender Harmony”).",
+      "source": "Kultmagasin",
+      "url": "https://kultmagasin.se/kommande-albumslapp-oktober-2026",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "markoolio-rival-stockholm-oktober-2026",
+      "title": "Markoolio gör flera spelningar på Rival i Stockholm",
+      "category": "Konsert",
+      "date": "2026-10-09",
+      "location": "Stockholm",
+      "summary": "Markoolio spelar på klubben Rival i Stockholm flera kvällar i oktober, med start den 9 oktober.",
+      "source": "Konsertkollen",
+      "url": "https://konsertkollen.se/stockholm/oktober",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "annexet-ison-fille-tyla-oktober-2026",
+      "title": "Annexet i Stockholm bjuder på Ison & Fille och Tyla i slutet av oktober",
+      "category": "Konsert",
+      "date": "2026-10-24",
+      "location": "Stockholm",
+      "summary": "Ison & Fille spelar på Annexet den 24 oktober, följt av Tyla på samma scen den 29 oktober.",
+      "source": "Konsertkollen",
+      "url": "https://konsertkollen.se/stockholm/oktober",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
     }
   ]
 }

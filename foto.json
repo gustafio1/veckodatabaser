@@ -2,8 +2,8 @@
   "topic": "Fotografi",
   "description": "Nya kameror och objektiv, fototeknik, utställningar, tävlingar och fotografer. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-04",
-  "item_count": 83,
+  "last_updated": "2026-10-11",
+  "item_count": 88,
   "items": [
     {
       "id": "canon-eos-r6-v-lanseras-2026",
@@ -1000,6 +1000,66 @@
       "url": "https://petapixel.com/2026/09/29/this-film-photography-inspired-await-digital-camera-is-for-people-experiencing-digital-fatigue/",
       "added_on": "2026-10-04",
       "collected_week": "2026-W40"
+    },
+    {
+      "id": "sigma-oktober-objektiv-2026",
+      "title": "Sigma lanserar två nya objektiv för APS-C och Nikon Z",
+      "category": "Produktlansering",
+      "date": "2026-10-08",
+      "location": "",
+      "summary": "Sigma presenterade den 8 oktober telezoomen 50-120mm F2.8 DC OS för APS-C och vidvinkelzoomen 16-300mm F3.5-6.7 DC OS för Nikons Z-fattning.",
+      "source": "Nikon Rumors",
+      "url": "https://nikonrumors.com/2026/10/08/sigma-16-300mm-f-3-5-6-7-dc-os-contemporary-lens-for-nikon-z-mount-announced.aspx/",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "sigma-produktlansering-24-oktober-2026",
+      "title": "Sigma har bokat in ett nytt produktlanseringsevent den 24 oktober",
+      "category": "Teaser",
+      "date": "2026-10-24",
+      "location": "",
+      "summary": "Sigma har bekräftat ett lanseringsevenemang den 24 oktober, och ryktas kunna visa en ny Sigma fp II eller ett snabbt 65mm-objektiv.",
+      "source": "Photo Rumors",
+      "url": "https://photorumors.com/2026/10/01/sigma-has-a-new-product-launch-event-scheduled-for-october-24th/",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "zanele-muholi-hasselblad-center-utstallning-2026",
+      "title": "Zanele Muholis retrospektiv öppnar på Hasselblad Center",
+      "category": "Utställning",
+      "date": "2026-10-10",
+      "location": "Göteborg",
+      "summary": "Hasselbladpristagaren Zanele Muholi hedras med en stor utställning på Hasselblad Center som visas till den 4 april 2027, i samband med Hasselblad Award Week.",
+      "source": "Hasselblad Foundation",
+      "url": "https://www.mynewsdesk.com/se/hasselblad-foundation",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "fotografiska-shenzhen-oppnar-2026",
+      "title": "Fotografiska öppnar sitt femte museum i Shenzhen",
+      "category": "Nyhet",
+      "date": "2026-10-01",
+      "location": "Shenzhen",
+      "summary": "Det nya museet i Shenzhen Bay blir Fotografiskas andra anläggning i Kina och femte globalt, med öppningsutställningar av bland andra Michael Najjar och Shi Guowei.",
+      "source": "Fotografiska",
+      "url": "https://shenzhen.fotografiska.com/en/press/fotografiska-announces-new-museum-in-shenzhen-expanding-its-presence-in-china",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "mats-andersson-muse-photography-awards-2026",
+      "title": "Svensken Mats Andersson vinner guld i MUSE Photography Awards",
+      "category": "Pris",
+      "date": "2026-10-01",
+      "location": "",
+      "summary": "Fotografen Mats Andersson tog hem ett guld i 2026 års MUSE Photography Awards, en tävling som lockade över 4 000 bidrag från mer än 40 länder.",
+      "source": "matsandersson.nu",
+      "url": "https://matsandersson.nu/index.php/blog/224-with-over-4000-entries-from-more-than-40-countries-mats-andersson-wins-gold",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
     }
   ]
 }

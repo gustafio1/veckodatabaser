@@ -2,8 +2,8 @@
   "topic": "Film & TV",
   "description": "Biopremiärer, streaming, TV-serier, svensk film och filmfestivaler. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-04",
-  "item_count": 84,
+  "last_updated": "2026-10-11",
+  "item_count": 89,
   "items": [
     {
       "id": "sju-biopremiarer-juli-2026",
@@ -1012,6 +1012,66 @@
       "url": "https://variety.com/2026/film/global/london-film-festival-2026-competition-lineup-1236836085/",
       "added_on": "2026-10-04",
       "collected_week": "2026-W40"
+    },
+    {
+      "id": "ma-du-leva-biopremiar-2026",
+      "title": "”Må du leva” har biopremiär",
+      "category": "Premiär",
+      "date": "2026-10-10",
+      "location": "",
+      "summary": "Malin Dahls och Johnny Wernerssons nya svenska skräckkomedi, som visades första gången på Göteborgs filmfestival i januari, har ordinarie biopremiär den 10 oktober.",
+      "source": "MovieZine",
+      "url": "https://www.moviezine.se/nyheter/ma-du-leva-trailer",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "stockholms-filmfestival-2026-datum",
+      "title": "Stockholms filmfestival 2026 äger rum 11–22 november",
+      "category": "Festival",
+      "date": "2026-11-11",
+      "location": "Stockholm",
+      "summary": "Stockholms internationella filmfestival går av stapeln 11–22 november och väntas bjuda på ett brett program av svensk och internationell film.",
+      "source": "Stockholms filmfestival",
+      "url": "https://www.mynewsdesk.com/se/stockholms_filmfestival",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "dead-end-job-netflix-premiar-2026",
+      "title": "Sydkoreanska skräckfilmen ”Dead-End Job” har premiär på Netflix",
+      "category": "Premiär (Streaming)",
+      "date": "2026-10-09",
+      "location": "",
+      "summary": "Netflix lanserar den sydkoreanska skräckproduktionen ”Dead-End Job” den 9 oktober som en del av sitt oktoberutbud inför Halloween.",
+      "source": "Serienjunkies",
+      "url": "https://www.serienjunkies.de/buzz/netflix-serien-filme-oktober-2026-128205.html",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "yaga-hbo-max-premiar-2026",
+      "title": "Deckarserien ”Yaga” med Carrie-Anne Moss har premiär på HBO Max",
+      "category": "Premiär (Streaming)",
+      "date": "2026-10-02",
+      "location": "",
+      "summary": "Thrillerserien ”Yaga”, där Carrie-Anne Moss spelar en privatdetektiv, har premiär på HBO Max i oktober.",
+      "source": "Serienjunkies",
+      "url": "https://www.serienjunkies.de/news/serien/hbo-max-alle-neuen-serien-und-filme-im-oktober-2026-auf-einen-blick-94517363.html",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
+    },
+    {
+      "id": "lupin-sasong-4-netflix-premiar-2026",
+      "title": "Fjärde säsongen av ”Lupin” med Omar Sy har premiär på Netflix",
+      "category": "Premiär (Streaming)",
+      "date": "2026-10-01",
+      "location": "",
+      "summary": "Den franska kriminalserien ”Lupin” är tillbaka med en fjärde säsong på Netflix i oktober, med Omar Sy i huvudrollen.",
+      "source": "Serienjunkies",
+      "url": "https://www.serienjunkies.de/buzz/netflix-serien-filme-oktober-2026-128205.html",
+      "added_on": "2026-10-11",
+      "collected_week": "2026-W41"
     }
   ]
 }

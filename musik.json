@@ -3,7 +3,7 @@
   "description": "Nya album, konserter, festivaler, svensk musik och musikbranschen. Uppdateras varje vecka.",
   "schema_version": 1,
   "last_updated": "2026-10-18",
-  "item_count": 96,
+  "item_count": 101,
   "items": [
     {
       "id": "madonna-confessions-ii-slapp-2026",
@@ -1154,6 +1154,66 @@
       "summary": "Den brittiska rockveteranerna gör ett sent höstbesök i Göteborg som en del av sin pågående turné.",
       "source": "Festivaly",
       "url": "https://festivaly.eu/akce/goteborg?top=true",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "musikhjalpen-2026-tema-linkoping",
+      "title": "Musikhjälpen 2026 får temat psykisk hälsa i krig och kris",
+      "category": "Nyhet",
+      "date": "2026-10-14",
+      "location": "Linköping",
+      "summary": "Årets insamling går till insatser för psykisk hälsa i krig- och krisdrabbade områden och sänds från glasburen på Stora torget i Linköping, som är värdstad för första gången sedan 2015. Sändningen pågår 30 november–6 december.",
+      "source": "Radiohjälpen/TT",
+      "url": "https://via.tt.se/pressmeddelande/4573285/musikhjalpen-2026-for-psykisk-halsa-i-krig-och-kris?lang=sv",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "ska-nya-roster-sjunga-wiehe-tributalbum-2026",
+      "title": "Tributalbumet \"Ska nya röster sjunga\" till Mikael Wiehe släpps",
+      "category": "Albumsläpp",
+      "date": "2026-10-16",
+      "location": "Sverige",
+      "summary": "Flera framstående svenska artister tolkar Mikael Wiehes låtar på det nya hyllningsalbumet, med singeln \"Mitt hjärtas fågel\" som första smakprov.",
+      "source": "Mynewsdesk",
+      "url": "https://www.mynewsdesk.com/se/kulturbolaget/pressreleases/seinabo-sey-till-halmstad-och-malmoe-i-hoest-3437264",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "editors-nytt-album-oktober-2026",
+      "title": "Brittiska bandet Editors släpper nytt album",
+      "category": "Albumsläpp",
+      "date": "2026-10-16",
+      "location": "",
+      "summary": "Indierockbandet Editors ger ut sitt senaste studioalbum, ett av höstens mer uppmärksammade internationella släpp enligt musikmedia.",
+      "source": "DIY Magazine",
+      "url": "https://diymag.com/coming-up/2026/10",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "deep-purple-avicii-arena-2026",
+      "title": "Deep Purple spelar på Avicii Arena i Stockholm",
+      "category": "Konsert",
+      "date": "2026-10-26",
+      "location": "Stockholm",
+      "summary": "Det brittiska rockbandet gästar Stockholm med den unga brittiska rockgruppen JAYLER som förband, i en av höstens stora arenakonserter.",
+      "source": "Visit Stockholm",
+      "url": "https://www.visitstockholm.com/events/deep-purple-live-in-stockholm-avicii-arena/next/",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "florence-and-the-machine-everybody-screams-2026",
+      "title": "Florence + the Machine aviserar nytt album \"Everybody Screams\"",
+      "category": "Nyhet",
+      "date": "2026-10-31",
+      "location": "",
+      "summary": "Bandet har annonserat sitt nästa studioalbum med släpp i slutet av oktober, vilket väckt stor uppmärksamhet bland musikmedier internationellt.",
+      "source": "DIY Magazine",
+      "url": "https://diymag.com/coming-up/2026/10",
       "added_on": "2026-10-18",
       "collected_week": "2026-W42"
     }

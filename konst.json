@@ -2,8 +2,8 @@
   "topic": "Konst & design",
   "description": "Konstutställningar, design, arkitektur, auktioner och konstvärlden. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-11",
-  "item_count": 87,
+  "last_updated": "2026-10-18",
+  "item_count": 93,
   "items": [
     {
       "id": "moderna-museet-nisabas-hus-maleri-2026",
@@ -1048,6 +1048,78 @@
       "url": "https://www.dezeen.com/",
       "added_on": "2026-10-11",
       "collected_week": "2026-W41"
+    },
+    {
+      "id": "bukowskis-yung-lean-auktion-2026",
+      "title": "Bukowskis säljer Yung Leans konstverk på specialauktion",
+      "category": "Auktion",
+      "date": "2026-10-15",
+      "location": "Stockholm",
+      "summary": "Bukowskis håller en digital specialauktion 15–25 oktober med tolv verk, skulpturer och målningar, av artisten Jonatan Leandoer Håstad, mer känd som Yung Lean. Verken är själv utvalda av konstnären.",
+      "source": "hurbra.se",
+      "url": "https://hurbra.se/yung-lean-konst-auktion/",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "kristianstad-arkitekturpris-rattscentrum-2026",
+      "title": "Rättscentrum i Kristianstad vinner kommunens arkitekturpris",
+      "category": "Pris",
+      "date": "2026-10-14",
+      "location": "Kristianstad",
+      "summary": "Kristianstads kommun har utsett det nya Rättscentrum till vinnare av sitt arkitekturpris 2026, en utmärkelse som uppmärksammar god gestaltning i lokal arkitektur.",
+      "source": "Skåneplus",
+      "url": "https://skaneplus.se/category/kristianstad/",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "ersta25-stadsbyggnadspris-nominering-2026",
+      "title": "Ersta25 nominerat till Stockholms Stadsbyggnadspris",
+      "category": "Nyhet",
+      "date": "2026-10-13",
+      "location": "Stockholm",
+      "summary": "Projektet Ersta25, ritat av Kaminsky Arkitektur för Wallin Bostad, är en av nomineringarna till Stockholms Stadsbyggnadspris 2026.",
+      "source": "Arkitekten",
+      "url": "https://arkitekten.se/medarbetare/redaktionen/page/3",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "frieze-london-frieze-masters-2026",
+      "title": "Frieze London och Frieze Masters avslutade sin upplaga i Regent's Park",
+      "category": "Mässa",
+      "date": "2026-10-18",
+      "location": "London",
+      "summary": "De internationella konstmässorna Frieze London och Frieze Masters pågick 14–18 oktober i Regent's Park och samlade gallerier och samlare från hela världen.",
+      "source": "Finestre sull'Arte",
+      "url": "https://www.finestresullarte.info/en/market/this-week-s-auctions-photography-manuscripts-and-coins",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "phillips-editions-works-on-paper-2026",
+      "title": "Phillips lanserar höstens Editions & Works on Paper-auktioner",
+      "category": "Auktion",
+      "date": "2026-10-22",
+      "location": "New York",
+      "summary": "Auktionshuset Phillips inleder en serie på tre auktioner i New York med verk av bland andra Dalí, Morandi, Picasso, Warhol, Kusama och Hockney.",
+      "source": "Phillips",
+      "url": "https://www.phillips.com/press/release/phillips-announces-highlights-from-the-october-editions-works-on-paper-auctions-in-new-york",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "stockholm-furniture-fair-2027-urquiola",
+      "title": "Stockholm Furniture Fair flyttas till 2027 med Patricia Urquiola som gästdesigner",
+      "category": "Design",
+      "date": "2026-10-12",
+      "location": "Stockholm",
+      "summary": "Stockholmsmässan har beslutat att skjuta upp Stockholm Furniture Fair till 2027, då mässan återkommer i en omarbetad form vartannat år med Patricia Urquiola utsedd till Guest Creative.",
+      "source": "Stockholmsmässan",
+      "url": "https://www.mynewsdesk.com/se/stockholmsmassan/subjects/gastronomi",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
     }
   ]
 }

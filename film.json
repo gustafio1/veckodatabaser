@@ -2,8 +2,8 @@
   "topic": "Film & TV",
   "description": "Biopremiärer, streaming, TV-serier, svensk film och filmfestivaler. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-11",
-  "item_count": 89,
+  "last_updated": "2026-10-18",
+  "item_count": 94,
   "items": [
     {
       "id": "sju-biopremiarer-juli-2026",
@@ -1072,6 +1072,66 @@
       "url": "https://www.serienjunkies.de/buzz/netflix-serien-filme-oktober-2026-128205.html",
       "added_on": "2026-10-11",
       "collected_week": "2026-W41"
+    },
+    {
+      "id": "arkipelag-biopremiar-2026",
+      "title": "Alex Schulmans regidebut \"Arkipelag\" har biopremiär",
+      "category": "Premiär",
+      "date": "2026-10-09",
+      "location": "Sverige",
+      "summary": "Alex Schulmans första långfilm, med Gustaf Skarsgård, Fares Fares och Linus Wahlgren som tre pappor på en skolresa med sina döttrar, går upp på över 300 svenska biografer. Filmen är dessutom utsedd till Sveriges Oscarsbidrag.",
+      "source": "TV4/Moviezine",
+      "url": "https://www.moviezine.se/recensioner/arkipelag-ar-arets-basta-svenska-film",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "nelly-rapp-porten-till-underjorden-biopremiar-2026",
+      "title": "\"Nelly Rapp – Porten till underjorden\" har biopremiär",
+      "category": "Premiär",
+      "date": "2026-10-16",
+      "location": "Sverige",
+      "summary": "Trilogins tredje och sista film, regisserad av Johan Rosell efter manus av Sofie och Tove Forsman, bygger på Martin Widmarks bokserie och distribueras av SF Studios.",
+      "source": "Moviezine",
+      "url": "https://www.moviezine.se/nyheter/nelly-rapp-atervander-premiaren-spikad-for-sista-filmen",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "die-falle-netflix-premiar-2026",
+      "title": "Tyska thrillerserien \"Die Falle\" har premiär på Netflix",
+      "category": "Streaming",
+      "date": "2026-10-13",
+      "location": "",
+      "summary": "Miniserien, baserad på Melanie Raabes roman och regisserad av Isabel Kleefeld (\"Liebes Kind\"), handlar om en författare som tror sig ha sett sin systers mördare på tv och planerar en fälla. Samtliga sex avsnitt släpptes samtidigt.",
+      "source": "Serienjunkies/Kino.de",
+      "url": "https://www.serienjunkies.de/news/serien/die-falle-netflix-miniserie-startet-im-oktober-2026-94493018.html",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "svensk-kortfilm-zita-folkets-bio-2026",
+      "title": "Kortfilmsserien \"Svensk Kortfilm\" startar på Zita Folkets Bio",
+      "category": "Evenemang",
+      "date": "2026-10-07",
+      "location": "Stockholm",
+      "summary": "Visningsserien lyfter fram några av de svenska kortfilmer som uppmärksammats på filmfestivaler runt om i världen, med gratis premiärvisningar på Zita i Stockholm.",
+      "source": "Visit Stockholm",
+      "url": "https://www.visitstockholm.com/events/svensk-kortfilm-co-folkets-bio-2/next/",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "goteborg-film-festival-50-ar-2027",
+      "title": "Göteborg Film Festival fyller 50 år – datum för jubileumsupplagan spikat",
+      "category": "Festival",
+      "date": "2027-01-29",
+      "location": "Göteborg",
+      "summary": "Den 50:e upplagan av Göteborg Film Festival äger rum 29 januari–7 februari 2027, med Nordic Film Market 3–5 februari. Ackrediteringen till jubileumsfestivalen öppnar i oktober 2026.",
+      "source": "Göteborg Film Festival",
+      "url": "https://goteborgfilmfestival.se/en/save-the-date-for-the-50th-gteborg-film-festival",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
     }
   ]
 }

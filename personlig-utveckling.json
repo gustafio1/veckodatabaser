@@ -2,8 +2,8 @@
   "topic": "Personlig utveckling",
   "description": "Tekniker, vanor och tankesätt för personlig utveckling och produktivitet. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-11",
-  "item_count": 121,
+  "last_updated": "2026-10-18",
+  "item_count": 126,
   "items": [
     {
       "id": "pomodoro-tekniken",
@@ -1456,6 +1456,66 @@
       "url": "https://doi.org/10.1073/pnas.2537789123",
       "added_on": "2026-10-11",
       "collected_week": "2026-W41"
+    },
+    {
+      "id": "vanestudie-tva-vagar-formering-forfall-2026",
+      "title": "Ny vanestudie: två tydliga vägar – vanor som växer och vanor som vittrar sönder",
+      "category": "Vanor",
+      "date": "2026-10-01",
+      "location": "",
+      "summary": "Forskare som följde 254 personer under sex månader fann två distinkta mönster i hur vanor utvecklas: en väg där vanan stärks och en där den gradvis bryts ner, kopplat till motivation, sammanhangets stabilitet och hur energigivande beteendet känns.",
+      "source": "Personality and Social Psychology Bulletin",
+      "url": "https://journals.sagepub.com/doi/abs/10.1177/01461672261440446",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "ai-formulerade-mal-undergraver-motivation-2026",
+      "title": "Studie: mål som en AI formulerar åt dig kan undergräva din motivation",
+      "category": "Motivation",
+      "date": "2026-09-20",
+      "location": "",
+      "summary": "Forskning visar att mål som en AI-assistent formulerar å en persons vägnar ofta känns mindre egna, vilket dämpar den motivation som annars driver måluppfyllelse jämfört med självformulerade mål.",
+      "source": "arXiv-preprint",
+      "url": "https://arxiv.org/pdf/2605.12344",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "growth-mindset-dweck-tillvaxttankesatt",
+      "title": "Tillväxttankesätt: hur synen på förmåga påverkar uthållighet",
+      "category": "Tankesätt",
+      "date": "2026-05-23",
+      "location": "",
+      "summary": "Forskning kring tillväxttankesätt visar att personer som ser förmågor som utvecklingsbara satsar på mer ambitiösa mål och håller ut längre vid motgångar, jämfört med personer som ser förmågor som fasta.",
+      "source": "Opportunity Desk (forskningsgenomgång, Carol Dweck)",
+      "url": "https://opportunitydesk.org/2024/05/23/personal-development-for-career-success-mindset-habits-and-productivity/",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "approach-mal-battre-an-undvikande-mal",
+      "title": "Mål formulerade som 'att närma sig' lyckas oftare än mål formulerade som 'att undvika'",
+      "category": "Målsättning",
+      "date": "2026-01-10",
+      "location": "",
+      "summary": "Forskning visar att mål som formuleras som något man vill uppnå, exempelvis 'jag vill träna tre gånger i veckan', har högre framgångsgrad än mål formulerade som något man vill undvika, som 'jag vill inte vara stillasittande'.",
+      "source": "Habi.app (forskningssammanställning, Oscarsson m.fl.)",
+      "url": "https://habi.app/insights/habit-tracker-statistics/",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "myten-om-21-dagar-vanor-tar-olika-lang-tid",
+      "title": "Myten om 21 dagar: vanor tar mycket olika lång tid att bilda",
+      "category": "Vanor",
+      "date": "2026-02-14",
+      "location": "",
+      "summary": "Den ofta upprepade siffran att en vana tar 21 eller 66 dagar att forma stämmer inte för alla beteenden. Forskning visar en spridning från under tre veckor till över åtta månader, beroende på hur krävande och komplext beteendet är.",
+      "source": "Applifehub (forskningsgenomgång, Lally m.fl.)",
+      "url": "https://applifehub.com/blog/habit-tracking-statistics",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
     }
   ]
 }

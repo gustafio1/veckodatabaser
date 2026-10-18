@@ -2,8 +2,8 @@
   "topic": "Relationer",
   "description": "Forskning om kärlek, familj, dejting och social gemenskap. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-11",
-  "item_count": 73,
+  "last_updated": "2026-10-18",
+  "item_count": 78,
   "items": [
     {
       "id": "oarlighet-parforhallanden-forskning-2026",
@@ -880,6 +880,66 @@
       "url": "https://www.psypost.org/difficulty-maintaining-relationships-is-a-major-driver-of-modern-singlehood-study-suggests/",
       "added_on": "2026-10-11",
       "collected_week": "2026-W41"
+    },
+    {
+      "id": "ifs-dating-recession-rapport-2026",
+      "title": "Rapport: \"Dating-recessionen\" – unga vuxna dejtar mindre trots önskan om fast relation",
+      "category": "Dejting",
+      "date": "2026-09-01",
+      "location": "",
+      "summary": "En ny rapport baserad på drygt 5 000 ogifta amerikaner i åldern 22–35 visar att en stor majoritet säger sig vilja ha ett seriöst förhållande, men att själva dejtandet och antalet relationer minskat jämfört med tidigare generationer.",
+      "source": "Wheatley Institute / Institute for Family Studies",
+      "url": "https://ifstudies.org/in-the-news/avoid-this-one-dating-habit-that-has-zero-ability-to-predict-if-a-relationship-will-be-happy-or-stable-says-relationship-coach",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "tinder-skilsmassa-studie-2026",
+      "title": "Studie: ökad Tinder-exponering kopplas till fler skilsmässor bland unga par",
+      "category": "Forskning",
+      "date": "2026-08-01",
+      "location": "",
+      "summary": "Forskare som använt sökdata som mått på Tinder-exponering finner inget samband med fler giftermål totalt, men ett tydligt samband med högre skilsmässo- och separationsfrekvens, särskilt bland yngre par.",
+      "source": "Economics Letters",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0165176526000674",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "cares-studie-parrelationer-wisconsin-2026",
+      "title": "Ny studie följer par för att kartlägga känslor och samspel i relationer",
+      "category": "Forskning",
+      "date": "2026-10-06",
+      "location": "",
+      "summary": "Forskare rekryterar par till en longitudinell studie om hur känslomässiga reaktioner och samspel i vardagen hänger ihop med relationens kvalitet och hållbarhet över tid.",
+      "source": "University of Wisconsin–Madison (ClinicalTrials.gov)",
+      "url": "https://clinicaltrials.gov/study/NCT06907654",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "family-relationship-help-uc-irvine-2026",
+      "title": "Ny insats ska stärka familjerelationer – studie inleds i november 2026",
+      "category": "Familj",
+      "date": "2026-10-01",
+      "location": "",
+      "summary": "En kommande studie ska utvärdera ett stödprogram för att förbättra relationer inom familjer, med start i november 2026.",
+      "source": "University of California, Irvine (ClinicalTrials.gov)",
+      "url": "https://clinicaltrials.gov/study/NCT07526532",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "romantik-dejting-senare-livet-asu",
+      "title": "Studie om dejting och romantik senare i livet bland 55-plussare",
+      "category": "Forskning",
+      "date": "2026-02-01",
+      "location": "",
+      "summary": "Forskare vid Arizona State University har intervjuat ensamstående och nyligen partnerlösa vuxna över 55 år om dejting och romantik senare i livet, och arbetar nu med att sammanställa resultaten i vetenskapliga artiklar.",
+      "source": "Arizona State University, Sanford School",
+      "url": "https://thesanfordschool.clas.asu.edu/research/centers-initiatives/romance-dating-later-life",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
     }
   ]
 }

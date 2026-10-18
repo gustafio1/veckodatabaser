@@ -2,8 +2,8 @@
   "topic": "Produktivitet",
   "description": "Produktivitetsmetoder, verktyg, forskning om fokus, arbetsliv och AI. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-11",
-  "item_count": 74,
+  "last_updated": "2026-10-18",
+  "item_count": 79,
   "items": [
     {
       "id": "fyradagarsvecka-bevisen-vaxer-2026",
@@ -892,6 +892,66 @@
       "url": "https://via.tt.se/pressmeddelande/4175646/sociala-medier-kopplas-till-samre-koncentration-hos-barn",
       "added_on": "2026-10-11",
       "collected_week": "2026-W41"
+    },
+    {
+      "id": "ai-produktivitet-ojamn-39-procent-2026",
+      "title": "Få märker produktivitetslyft av AI trots stora investeringar",
+      "category": "AI och arbetsliv",
+      "date": "2026-10-05",
+      "location": "",
+      "summary": "En sammanställning av 2026 års AI-produktivitetsrapporter visar att bara 39 procent av anställda upplever ett tydligt produktivitetslyft av AI-verktyg under det senaste året, med stora skillnader mellan branscher och regioner.",
+      "source": "UC Today (rapportgenomgång)",
+      "url": "https://www.uctoday.com/productivity-automation/ai-productivity-reports-2026/",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "ai-intensifierar-arbete-hbr-2026",
+      "title": "Forskning: AI intensifierar arbetet snarare än att minska det",
+      "category": "AI och arbetsliv",
+      "date": "2026-09-28",
+      "location": "",
+      "summary": "Ny forskning som bland annat Harvard Business Review redovisar pekar på att AI-verktyg på många arbetsplatser ökar arbetsbördan och tempot istället för att frigöra tid, till skillnad från det ursprungliga löftet om tidsbesparingar.",
+      "source": "Harvard Business Review (refererad)",
+      "url": "https://rodtrent.substack.com/p/navigating-ai-layoffs-and-productivity",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "dold-tidskostnad-ai-redigering-zapier-2026",
+      "title": "Undersökning: anställda lägger timmar varje vecka på att rätta AI-genererat innehåll",
+      "category": "AI och arbetsliv",
+      "date": "2026-09-15",
+      "location": "",
+      "summary": "En enkät med över 1 100 yrkesverksamma i USA visar att 58 procent lägger minst tre timmar i veckan på att revidera innehåll som AI genererat, vilket äter upp en stor del av den tid AI-verktygen ska spara.",
+      "source": "Zapier (refererad av Saner.ai)",
+      "url": "https://blog.saner.ai/ai-productivity-statistics/",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "fed-ai-produktivitet-finans-2026",
+      "title": "Federal Reserve: AI ger tydligast produktivitetslyft inom finans och högkvalificerade tjänster",
+      "category": "AI och arbetsliv",
+      "date": "2026-04-14",
+      "location": "",
+      "summary": "En enkät med nästan 750 företagsledare visar att produktivitetsvinster från AI är positiva men varierar kraftigt mellan sektorer, med de största effekterna inom högkvalificerade tjänster och finanssektorn.",
+      "source": "Federal Reserve Bank of San Francisco",
+      "url": "https://www.frbsf.org/?p=295553",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "digital-detox-forbattrar-fokus-pnas-2026",
+      "title": "Tvåveckors digital detox halverade mobilskärmtiden och förbättrade fokus",
+      "category": "Fokus",
+      "date": "2026-10-02",
+      "location": "",
+      "summary": "I en studie minskade deltagarna sin dagliga skärmtid i mobilen från i genomsnitt drygt fem timmar till under tre timmar under två veckor, och drygt hälften rapporterade en tydlig förbättring av sin förmåga att hålla kvar uppmärksamheten.",
+      "source": "PNAS Nexus (refererad)",
+      "url": "https://www.bcbsm.mibluedaily.com/stories/health-and-wellness/study-taking-a-digital-detox-improves-well-being-attention-span",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "topic": "Psykologi – Vänskap",
   "description": "Ny forskning och insikter om vänskap, relationer och social anknytning. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-11",
-  "item_count": 114,
+  "last_updated": "2026-10-18",
+  "item_count": 121,
   "items": [
     {
       "id": "vanskap-folkhalsotillgang-2026",
@@ -1372,6 +1372,90 @@
       "url": "https://www.healthday.com/health-news/mental-health/live-events-build-social-connection",
       "added_on": "2026-10-11",
       "collected_week": "2026-W41"
+    },
+    {
+      "id": "unga-hogutbildade-ovantat-ensamma-2026",
+      "title": "Unga högutbildade är oväntat ensamma, visar ny rapport",
+      "category": "Ensamhet",
+      "date": "2026-10-14",
+      "location": "",
+      "summary": "En ny rapport pekar på att ensamhet biter sig fast även bland unga med hög utbildning och goda karriärmöjligheter, vilket går emot antagandet att resurser och status skyddar mot social isolering.",
+      "source": "Dagens PS",
+      "url": "https://www.dagensps.se/halsa/unga-hogutbildade-och-ovantat-ensamma/",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "rapport-sociala-medier-vuxna-mer-ensamma-2026",
+      "title": "Rapport: sociala medier gör vuxna mer ensamma",
+      "category": "Social anknytning",
+      "date": "2026-10-13",
+      "location": "",
+      "summary": "En amerikansk undersökning tyder på att omfattande användning av sociala medier hos vuxna snarare ökar än minskar känslan av ensamhet, trots ett stort antal digitala kontakter.",
+      "source": "Dagens PS",
+      "url": "https://www.dagensps.se/halsa/rapport-sociala-medier-gor-vuxna-mer-ensamma/",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "ensamhet-okad-dodlighet-nature-medicine-2026",
+      "title": "Studie i Nature Medicine: kronisk ensamhet kopplas till ökad dödlighet",
+      "category": "Hälsa och relationer",
+      "date": "2026-08-04",
+      "location": "",
+      "summary": "En stor studie publicerad i Nature Medicine visar att kronisk ensamhet hänger samman med högre dödlighetsrisk, och forskarna föreslår att sociala relationer bör ses som en hälsofaktor i klass med kost och motion.",
+      "source": "Realtid",
+      "url": "https://www.realtid.se/samhalle/minska-risken-for-att-do-undvik-ensamhet/",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "svenskarnas-besked-karlek-mindre-viktigt-2026",
+      "title": "Svenskarnas nya besked: kärlek är inte lika viktigt som förr",
+      "category": "Relationer",
+      "date": "2026-10-10",
+      "location": "Sverige",
+      "summary": "En ny undersökning visar att svenskar i allt högre grad rankar karriär och vänskap högre än romantisk kärlek när de beskriver vad som ger livet mening.",
+      "source": "Dagens PS",
+      "url": "https://www.dagensps.se/life-science/svenskarnas-nya-besked-karlek-inte-lika-viktigt/",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "karlek-gor-dig-smartare-forskare-2026",
+      "title": "Forskare: nära relationer kan göra dig kognitivt skarpare",
+      "category": "Relationer",
+      "date": "2026-10-09",
+      "location": "",
+      "summary": "Forskning tyder på att nära kärleksrelationer stimulerar kognitiv förmåga, bland annat genom bättre känslomässig reglering och nya perspektiv som partnern bidrar med.",
+      "source": "Dagens PS",
+      "url": "https://www.dagensps.se/life-science/forskare-darfor-blir-du-smartare-av-karlek/",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "losa-ensamhet-enkla-grepp-2026",
+      "title": "Så kan du minska känslan av ensamhet, enligt forskare",
+      "category": "Ensamhet",
+      "date": "2026-10-08",
+      "location": "",
+      "summary": "Forskare pekar på konkreta, små vardagsförändringar – som regelbunden kontakt och meningsfulla samtal – som kan ha stor effekt på upplevd ensamhet.",
+      "source": "Dagens PS",
+      "url": "https://www.dagensps.se/halsa/kanner-du-dig-ensam-sa-enkelt-kan-du-losa-problemet/",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "ensamhet-minne-dodlighet-poolad-analys-2026",
+      "title": "Stor poolad analys: ensamhet ökar risken för minnesproblem och tidig död",
+      "category": "Ensamhet",
+      "date": "2026-10-17",
+      "location": "",
+      "summary": "En sammanslagen analys av elva långtidsstudier med över 175 000 deltagare i 18 länder visar att varje tioprocentig ökning av ensamhet hänger ihop med högre risk för minnesproblem och förtida död, utan att bevisa orsakssamband.",
+      "source": "Authentic Ageing (forskningsgenomgång)",
+      "url": "https://authentichageing.substack.com/p/saturday-spotlight-17-october-2026",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
     }
   ]
 }

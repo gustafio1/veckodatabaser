@@ -2,8 +2,8 @@
   "topic": "Schack",
   "description": "Stora turneringar, elitspelare, onlineschack, svenskt schack och talanger. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-11",
-  "item_count": 75,
+  "last_updated": "2026-10-18",
+  "item_count": 82,
   "items": [
     {
       "id": "sindarov-vinner-kandidatturneringen-2026",
@@ -890,6 +890,90 @@
       "url": "https://wom.fide.com/wp-content/uploads/2025/11/1st-Pia-Cramling-Cup-FULL-REGULATIONS.docx",
       "added_on": "2026-10-11",
       "collected_week": "2026-W41"
+    },
+    {
+      "id": "woodward-slar-caruana-usa-mastarskapet-2026",
+      "title": "16-årige Woodward chockade Caruana i amerikanska mästerskapet",
+      "category": "Turnering",
+      "date": "2026-10-15",
+      "location": "Saint Louis, USA",
+      "summary": "Tonåringen Andy Woodward besegrade försvarande mästaren Fabiano Caruana i femte ronden av det amerikanska mästerskapet i Saint Louis och klev därmed upp i delad ledning tillsammans med Wesley So. Segern beskrivs som den hittills största i den 16-åriges karriär.",
+      "source": "ChessBase",
+      "url": "https://en.chessbase.com/post/us-championships-2026-5",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "alice-lee-ensam-tatet-us-womens-championship-2026",
+      "title": "Alice Lee ensam i täten i amerikanska dammästerskapet",
+      "category": "Turnering",
+      "date": "2026-10-13",
+      "location": "Saint Louis, USA",
+      "summary": "Alice Lee gick upp i ensam ledning i det amerikanska dammästerskapet i Saint Louis efter sin fjärde raka seger, medan veteranen Irina Krush samtidigt noterade sin andra vinst i turneringen. I den öppna klassen klättrade Fabiano Caruana till delad förstaplats inför den avgörande femte ronden.",
+      "source": "ChessBase",
+      "url": "https://en.chessbase.com/post/us-championships-2026-4",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "fide-oktoberlistan-2026-carlsen-forsta-efter-os",
+      "title": "Carlsen kvar som världsetta på FIDE:s oktoberlista efter schack-OS",
+      "category": "Rating",
+      "date": "2026-10-01",
+      "location": "",
+      "summary": "Magnus Carlsen behåller förstaplatsen med 2823 poäng på FIDE:s oktoberlista, som i övrigt präglades kraftigt av schack-OS i Samarkand. Nodirbek Abdusattorov klev tillbaka in bland de fem högst rankade efter sitt individuella bordguld, medan 15-åringen Yagiz Kaan Erdogmus gjorde sin debut bland världens 20 bästa.",
+      "source": "FIDE",
+      "url": "https://www.fide.com/?p=50439",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "europeiska-klubbcupen-2026-herceg-novi-start",
+      "title": "Europeiska klubbcupen i schack inledd i Montenegro",
+      "category": "Turnering",
+      "date": "2026-10-16",
+      "location": "Herceg Novi, Montenegro",
+      "summary": "Den 41:a upplagan av Europeiska klubbcupen för herrar och den 30:e för damer drog igång i Herceg Novi den 16 oktober, med sju schweizerronder och en sammanlagd prispott på 40 000 euro. De fyra bästa klubblagen i öppna klassen kvalificerar sig direkt till den nya elitserien European Chess Super League som spelas i februari 2027.",
+      "source": "Chessdom",
+      "url": "https://www.chessdom.com/european-chess-club-cup-2026/",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "grandmasters-dokumentar-carlsen-biopremiar-2026",
+      "title": "Dokumentären om Carlsens schackuppror fick biopremiär i USA",
+      "category": "Bakgrund",
+      "date": "2026-10-11",
+      "location": "",
+      "summary": "Dokumentärfilmen \"Grandmasters\", som skildrar hur Magnus Carlsen tillsammans med entreprenören Jan Henric Buettner satte schackvärlden i gungning genom att lansera en ny friform-liga, fick biopremiär på AMC-biografer i USA den 11 oktober. Filmen hade tidigare visats på Tribeca Film Festival.",
+      "source": "Chess.com",
+      "url": "https://www.chess.com/news/view/grandmasters-docuseries-tribeca-premiere",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "schackfyran-svenskt-skolschack-bakgrund-2026",
+      "title": "Schackfyran samlar tiotusentals svenska skolbarn kring schackbrädet",
+      "category": "Bakgrund",
+      "date": "2026-05-04",
+      "location": "Sverige",
+      "summary": "Skolturneringen Schackfyran, som funnits sedan 1978, lockar numera omkring 25 000 fyror från över tusen klasser varje år, med en final i Stockholm som 2026 samlade över 3 000 barn. Enligt initiativtagaren Jesper Hall handlar satsningen mer om gemenskap och att stärka skolklasser än om att fostra framtida elitspelare.",
+      "source": "FIDE",
+      "url": "https://www.fide.com/schackfyran-swedens-chess-in-education-initiative-bringing-thousands-of-children-together/",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "schackelit-sverige-normturneringar-talanger-bakgrund",
+      "title": "Schackelit Sverige ger unga talanger chans till titelnormer hemmaplan",
+      "category": "Bakgrund",
+      "date": "2025-02-18",
+      "location": "Stockholm, Sverige",
+      "summary": "Satsningen Schackelit Sverige, driven av IM Vladimir Poley och Saida Trost med stöd från klubbarna SK Rockaden och SS 4 Springare, startade en serie normturneringar för att ge svenska ungdomar fler chanser att ta IM- och GM-normer utan att behöva resa utomlands. Premiärturneringen var en tiospelares enkelrundturnering med ett snittrating på 2471.",
+      "source": "FIDE",
+      "url": "https://www.fide.com/swedens-chess-makes-strategic-move-with-schackelit-sverige-a-new-era-for-young-talents/",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
     }
   ]
 }

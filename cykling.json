@@ -2,8 +2,8 @@
   "topic": "Cykling",
   "description": "Proffscykling, svenska cyklister, motionslopp, mountainbike och utrustning. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-11",
-  "item_count": 78,
+  "last_updated": "2026-10-18",
+  "item_count": 86,
   "items": [
     {
       "id": "pogacar-gula-trojan-etapp-3-2026",
@@ -928,6 +928,102 @@
       "url": "https://scf.se/forbundet/svenska-cykelforbundet-soker-sm-arrangorer-2026-till-atta-grenar/",
       "added_on": "2026-10-11",
       "collected_week": "2026-W41"
+    },
+    {
+      "id": "seixas-vinner-il-lombardia-2026",
+      "title": "Paul Seixas blev yngste vinnaren av Il Lombardia genom tiderna",
+      "category": "Proffs",
+      "date": "2026-10-10",
+      "location": "Como, Italien",
+      "summary": "Fransmannen Paul Seixas attackerade solo på klättringen Civiglio och vann monumentklassikern Il Lombardia före Enric Mas och Giulio Ciccone. Vid 20 år blev han den yngste vinnaren i loppets historia, i en upplaga där den regerande mästaren Tadej Pogačar saknades på grund av skada.",
+      "source": "Brújula Bike",
+      "url": "https://en.brujulabike.com/pogacar-has-an-heir-at-il-lombardia-20-year-old-seixas-wins-as-enric-mas-surprises-in-second/",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "izagirre-avslutar-karriaren-bruten-handled-2026",
+      "title": "Ion Izagirres drömavslut grusades av bruten handled",
+      "category": "Bakgrund",
+      "date": "2026-10-10",
+      "location": "Como, Italien",
+      "summary": "Baskiske proffset Ion Izagirre bröt handleden i en träningsolycka strax före sitt planerade karriärsavslut i Il Lombardia, men valde att ställa upp trots skadan. I en intervju berättar han hur den plötsliga skadan förändrade avslutningen på hans sjuttonåriga proffskarriär.",
+      "source": "Cyclingnews",
+      "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/the-world-caves-in-on-you-ion-izagirre-reflects-on-broken-wrist-injury-that-wrecked-end-of-17-year-career/",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "enric-mas-vinner-vuelta-a-espana-2026",
+      "title": "Enric Mas vann till slut Vuelta a España efter Pogačars krasch",
+      "category": "Resultat",
+      "date": "2026-09-13",
+      "location": "Granada, Spanien",
+      "summary": "Spanjoren Enric Mas tog sin första Grand Tour-seger genom att vinna Vuelta a España 2026, före Primož Roglič och Felix Gall. Mas övertog ledartröjan efter att favoriten Tadej Pogačar kraschat ur loppet på etapp åtta och höll den hela vägen till Granada.",
+      "source": "NBC Sports (AP)",
+      "url": "https://www.nbcsports.com/news/enric-mas-finally-wins-the-spanish-vuelta-after-finishing-second-three-times",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "pogacar-sasongen-2026-over-efter-krasch",
+      "title": "Pogačars säsong tog slut i förtid efter allvarlig Vuelta-krasch",
+      "category": "Bakgrund",
+      "date": "2026-09-04",
+      "location": "",
+      "summary": "Tadej Pogačar tävlade inte mer under 2026 efter en krasch i Vuelta a España som gav honom en stabil kotfraktur och ett brutet nyckelben. Han missade därmed VM i Montréal, EM i Slovenien och Il Lombardia, men förlängde samtidigt sitt kontrakt med UAE Team Emirates-XRG till 2032.",
+      "source": "Cyclingnews",
+      "url": "https://www.cyclingnews.com/pro-cycling/teams-riders/tadej-pogacar-wont-race-again-in-2026-after-vuelta-a-espana-crash-but-extends-uae-contract-until-2032/",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "nairo-quintana-avslutar-karriaren-giro-emilia-2026",
+      "title": "Nairo Quintana avslutade karriären med hyllning i Giro dell'Emilia",
+      "category": "Bakgrund",
+      "date": "2026-10-03",
+      "location": "Italien",
+      "summary": "Colombianen Nairo Quintana körde sitt sista proffslopp i Giro dell'Emilia, där hela fältet bildade en hedersgata innan start för att hylla honom. 36-åringen vann bland annat Giro d'Italia 2014 och Vuelta a España 2016 under en fjortonårig karriär på högsta nivå.",
+      "source": "Escape Collective",
+      "url": "https://escapecollective.com/quintanas-retirement-marks-the-passing-of-an-era/",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "bronzini-sportchef-visma-lease-a-bike-2026",
+      "title": "Giorgia Bronzini blir ny sportchef i Visma-Lease a Bikes damlag",
+      "category": "Nyhet",
+      "date": "2026-10-01",
+      "location": "",
+      "summary": "Visma-Lease a Bike har värvat tvåfaldiga världsmästaren Giorgia Bronzini som sportchef för damlaget inför säsongen 2027. Italienaren, som senast körde för Human Powered Health, ska enligt laget framför allt arbeta med de yngre förarnas taktiska utveckling.",
+      "source": "Cyclingnews",
+      "url": "https://www.cyclingnews.com/pro-cycling/transfers/visma-lease-a-bike-bring-on-giorgia-bronzini-as-sports-director/",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "cykelhjalm-bast-i-test-2026",
+      "title": "Abus Macator Mips utsedd till bästa cykelhjälm i test",
+      "category": "Utrustning",
+      "date": "2026-03-01",
+      "location": "",
+      "summary": "I en jämförande test av fem cykelhjälmar utsågs Abus Macator Mips till bäst i test, tack vare sitt roterande MIPS-skydd, goda passform och höga komfort även vid längre cykelturer. Testet lyfts fram som ett bra alternativ inför köp av ny vuxenhjälm.",
+      "source": "Testra",
+      "url": "https://testra.se/test/cykel-hjalm-bast-i-test-2026",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "vatternrundan-gravel-premiar-2026",
+      "title": "Vätternrundan Gravel lockade 1 150 deltagare vid debuten",
+      "category": "Motionslopp",
+      "date": "2026-09-12",
+      "location": "Motala",
+      "summary": "Vätternrundan arrangerade för första gången ett grusevenemang, Vätternrundan Gravel, en knappt 120 kilometer lång tur utan tidtagning genom Östergötland. Premiären lockade 1 150 deltagare på en bana som till största delen gick på grusvägar.",
+      "source": "Tour Magazin",
+      "url": "https://www.tour-magazin.de/en/event/everyman-race/vaetternrundan-gravel-first-edition-with-1-150-participants/",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "topic": "Sport – Fotboll, Tennis & Bordtennis",
   "description": "Nyheter inom fotboll, tennis och bordtennis med svenskt fokus. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-11",
-  "item_count": 122,
+  "last_updated": "2026-10-18",
+  "item_count": 128,
   "items": [
     {
       "id": "allsvenskan-sommaruppehall-2026",
@@ -1452,6 +1452,78 @@
       "url": "https://fotbolldirekt.se/allsvenskan/klart-sa-spelas-omgang-24-30-i-allsvenskan/",
       "added_on": "2026-10-11",
       "collected_week": "2026-W41"
+    },
+    {
+      "id": "aik-brommapojkarna-6-5-oktober-2026",
+      "title": "AIK vände från 1–5 men föll till slut mot Brommapojkarna i målfest",
+      "category": "Resultat",
+      "date": "2026-10-10",
+      "location": "Stockholm",
+      "summary": "I en av Allsvenskans mest dramatiska matcher på länge kvitterade AIK från 1–5 till 5–5 i slutminuterna på Strawberry Arena, men Mads Hansen avgjorde ändå till 6–5 för Brommapojkarna i den sista tilläggsminuten. Det var BP:s första ligaseger mot AIK på 20 inbördes möten.",
+      "source": "The Star / Reuters",
+      "url": "https://www.thestar.com.my/sport/football/2026/10/10/soccer-brommapojkarna-edge-aik-6-5-in-swedish-thriller",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "karlsson-kallberg-mixed-brons-missad-matchboll-em-2026",
+      "title": "Källberg i tårar när mixeddubbeln föll på en missad matchboll i EM",
+      "category": "Resultat",
+      "date": "2026-10-15",
+      "location": "Ljubljana",
+      "summary": "Kristian Karlsson och Stina Källberg hade en matchboll i fjärde set av mixeddubbelns semifinal mot franska paret Alexis Lebrun/Charlotte Lutz, men förlorade till slut matchen med 2–3 i set och fick nöja sig med EM-brons. Källberg brast i gråt direkt efter avgörandet.",
+      "source": "Hurbra.se",
+      "url": "https://hurbra.se/karlsson-kallberg-em-brons-15-oktober-2026/",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "ranefur-utslagen-felix-lebrun-em-2026",
+      "title": "Elias Ranefur nära skräll mot Félix Lebrun innan EM-drömmen tog slut",
+      "category": "Resultat",
+      "date": "2026-10-16",
+      "location": "Ljubljana",
+      "summary": "Kvalspelaren Elias Ranefur tog första setet mot världstvåan Félix Lebrun i singelns åttondelsfinal, men föll till slut med 2–4 i set efter två mycket jämna avgörande set. Förlusten innebar slutet på Ranefurs EM-turnering i singel.",
+      "source": "Hurbra.se",
+      "url": "https://hurbra.se/?p=35209",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "karlsson-singel-forlust-alexis-lebrun-em-2026",
+      "title": "Karlsson utslagen i singeln mot Alexis Lebrun – andra gången på två dagar",
+      "category": "Resultat",
+      "date": "2026-10-16",
+      "location": "Ljubljana",
+      "summary": "Kristian Karlsson föll med 2–4 i set mot regerande Europamästaren Alexis Lebrun i singelns åttondelsfinal, bara ett dygn efter att samma fransman stoppat honom och Stina Källberg i mixeddubbelns semifinal. Karlsson var dock fortsatt kvar i turneringen via herrdubbeln.",
+      "source": "Hurbra.se",
+      "url": "https://hurbra.se/kristian-karlsson-alexis-lebrun-16-oktober-2026/",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "karlsson-kallberg-herrdubbel-silver-em-2026",
+      "title": "Karlsson och Källberg tog EM-silver efter femsetsrysare mot bröderna Lebrun",
+      "category": "Resultat",
+      "date": "2026-10-17",
+      "location": "Ljubljana",
+      "summary": "Kristian Karlsson och Anton Källberg nådde herrdubbelns EM-final efter att ha slagit ut det moldaviska paret Ursu/Putuntica, men föll där med 2–3 i set mot regerande mästarna, bröderna Alexis och Félix Lebrun, som avgjorde det femte och sista setet med 11–8. Sverige tog ändå hem sin andra bordtennismedalj på mästerskapet.",
+      "source": "SVT Sport",
+      "url": "https://www.svt.se/sport/bordtennis/kallberg-och-karlsson-forlorade-em-finalen-efter-femsetrysare",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "moregardh-ranefur-dubbel-utslagna-em-2026",
+      "title": "Möregårdh och Ranefur åkte ut i dubbeln efter att ha tappat två stora ledningar",
+      "category": "Resultat",
+      "date": "2026-10-14",
+      "location": "Ljubljana",
+      "summary": "Truls Möregårdh och Elias Ranefur, som tidigare i veckan besegrat både England och Rumänien, förlorade sin dubbelmatch i EM efter att ha tappat två stora ledningar under matchens gång. Möregårdh var samtidigt kvar i singeltävlingen, där han som trea seedad gått direkt in i huvudturneringen.",
+      "source": "Hurbra.se",
+      "url": "https://hurbra.se/truls-moregardh-utslagen-dubbel-em-14-oktober-2026/",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
     }
   ]
 }

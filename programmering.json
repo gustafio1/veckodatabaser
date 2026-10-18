@@ -2,8 +2,8 @@
   "topic": "Programmering",
   "description": "Nyheter för utvecklare: språk, ramverk, verktyg, AI-kodning och öppen källkod. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-11",
-  "item_count": 91,
+  "last_updated": "2026-10-18",
+  "item_count": 101,
   "items": [
     {
       "id": "typescript-7-nativ-kompilator-2026",
@@ -1096,6 +1096,126 @@
       "url": "https://www.havoptic.com/releases/openai-codex/2026/10",
       "added_on": "2026-10-11",
       "collected_week": "2026-W41"
+    },
+    {
+      "id": "rust-1-99-1-buggfix-2026",
+      "title": "Rust 1.99.1 rättar tre allvarliga buggar på två veckor",
+      "category": "Språk",
+      "date": "2026-10-15",
+      "location": "",
+      "summary": "Rust-teamet har släppt punktversionen 1.99.1 bara två veckor efter 1.99.0, med rättningar för en tyst felkompilering av booleska värden över FFI-gränser på x86_64, ett fel i macOS-länkaren och ett länkfel på UEFI-mål. Två av de tre buggarna klassas som kritiska.",
+      "source": "Warp2Search",
+      "url": "https://www.warp2search.net/story/rust-1991-released-three-critical-bugs-fixed-in-record-twoweek-turnaround/",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "postgresql-19-rc1-2026",
+      "title": "Postgresql 19 RC1 släppt med inbyggd REPACK och parallell autovacuum",
+      "category": "Öppen källkod",
+      "date": "2026-10-15",
+      "location": "",
+      "summary": "PostgreSQL Global Development Group har släppt den första release candidaten av PostgreSQL 19, med bland annat ett inbyggt REPACK-kommando och parallell autovacuum. Allmän tillgänglighet är nu planerad till 19 november efter att release candidate 2 lagts till i tidsplanen.",
+      "source": "PostgreSQL.org",
+      "url": "https://www.postgresql.org/about/news/postgresql-19-rc-1-released-3409/",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "tiobe-oktober-2026-julia-topp-20",
+      "title": "Julia tillbaka i TIOBE-indexets topp 20 efter tre år",
+      "category": "Språk",
+      "date": "2026-10-13",
+      "location": "",
+      "summary": "TIOBE-indexet för oktober 2026 behåller Python som mest populära programmeringsspråk, medan det vetenskapliga språket Julia klättrar från plats 21 till 18 och återvänder till topp 20 för första gången på tre år.",
+      "source": "TechRepublic",
+      "url": "https://www.techrepublic.com/article/news-tiobe-index-language-rankings/",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "chrome-devtools-oktober-2026-pwa-heap",
+      "title": "Chrome DevTools får nya verktyg för PWA-automation och minnesanalys",
+      "category": "Verktyg",
+      "date": "2026-10-14",
+      "location": "",
+      "summary": "Oktoberuppdateringen av Chrome DevTools lägger till automatisering för installation och livscykelkontroll av progressiva webbappar samt möjligheten att fråga heap-snapshots direkt. En ny flagga låter utvecklare inspektera sidor utan att köra Javascript.",
+      "source": "Chrome for Developers",
+      "url": "https://developer.chrome.com/blog/new-in-devtools-october-2026",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "openai-codex-cli-rust-v0-161-0-2026",
+      "title": "OpenAI Codex CLI gör GPT-6.1 Sol till standardmodell i ny version",
+      "category": "Verktyg",
+      "date": "2026-10-07",
+      "location": "",
+      "summary": "OpenAIs kommandoradsverktyg Codex CLI uppdaterades till rust-v0.161.0 och sätter nu GPT-6.1 Sol som standardmodell. Föregående version lade till enklare bläddring i uppgiftshistorik och helskärmsklistring.",
+      "source": "Havoptic",
+      "url": "https://www.havoptic.com/releases/openai-codex/2026/10",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "dotnet-11-rc2-sakerhetsuppdateringar-2026",
+      "title": ".NET 11 Release Candidate 2 lanseras med säkerhetsuppdateringar till .NET 8-10",
+      "category": "Verktyg",
+      "date": "2026-10-13",
+      "location": "",
+      "summary": "Release-kandidaten har en go-live-licens och kan användas i produktion, med nyheter inom bibliotek, SDK, NuGet och MAUI. Samma dag kom patchar för .NET 8, 9 och 10 som åtgärdar omkring 40 sårbarheter, flera med risk för fjärrkörning av kod.",
+      "source": "Microsoft DevBlogs",
+      "url": "https://devblogs.microsoft.com/dotnet/dotnet-11-rc-2/",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "helidon-27-lanseras-jdk27-2026",
+      "title": "Helidon 27 lanseras tillsammans med JDK 27",
+      "category": "Verktyg",
+      "date": "2026-10-15",
+      "location": "",
+      "summary": "Oracles Java-ramverk ersätter Helidon SE med Helidon Core, som erbjuder både en imperativ och en deklarativ programmeringsmodell, samt nya moduler för meddelandehantering och JDBC-data. Ramverket följer nu samma utgivningstakt som JDK framöver.",
+      "source": "InfoQ",
+      "url": "https://infoq.com/news/2026/10/helidon-27-released",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "github-universe-2026-datum-2026",
+      "title": "GitHub Universe 2026 bekräftat till slutet av oktober med fokus på agentisk utveckling",
+      "category": "Nyhet",
+      "date": "2026-10-14",
+      "location": "",
+      "summary": "Konferensen återvänder till Fort Mason Center i San Francisco den 28-29 oktober, med tyngdpunkt på AI-agenter i utvecklararbetet. GitHub lyfter samtidigt fram att tillväxten i öppen källkods-samarbeten fortsätter globalt.",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "github-secure-open-source-fund-ai-stack-2026",
+      "title": "GitHubs Secure Open Source Fund har stärkt säkerheten i 67 AI-relaterade öppen källkod-projekt",
+      "category": "Säkerhet",
+      "date": "2026-02-17",
+      "location": "",
+      "summary": "Programmet har delat ut icke-utspädande finansiering till underhållare för att åtgärda sårbarheter i projekt som bygger den moderna AI-stacken. Totalt har tre omgångar av fonden finansierat över 130 projekt och lett till närmare 200 registrerade sårbarheter (CVE:er).",
+      "source": "GitHub Blog",
+      "url": "https://github.blog/2026-02-17-securing-the-ai-software-supply-chain-security-results-across-67-open-source-projects/",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "zod-minnesanvandning-kraftigt-minskad-2026",
+      "title": "Zod minskar minnesanvändningen kraftigt med ny metod-memoisering",
+      "category": "Verktyg",
+      "date": "2026-08-28",
+      "location": "",
+      "summary": "Version 4.5 av det populära valideringsbiblioteket Zod allokerar bundna metoder bara vid behov, vilket enligt egna mätningar krymper minnesavtrycket för ett enkelt schema från 7,5 kB till under 1 kB. Samma version introducerar även z.compile() för betydligt snabbare parsning.",
+      "source": "Zod.dev",
+      "url": "https://zod.dev/blog/reducing-memory-footprint",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
     }
   ]
 }

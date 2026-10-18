@@ -2,8 +2,8 @@
   "topic": "Språk",
   "description": "Forskning om språkinlärning, svenskan, språkteknik och flerspråkighet. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-11",
-  "item_count": 69,
+  "last_updated": "2026-10-18",
+  "item_count": 74,
   "items": [
     {
       "id": "onskvarda-svarigheter-glosinlarning-2026",
@@ -832,6 +832,66 @@
       "url": "https://finviz.com/news/400302/duolingo-to-announce-third-quarter-2026-results-on-tuesday-november-3-2026",
       "added_on": "2026-10-11",
       "collected_week": "2026-W41"
+    },
+    {
+      "id": "oxford-mandarin-ai-sprakinlarning-postdok-2026",
+      "title": "Oxford-forskare ska undersöka hur AI-genererat material påverkar ordinlärning på mandarin",
+      "category": "Forskning",
+      "date": "2026-10-01",
+      "location": "",
+      "summary": "St John's College vid Oxfords universitet finansierar en ettårig postdoktjänst som ska undersöka hur olika typer av språkligt material, från isolerade ordlistor till varierade meningssammanhang, påverkar vuxna mandarinstudenters ordförråd. Projektet ska också utveckla AI-baserade metoder för att skapa och mäta sådant inlärningsmaterial.",
+      "source": "St John's College, Oxford",
+      "url": "https://www.workincharities.co.uk/job/post-doctoral-research-assistant-91ce8562",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "chalmers-su-ai-chattbottar-sprakutbildning-oversikt",
+      "title": "Svenska forskare efterlyser mer rigorös forskning om AI-chattbottar i språkutbildning",
+      "category": "Forskning",
+      "date": "2024-09-03",
+      "location": "",
+      "summary": "En genomgång från Stockholms universitet av 23 studier om AI-chattbottar i högre utbildning visar att många studier saknar stöd i etablerad inlärningsteori och att vissa påståenden om chattbottars nytta inte backas upp av empirin. En kompletterande Chalmers-undersökning bland nästan 6 000 svenska studenter visar att de flesta är positiva till AI-verktyg i undervisningen men ser användning vid examination som fusk.",
+      "source": "Stockholms universitet / Chalmers",
+      "url": "https://www.su.se/enheter/institutionen-for-pedagogik-och-didaktik/nyheter/nyhetsartiklar/2024-09-03-ny-studie-belyser-mojligheter-och-utmaningar-med-ai-chattbottar-inom-hogre-utbildning",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "language-learning-kognitiv-belastning-andrasprak-2026",
+      "title": "Ny forskning om överexplicita hänvisningar hos andraspråkstalare",
+      "category": "Forskning",
+      "date": "2026-04-03",
+      "location": "",
+      "summary": "Tidskriften Language Learning publicerade i april 2026 en studie som ger stöd för den kognitiva belastningshypotesen genom att visa hur andraspråkstalare tenderar att formulera sig mer explicit än nödvändigt när de refererar till tidigare nämnda saker. Studien bidrar till förståelsen av hur arbetsminnet påverkar språkproduktion hos andraspråksinlärare.",
+      "source": "Language Learning (tidskrift)",
+      "url": "https://www.researcher.life/journal/language-learning/17021",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "sprakprov-medborgarskap-forsenat-2027",
+      "title": "Språktestet för svenskt medborgarskap skjuts upp till 2027",
+      "category": "Nyhet",
+      "date": "2025-12-04",
+      "location": "",
+      "summary": "Det planerade läs- och lyssningstestet i svenska för medborgarskapsansökningar, som skulle ha införts senast i augusti 2026, skjuts nu upp till oktober 2027. Stockholms universitet, som ansvarar för testet, bedömer att det inte går att leverera ett test med godtagbar kvalitet förrän tidigast 2028.",
+      "source": "The Local Sweden",
+      "url": "https://www.thelocal.se/20251204/sweden-has-plan-to-push-forward-citizenship-law-despite-test-delays",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "su-skolamnet-svenska-andrasprak-gymnasiet-faltstudie",
+      "title": "Fältstudie undersöker ämnet svenska som andraspråk i förortsskolor",
+      "category": "Forskning",
+      "date": "2026-03-01",
+      "location": "",
+      "summary": "Forskare vid Stockholms universitet genomför en longitudinell fältstudie i tre språkligt heterogena gymnasieskolor för att undersöka hur ämnet svenska som andraspråk undervisas och uppfattas av lärare och elever i förortsmiljöer. Studien bygger på över ett och ett halvt års fältarbete.",
+      "source": "Stockholms universitet",
+      "url": "https://www.su.se/forskning/forskningskatalog/forskningsprojekt/0/skolamnet-svenska-som-andrasprak-pa-gymnasiet",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
     }
   ]
 }

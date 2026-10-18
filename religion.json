@@ -2,8 +2,8 @@
   "topic": "Religion – Nyheter",
   "description": "Religiösa nyheter från Vatikanen, kyrkor och trossamfund världen över. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-11",
-  "item_count": 153,
+  "last_updated": "2026-10-18",
+  "item_count": 158,
   "items": [
     {
       "id": "leo-xiv-tyska-studenter-2026",
@@ -1840,6 +1840,66 @@
       "url": "https://www.svenskakyrkan.se/kyrkomotet",
       "added_on": "2026-10-11",
       "collected_week": "2026-W41"
+    },
+    {
+      "id": "ratzingerpriset-brague-daley-2026",
+      "title": "Ratzingerpriset 2026 går till Rémi Brague och Brian Edward Daley",
+      "category": "Nyhet",
+      "date": "2026-10-20",
+      "location": "Vatikanstaten",
+      "summary": "Vatikanens Ratzingerstiftelse har utsett den franske filosofen och idéhistorikern Rémi Brague och den amerikanske patristikforskaren Brian Edward Daley till årets mottagare av Ratzingerpriset, som ofta kallas \"teologins Nobelpris\". Priset delas ut den 20 oktober.",
+      "source": "ACI Prensa",
+      "url": "https://www.aciprensa.com/noticias/42982/anuncian-ganadores-del-premio-ratzinger-conocido-como-el-nobel-de-la-teologia",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "kardinal-sarah-caritas-filantropi-2026",
+      "title": "Kardinal Sarah: Caritas får inte reduceras till filantropi",
+      "category": "Nyhet",
+      "date": "2026-08-04",
+      "location": "Vatikanstaten",
+      "summary": "Kardinal Robert Sarah, chef för det påvliga rådet Cor Unum, betonade att Caritas biståndsarbete måste förbli en del av kyrkans uppdrag snarare än ren filantropi. Uttalandet kom sedan Vatikanen valt att inte stödja omval av Caritas Internationalis generalsekreterare Leslie Anne Knight.",
+      "source": "ACI Prensa",
+      "url": "https://www.aciprensa.com/noticias/38290/cardenal-sarah-caritas-debe-superar-filantropia-e-insertarse-en-mision-de-la-iglesia",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "latinske-patriarken-gravkyrkan-palmsondagen-2026",
+      "title": "Latinske patriarken hindrades från Gravkyrkan på palmsöndagen",
+      "category": "Nyhet",
+      "date": "2026-03-30",
+      "location": "Jerusalem",
+      "summary": "Israelisk polis hindrade kardinal Pierbattista Pizzaballa, latinsk patriark av Jerusalem, från att fira palmsöndagsmässan i Gravkyrkan – enligt patriarkatet första gången på århundraden som en kyrkoledare nekats tillträde. Premiärminister Netanyahu beordrade snabbt att patriarken skulle få fullt tillträde igen.",
+      "source": "Vatican News",
+      "url": "https://www.vaticannews.va/en/church/news/2026-03/israeli-police-stop-latin-patriarch-of-jerusalem-from-entering.html",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "myanmar-jesuit-waso-religionsdialog-2026",
+      "title": "Myanmarsk jesuit ser buddistiska Waso som bro mellan trosriktningar",
+      "category": "Nyhet",
+      "date": "2026-08-12",
+      "location": "Myanmar",
+      "summary": "Pater Girish Santiago SJ, jesuiternas regionala överordnade i Myanmar, pekar på den buddistiska fasteperioden Waso som gemensam mark för kristna och buddister i det konfliktdrabbade landet. Han identifierar flera beröringspunkter mellan buddistisk och katolsk andlighet, bland annat bön och kontemplation.",
+      "source": "LiCAS News / Vatican News",
+      "url": "https://www.vaticannews.va/en/church/news/2026-08/myanmar-jesuit-sees-buddhist-waso-bridge-interreligious-peace.html",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
+    },
+    {
+      "id": "skottland-biskopskonferens-nostra-aetate-dialogdag-2026",
+      "title": "Skotska biskopskonferensen håller dialogdag om Nostra Aetate i Coatbridge",
+      "category": "Nyhet",
+      "date": "2026-10-31",
+      "location": "Coatbridge, Skottland",
+      "summary": "Skotska biskopskonferensens kommitté för interreligiös dialog bjuder in till en kostnadsfri heldagskonferens om Nostra Aetates historia och betydelse, med praktiska råd om hur församlingar kan ta sina första steg i dialog med andra trosriktningar.",
+      "source": "Bishops' Conference of Scotland / Archdiocese of Edinburgh",
+      "url": "https://archedinburgh.org/?p=94804",
+      "added_on": "2026-10-18",
+      "collected_week": "2026-W42"
     }
   ]
 }

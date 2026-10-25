@@ -2,8 +2,8 @@
   "topic": "Löpning",
   "description": "Lopp och maraton, svensk löparelit, träningsforskning och utrustning. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-18",
-  "item_count": 84,
+  "last_updated": "2026-10-25",
+  "item_count": 89,
   "items": [
     {
       "id": "stockholm-marathon-kiptoo-vinner-2026",
@@ -994,6 +994,66 @@
       "url": "https://scijfootankle.emnuvens.com.br/JournalFootAnkle/article/view/2034",
       "added_on": "2026-10-18",
       "collected_week": "2026-W42"
+    },
+    {
+      "id": "amsterdam-marathon-2026-berhanu-diriba",
+      "title": "Berhanu och Diriba vann regnigt Amsterdam Marathon",
+      "category": "Lopp",
+      "date": "2026-10-18",
+      "location": "Amsterdam",
+      "summary": "Lemi Berhanu vann herrloppet på 2:03:33 i blöta och blåsiga förhållanden, medan Buze Diriba satte nytt damrekord på banan med 2:16:12. Elva män sprang under 2:06 trots vädret.",
+      "source": "Watch Athletics",
+      "url": "https://www.watchathletics.com/article/13851/berhanu-wins-amsterdam-marathon-as-11-men-break-2-06",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "toronto-waterfront-marathon-2026-langat-jeruto",
+      "title": "Langat och Jeruto vann Toronto Waterfront Marathon",
+      "category": "Lopp",
+      "date": "2026-10-18",
+      "location": "Toronto",
+      "summary": "Kenyanen Leonard Langat försvarade sin titel med årets snabbaste Toronto-tid sedan 2019, 2:06:51, medan landsmaninnan Leah Jeruto vann damloppet på 2:21:19.",
+      "source": "The Canadian Press",
+      "url": "https://www.ctvnews.ca/toronto/sports/article/kenyans-leonard-langat-leah-jeruto-victorious-at-toronto-waterfront-marathon/",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "frankfurt-marathon-2026-petros-favorit",
+      "title": "Petros storfavorit när Frankfurt Marathon avgörs",
+      "category": "Lopp",
+      "date": "2026-10-25",
+      "location": "Frankfurt am Main",
+      "summary": "Regerande Europamästaren Amanal Petros pekas ut som den store favoriten i Frankfurt Marathon, med Betsy Saina och Buzunesh Getachew som toppnamn på damsidan.",
+      "source": "Hessenschau",
+      "url": "https://www.hessenschau.de/sport/mehr-sport/frankfurt-marathon/favoriten-beim-frankfurt-marathon-2026-amanal-petros-will-den-rekord-v1,frankfurt-marathon-favoriten-104.html",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "coros-nomad-lansering-2026",
+      "title": "Coros lanserar budgetklockan Nomad för löpare och vandrare",
+      "category": "Utrustning",
+      "date": "2026-10-20",
+      "location": "",
+      "summary": "Coros nya klocka Nomad riktar sig till löpare och äventyrare och erbjuder många av Garmin Instinct 3:s funktioner till ett betydligt lägre pris.",
+      "source": "TechRadar",
+      "url": "https://global.techradar.com/sv-se/health-fitness/smartwatches/coros-lanserar-nomad-en-billigare-konkurrent-till-garmin-instinct-3",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "karolinska-korta-hit-intervaller-syreupptag",
+      "title": "Karolinska: extremt korta intervaller kan ge liknande konditionseffekt",
+      "category": "Forskning",
+      "date": "2026-10-21",
+      "location": "Stockholm",
+      "summary": "Forskare vid Karolinska institutet pekar på att mycket korta högintensiva intervallpass kan påverka syreupptagningsförmågan i samma riktning som längre, traditionella intervaller.",
+      "source": "SVT Vetenskap",
+      "url": "https://www.svt.se/nyheter/vetenskap/battre-kondition-med-korta-ruscher-1",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
     }
   ]
 }

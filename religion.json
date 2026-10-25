@@ -2,8 +2,8 @@
   "topic": "Religion – Nyheter",
   "description": "Religiösa nyheter från Vatikanen, kyrkor och trossamfund världen över. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-18",
-  "item_count": 158,
+  "last_updated": "2026-10-25",
+  "item_count": 164,
   "items": [
     {
       "id": "leo-xiv-tyska-studenter-2026",
@@ -1900,6 +1900,78 @@
       "url": "https://archedinburgh.org/?p=94804",
       "added_on": "2026-10-18",
       "collected_week": "2026-W42"
+    },
+    {
+      "id": "pave-leo-xiv-lungcanceroperation-2026",
+      "title": "Påve Leo XIV genomgick lungoperation och fick cancerdiagnos",
+      "category": "Nyhet",
+      "date": "2026-10-13",
+      "location": "",
+      "summary": "Påven opererades på Gemellisjukhuset i Rom där nedre loben av högra lungan avlägsnades efter att en vävnadsundersökning under operationen bekräftat lungadenokarcinom. Vatikanen uppger att ingreppet gick utan komplikationer och att prognosen bedöms som god tack vare tidig upptäckt.",
+      "source": "Vatican News / Reuters",
+      "url": "https://www.fox32chicago.com/news/pope-leo-lung-surgery",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "pave-leo-xiv-utskriven-gemelli-aterhamtning-2026",
+      "title": "Påven skrevs ut från Gemelli och inledde återhämtning",
+      "category": "Nyhet",
+      "date": "2026-10-17",
+      "location": "",
+      "summary": "Fyra dagar efter lungoperationen lämnade Leo XIV sjukhuset för fortsatt återhämtning. Offentliga audienser hölls pausade till den 20 oktober medan Vatikanen fortsatte att ge dagliga uppdateringar om hans tillstånd.",
+      "source": "Infovaticana / Reuters",
+      "url": "https://infovaticana.com/en/blogs/cigona/that-the-pope-is-already-in-the-vatican-today-seems-like-very-good-news-to-me/",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "tagle-forste-asiatiske-dekan-kardinalskollegiet-2026",
+      "title": "Kardinal Tagle blir första asiatiska dekanen för kardinalskollegiet",
+      "category": "Nyhet",
+      "date": "2026-10-09",
+      "location": "",
+      "summary": "Filippinske kardinal Luis Antonio Tagle godkändes av påve Leo XIV som ny dekan för kardinalskollegiet, en femårig post som bland annat innebär att leda ett eventuellt framtida konklav. Han efterträder 92-årige Giovanni Battista Re, som blir dekan emeritus.",
+      "source": "Reuters",
+      "url": "https://www.thestar.com.my/news/world/2026/10/09/pope-leo-approves-tagle-as-first-asian-dean-of-catholic-cardinals",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "jordanien-skottlossning-kyrka-begravning-2026",
+      "title": "Flera dödade i skottlossning mot kyrka under begravning i Jordanien",
+      "category": "Nyhet",
+      "date": "2026-10-23",
+      "location": "Karak, Jordanien",
+      "summary": "Beväpnade män öppnade eld mot en grekisk-ortodox kyrka under en begravningsgudstjänst i Karak-provinsen, med dödsoffer enligt olika källor mellan sju och nio personer. Jordanska myndigheter har inlett en brottsutredning av vad som beskrivs som en unik attack mot kristna i landet.",
+      "source": "Al Jazeera / CNN",
+      "url": "https://www.aljazeera.com/news/2026/10/23/at-least-seven-killed-after-gunmen-open-fire-at-church-in-jordan",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "open-doors-world-watch-list-388-miljoner-2026",
+      "title": "Open Doors: 388 miljoner kristna utsätts för förföljelse",
+      "category": "Dokument",
+      "date": "2026-01-14",
+      "location": "",
+      "summary": "Organisationen Open Doors uppger i årets World Watch List att omkring 388 miljoner kristna världen över utsätts för allvarlig diskriminering eller förföljelse på grund av sin tro, en ökning jämfört med föregående år. Nordkorea toppar listan medan Syrien klättrat kraftigt, och de allra flesta dödsfallen sker i Nigeria och övriga Afrika söder om Sahara.",
+      "source": "Open Doors",
+      "url": "https://www.asianews.it/en/articles/open-doors-388-million-christians-persecuted-worldwide-including-two-out-of-five-christians-in-asia",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "nigeria-adamawa-attack-kristna-oktober-2026",
+      "title": "Nytt dödligt attentat mot kristna i Adamawa, Nigeria",
+      "category": "Nyhet",
+      "date": "2026-10-18",
+      "location": "Adamawa, Nigeria",
+      "summary": "Enligt bevakning av organisationen Crossed Arrows International stod Nigeria återigen för den största andelen av veckans dödsoffer bland kristna, med ett attentat i Adamawa-provinsen som enligt uppgift dödade omkring trettio personer, inklusive en evangelist i Church of the Brethren.",
+      "source": "Crossed Arrows International",
+      "url": "https://crossedarrowsinternational.substack.com/p/global-persecution-brief-09e",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
     }
   ]
 }

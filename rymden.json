@@ -2,8 +2,8 @@
   "topic": "Rymden",
   "description": "Raketuppskjutningar, rymdsonder, astronomiska upptäckter och rymdindustri. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-18",
-  "item_count": 101,
+  "last_updated": "2026-10-25",
+  "item_count": 107,
   "items": [
     {
       "id": "ariane-6-amazon-leo-tyngsta-lasten-2026",
@@ -1216,6 +1216,78 @@
       "url": "https://www.ipac.caltech.edu/news",
       "added_on": "2026-10-18",
       "collected_week": "2026-W42"
+    },
+    {
+      "id": "spacex-starlink-15-15-vandenberg-2026",
+      "title": "SpaceX skjuter upp Starlink 15-15 från Vandenberg",
+      "category": "Uppskjutning",
+      "date": "2026-10-20",
+      "location": "",
+      "summary": "En Falcon 9 lyfte från Vandenberg med 27 nya Starlink-satelliter ombord, en del av SpaceX:s fortsatt höga uppskjutningstakt under oktober.",
+      "source": "Spaceflight Now",
+      "url": "https://spaceflightnow.com/tag/starlink-15-15/",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "spacex-bandwagon-5-starfall-uppskjutning-2026",
+      "title": "SpaceX skjuter upp rideshare-uppdraget Bandwagon-5 med Vardas Starfall-kapsel",
+      "category": "Uppskjutning",
+      "date": "2026-10-18",
+      "location": "",
+      "summary": "Falcon 9 sköt upp Bandwagon-5 från Cape Canaveral med Vardas återinträdeskapsel Starfall och 31 kundlaster ombord.",
+      "source": "Spaceflight Now",
+      "url": "https://spaceflightnow.com/tag/bandwagon-5/",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "rocket-lab-electron-hawkeye-360-flight3-2026",
+      "title": "Rocket Lab skjuter upp tre HawkEye 360-satelliter med Electron",
+      "category": "Uppskjutning",
+      "date": "2026-10-21",
+      "location": "",
+      "summary": "Rocket Lab genomförde uppdraget \"We're Not Hawking Around\" från Nya Zeeland och satte ytterligare tre satelliter i omloppsbana för underrättelsebolaget HawkEye 360.",
+      "source": "SpaceNexus",
+      "url": "https://spacenexus.us/launch/cmogcfc9cu4ad10zhnz3ogzuu.md",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "webb-stjarnbildningsregion-jetstralar-bild-2026",
+      "title": "James Webb-teleskopet avbildar stjärnbildningsregion med jetstrålar",
+      "category": "Forskning",
+      "date": "2026-10-06",
+      "location": "",
+      "summary": "NASA har publicerat en ny Webb-bild som visar kraftfulla jetstrålar från unga stjärnor i en stjärnbildningsregion, ett bidrag till förståelsen av hur stjärnor växer.",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/asset/webb/",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "beta-pictoris-d-tredje-planeten-upptackt-2026",
+      "title": "Astronomer identifierar en tredje direkt avbildad planet i Beta Pictoris-systemet",
+      "category": "Forskning",
+      "date": "2026-10-15",
+      "location": "",
+      "summary": "Genom att kombinera data från Webb och Hubble har forskare bekräftat Beta Pictoris d som en tredje direkt avbildad planet i systemet, genom att detektera kemiska signaturer i dess atmosfär.",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/exoplanets/missions/",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "long-march-8a-vertikal-transport-wenchang-2026",
+      "title": "Kinas uppgraderade Long March 8A förbereds för lansering från Wenchang",
+      "category": "Nyhet",
+      "date": "2026-10-19",
+      "location": "",
+      "summary": "Den uppgraderade raketen Long March 8A, som kan lyfta sju ton till en solsynkron bana, har transporterats vertikalt till startplattan i Wenchang inför kommande uppskjutningar av Kinas megakonstellation Guowang.",
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com/videos/watch-chinas-long-march-8a-rockets-vertical-transfer",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "topic": "IT – Nya produkter",
   "description": "Nya IT- och teknikprodukter: hårdvara, mjukvara, AI och gaming. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-18",
-  "item_count": 170,
+  "last_updated": "2026-10-25",
+  "item_count": 176,
   "items": [
     {
       "id": "nvidia-rtx-spark-2026",
@@ -2044,6 +2044,78 @@
       "url": "https://www.tomshardware.com/laptops/nvidia-unveils-rtx-spark-superchip-at-computex-2026-new-platform-promises-to-turn-windows-into-an-agentic-ai-os-with-arm-cpu-blackwell-gpu-and-128gb-unified-memory",
       "added_on": "2026-10-18",
       "collected_week": "2026-W42"
+    },
+    {
+      "id": "apple-iphone-duo-slapp-2026",
+      "title": "Apple släpper vikbara iPhone Duo till kunder",
+      "category": "Produkt",
+      "date": "2026-10-23",
+      "location": "",
+      "summary": "Apples första vikbara telefon, iPhone Duo, började levereras till kunder den 23 oktober efter förhandsbokning från 16 oktober. Startpriset ligger på 1 999 dollar och tidiga recensioner är delade i sin bedömning.",
+      "source": "Tech Insider",
+      "url": "https://tech-insider.org/iphone-duo-review-roundup-nyt-lines-five-critics-2026/",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "microsoft-surface-pro-12-tum-andra-generationen-2026",
+      "title": "Microsoft lanserar Surface Pro 12 tum andra generationen",
+      "category": "Produkt",
+      "date": "2026-10-13",
+      "location": "",
+      "summary": "Microsoft har släppt en andra generation av sin kompakta Surface Pro på 12 tum i ett urval marknader, med ett startpris strax under 1 150 dollar.",
+      "source": "Gear Patrol",
+      "url": "https://www.gearpatrol.com/audio/best-tech-audio-hi-fi-releases-2026-october-week-2/",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "dji-osmo-360-ii-lansering-2026",
+      "title": "DJI lanserar actionkameran Osmo 360 II",
+      "category": "Produkt",
+      "date": "2026-10-20",
+      "location": "",
+      "summary": "DJI har släppt uppföljaren Osmo 360 II, en 360-graderskamera som enligt tester från TechRadar hör till oktobers bäst mottagna nya prylar.",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/tech/top-tech-of-the-month-the-best-new-gadgets-weve-tested-for-october-2026",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "garmin-fenix-9-pro-lansering-2026",
+      "title": "Garmin Fenix 9 Pro får toppbetyg i oktobertester",
+      "category": "Produkt",
+      "date": "2026-10-20",
+      "location": "",
+      "summary": "Garmins nya äventyrsklocka Fenix 9 Pro beskrivs av TechRadar som nära perfekt i prestanda, även om priset ligger i det absoluta premiumsegmentet.",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/tech/top-tech-of-the-month-the-best-new-gadgets-weve-tested-for-october-2026",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "apple-pro-and-tell-event-28-oktober-2026",
+      "title": "Apple bjuder in till \"Pro and tell\"-event 28 oktober",
+      "category": "Nyhet",
+      "date": "2026-10-19",
+      "location": "",
+      "summary": "Apple har bekräftat ett produktevent den 28 oktober där nya MacBook Pro-modeller och en uppdaterad iPad mini väntas presenteras.",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/19/apple-is-launching-major-new-products-next-week-heres-whats-coming/",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "infinix-gt-50-pro-lansering-indien-2026",
+      "title": "Infinix lanserar gamingmobilen GT 50 Pro i Indien",
+      "category": "Produkt",
+      "date": "2026-10-27",
+      "location": "",
+      "summary": "Infinix lanserar sin nya gamingfokuserade mobil GT 50 Pro på den indiska marknaden, en av flera telefonlanseringar som väntas i Asien under slutet av oktober.",
+      "source": "Beebom",
+      "url": "https://gadgets.beebom.com/news/all-upcoming-phones-launching-this-week-october-26-november-1",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
     }
   ]
 }

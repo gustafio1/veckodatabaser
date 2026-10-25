@@ -2,8 +2,8 @@
   "topic": "Filosofi",
   "description": "Nya filosofiböcker, debatt, forskning, evenemang och klassiker i nytt ljus. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-18",
-  "item_count": 86,
+  "last_updated": "2026-10-25",
+  "item_count": 91,
   "items": [
     {
       "id": "routledge-basta-filosofibockerna-2026",
@@ -1036,6 +1036,66 @@
       "url": "https://dailynous.com/2026/10/12/online-philosophy-resources-weekly-update-443/",
       "added_on": "2026-10-18",
       "collected_week": "2026-W42"
+    },
+    {
+      "id": "daily-nous-ai-initiativ-lse-toronto-2026",
+      "title": "LSE och Toronto lanserar nya filosofiska AI-initiativ",
+      "category": "Nyhet",
+      "date": "2026-10-19",
+      "location": "",
+      "summary": "London School of Economics startar en forskningsgrupp om globala prioriteringar kring transformativ AI, finansierad med motsvarande 5,3 miljoner dollar, medan University of Toronto inrättar ett initiativ för forskning om artificiellt medvetande. Båda satsningarna speglar hur filosofiämnet alltmer riktar in sig på AI:s etiska och metafysiska konsekvenser.",
+      "source": "Daily Nous",
+      "url": "https://dailynous.com/2026/10/19/new-philosophy-of-ai-initiatives/",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "pea-soup-filosofiska-pussel-tadros-2026",
+      "title": "Bloggen PEA Soup startar ny serie med filosofiska pussel",
+      "category": "Debatt",
+      "date": "2026-10-20",
+      "location": "",
+      "summary": "Filosofibloggen PEA Soup inleder en ny artikelserie om moraliska och politiska tankeexperiment, med Victor Tadros från Warwick som förste bidragsgivare. Läsare uppmanas även föreslå egna pussel för kommande inlägg i serien.",
+      "source": "Daily Nous / PEA Soup",
+      "url": "https://dailynous.com/2026/10/20/new-series-of-philosophical-puzzles/",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "olberding-sorg-dods-filosofins-granser-2026",
+      "title": "Amy Olberding skriver om filosofins gränser inför sorg och död",
+      "category": "Essä",
+      "date": "2026-10-22",
+      "location": "",
+      "summary": "I ett gästinlägg på Daily Nous reflekterar filosofen Amy Olberding över vad filosofin inte kan erbjuda den som står inför döden eller sörjer en närstående. Texten ifrågasätter filosofins anspråk på att alltid ge tröst eller mening i existentiella kriser.",
+      "source": "Daily Nous",
+      "url": "https://dailynous.com/2026/10/22/death-just-got-out-of-this-truck-guest-post/",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "knobe-konflikterande-intuitioner-2026",
+      "title": "Ny diskussion om varför filosofiska intuitioner går isär",
+      "category": "Debatt",
+      "date": "2026-10-23",
+      "location": "",
+      "summary": "Med utgångspunkt i Joshua Knobes uppmärksammade artikel \"Conflicting Intuitions\" diskuteras varför filosofer och lekmän ofta drar olika slutsatser av samma tankeexperiment. Inlägget väcker frågan om intuitioner i filosofisk metod är tillförlitliga belägg eller enbart en spegling av individuella skillnader.",
+      "source": "Daily Nous",
+      "url": "https://dailynous.com/2026/10/23/where-intuitions-conflict/",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "daily-nous-online-resurser-444-2026",
+      "title": "Veckans uppdatering av filosofiska webbresurser nummer 444",
+      "category": "Resurs",
+      "date": "2026-10-19",
+      "location": "",
+      "summary": "Daily Nous listar i sin återkommande sammanställning nya och reviderade artiklar i Stanford Encyclopedia of Philosophy, färska bokrecensioner och nyutgivna open access-böcker inom filosofi. Uppdateringen fungerar som en samlad ingång för den som vill hålla sig uppdaterad på fältets senaste publikationer.",
+      "source": "Daily Nous",
+      "url": "https://dailynous.com/2026/10/19/online-philosophy-resources-weekly-update-444/",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
     }
   ]
 }

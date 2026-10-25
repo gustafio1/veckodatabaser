@@ -2,8 +2,8 @@
   "topic": "Trädgård",
   "description": "Forskning om odling, biologisk mångfald, jord, pollinatörer och hälsa. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-11",
-  "item_count": 60,
+  "last_updated": "2026-10-25",
+  "item_count": 65,
   "items": [
     {
       "id": "naturbaserad-rorelse-psykisk-halsa-2026",
@@ -724,6 +724,66 @@
       "url": "https://murciaregioneuropea.carm.es/en/-/investigadores-de-la-umu-analizan-la-salud-del-suelo-en-un-gran-proyecto-europeo-para-frenar-la-desaparici%C3%B3n-de-los-polinizadores",
       "added_on": "2026-10-11",
       "collected_week": "2026-W41"
+    },
+    {
+      "id": "blomrikedom-pollinatorer-tradgardar-glasgow-2026",
+      "title": "Blomrikedom avgör hur många pollinatörer trädgårdar och koloniträdgårdar lockar",
+      "category": "Forskning",
+      "date": "2026-10-01",
+      "location": "",
+      "summary": "En studie ledd från Glasgow, publicerad i Ecological Entomology, visar att privata trädgårdar och koloniträdgårdar i brittiska städer lockar ungefär lika många pollinatörer. Det som avgjorde pollinatörernas mångfald var antalet olika blomtyper, inte om platsen var en trädgård eller koloniträdgård.",
+      "source": "Ecological Entomology",
+      "url": "https://doi.org/10.1111/een.70126",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "propollsoil-bin-mandelodlingar-murcia-2026",
+      "title": "Forskare kartlägger vildbin i mandelodlingar inom stort EU-jordprojekt",
+      "category": "Forskning",
+      "date": "2026-03-30",
+      "location": "",
+      "summary": "Inom det EU-finansierade projektet ProPollSoil har forskare vid universitetet i Murcia provtagit vildbin i mandelodlingar för att undersöka hur jordkvalitet påverkar markbundna pollinatörer. Projektet, som leds från Tekniska universitetet i München, ska pågå i fyra år.",
+      "source": "Región de Murcia / ProPollSoil",
+      "url": "https://murciaregioneuropea.carm.es/en/-/investigadores-de-la-umu-analizan-la-salud-del-suelo-en-un-gran-proyecto-europeo-para-frenar-la-desaparici%C3%B3n-de-los-polinizadores",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "vaxtvariation-pollinatortragardar-uga-2026",
+      "title": "Växtvariation avgör hur mycket pollinatörer gynnas av trädgården, visar genomgång",
+      "category": "Forskning",
+      "date": "2026-08-01",
+      "location": "",
+      "summary": "En genomgång av forskningsrådgivning om pollinatörsträdgårdar från University of Georgia drar slutsatsen att trädgårdar gynnar pollinatörer mest när de innehåller ett stort antal olika växtarter, snarare än stora mängder av få arter.",
+      "source": "University of Georgia",
+      "url": "https://nurserymag.com/article/research-uga-pollinator-gardens-do-better-with-variety-of-plants",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "mikroplast-koloniträdgardsjord-oregon-2026",
+      "title": "Forskare undersöker mikroplast i jorden i koloniträdgårdar",
+      "category": "Forskning",
+      "date": "2026-02-01",
+      "location": "",
+      "summary": "Oregon State Universitys Garden Ecology Lab inleder en studie av mikroplastföroreningar i jorden i koloniträdgårdar. Projektet är en del av labbets bredare forskning om hur odlingspraxis påverkar jordens hälsa och ekosystem i trädgårdar.",
+      "source": "Oregon State University",
+      "url": "https://today.oregonstate.edu/all-stories/spotlight-garden-ecology-lab-college-agricultural-sciences",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "pollinatorvanliga-vaxter-okar-besok-bali-2026",
+      "title": "Ny studie bekräftar att pollinatörvänliga växter ökar besöken i trädgården",
+      "category": "Forskning",
+      "date": "2026-05-01",
+      "location": "",
+      "summary": "En ny studie bekräftar att plantering av pollinatörvänliga växtarter ökar antalet pollinatörsbesök i trädgårdar. Resultaten stödjer tidigare rådgivning om att medvetna växtval kan göra en påtaglig skillnad för insekter som bin och fjärilar.",
+      "source": "BALI",
+      "url": "https://www.bali.org.uk/news/new-study-confirms-pollinator-friendly-plants-boost/",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
     }
   ]
 }

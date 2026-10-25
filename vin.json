@@ -2,8 +2,8 @@
   "topic": "Vin",
   "description": "Forskning om vinframställning, odling, smak och hälsa. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-11",
-  "item_count": 60,
+  "last_updated": "2026-10-25",
+  "item_count": 65,
   "items": [
     {
       "id": "arom-ekologiskt-vs-konventionellt-vitt-vin-2026",
@@ -724,6 +724,66 @@
       "url": "https://www.vinetur.com/2026043099989/scientists-clash-over-wines-health-effects.html",
       "added_on": "2026-10-11",
       "collected_week": "2026-W41"
+    },
+    {
+      "id": "burgund-trad-skydd-vingard-vitaf-2026",
+      "title": "Burgund testar träd mellan vinrader som skydd mot torka och frost",
+      "category": "Forskning",
+      "date": "2026-06-02",
+      "location": "",
+      "summary": "I det franska forskningsprojektet VITAF testas om träd planterade mellan vinrader kan skydda vingårdar mot torka och frost. Forskarna mäter bland annat temperatur och markfuktighet för att se hur träden påverkar vingårdens motståndskraft mot klimatchocker.",
+      "source": "Vinetur",
+      "url": "https://www.vinetur.com/en/amp/20260602101866/burgundy-tests-trees-to-shield-vineyards.html",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "varmare-klimat-druvsorter-smakutveckling-lund-2026",
+      "title": "Varmare klimat hotar smaken hos världens vanligaste vindruvor, enligt Lundaforskare",
+      "category": "Forskning",
+      "date": "2026-09-20",
+      "location": "",
+      "summary": "Mellan 70 och 90 procent av all vinodling i världen bygger på bara ett tiotal druvsorter, enligt Kimberly Nicholas, lektor i hållbarhetsvetenskap vid Lunds universitet. Ett varmare klimat gör att druvornas mognadsprocess kommer i otakt, vilket tvingar odlare att skörda tidigare innan smaken hunnit utvecklas fullt ut.",
+      "source": "SVT / Lunds universitet",
+      "url": "https://www.svt.se/nyheter/utrikes/klimatforandringarna-hotar-favoritvinet",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "awri-jastgenetik-vinframstallning-2026",
+      "title": "Genteknik ger vinjäst med nya egenskaper, visar australisk forskningsgenomgång",
+      "category": "Forskning",
+      "date": "2026-10-01",
+      "location": "",
+      "summary": "Australian Wine Research Institutes tekniska översikt för hösten 2026 beskriver hur genteknik förändrat utvecklingen av vinjäststammar. Översikten lyfter bland annat fram syntetiska jästkromosomer som ett steg mot mer precis styrning av jäsningen.",
+      "source": "Australian Wine Research Institute",
+      "url": "https://www.vinetur.com/it/amp/20260930108067/australian-wine-research-institute-releases-spring-2026-technical-review.html",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "japan-varmetoleranta-druvor-kirin-riken-2026",
+      "title": "Japanskt forskningsprojekt testar värme- och torktoleranta vindruvor",
+      "category": "Forskning",
+      "date": "2026-04-01",
+      "location": "",
+      "summary": "Kirin och forskningsinstitutet Riken har startat fältförsök i en vingård i Nagano för att undersöka om druvor kan göras mer tåliga mot värme och torka. Projektet har ännu inte presenterat resultat om vattenbesparing eller förbättrad druvkvalitet.",
+      "source": "FoodIngredientsFirst",
+      "url": "https://www.foodingredientsfirst.com/news/kirin-riken-wine-grapes-climate-resilience.html",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "bordeaux-rekordvarme-mindre-skord-2026",
+      "title": "Rekordvärme gav tidigare och mindre vinskörd i Bordeaux",
+      "category": "Nyhet",
+      "date": "2026-09-05",
+      "location": "",
+      "summary": "En rekordvarm säsong har tvingat odlare i Bordeaux att skörda sina druvor flera veckor tidigare än normalt. Den tidiga skörden har samtidigt blivit betydligt mindre än vanligt, enligt fransk media.",
+      "source": "TV4",
+      "url": "https://www.tv4.se/artikel/5qa3ymwxFImUhkuGSklokn/rekordhettan-slar-mot-vinskoerdarna",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
     }
   ]
 }

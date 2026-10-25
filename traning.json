@@ -2,8 +2,8 @@
   "topic": "Träning",
   "description": "Forskning om styrka, kondition, hälsoeffekter och återhämtning. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-11",
-  "item_count": 58,
+  "last_updated": "2026-10-25",
+  "item_count": 63,
   "items": [
     {
       "id": "rest-pause-vs-drop-sets-styrketraning-2026",
@@ -700,6 +700,66 @@
       "url": "https://healthsciences.ku.dk/newsfaculty-news/2026/07/after-weight-loss-exercise-improves-cardiovascular-health-more-than-weight-loss-medication/",
       "added_on": "2026-10-11",
       "collected_week": "2026-W41"
+    },
+    {
+      "id": "intensiv-traning-battre-an-10000-steg-2026",
+      "title": "Intensiv träning gav mer konditionsvinst än 10 000 steg om dagen",
+      "category": "Forskning",
+      "date": "2026-09-01",
+      "location": "",
+      "summary": "Forskare vid Boston University har använt data från Framingham Heart Study för att jämföra hur gångsteg och träningsintensitet påverkar konditionen. Att träna med högre intensitet än vad som krävs för att gå 10 000 steg om dagen gav en betydligt större förbättring av konditionen än själva stegantalet.",
+      "source": "Boston University / Framingham Heart Study",
+      "url": "https://www.futurity.org/intense-workouts-fitness-exercise-2632442-2/",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "intensiv-traning-hjartskydd-fyra-ganger-2026",
+      "title": "Intensiv träning skyddar hjärtat fyra gånger bättre än måttlig aktivitet, visar ny analys",
+      "category": "Forskning",
+      "date": "2026-09-15",
+      "location": "",
+      "summary": "En studie publicerad i Nature Communications visar att högintensiv träning ger ett betydligt större skydd för hjärtat än måttlig aktivitet som promenader. Enligt forskarna var effekten på hjärthälsan omkring fyra gånger så stor vid intensiv träning jämfört med lugnare rörelse.",
+      "source": "Nature Communications",
+      "url": "https://www.healthclubmanagement.co.uk/health-club-management-news/Vigorous-activity-is-four-times-more-powerful-than-walking/361551",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "styrketraning-loopekonomi-uthallighet-2026",
+      "title": "Styrketräning gav löpare bättre uthållighet och löpekonomi i trötthet",
+      "category": "Forskning",
+      "date": "2026-02-01",
+      "location": "",
+      "summary": "I en randomiserad studie fick vältränade manliga löpare ett tio veckor långt styrke- och plyometriskt tillägg till sin löpträning. Löpekonomin höll sig bättre under ett 90 minuter långt lopp och löparnas prestation vid hög intensitet i trött tillstånd förbättrades jämfört med kontrollgruppen.",
+      "source": "Medicine & Science in Sports & Exercise",
+      "url": "https://www.citedrive.com/en/discovery/strength-training-improves-running-economy-durability-and-fatigued-high-intensity-performance-in-well-trained-male-runners-a-randomized-control-trial",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "styrketraning-vo2max-loopare-2026",
+      "title": "Tjugo veckors styrketräning höjde löpares VO2max och löpekonomi",
+      "category": "Forskning",
+      "date": "2026-01-15",
+      "location": "",
+      "summary": "I en studie av 18 tränade löpare förbättrades löpekonomin med runt fyra procent och den relativa syreupptagningsförmågan (VO2max) ökade med ungefär 4,6 procent efter tjugo veckor med kompletterande styrketräning, enligt en studie i Applied Sciences.",
+      "source": "Applied Sciences",
+      "url": "https://doaj.org/article/dee5bfbdd9f94f85952d1d9eae43744e",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "styrketraning-skadeforebyggande-loopning-oversikt-2026",
+      "title": "Forskningsgenomgång granskar om styrketräning verkligen förebygger löparskador",
+      "category": "Forskning",
+      "date": "2026-05-15",
+      "location": "",
+      "summary": "En genomgång av litteratur fram till maj 2026 utvärderar vilken roll styrketräning spelar för att förebygga löparskador. Tidigare studier pekar på att styrketräning kan stärka muskler och förbättra höftstabilitet, men genomgången understryker att det fortfarande behövs mer forskning för säkra slutsatser om skadeförebyggande effekt.",
+      "source": "Quality in Sport",
+      "url": "https://apcz.umk.pl/QS/article/download/72956/46940/247237",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "topic": "Kyrkohistoria",
   "description": "Kyrkohistorisk forskning, jubileer, kristen arkeologi, böcker och kulturarv. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-18",
-  "item_count": 83,
+  "last_updated": "2026-10-25",
+  "item_count": 89,
   "items": [
     {
       "id": "iznik-nicaeakyrkans-lamningar-utgravda-2026",
@@ -1000,6 +1000,78 @@
       "url": "https://www.iris.unisa.it/handle/11386/4947078",
       "added_on": "2026-10-18",
       "collected_week": "2026-W42"
+    },
+    {
+      "id": "greenland-norse-kyrkoruin-qinngua-2026",
+      "title": "Okänd norrön kyrkoruin funnen i Grönland",
+      "category": "Fynd",
+      "date": "2026-09-24",
+      "location": "Qinngua, Grönland",
+      "summary": "Forskare från Danmarks nationalmuseum, Grönlands nationalmuseum och UNESCO Kujataa har hittat en tidigare okänd norrön kyrkoruin vid Qinngua nära Narsarsuaq, inte långt från Erik den rödes gård. Det är det första nya kyrkfyndet i Grönland på över 60 år och kan vara identiskt med den i sagorna omtalade \"kyrkan under solbergen\".",
+      "source": "Medievalists.net / Nationalmuseet",
+      "url": "https://www.medievalists.net/2026/09/medieval-norse-church-discovered-in-greenland/",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "benedikt-av-nursia-klosterregel-kyrkohistoria",
+      "title": "Benedikt av Nursia och klosterregelns betydelse för västerländskt klosterliv",
+      "category": "Princip",
+      "date": "2026-10-25",
+      "location": "Monte Cassino, Italien",
+      "summary": "Benedikt av Nursia grundade på 500-talet klostret på Monte Cassino och skrev där sin klosterregel, som med tiden blev grundval för hela det västerländska klosterväsendet och än idag formar benediktinordens liv av bön och arbete.",
+      "source": "Kyrkohistoriskt översiktsmaterial",
+      "url": "https://sv.wikipedia.org/wiki/Benedikt_av_Nursia",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "jesuitorden-grundande-1540-kyrkohistoria",
+      "title": "Jesuitordens grundande 1540 och dess roll i motreformationen",
+      "category": "Princip",
+      "date": "2026-10-25",
+      "location": "Rom",
+      "summary": "År 1540 godkände påve Paul III formellt Jesu sällskap, grundat av den förre soldaten Ignatius av Loyola, och orden kom snabbt att bli en av motreformationens viktigaste krafter genom sin satsning på utbildning och missionsarbete.",
+      "source": "Kyrkohistoriskt översiktsmaterial",
+      "url": "https://sv.wikipedia.org/wiki/Jesuitorden",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "forsta-korstaget-1096-kyrkohistoria",
+      "title": "Första korståget och kyrkans vändning mot väpnad pilgrimsfärd",
+      "category": "Princip",
+      "date": "2026-10-25",
+      "location": "Clermont, Frankrike / Jerusalem",
+      "summary": "Påve Urban II:s uppmaning vid kyrkomötet i Clermont 1095 utlöste det första korståget 1096–1099, då västkyrkan för första gången i stor skala kopplade samman pilgrimsfärd och väpnad kamp för att återta Jerusalem, med varaktiga följder för förhållandet mellan kristendom och islam.",
+      "source": "Kyrkohistoriskt översiktsmaterial",
+      "url": "https://sv.wikipedia.org/wiki/F%C3%B6rsta_korst%C3%A5get",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "stora-skismen-1054-kyrkohistoria",
+      "title": "Stora skismen 1054 skilde den katolska och den ortodoxa kyrkan",
+      "category": "Princip",
+      "date": "2026-10-25",
+      "location": "Konstantinopel / Rom",
+      "summary": "Efter sekler av växande motsättningar kring bland annat filioque-frågan och påvens auktoritet exkommunicerade patriark Michael Kerularios och påvens legat varandra 1054, en brytning som befästes under Konstantinopels fall 1453 och som formellt hävdes först 1965.",
+      "source": "Kyrkohistoriskt översiktsmaterial",
+      "url": "https://sv.wikipedia.org/wiki/Stora_schismen",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "konstantinopels-fall-1453-kyrkohistoria",
+      "title": "Konstantinopels fall 1453 och dess innebörd för kristenheten",
+      "category": "Princip",
+      "date": "2026-10-25",
+      "location": "Konstantinopel",
+      "summary": "När sultan Mehmet II:s trupper intog Konstantinopel den 29 maj 1453 föll det östromerska riket och Hagia Sofia gjordes om till moské, en händelse som gav den ortodoxa kyrkan en ny ställning utan egen stormakt bakom sig och sände chockvågor genom den västliga kristenheten.",
+      "source": "Kyrkohistoriskt översiktsmaterial",
+      "url": "https://sv.wikipedia.org/wiki/Konstantinopels_fall",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
     }
   ]
 }

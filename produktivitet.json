@@ -2,8 +2,8 @@
   "topic": "Produktivitet",
   "description": "Produktivitetsmetoder, verktyg, forskning om fokus, arbetsliv och AI. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-18",
-  "item_count": 79,
+  "last_updated": "2026-10-25",
+  "item_count": 86,
   "items": [
     {
       "id": "fyradagarsvecka-bevisen-vaxer-2026",
@@ -952,6 +952,90 @@
       "url": "https://www.bcbsm.mibluedaily.com/stories/health-and-wellness/study-taking-a-digital-detox-improves-well-being-attention-span",
       "added_on": "2026-10-18",
       "collected_week": "2026-W42"
+    },
+    {
+      "id": "google-workspace-studio-gemini-skills-automation-2026",
+      "title": "Google bygger ut Workspace Studio med ny logik och Gemini-skills för automation",
+      "category": "Verktyg",
+      "date": "2026-10-09",
+      "location": "",
+      "summary": "Google har byggt ut automationsverktyget Workspace Studio med nya logik- och sökmoduler, samtidigt som de återanvändbara AI-kommandona \"skills\" i Gemini börjar rullas ut till Workspace-kunder. Uppdateringen gör det enklare att bygga egna automatiserade arbetsflöden utan att skriva kod.",
+      "source": "Google Workspace Updates",
+      "url": "https://workspaceupdates.googleblog.com/2026/10/new-logic-and-search-steps-in-workspace-Studio-help-expand-automation-capabilities.html",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "harvard-jellyfish-ai-kodagenter-granskningsflaskhals-2026",
+      "title": "Harvard-studie: AI-kodagenter ger mer kod men inte mer färdig mjukvara",
+      "category": "Forskning",
+      "date": "2026-10-12",
+      "location": "",
+      "summary": "En ny Harvard-studie baserad på data från över 700 mjukvarubolag visar att AI-kodagenter ökar mängden kod varje utvecklare skriver med omkring 30 procent, men att den färdiga, levererade mjukvaran inte ökar i motsvarande grad. Flaskhalsen har i stället flyttat till kodgranskningen, där granskningstiderna stigit med nära hälften.",
+      "source": "Harvard (via Ars Technica-rapportering)",
+      "url": "https://fourweekmba.com/ai-coding-agents-add-30-more-code-not-more-finished-work/",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "bcg-sverige-tjansteman-ai-produktivitetsgap-2026",
+      "title": "BCG: Svenska tjänstemän halkar efter i AI-användning – stort produktivitetsgap mot Europa",
+      "category": "Arbetsliv",
+      "date": "2026-06-24",
+      "location": "Sverige",
+      "summary": "En nordisk BCG-undersökning med 4 000 tjänstemän visar att bara 18 procent av svenska medarbetare använder generativ AI varje vecka, långt under det europeiska snittet på 54 procent. Enligt beräkningarna går svenska företag därmed miste om produktivitetsvinster värda uppemot 160 miljarder kronor jämfört med andra europeiska länder.",
+      "source": "Realtid (baserat på BCG)",
+      "url": "https://www.realtid.se/it-tech/svenska-foretags-sjalvbild-krockar-med-ai-verkligheten/",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "uctoday-ai-agenter-kraver-manskliga-chefer-2026",
+      "title": "Produktivitets-AI behöver en mänsklig chef, visar branschgenomgång",
+      "category": "AI",
+      "date": "2026-10-13",
+      "location": "",
+      "summary": "En veckogenomgång från UC Today pekar på ett skifte där AI-agenter som sköter kundtjänst och möten nu behöver tydlig mänsklig tillsyn och granskningsbara loggar snarare än att arbeta helt autonomt. Flera leverantörer lyfts fram som exempel på hur ansvar och kontroll byggs in i de nya produktivitetsverktygen.",
+      "source": "UC Today",
+      "url": "https://uctoday.com/this-week-productivity-ai-gets-a-human-manager-now",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "microsoft-365-copilot-oktoberuppdatering-2026",
+      "title": "Microsoft 365 Copilot får nya funktioner i Word, Excel och PowerPoint i oktober",
+      "category": "Verktyg",
+      "date": "2026-10-19",
+      "location": "",
+      "summary": "Microsoft fortsätter bygga ut Copilot i Office-appana under oktober 2026, bland annat med möjlighet att redigera dokument direkt bredvid en pågående AI-konversation och enklare datarensning i Excel. Flera av funktionerna är fortfarande under gradvis utrullning och skiljer sig åt mellan olika kontotyper.",
+      "source": "A Guide to Cloud",
+      "url": "https://www.aguidetocloud.com/blog/microsoft-365-copilot-october-2026-updates/",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "shift-digital-utbrandhet-webblasare-rapport-2026",
+      "title": "Rapport: Sex av tio känner digital utbrändhet av notiser och ständigt fliksnabbande",
+      "category": "Fokus",
+      "date": "2025-12-16",
+      "location": "",
+      "summary": "En amerikansk enkät med 1 000 vuxna visar att 62 procent regelbundet eller ibland känner digital utbrändhet, med notiser, sociala medier och ständigt fliksnabbande som de vanligaste orsakerna. Yngre generationer rapporterar oftare att de aldrig riktigt kan koppla bort skärmen.",
+      "source": "Shift (via Adweek)",
+      "url": "https://www.adweek.com/adweek-wire/new-report-from-shift-reveals-rising-levels-of-digital-burnout-across-generations/",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "cisco-webexone-roomos27-ai-motesrum-2026",
+      "title": "Cisco knyter ihop mötesrum, nätverk och AI-agenter med nya RoomOS 27",
+      "category": "Verktyg",
+      "date": "2026-10-09",
+      "location": "",
+      "summary": "På konferensen WebexOne presenterade Cisco nya AI-agenter för Webex samt RoomOS 27, ett mötesrumsoperativsystem som från november även ska fungera med Teams, Zoom och Google Meet. Satsningen knyter samman mötesrumsutrustning, nätverk och beläggningsdata i en gemensam molnplattform för att göra kontorsarbetet mer datadrivet.",
+      "source": "UC Today",
+      "url": "https://uctoday.com/this-week-ciscos-ai-workplace-push-meets-new-devices",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
     }
   ]
 }

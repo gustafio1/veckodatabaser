@@ -2,8 +2,8 @@
   "topic": "Psykologi – Vänskap",
   "description": "Ny forskning och insikter om vänskap, relationer och social anknytning. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-18",
-  "item_count": 121,
+  "last_updated": "2026-10-25",
+  "item_count": 128,
   "items": [
     {
       "id": "vanskap-folkhalsotillgang-2026",
@@ -1456,6 +1456,90 @@
       "url": "https://authentichageing.substack.com/p/saturday-spotlight-17-october-2026",
       "added_on": "2026-10-18",
       "collected_week": "2026-W42"
+    },
+    {
+      "id": "vanner-forsvinner-aldre-dagensps-2026",
+      "title": "Vissa vänskaper tynar bort tyst när vi blir äldre",
+      "category": "Vänskap",
+      "date": "2026-06-12",
+      "location": "",
+      "summary": "En genomgång av vänskapsforskning visar att vänskaper som byggts upp nästan automatiskt i skolan eller på jobbet ofta förlorar sin struktur när livet förändras, och att obalans i vem som tar initiativ till kontakt gradvis kan skapa distans.",
+      "source": "Dagens PS",
+      "url": "https://www.dagensps.se/weekend/psykologerna-darfor-forsvinner-vissa-vanner-nar-du-blir-aldre/",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "asexuella-vuxna-ensamhet-oberoende-relation-2026",
+      "title": "Kärleksrelationer skyddar mot ensamhet – men inte för alla",
+      "category": "Social anknytning",
+      "date": "2026-06-16",
+      "location": "",
+      "summary": "Ny studie visar att ett förhållande vanligtvis minskar ensamhetskänslan, men att sambandet inte gäller för asexuella vuxna, vars ensamhetsnivåer är ungefär lika höga oavsett relationsstatus.",
+      "source": "PsyPost",
+      "url": "https://www.psypost.org/romantic-relationships-protect-against-loneliness-but-not-for-everyone/",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "partner-anknytningsstil-gissa-ratt-2026",
+      "title": "Vi är ganska bra på att gissa partnerns anknytningsstil – men med en hake",
+      "category": "Anknytning",
+      "date": "2026-06-13",
+      "location": "",
+      "summary": "Studie i Personality and Social Psychology Bulletin visar att partners kan bedöma varandras anknytningsotrygghet relativt träffsäkert, men att bedömningen samtidigt färgas av egna föreställningar om relationen.",
+      "source": "PsyPost / Personality and Social Psychology Bulletin",
+      "url": "https://www.psypost.org/are-we-actually-any-good-at-guessing-our-partners-attachment-style-new-research-says-yes-but-there-is-a-catch/",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "overskattar-partners-anknytningsotrygghet-2026",
+      "title": "Vi överskattar ofta hur otryggt anknutna våra partners egentligen är",
+      "category": "Anknytning",
+      "date": "2026-06-19",
+      "location": "",
+      "summary": "Treårig studie av nygifta par visar att vi generellt bedömer partnerns anknytningsmönster korrekt, men tenderar att överskatta deras ängslan och undvikande – delvis genom att projicera vår egen anknytningsstil på dem.",
+      "source": "PsyPost / Journal of Social and Personal Relationships",
+      "url": "https://www.psypost.org/people-tend-to-overestimate-their-partners-attachment-insecurity/",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "singelliv-sjalvbestammande-anknytning-2026",
+      "title": "Det som avgör om singellivet blir gott: självbestämmande och trygg anknytning",
+      "category": "Anknytning",
+      "date": "2026-02-14",
+      "location": "",
+      "summary": "Studie i Personal Relationships visar att ensamstående som upplever sitt singelliv som ett eget val, har sina grundläggande psykologiska behov tillgodosedda och en trygg anknytningsstil rapporterar högre livstillfredsställelse och färre depressiva symtom.",
+      "source": "PsyPost / Personal Relationships",
+      "url": "https://www.psypost.org/who-lives-a-good-single-life-new-data-highlights-the-role-of-autonomy-and-attachment/",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "anknytningsstil-aktiviteter-relationsnojdhet-2026",
+      "title": "Din anknytningsstil styr vilka gemensamma aktiviteter som stärker relationen",
+      "category": "Anknytning",
+      "date": "2026-02-13",
+      "location": "",
+      "summary": "Studie i Social Psychological and Personality Science visar att undvikande anknutna personer mår bäst av nya, spännande upplevelser tillsammans med partnern, medan ängsligt anknutna personer snarare stärks av trygga, välbekanta stunder.",
+      "source": "PsyPost / Social Psychological and Personality Science",
+      "url": "https://www.psypost.org/your-attachment-style-predicts-which-activities-boost-romantic-satisfaction/",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "autistiska-drag-relationsunderhall-anknytning-2026",
+      "title": "Högre grad av autistiska drag hänger samman med mindre aktivt relationsunderhåll",
+      "category": "Relationer",
+      "date": "2026-09-27",
+      "location": "",
+      "summary": "Studie i Evolutionary Psychology med nästan 800 deltagare visar att personer med fler autistiska drag undviker manipulativa knep mot sin partner, men också i mindre grad visar aktiv omtanke – ett mönster som verkar förklaras av otrygg anknytningsstil snarare än evolutionära strategier.",
+      "source": "PsyPost / Evolutionary Psychology",
+      "url": "https://www.psypost.org/people-with-higher-autistic-traits-tend-to-avoid-positive-relationship-maintenance-tactics/",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
     }
   ]
 }

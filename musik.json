@@ -2,8 +2,8 @@
   "topic": "Musik",
   "description": "Nya album, konserter, festivaler, svensk musik och musikbranschen. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-18",
-  "item_count": 101,
+  "last_updated": "2026-10-25",
+  "item_count": 106,
   "items": [
     {
       "id": "madonna-confessions-ii-slapp-2026",
@@ -1216,6 +1216,66 @@
       "url": "https://diymag.com/coming-up/2026/10",
       "added_on": "2026-10-18",
       "collected_week": "2026-W42"
+    },
+    {
+      "id": "melodifestivalen-2027-ryktade-deltagare-per-andersson-etype",
+      "title": "Fler namn ryktas till Melodifestivalen 2027",
+      "category": "Nyhet",
+      "date": "2026-10-20",
+      "location": "",
+      "summary": "Enligt medieuppgifter ska bland andra komikern Per Andersson samt artisterna E-Type och Nanne Grönvall tävla i Melodifestivalen 2027, men SVT har ännu inte bekräftat startfältet officiellt.",
+      "source": "Hurbra",
+      "url": "https://hurbra.se/e-type-nanne-gronvall-melodifestivalen-2027/",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "westlife-avicii-arena-2026",
+      "title": "Westlife avslutar jubileumsturné på Avicii Arena",
+      "category": "Konsert",
+      "date": "2026-11-20",
+      "location": "Stockholm",
+      "summary": "Den irländska popgruppen Westlife spelar på Avicii Arena den 20 november som del av sin 25-årsjubileumsturné \"Westlife 25 – The Anniversary World Tour\".",
+      "source": "Songkick",
+      "url": "https://www.visitstockholm.com/events/westlife-25-the-anniversary-world-tour-avicii-aren/next/",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "kristofer-astrom-debaser-strand-2026",
+      "title": "Kristofer Åström spelar på Debaser Strand",
+      "category": "Konsert",
+      "date": "2026-11-05",
+      "location": "Stockholm",
+      "summary": "Singer-songwritern Kristofer Åström ger konsert på Debaser Strand i Stockholm den 5 november.",
+      "source": "Songkick",
+      "url": "https://www.songkick.com/de/concerts/43202596-kristofer-astrom-at-debaser-strand",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "victor-leksell-avicii-arena-2026",
+      "title": "Victor Leksell gör spelning i Avicii Arena",
+      "category": "Konsert",
+      "date": "2026-11-28",
+      "location": "Stockholm",
+      "summary": "Victor Leksell framträder i Avicii Arena i Stockholm den 28 november, en av höstens större arenaspelningar för en svensk artist.",
+      "source": "TT",
+      "url": "https://www.tv4.se/artikel/tt-260327-victorleksell1-b305fbd8/victor-leksell-gor-spelning-i-avicii-arena",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "spotify-wrapped-2026-forbereder-artister",
+      "title": "Spotify förbereder årets Wrapped och tipsar artister",
+      "category": "Nyhet",
+      "date": "2026-10-20",
+      "location": "",
+      "summary": "Musikindustrin rapporterar att Spotify inför årets Wrapped-sammanställning ger artister tips om hur de kan dra nytta av kampanjen i sociala medier.",
+      "source": "Musikindustrin",
+      "url": "https://www.musikindustrin.se/2026/10/20/notiser-vecka-43-2026/",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "topic": "Film & TV",
   "description": "Biopremiärer, streaming, TV-serier, svensk film och filmfestivaler. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-18",
-  "item_count": 94,
+  "last_updated": "2026-10-25",
+  "item_count": 99,
   "items": [
     {
       "id": "sju-biopremiarer-juli-2026",
@@ -1132,6 +1132,66 @@
       "url": "https://goteborgfilmfestival.se/en/save-the-date-for-the-50th-gteborg-film-festival",
       "added_on": "2026-10-18",
       "collected_week": "2026-W42"
+    },
+    {
+      "id": "stockholms-filmfestival-2026-program-skarsgard-turturro",
+      "title": "Stockholms filmfestival presenterar fullt program med Skarsgård och Turturro",
+      "category": "Filmfestival",
+      "date": "2026-10-20",
+      "location": "Stockholm",
+      "summary": "Den 37:e Stockholms internationella filmfestivalen visar över 130 filmer 11–22 november, med Alexander Skarsgård i \"Wicker\" och Pedro Pascal i \"Behemoth!\". John Turturro hedras med Stockholm Achievement Award och Lena Olin får ett livstidspris.",
+      "source": "Moviezine",
+      "url": "https://www.moviezine.se/nyheter/wicker-bland-hojdpunkterna-pa-stockholms-filmfestival-2026",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "svt-agent-ish-premiar-2026",
+      "title": "SVT:s komediserie \"Agent-ish\" har premiär",
+      "category": "Premiär",
+      "date": "2026-10-30",
+      "location": "",
+      "summary": "SVT:s nya komediserie om livet på en sportagentur, där idrottsstjärnor som John Guidetti och Henrik Larsson spelar sig själva, har premiär den 30 oktober.",
+      "source": "TT",
+      "url": "https://www.tv4.se/artikel/tt-260819-svthost1-14046871/guiden-har-ar-hostens-hojdpunkter-pa-svt",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "svt-hunger-hanna-ferm-skadespelardebut-2026",
+      "title": "Hanna Ferm skådespelardebuterar i SVT-dramat \"Hunger\"",
+      "category": "Premiär",
+      "date": "2026-10-02",
+      "location": "",
+      "summary": "Artisten Hanna Ferm gör sin skådespelardebut i SVT:s nya dramaserie \"Hunger\", som hade premiär den 2 oktober.",
+      "source": "TT",
+      "url": "https://www.tv4.se/artikel/tt-260819-svthost1-14046871/guiden-har-ar-hostens-hojdpunkter-pa-svt",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "netflix-the-christmas-switch-premiar-2026",
+      "title": "Svenskspråkig julkomedi \"The Christmas Switch\" får premiär på Netflix",
+      "category": "Streaming",
+      "date": "2026-11-12",
+      "location": "",
+      "summary": "Netflix julromantiska komedi \"The Christmas Switch\", en svenskspråkig produktion, får premiär den 12 november som del av tjänstens nordiska julutbud.",
+      "source": "Netflix",
+      "url": "https://en.wikipedia.org/wiki/List_of_Netflix_original_films_(since_2026)",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "viaplay-fjallet-dokumentar-are-premiar-2026",
+      "title": "Dokumentärserien \"Fjället\" om Åre har premiär",
+      "category": "Premiär",
+      "date": "2026-10-20",
+      "location": "Åre",
+      "summary": "TV3 och Viaplays nya dokumentärserie \"Fjället\", inspelad i den svenska fjälldestinationen Åre, hade premiär den 20 oktober.",
+      "source": "Hurbra",
+      "url": "https://hurbra.se/tv-20-oktober-2026/",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
     }
   ]
 }

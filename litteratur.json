@@ -2,8 +2,8 @@
   "topic": "Litteratur",
   "description": "Boksläpp, litterära priser, författarnyheter och förlagsbranschen. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-18",
-  "item_count": 95,
+  "last_updated": "2026-10-25",
+  "item_count": 100,
   "items": [
     {
       "id": "taiwan-travelogue-international-booker-2026",
@@ -1144,6 +1144,66 @@
       "url": "https://www.realtid.se/bors-finans/leif-gw-perssons-trilogi-filmas/",
       "added_on": "2026-10-18",
       "collected_week": "2026-W42"
+    },
+    {
+      "id": "augustpriset-2026-arton-nominerade-titlar",
+      "title": "Augustpriset 2026: arton titlar nominerade",
+      "category": "Pris",
+      "date": "2026-10-19",
+      "location": "Stockholm",
+      "summary": "Svenska Förläggareföreningen presenterade de arton nominerade titlarna till Augustpriset 2026, fördelade på skönlitteratur, fackbok samt barn- och ungdomsbok. Vinnarna koras på Augustgalan den 23 november.",
+      "source": "SVT Kultur",
+      "url": "https://www.svt.se/kultur/har-ar-de-nominerade-till-augustpriset-2026",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "bookbeats-deckarpriser-2026-nominerade",
+      "title": "BookBeats deckarpriser 2026 delades ut på Bokmässan",
+      "category": "Pris",
+      "date": "2026-09-26",
+      "location": "Göteborg",
+      "summary": "BookBeats deckarpriser delades ut på Bokmässan i Göteborg den 26 september, med bland andra \"Nattkullen\" av Caroline och Leffe Grimwalker bland de nominerade i kategorin svensk deckare.",
+      "source": "Forum",
+      "url": "https://www.forum.se/nyheter/de-nomineras-till-bookbeats-deckarpriser-2026/",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "pascal-engman-kriget-hostbok-2026",
+      "title": "Pascal Engman släpper deckaren \"Kriget\"",
+      "category": "Boksläpp",
+      "date": "2026-10-01",
+      "location": "",
+      "summary": "Pascal Engman är ett av höstens stora deckarnamn med den nya romanen \"Kriget\", enligt Bokus genomgång av höstens spänningsutgivning.",
+      "source": "Bokus",
+      "url": "https://www.bokus.com/kampanj/deckarveckor",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "viveca-sten-fordrivaren-hostbok-2026",
+      "title": "Viveca Sten släpper deckaren \"Fördrivaren\"",
+      "category": "Boksläpp",
+      "date": "2026-10-01",
+      "location": "",
+      "summary": "Viveca Sten är aktuell med den nya deckaren \"Fördrivaren\", en av höstens mest efterlängtade spänningsromaner.",
+      "source": "Bokus",
+      "url": "https://www.bokus.com/kampanj/deckarveckor",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "johanna-mo-ga-i-eld-olandsmorkret-2026",
+      "title": "Johanna Mo fortsätter Ölandsmörkret-serien med \"Gå i eld\"",
+      "category": "Boksläpp",
+      "date": "2026-10-01",
+      "location": "Öland",
+      "summary": "Johanna Mo ger ut \"Gå i eld\", den senaste delen i spänningsserien Ölandsmörkret, enligt förlaget Romanus & Sellings höstkatalog.",
+      "source": "Romanus & Selling",
+      "url": "https://www.romanusochselling.se/nyheter/hostens-utgivning-2026-fran-romanus-selling/",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "topic": "Kultur",
   "description": "Nya kulturevenemang i Sverige – festivaler, konserter, utställningar och scenkonst. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-18",
-  "item_count": 134,
+  "last_updated": "2026-10-25",
+  "item_count": 139,
   "items": [
     {
       "id": "sweden-rock-2026",
@@ -1675,6 +1675,66 @@
       "url": "https://www.mynewsdesk.com/se/goteborgsoperan/pressreleases/here-is-goeteborg-operas-2026-slash-2027-season-3435435",
       "added_on": "2026-10-18",
       "collected_week": "2026-W42"
+    },
+    {
+      "id": "stolthet-och-fordom-goteborgs-stadsteater-nypremiar-2026",
+      "title": "\"Stolthet och fördom\" får nypremiär på Göteborgs Stadsteater",
+      "category": "Scenkonst",
+      "date": "2026-10-09",
+      "location": "Göteborg",
+      "summary": "Göteborgs Stadsteater sätter upp en nypremiär av \"Stolthet och fördom\" på Stora Scen den 9 oktober.",
+      "source": "Göteborgs Stadsteater",
+      "url": "https://stadsteatern.goteborg.se/pa-scen/",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "israel-galvan-la-edad-de-oro-dansens-hus-2026",
+      "title": "Israel Galván gästspelar på Dansens Hus med \"La Edad de Oro\"",
+      "category": "Scenkonst",
+      "date": "2026-11-19",
+      "location": "Stockholm",
+      "summary": "Den spanske flamencodansaren Israel Galván gästspelar på Dansens Hus i Stockholm med föreställningen \"La Edad de Oro\" den 19–20 november.",
+      "source": "Welma",
+      "url": "https://www.welma.se/stockholm/teaterdans/dans-i-stockholm/",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "timeless-nefeli-oikonomou-weld-2026",
+      "title": "\"TIMELESS\" av Nefeli Oikonomou hade premiär på Weld",
+      "category": "Scenkonst",
+      "date": "2026-10-09",
+      "location": "Stockholm",
+      "summary": "Dansverket \"TIMELESS\" av den grekisk-svenska koreografen Nefeli Oikonomou, om kroppens upplevelse av tid, visades på dansscenen Weld i Stockholm den 9–11 oktober.",
+      "source": "Welma",
+      "url": "https://www.welma.se/stockholm/teaterdans/dans-i-stockholm/",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "en-karlekshistoria-dramaten-roy-andersson-2026",
+      "title": "Roy Anderssons \"En kärlekshistoria\" får urpremiär på Dramaten",
+      "category": "Scenkonst",
+      "date": "2026-12-05",
+      "location": "Stockholm",
+      "summary": "Dramaten sätter upp en scenversion av Roy Anderssons filmklassiker \"En kärlekshistoria\" på Stora scenen, med urpremiär den 5 december.",
+      "source": "TT",
+      "url": "https://kulturbloggen.com/?p=204165",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "vd-stig-larsson-goteborgs-stadsteater-2026",
+      "title": "Stig Larssons \"V.D.\" får premiär på Göteborgs Stadsteater",
+      "category": "Scenkonst",
+      "date": "2026-11-27",
+      "location": "Göteborg",
+      "summary": "Göteborgs Stadsteater sätter upp Stig Larssons pjäs \"V.D.\" i regi av Marcus Carlsson, med premiär på Studion den 27 november.",
+      "source": "Göteborgs Stadsteater",
+      "url": "https://stadsteatern.goteborg.se/pa-scen/",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
     }
   ]
 }

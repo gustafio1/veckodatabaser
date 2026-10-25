@@ -2,8 +2,8 @@
   "topic": "Katolska kyrkans sociala lära",
   "description": "Den katolska kyrkans sociala lära – principerna och temana som vägleder ett rättvist samhälle. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-18",
-  "item_count": 139,
+  "last_updated": "2026-10-25",
+  "item_count": 144,
   "items": [
     {
       "id": "liv-och-vardighet",
@@ -1672,6 +1672,66 @@
       "url": "https://www.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20090629_caritas-in-veritate.html",
       "added_on": "2026-10-18",
       "collected_week": "2026-W42"
+    },
+    {
+      "id": "dilexi-te",
+      "title": "Dilexi Te (2025)",
+      "category": "Encyklika",
+      "date": "2025-10-09",
+      "location": "",
+      "summary": "Leo XIV:s första apostoliska maning, påbörjad av Franciskus, handlar om kärleken till de fattiga. Den beskriver fattigdomens många ansikten och kräver att kyrkan ger de fattiga en företrädesställning samt fördömer de strukturer som skapar ojämlikhet.",
+      "source": "Vatican / NCR",
+      "url": "https://www.ncregister.com/cna/dilexi-te-pope-leo-xiv-in-his-first-major-document",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "varldsdagen-fred-2027-disarming-technology",
+      "title": "Leo XIV väljer tekniken som tema för Världsdagen för fred 2027",
+      "category": "Dokument",
+      "date": "2026-08-11",
+      "location": "Vatikanstaten",
+      "summary": "Påven har valt temat 'Avväpnande teknik i fredens tjänst – politiken som förebyggande ansvar' för den 60:e Världsdagen för fred. Budskapet, som bygger på encyklikan Magnifica Humanitas, slår fast att ingen algoritm kan göra krig moraliskt acceptabelt och efterlyser internationella överenskommelser om AI i krigföring.",
+      "source": "EWTN / ACI Africa",
+      "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-chooses-theme-on-ai-and-war-for-world-day-of-peace-2027",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "leo-xiv-studiecentrum-lekfolk-sociallara-2026",
+      "title": "Leo XIV: lekfolk och ordensfolk har format kyrkans sociallära",
+      "category": "Aktuellt",
+      "date": "2026-09-18",
+      "location": "Vatikanstaten",
+      "summary": "I ett tal till Leo XIV International Study Center lyfte påven fram hur lekfolk och ordensfolk historiskt drivit kyrkan i nya riktningar och format den sociala läran. Han hänvisade till sin maning Dilexi Te och efterlyste en kristen humanism präglad av solidaritet, rättvisa och fred i det offentliga livet.",
+      "source": "Catholic World Report",
+      "url": "https://www.catholicworldreport.com/2026/09/18/pope-leo-xiv-praises-catholics-who-led-church-in-new-directions/",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "caritas-internationalis-ledarskap-knight-2026",
+      "title": "Vatikanen stöder inte omval av Caritas Internationalis generalsekreterare",
+      "category": "Nyhet",
+      "date": "2026-08-04",
+      "location": "Vatikanstaten",
+      "summary": "Heliga stolen har beslutat att inte stödja ett omval av Leslie Anne Knight som generalsekreterare för Caritas Internationalis, efter spänningar om Vatikanens önskan att organisationen ska betona evangelisation starkare. Kardinal Robert Sarah underströk samtidigt att Caritas arbete måste vara mer än filantropi och en del av kyrkans uppdrag.",
+      "source": "ACI Prensa",
+      "url": "https://www.aciprensa.com/amp/noticias/38290/cardenal-sarah-caritas-debe-superar-filantropia-e-insertarse-en-mision-de-la-iglesia",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "leo-xiv-capp-fragmenterad-varld-spiritualitet-2026",
+      "title": "Leo XIV till Centesimus Annus-stiftelsen: splittringens rötter är andliga",
+      "category": "Aktuellt",
+      "date": "2026-05-30",
+      "location": "Vatikanstaten",
+      "summary": "Vid en internationell konferens om en 'fragmenterad värld som söker spiritualitet' kopplade Leo XIV dagens demokratikris och försvagade multilateralism till en djupare etisk och andlig urholkning, och pekade på encyklikan Magnifica Humanitas som vägledning för att bedöma dessa frågor i ljuset av sociallärans principer.",
+      "source": "Vatican / press.vatican.va",
+      "url": "https://www.vatican.va/content/leo-xiv/en/speeches/2026/may/documents/20260530-centesimus-annus.html",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
     }
   ]
 }

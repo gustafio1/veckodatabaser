@@ -2,8 +2,8 @@
   "topic": "Friluftsliv",
   "description": "Vandringsleder, friluftsutrustning, naturvård, allemansrätt och äventyr. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-18",
-  "item_count": 80,
+  "last_updated": "2026-10-25",
+  "item_count": 85,
   "items": [
     {
       "id": "pusselleden-invigd-sigtuna-2026",
@@ -950,6 +950,66 @@
       "url": "https://www.polar.se/en/news/2026/north-pole-day-on-16-august/",
       "added_on": "2026-10-18",
       "collected_week": "2026-W42"
+    },
+    {
+      "id": "stf-fjallstationer-jamtland-gasen-stangs-2026",
+      "title": "STF stänger Gåsen och kortar öppettiderna vid flera fjällstationer",
+      "category": "Nyhet",
+      "date": "2026-10-20",
+      "location": "Jämtland",
+      "summary": "Svenska Turistföreningen minskar antalet bäddar och förkortar säsongen vid fjällstationerna i Jämtland efter stort slitage från besökare, och stugan Gåsen stängs helt. Beslutet hänger samman med att markavtalet med länsstyrelsen omförhandlas och att rennäringen pressas av den växande turismen.",
+      "source": "SVT Jämtland",
+      "url": "https://www.svt.se/nyheter/lokalt/jamtland/besked-om-fjallstationernas-framtid-gasen-stangs-och-kortare-oppettider",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "vinterjacka-basttest-fjallraven-expedition-down-lite-2026",
+      "title": "Fjällräven Expedition Down Lite toppar testet av vinterjackor 2026",
+      "category": "Utrustning",
+      "date": "2026-01-23",
+      "location": "",
+      "summary": "I årets jämförelser av vinterjackor för friluftsliv rankas Fjällräven Expedition Down Lite högst för både herr och dam, med höga betyg för värme och komfort men ett högt pris.",
+      "source": "Testkollen",
+      "url": "https://www.testkollen.se/vinterjacka-herr",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "stekenjokk-fjallrav-guidade-turer-2026",
+      "title": "Guidade kvällsturer för att se fjällräv startar på Stekenjokkplatån",
+      "category": "Äventyr",
+      "date": "2026-10-15",
+      "location": "Jämtland",
+      "summary": "På Stekenjokkplatån i Jämtland erbjuds från 2026 guidade kvällsturer där besökare med kikare kan följa den hotade men sakta återhämtande fjällrävsstammen, i ett skyddat samiskt kulturlandskap.",
+      "source": "Visit Sweden",
+      "url": "https://press.visitsweden.com/2023-12-22-Upplev-natur,-aventyr-och-ny-energi-i-Sverige-2026?asPDF=1",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "bjornjakten-2026-avslutad-lagre-kvot",
+      "title": "Björnjakten 2026 klingar av med lägre kvot än året innan",
+      "category": "Nyhet",
+      "date": "2026-10-15",
+      "location": "Norrland",
+      "summary": "Licensjakten på björn pågick som längst till 15 oktober 2026 med en nationell kvot på 394 djur, färre än de 465 som fick fällas föregående år. I flera län, bland annat Västernorrland och delar av Norrbotten, avlystes jakten redan under sensommaren när tilldelningen var fylld.",
+      "source": "Länsstyrelsen Västernorrland",
+      "url": "https://www.lansstyrelsen.se/vasternorrland/om-oss/nyheter-och-press/nyheter---vasternorrland/2026-08-27-bjornjakten-ar-avslutad-for-i-ar.html",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "valadalen-fjalleder-grusning-klar-2026",
+      "title": "Fjälleder i Vålådalen rustade upp med flyggrus för drygt en miljon kronor",
+      "category": "Naturvård",
+      "date": "2026-06-12",
+      "location": "Jämtland",
+      "summary": "Länsstyrelsen Jämtland lät helikopterflyga ut omkring 500 ton grus för att förstärka slitna partier av Blanktjärnsrundan och leden Vålådalen–Lunndörren. Arbetet blev klart i mitten av juni, en dag före tidplanen för motsvarande arbete i Vallbo.",
+      "source": "SVT Jämtland",
+      "url": "https://www.svt.se/nyheter/lokalt/jamtland/darfor-flygs-det-ut-500-ton-grus-langs-populara-fjalleder-i-valadalen",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
     }
   ]
 }

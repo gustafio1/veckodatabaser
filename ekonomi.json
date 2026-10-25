@@ -2,8 +2,8 @@
   "topic": "Ekonomi & börs",
   "description": "Forskning om börs, makroekonomi, räntor och hushållens ekonomi. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-18",
-  "item_count": 90,
+  "last_updated": "2026-10-25",
+  "item_count": 96,
   "items": [
     {
       "id": "skuldkvot-mot-aktievardering-debt-equity-spread-2026",
@@ -1084,6 +1084,78 @@
       "url": "https://www.nber.org/papers/w35594",
       "added_on": "2026-10-18",
       "collected_week": "2026-W42"
+    },
+    {
+      "id": "omxs30-plusvecka-oktober-2026",
+      "title": "Stockholmsbörsen på väg mot plusvecka i mitten av oktober",
+      "category": "Börs",
+      "date": "2026-10-16",
+      "location": "Sverige",
+      "summary": "OMXS30 pekade mot en positiv vecka i mitten av oktober efter en tids sidledes rörelse, med indexet fortsatt nära de rekordnivåer som nåddes i september. Utvecklingen speglar en marknad som avvaktar kommande räntebesked från både Riksbanken och Fed.",
+      "source": "Placera.se",
+      "url": "https://placera.se/nyheter/omxs30-index-pa-vag-mot-plusvecka-2026-10-16",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "konjunkturprognoser-jamforelse-oktober-2026",
+      "title": "Prognosmakarna oense om tillväxten 2026 - Riksbanken mest återhållsam",
+      "category": "Analys",
+      "date": "2026-10-19",
+      "location": "Sverige",
+      "summary": "En sammanställning av oktobers konjunkturprognoser visar att Nordea är mest optimistisk med en väntad BNP-tillväxt på 3,1 procent för 2026, medan Riksbankens septemberprognos på 2,8 procent ligger lägst bland de stora bedömarna. Skillnaderna hänger ihop med olika syn på hur snabbt KPIF-inflationen stiger mot målet.",
+      "source": "Placera.se",
+      "url": "https://www.placera.se/telegram/pm-konjunkturprognoser-20261019",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "nber-tro-aktiemarknaden-sju-decennier-2026",
+      "title": "Ny NBER-studie spårar hur investerares föreställningar drivit börsen i sju decennier",
+      "category": "Forskning",
+      "date": "2026-05-01",
+      "location": "",
+      "summary": "Forskarna David Thesmar och Emil Verner har byggt en unik tidsserie över investerares förväntade aktieavkastning från 1956 till 2024 och finner stöd för att naiva investerare extrapolerar tidigare kursutveckling medan mer sofistikerade aktörer agerar nära det rationella. Resultaten hjälper till att förklara varför börsen periodvis överreagerar på gamla trender.",
+      "source": "NBER Working Paper 35286",
+      "url": "https://www.nber.org/papers/w35286",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "citi-seb-vinstprognos-rantehojningar-2026",
+      "title": "Citi höjer vinstprognosen för SEB på väntade räntehöjningar från Riksbanken och ECB",
+      "category": "Analys",
+      "date": "2026-10-08",
+      "location": "Sverige",
+      "summary": "Citi skruvar upp sina vinstprognoser för SEB med 1 till 6 procent för perioden 2026-2028, och motiverar höjningen med att både Riksbanken och ECB väntas höja styrräntorna framöver. Bedömningen är ett tecken på att flera storbanker nu räknar in stigande räntenetton i sin värdering av svenska bankaktier.",
+      "source": "Placera.se",
+      "url": "https://www.placera.se/telegram/seb-citi-upprepar-neutral-pa-seb-hojer-riktkurs-till-241-kronor-20261008",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "forskningsoversikt-hushallsskuldrisk-joes-2026",
+      "title": "Stor forskningsgenomgång kartlägger orsaker och konsekvenser av hushållens skuldrisk",
+      "category": "Forskning",
+      "date": "2026-04-01",
+      "location": "",
+      "summary": "En systematisk genomgång av 161 studier i Journal of Economic Surveys visar att skuldkvoten fortfarande är det mått som oftast används för att mäta hushållens skuldrisk, och pekar ut inkomstojämlikhet, stigande bostadspriser och digital finansiering som centrala drivkrafter. Forskarna finner att hög skuldrisk dämpar konsumtion och förstärker konjunktursvängningar, men efterlyser bättre data och mer jämförbara mått mellan länder.",
+      "source": "Journal of Economic Surveys",
+      "url": "https://metatoc.com/papers/121605-a-review-of-research-on-household-debt-risk-measurement-causes-and-impact",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "ai-bubbla-varningar-sammanstallning-2026",
+      "title": "Fler ekonomer varnar för att AI-bubblan kan bli större än dotcom-kraschen",
+      "category": "Analys",
+      "date": "2026-08-20",
+      "location": "",
+      "summary": "Flera chefsekonomer och analytiker, bland dem Apollo Global Managements Torsten Sløk, jämför dagens värderingar av de största teknikbolagen med toppen av dotcom-bubblan år 1999 och varnar för en farlig koncentration i ett fåtal AI-jättar. Andra bedömare, som SEB:s Robert Bergqvist, menar att tekniken är här för att stanna även om värderingarna är svåra att bedöma, vilket visar hur delad synen på AI-rallyt fortfarande är.",
+      "source": "Dagens PS / EFN",
+      "url": "https://www.dagensps.se/bors-finans/chefsekonom-varnar-ai-bubbla-storre-an-dotcom-bubbla/",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "topic": "Entreprenörskap",
   "description": "Forskning om startups, finansiering, grundare och innovation. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-18",
-  "item_count": 87,
+  "last_updated": "2026-10-25",
+  "item_count": 93,
   "items": [
     {
       "id": "grundaregenskaper-startupframgang-2026",
@@ -1048,6 +1048,78 @@
       "url": "https://kujane.minciencias.gov.co/Record/UDEA2_e5a596251f8e28b6f63a8b77ca61c449/Details",
       "added_on": "2026-10-18",
       "collected_week": "2026-W42"
+    },
+    {
+      "id": "typesafe-ai-serie-a-870miljoner-2026",
+      "title": "AI-bolaget TypeSafe tar in 870 miljoner dollar bara tre veckor efter att det lämnade stealth-läge",
+      "category": "Finansiering",
+      "date": "2026-10-09",
+      "location": "",
+      "summary": "Andreessen Horowitz ledde en jätterunda som värderar TypeSafe till 7,5 miljarder dollar, med Sequoia och tidigare investeraren DCVC bland deltagarna. Bolagets modell Jev ska enligt företaget redan användas av en tredjedel av Fortune 500-bolagen, bara veckor efter en seedrunda på 40 miljoner dollar.",
+      "source": "Bloomberg / Pulse2",
+      "url": "https://pulse2.com/typesafe-raises-870-million-series-a-at-7-5-billion-valuation/",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "oratomic-serie-b-475miljoner-kvantdator-2026",
+      "title": "Kvantdatorbolaget Oratomic tredubblar värderingen till 5,4 miljarder dollar på tre månader",
+      "category": "Finansiering",
+      "date": "2026-10-08",
+      "location": "",
+      "summary": "Startupen i Pasadena tog in 475 miljoner dollar i en serie B ledd av ARCH Venture Partners, Spark Capital och Khosla Ventures, bara tre månader efter sin serie A. Bolaget bygger en storskalig, felkorrigerad kvantdator som man siktar på att ha klar 2030.",
+      "source": "Dealroom / Value Add VC",
+      "url": "https://valueaddvc.com/pulse/oratomic-475m-series-b-5-5b-valuation-2026",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "butterfly-effect-manus-500miljoner-2026",
+      "title": "Manus-ägaren Butterfly Effect tar in över 500 miljoner dollar efter uppgörelse med Meta",
+      "category": "Finansiering",
+      "date": "2026-10-08",
+      "location": "",
+      "summary": "Bolaget bakom den kinesiska AI-agenten Manus reste drygt 500 miljoner dollar, samordnat av Boyu Capital och IDG Capital, med en värdering som enligt tidigare rapporter siktar mot cirka fyra miljarder dollar. Rundan var en av flera stora AI-affärer under en vecka då AI-startups globalt tog in över 1,8 miljarder dollar på en enda dag.",
+      "source": "AF.NET / AI Weekly",
+      "url": "https://aiweekly.co/alerts/manus-parent-butterfly-effect-raises-500m-after-meta-exit",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "arena-serie-b-ai-agenter-2026",
+      "title": "AI-benchmarkbolaget Arena reser 200 miljoner dollar för att gradera hur AI-agenter beter sig",
+      "category": "Finansiering",
+      "date": "2026-10-08",
+      "location": "",
+      "summary": "Startupen bakom en av de mest bevakade topplistorna för AI-modeller tog in en serie B på 200 miljoner dollar till en värdering av 2,88 miljarder dollar. Bland investerarna märks Andreessen Horowitz, Felicis och Kleiner Perkins.",
+      "source": "Dealroom",
+      "url": "https://dealroom.co/news/161016-arena-lands-200m-series-b-at-2-88b-to-grade-how-ai-agents-behave/",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "sse-arvsskatt-familjeforetag-tillvaxt-2026",
+      "title": "SSE-studie: Avskaffad arvsskatt gav högre tillväxt i familjeägda bolag",
+      "category": "Forskning",
+      "date": "2026-04-01",
+      "location": "",
+      "summary": "Forskare vid Handelshögskolan i Stockholm visar att avskaffandet av den svenska arvsskatten 2005 hängde ihop med snabbare tillväxt i privata bolag som hade potentiella familjearvingar, jämfört med bolag utan naturlig efterträdare. Resultatet pekar på hur skatteregler för generationsväxling kan påverka entreprenörers investeringsvilja.",
+      "source": "Handelshögskolan i Stockholm (SSE House of Innovation)",
+      "url": "https://www.hhs.se/sv/forskning/forskningshubbar/house-of-innovation/outreach/newsroom/our-news/",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
+    },
+    {
+      "id": "hbr-grundare-vd-overlamning-risk-2026",
+      "title": "Harvard Business Review: Byten från grundare till extern vd är extra riskabla",
+      "category": "Forskning",
+      "date": "2026-09-01",
+      "location": "",
+      "summary": "En genomgång i Harvard Business Review pekar på att övergångar där en grundare lämnar vd-posten löper två till tre gånger högre risk att misslyckas eller leda till sämre resultat än andra ledarbyten. Artikeln lyfter fram hur styrelser kan förbereda en grundares avgång bättre för att minska risken.",
+      "source": "Harvard Business Review",
+      "url": "https://www.physicianleaders.org/articles/leading-after-the-founder",
+      "added_on": "2026-10-25",
+      "collected_week": "2026-W43"
     }
   ]
 }

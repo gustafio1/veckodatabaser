@@ -2,8 +2,8 @@
   "topic": "Rymden",
   "description": "Raketuppskjutningar, rymdsonder, astronomiska upptäckter och rymdindustri. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-25",
-  "item_count": 107,
+  "last_updated": "2026-11-01",
+  "item_count": 112,
   "items": [
     {
       "id": "ariane-6-amazon-leo-tyngsta-lasten-2026",
@@ -1288,6 +1288,66 @@
       "url": "https://interestingengineering.com/videos/watch-chinas-long-march-8a-rockets-vertical-transfer",
       "added_on": "2026-10-25",
       "collected_week": "2026-W43"
+    },
+    {
+      "id": "hera-ankomst-didymos-dimorphos-2026",
+      "title": "ESA:s sond Hera på väg att nå dubbelasteroiden Didymos i november",
+      "category": "Rymdsond",
+      "date": "2026-11-01",
+      "location": "",
+      "summary": "ESA:s rymdsond Hera närmar sig den dubbla asteroiden Didymos och dess måne Dimorphos, som NASA avsiktligt kraschade in en sond i 2022. Hera ska kartlägga krocksåret i detalj för att hjälpa forskare bedöma hur effektivt en sådan metod är för planetärt försvar.",
+      "source": "ESA",
+      "url": "https://www.esa.int/Space_Safety/Hera/ESA_s_Hera_targets_early_arrival_at_Didymos_asteroids",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "curiosity-marsgryning-yardanger-mount-sharp-2026",
+      "title": "Curiosity fångar dramatisk marsgryning över vinderoderade klippor",
+      "category": "Upptackt",
+      "date": "2026-10-06",
+      "location": "",
+      "summary": "NASA har släppt en panoramabild från Curiosity som visar soluppgången över yardanger, långsmala åsar formade av vinderosion, vid foten av Mount Sharp. Bilden väcker frågor om hur materialet en gång eroderades bort från berget.",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-rover-catches-stunning-martian-dawn/",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "europa-clipper-jordflygning-december-2026",
+      "title": "Europa Clipper gör sin sista gravitationsassisterade passage av jorden i december",
+      "category": "Rymdsond",
+      "date": "2026-12-03",
+      "location": "",
+      "summary": "NASA:s sond Europa Clipper planerar att passera jorden den 3 december för att med hjälp av jordens gravitation få fart mot Jupiter. Det blir sondens andra och sista gravitationsassist innan den ska gå in i omloppsbana kring Jupiter 2030 för att studera ismånen Europa.",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/mission/europa-clipper/mission-timeline/",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "amazon-leo-kuiper-uppskjutningspaus-2026",
+      "title": "Amazons satellitprojekt Leo (tidigare Kuiper) ligger stilla i uppskjutningar",
+      "category": "Rymdindustri",
+      "date": "2026-10-10",
+      "location": "",
+      "summary": "Amazons bredbandskonstellation, numera kallad Leo, hade i mitten av oktober inte skjutit upp några nya satelliter sedan juli. Bolaget har bara nått en bråkdel av det antal satelliter som krävs för att uppfylla sitt tillståndsvillkor från amerikanska FCC.",
+      "source": "KeepTrack",
+      "url": "https://keeptrack.space/live-count/how-many-kuiper-satellites-are-in-orbit",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "crew-12-dragon-splashdown-237-dagar-2026",
+      "title": "Crew-12 landade i Stilla havet efter 237 dagar på ISS",
+      "category": "Rymdstation",
+      "date": "2026-10-08",
+      "location": "",
+      "summary": "SpaceX-kapseln Dragon med Crew-12 landade utanför Kaliforniens kust efter ett 237 dagar långt uppdrag på rymdstationen ISS. Besättningen bestod av NASA-astronauterna Jessica Meir och Jack Hathaway, ESA-astronauten Sophie Adenot och den ryske kosmonauten Andrej Fedjajev, som bland annat genomförde fyra rymdpromenader.",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/blogs/spacestation/2026/10/08/nasas-spacex-crew-12-dragon-splashes-down-at-1134-a-m-edt/",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
     }
   ]
 }

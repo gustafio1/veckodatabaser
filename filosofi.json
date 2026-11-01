@@ -2,8 +2,8 @@
   "topic": "Filosofi",
   "description": "Nya filosofiböcker, debatt, forskning, evenemang och klassiker i nytt ljus. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-25",
-  "item_count": 91,
+  "last_updated": "2026-11-01",
+  "item_count": 98,
   "items": [
     {
       "id": "routledge-basta-filosofibockerna-2026",
@@ -1096,6 +1096,90 @@
       "url": "https://dailynous.com/2026/10/19/online-philosophy-resources-weekly-update-444/",
       "added_on": "2026-10-25",
       "collected_week": "2026-W43"
+    },
+    {
+      "id": "papineau-causation-cambridge-2026",
+      "title": "David Papineau ger ut ny bok om kausalitet",
+      "category": "Bok",
+      "date": "2026-10-31",
+      "location": "",
+      "summary": "Filosofen David Papineau lanserar \"Causation: Science, Statistics and Metaphysics\" på Cambridge University Press, där han bygger en teori kring riktade regelbundenheter för att grunda den statistiska kausalforskningen i en bredare metafysik.",
+      "source": "Cambridge University Press",
+      "url": "https://www.cambridge.org/core/books/causation/92C42FD2C6B47ADD5B1546AFB373720B",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "dolimpio-navigating-philosophy-2026",
+      "title": "Ny introduktionsbok ska guida läsare genom filosofins stora idéer",
+      "category": "Bok",
+      "date": "2026-10-08",
+      "location": "",
+      "summary": "Laura D'Olimpio har redigerat \"Navigating Philosophy\", en kortfattad introduktionsbok som vill göra filosofins centrala frågor och tänkare mer tillgängliga för en bred läsekrets.",
+      "source": "Riverside Press",
+      "url": "https://abramsandchronicle.co.uk/collections/all-products/products/9781917226257",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "nietzsche-society-boston-2026",
+      "title": "North American Nietzsche Society samlas i Boston",
+      "category": "Evenemang",
+      "date": "2026-11-12",
+      "location": "Boston, USA",
+      "summary": "North American Nietzsche Society håller sin årliga konferens vid Boston University den 12–14 november, med föredrag om Nietzsches filosofi från forskare i hela Nordamerika.",
+      "source": "PhilEvents",
+      "url": "https://philevents.org/event/show/143390",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "isps-mind-konferens-2026",
+      "title": "Internationell konferens om medvetandets filosofi hålls digitalt",
+      "category": "Evenemang",
+      "date": "2026-11-04",
+      "location": "",
+      "summary": "The International Society for the Philosophy of the Sciences of the Mind håller sin fjärde årskonferens online 4–6 november, med fokus på medvetandeforskning och vetenskapsfilosofi.",
+      "source": "PhilEvents",
+      "url": "https://philevents.org/event/show/147029",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "oxford-spinoza-konferens-cfp-2026",
+      "title": "Oxford förbereder stor Spinoza-konferens inför 350-årsminnet",
+      "category": "Nyhet",
+      "date": "2026-11-17",
+      "location": "Oxford, Storbritannien",
+      "summary": "Inför att det 2027 är 350 år sedan Spinozas död har Oxford öppnat en inbjudan att skicka in bidrag till en stor konferens om hans filosofi, med sista ansökningsdag 17 november.",
+      "source": "Mathematical Institute, Oxford",
+      "url": "https://www.mfo.ac.uk/node/4970806",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "chalmers-sprakmodeller-samtal-2026",
+      "title": "Chalmers föreslår nytt sätt att tala om språkmodellers \"sinne\"",
+      "category": "Debatt",
+      "date": "2026-05-07",
+      "location": "",
+      "summary": "I ett nytt arbete argumenterar filosofen David Chalmers för att vi kan tillskriva språkmodeller \"kvasi-tro\" och \"kvasi-önskningar\" som ett praktiskt sätt att förutsäga deras beteende, utan att ta ställning till om de faktiskt har upplevelser.",
+      "source": "Sarah Douglas Lectures, UC Berkeley",
+      "url": "https://philosophy.berkeley.edu/events/sarah_douglas_lectures",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "schwitzgebel-pober-substrate-flexibility-2026",
+      "title": "Filosofer argumenterar för att medvetande kan uppstå i olika material",
+      "category": "Forskning",
+      "date": "2026-05-28",
+      "location": "",
+      "summary": "Eric Schwitzgebel och Jeremy Pober lägger fram en \"kopernikansk princip för medvetande\": om mänskligt medvetande inte kräver just vår biologi är det svårt att på förhand utesluta att andra substrat, inklusive kisel, också skulle kunna bära medvetande.",
+      "source": "UC Riverside (Schwitzgebel)",
+      "url": "https://faculty.ucr.edu/~eschwitz/SchwitzPapers/SubstrateFlexibility-260528.htm",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
     }
   ]
 }

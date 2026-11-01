@@ -2,8 +2,8 @@
   "topic": "Kyrkohistoria",
   "description": "Kyrkohistorisk forskning, jubileer, kristen arkeologi, böcker och kulturarv. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-25",
-  "item_count": 89,
+  "last_updated": "2026-11-01",
+  "item_count": 95,
   "items": [
     {
       "id": "iznik-nicaeakyrkans-lamningar-utgravda-2026",
@@ -1072,6 +1072,78 @@
       "url": "https://sv.wikipedia.org/wiki/Konstantinopels_fall",
       "added_on": "2026-10-25",
       "collected_week": "2026-W43"
+    },
+    {
+      "id": "oderzo-basilika-mosaik-fiskmarknad-2026",
+      "title": "1600 år gammal basilika med mosaikgolv funnen under forna fiskmarknaden i Oderzo",
+      "category": "Arkeologi",
+      "date": "2026-07-15",
+      "location": "",
+      "summary": "Utgrävningar vid den forna fiskmarknaden i den italienska staden Oderzo har blottlagt en tidigkristen basilika med välbevarade polykroma mosaikgolv, tidigare okänd för forskningen.",
+      "source": "History Blog",
+      "url": "https://www.thehistoryblog.com/archives/76458",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "elbasan-scampis-mosaik-2026",
+      "title": "Okända mosaiker funna vid tidigkristen basilika i antika Scampis, Albanien",
+      "category": "Arkeologi",
+      "date": "2026-06-20",
+      "location": "",
+      "summary": "Vid utgrävningar utanför murarna till den antika fästningen Scampis i dagens Elbasan har arkeologer hittat tidigare okända mosaiker kopplade till en tidigkristen basilika, vilket kastar nytt ljus över bosättningens historia.",
+      "source": "ATA / Arkeonews",
+      "url": "https://english.gazetatema.net/culture/new-mosaic-found-at-early-christian-basilica-i345746",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "betiga-sankt-andreas-mosaik-aterupptackt-2026",
+      "title": "Mosaiker i tidigkristen kapell återupptäckta i Betiga efter nästan 50 år",
+      "category": "Arkeologi",
+      "date": "2026-07-01",
+      "location": "",
+      "summary": "Forskare som återvänt till Sankt Andreas-platsen i kroatiska Betiga efter nästan ett halvsekel har funnit mosaiker i kapellets trekonkiga koravslutning och i huvudskeppet, vilka nu väntas konserveras.",
+      "source": "Arkeologiska museet i Pula",
+      "url": "https://www.ami-pula.hr/en/about-the-museum/news/25/",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "codex-h-paulusbrev-athosberget-2026",
+      "title": "42 förlorade sidor av sjätte-talsmanuskript med Paulusbreven rekonstruerade",
+      "category": "Forskning",
+      "date": "2026-04-24",
+      "location": "",
+      "summary": "Ett forskarlag lett från Glasgow har digitalt rekonstruerat 42 sidor ur ett sjätte-talsmanuskript av Paulusbreven som splittrades och förlorades efter att ha förvarats på klostret Stora Lavra på Athosberget.",
+      "source": "University of Glasgow",
+      "url": "https://www.washingtontimes.com/news/2026/may/12/researchers-recover-42-lost-pages-key-new-testament-manuscript/",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "mont-saint-michel-manuskript-aterfunnet-2026",
+      "title": "Manuskript från klostret Mont Saint-Michel återfunnet efter över 200 år",
+      "category": "Kulturarv",
+      "date": "2026-05-01",
+      "location": "",
+      "summary": "En medeltida bok från klosterbiblioteket på Mont Saint-Michel, saknad sedan franska revolutionen, har identifierats och återlämnats till staden Avranches efter att ha upptäckts i en auktionskatalog.",
+      "source": "Finestre sull'Arte",
+      "url": "https://www.finestresullarte.info/news/mont-saint-michel-manuscript-that-disappeared-during-the-french-revolution-resurfaces-after-two-centuries",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "augustinus-predikningar-pelplin-2026",
+      "title": "Två nyupptäckta predikningar bekräftade vara skrivna av Augustinus av Hippo",
+      "category": "Forskning",
+      "date": "2026-06-23",
+      "location": "",
+      "summary": "Ett 1100-talsmanuskript från Bad Doberan-klostret, numera i polska Pelplin, har lett forskare till slutsatsen att två predikningar inte är medeltida imitationer utan äkta texter av Augustinus av Hippo.",
+      "source": "Arkeonews",
+      "url": "https://arkeonews.net/two-newly-discovered-sermons-by-st-augustine-tackle-a-dangerous-biblical-mystery/",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
     }
   ]
 }

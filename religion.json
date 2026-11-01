@@ -2,8 +2,8 @@
   "topic": "Religion – Nyheter",
   "description": "Religiösa nyheter från Vatikanen, kyrkor och trossamfund världen över. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-25",
-  "item_count": 164,
+  "last_updated": "2026-11-01",
+  "item_count": 169,
   "items": [
     {
       "id": "leo-xiv-tyska-studenter-2026",
@@ -1972,6 +1972,66 @@
       "url": "https://crossedarrowsinternational.substack.com/p/global-persecution-brief-09e",
       "added_on": "2026-10-25",
       "collected_week": "2026-W43"
+    },
+    {
+      "id": "acn-rapport-kristen-forfoljelse-220-miljoner-2026",
+      "title": "ACN-rapport: förföljelsen av kristna har förvärrats i mer än hälften av undersökta länder",
+      "category": "Förföljelse",
+      "date": "2026-10-27",
+      "location": "",
+      "summary": "Hjälporganisationen Aid to the Church in Need rapporterar att situationen för kristna försämrats i 55 procent av de 18 länder som granskats för perioden 2024–2026, med omkring 220 miljoner drabbade.",
+      "source": "Vatican News",
+      "url": "https://www.vaticannews.va/en/church/news/2026-10/acn-report-persecution-christians-africa-asia-displacement.html",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "leo-xiv-sydamerika-resa-november-2026",
+      "title": "Vatikanen bekräftar påve Leo XIV:s Sydamerika-resa i november",
+      "category": "Vatikanen",
+      "date": "2026-10-26",
+      "location": "",
+      "summary": "Efter lungoperationen i oktober bekräftar Vatikanen att påven planerar att genomföra sin resa till Sydamerika i november, som en del av en gradvis återgång till det offentliga schemat.",
+      "source": "AFP / Ahram Online",
+      "url": "https://english.ahram.org.eg/News/580969.aspx",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "nt26-nya-testamentet-advent-2026",
+      "title": "Ny svensk översättning av Nya testamentet delas ut i Svenska kyrkan till advent",
+      "category": "Nyhet",
+      "date": "2026-09-24",
+      "location": "",
+      "summary": "Svenska Bibelsällskapets nyöversättning NT26, den första heltäckande nyöversättningen sedan 1981, lanserades vid Bokmässan och ska delas ut i 200 000 exemplar till församlingarna vid första advent 2026.",
+      "source": "Svenska kyrkan",
+      "url": "https://www.svenskakyrkan.se/nyheter/nya-testamentet-i-ny-oversattning-2026",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "diwali-2026-hinduisk-ljusfest",
+      "title": "Diwali 2026 firas över hela världen den 8 november",
+      "category": "Högtid",
+      "date": "2026-11-08",
+      "location": "",
+      "summary": "Den hinduiska ljusfesten Diwali, som sträcker sig över fem dagar från Dhanteras till Bhai Dooj, firas av hundratals miljoner hinduer, sikher och jainer världen över med ljus, böner till Lakshmi och familjesamlingar.",
+      "source": "Hindutone",
+      "url": "https://hindutone.com/festivals/diwali-events-2026-around-the-world-where-to-celebrate/",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "g20-interfaith-forum-salt-lake-city-2026",
+      "title": "G20:s interreligiösa forum samlade trosledare från över 50 länder i Salt Lake City",
+      "category": "Interreligiöst",
+      "date": "2026-10-16",
+      "location": "",
+      "summary": "Under temat \"Resilient Hope, Shared Future\" möttes religiösa och civila ledare från mer än 50 länder i Salt Lake City för att forma rekommendationer inför G20-toppmötena 2026 och 2027.",
+      "source": "Church News",
+      "url": "https://www.thechurchnews.com/leaders/2026/10/16/dallin-oaks-welcomes-world-religious-leaders-g20-interfaith-forum/",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
     }
   ]
 }

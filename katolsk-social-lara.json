@@ -2,8 +2,8 @@
   "topic": "Katolska kyrkans sociala lära",
   "description": "Den katolska kyrkans sociala lära – principerna och temana som vägleder ett rättvist samhälle. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-25",
-  "item_count": 144,
+  "last_updated": "2026-11-01",
+  "item_count": 150,
   "items": [
     {
       "id": "liv-och-vardighet",
@@ -1732,6 +1732,78 @@
       "url": "https://www.vatican.va/content/leo-xiv/en/speeches/2026/may/documents/20260530-centesimus-annus.html",
       "added_on": "2026-10-25",
       "collected_week": "2026-W43"
+    },
+    {
+      "id": "antiqua-et-nova-2025",
+      "title": "Antiqua et Nova – Vatikanens not om artificiell intelligens",
+      "category": "Dokument",
+      "date": "2025-01-28",
+      "location": "",
+      "summary": "I januari 2025 gav troslärodikasteriet och kultur- och utbildningsdikasteriet ut en gemensam not om AI och mänsklig intelligens. Dokumentet varnar särskilt för autonoma vapensystem och betonar att AI endast bör komplettera, aldrig ersätta, mänskligt omdöme.",
+      "source": "Vatican News / America Magazine",
+      "url": "https://www.vaticannews.va/en/vatican-city/news/2025-01/new-vatican-document-examines-potential-and-risks-of-ai.html",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "economy-of-francesco-rorelse",
+      "title": "Economy of Francesco – ung rörelse för en rättvisare ekonomi",
+      "category": "Tillämpning",
+      "date": "2022-09-24",
+      "location": "Assisi",
+      "summary": "Initiativet, lanserat av Franciskus 2019 och förankrat i Assisi, samlar unga ekonomer och entreprenörer kring sociallärans principer om det gemensamma goda. År 2022 undertecknade tusentals deltagare ett åtagande om en ekonomi som inte lämnar någon utanför.",
+      "source": "Vatican News",
+      "url": "https://www.vaticannews.va/en/pope/news/2022-09/economy-francesco-final-covenant-pope-francis-gospel.html",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "fackforeningars-ratt-sociallaran",
+      "title": "Fackföreningars rätt att organisera sig i sociallärans historia",
+      "category": "Princip",
+      "date": "1891-05-15",
+      "location": "",
+      "summary": "Från Rerum Novarum till Caritas in Veritate har påvarna försvarat arbetares rätt att bilda föreningar och förhandla kollektivt för det gemensamma bästa. Andra Vatikankonciliets Gaudium et Spes räknar denna rätt bland de grundläggande mänskliga rättigheterna.",
+      "source": "Catholic News Agency",
+      "url": "https://www.catholicnewsagency.com/news/why-organized-labor-is-still-a-catholic-cause-73465",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "leo-xiv-polarisering-global-styrning-2025",
+      "title": "Leo XIV: sociallärans roll i att övervinna polarisering och bygga global styrning",
+      "category": "Tillämpning",
+      "date": "2025-05-17",
+      "location": "Vatikanstaten",
+      "summary": "Vid ett möte med stiftelsen Centesimus Annus Pro Pontifice beskrev påven katolska sociallärans läror som en gemensam, tvärvetenskaplig väg mot sanningen snarare än indoktrinering. Han efterlyste etiska kriterier för att hantera dagens globala spänningar.",
+      "source": "Vatican.va",
+      "url": "https://www.vatican.va/content/leo-xiv/en/speeches/2025/may/documents/20250517-centesimus-annus-pro-pontifice.html",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "egendomens-allmanna-bestammelse-princip",
+      "title": "Egendomens allmänna bestämmelse – jordens goda är till för alla",
+      "category": "Princip",
+      "date": "1891-05-15",
+      "location": "",
+      "summary": "Principen om godsens allmänna bestämmelse säger att skapelsens resurser i grunden är avsedda för hela mänskligheten, även om privat äganderätt erkänns som legitim. Sociallärans encyklikor återkommer till att äganderätten alltid är underordnad denna mer grundläggande princip.",
+      "source": "Opus Dei",
+      "url": "https://opusdei.org/sv-se/article/vad-ar-kyrkans-sociallara-fragor-om-den-kristna-tron/",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "det-gemensamma-goda-grundprincip",
+      "title": "Det gemensamma goda – sociallärans bärande princip",
+      "category": "Princip",
+      "date": "1991-05-01",
+      "location": "",
+      "summary": "Centesimus Annus och senare dokument beskriver det gemensamma goda som summan av de sociala villkor som gör det möjligt för människor och grupper att nå sin fulla utveckling. Benedikt XVI underströk att det inte kan uppnås utan uppmärksamhet på etiska och moraliska dimensioner av ekonomi och politik.",
+      "source": "Vatican.va",
+      "url": "https://www.vatican.va/content/john-paul-ii/es/letters/1991/documents/hf_jp-ii_let_19911008_ambasciatore-olivier.html",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
     }
   ]
 }

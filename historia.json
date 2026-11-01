@@ -2,8 +2,8 @@
   "topic": "Historia",
   "description": "Historisk forskning, arkeologiska fynd, svensk historia, böcker och jubileer. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-25",
-  "item_count": 93,
+  "last_updated": "2026-11-01",
+  "item_count": 99,
   "items": [
     {
       "id": "herlaugshaugen-skeppsgrav-2026",
@@ -1120,6 +1120,78 @@
       "url": "https://www.shu.ac.uk/news/all-articles/latest-news/stonehenge-glacial-transport",
       "added_on": "2026-10-25",
       "collected_week": "2026-W43"
+    },
+    {
+      "id": "kekova-aldsta-skeppsvraket-2026",
+      "title": "Möjligen världens äldsta skeppsvrak funnet utanför Turkiet",
+      "category": "Fynd",
+      "date": "2026-10-14",
+      "location": "",
+      "summary": "Dykare har funnit ett skeppsvrak utanför Kekova i Turkiet som kan vara 4 400–4 700 år gammalt, med bevarade lerkärl och stenankare. Fyndet kan tränga undan ett grekiskt vrak som tidigare räknats som äldst.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/14/worlds-oldest-shipwreck-found-off-coast-of-turkiye",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "apollonia-ad-rhyndacum-grav-bursa-2026",
+      "title": "Antik grav funnen vid teatern i Apollonia ad Rhyndacum",
+      "category": "Fynd",
+      "date": "2026-10-20",
+      "location": "",
+      "summary": "Utgrävningar vid den antika teatern i Apollonia ad Rhyndacum i Bursa-provinsen har avslöjat en tidigare okänd grav, vilket väntas ge ny kunskap om platsens hellenistiska historia.",
+      "source": "Turkish Archaeological News",
+      "url": "https://turkisharchaeonews.net/article/october-2026-turkish-archaeology",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "kultepe-mosaikgolv-2026",
+      "title": "Mosaikgolv från antiken grävs fram vid Kültepe-Kanesh",
+      "category": "Fynd",
+      "date": "2026-10-20",
+      "location": "",
+      "summary": "Vid handelsplatsen Kültepe-Kanesh i centrala Turkiet har arkeologer hittat ett mer än 2000 år gammalt mosaikgolv, ett nytt bidrag till platsens långa historia som handelsnav.",
+      "source": "Turkish Archaeological News",
+      "url": "https://turkisharchaeonews.net/article/october-2026-turkish-archaeology",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "westminster-abbey-sarkofag-abbot-2026",
+      "title": "Gåtan om den romerska sarkofagen i Westminster Abbey kan vara löst",
+      "category": "Forskning",
+      "date": "2026-10-21",
+      "location": "",
+      "summary": "Ny forskning pekar på att den romerska sarkofagen som grävdes fram i Westminster Abbey 1869 senare återanvändes för en medeltida abbot, sannolikt Ælfwig, enligt kol-14-datering och en studie i Journal of the British Archaeological Association.",
+      "source": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smart-news/archaeologists-may-have-solved-the-mystery-of-a-roman-sarcophagus-excavated-at-westminster-abbey-in-1869-180989732/",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "huacas-de-moche-spadbarnsgrav-2026",
+      "title": "Spädbarnsgrav med gåvor funnen vid Huacas de Moche i Peru",
+      "category": "Fynd",
+      "date": "2026-08-21",
+      "location": "",
+      "summary": "Arkeologer har hittat graven av ett omkring 1,5 år gammalt barn i den urbana kärnan av komplexet Huacas de Moche i Peru, med gravgåvor som visselpipor, en skallra och ett skulpterat kärl.",
+      "source": "Andina",
+      "url": "https://andina.pe/agencia/noticia-peru-child-burial-with-offerings-found-at-huacas-moche-archaeological-complex-1088688.aspx",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "murujuga-undervattensfynd-australien-2026",
+      "title": "Fler sänkta boplatser identifierade utanför nordvästra Australien",
+      "category": "Forskning",
+      "date": "2026-10-16",
+      "location": "",
+      "summary": "Marinarkeologer har tillsammans med Murujuga Aboriginal Corporations rangers kartlagt ytterligare sänkta fornlämningar utanför Australiens nordvästkust, en fortsättning på tidigare fynd av drunknade kulturlandskap.",
+      "source": "Archaeology Magazine",
+      "url": "https://archaeology.org/?p=61982",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
     }
   ]
 }

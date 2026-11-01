@@ -2,8 +2,8 @@
   "topic": "Resor",
   "description": "Forskning om resmål, hållbart resande, flyg och tågresor. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-25",
-  "item_count": 93,
+  "last_updated": "2026-11-01",
+  "item_count": 99,
   "items": [
     {
       "id": "hamndresor-till-udda-resmal-2026",
@@ -1120,6 +1120,78 @@
       "url": "https://hydrocarbonprocessing.com/news/2026/01/boeing-israels-technion-to-develop-sustainable-aviation-fuel-as-sector-grapples-with-2050-goal/",
       "added_on": "2026-10-25",
       "collected_week": "2026-W43"
+    },
+    {
+      "id": "fodors-no-list-2026-overturism",
+      "title": "Fodor's pekar ut åtta resmål att tänka om kring 2026",
+      "category": "Överturism",
+      "date": "2025-12-08",
+      "location": "",
+      "summary": "Reseguiden Fodor's årliga \"No List\" lyfter fram åtta platser, bland dem Kanarieöarna, Mexico City och Montmartre i Paris, som brottas med överturism. Listan är tänkt som en påminnelse snarare än en bojkott, och kompletteras med en \"Go List\" över resmål som gärna tar emot fler besökare.",
+      "source": "Fodor's Travel",
+      "url": "https://www.fodors.com/news/photos/no-list-2026",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "swedavia-september-2026-passagerarstatistik",
+      "title": "Swedavia: fler internationella resenärer i september, inrikesflyget bromsar",
+      "category": "Flyg",
+      "date": "2026-10-06",
+      "location": "Sverige",
+      "summary": "Swedavias tio flygplatser hade knappt 3,2 miljoner passagerare i september, en ökning med drygt två procent jämfört med året innan. Tillväxten drevs av utrikesresor medan inrikesflyget hölls tillbaka av begränsat utbud.",
+      "source": "Swedavia",
+      "url": "https://www.swedavia.com/about-swedavia/swedaviasnewsroom/2026/swedavias-traffic-statistics-for-september-2026-continued-growth-in-international-travel--domestic-travel-held-back-by-limited-supply/",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "transportstyrelsen-flygtrafik-q3-2026",
+      "title": "Transportstyrelsen: fler utrikesresenärer men svagare inrikesflyg under tredje kvartalet",
+      "category": "Forskning",
+      "date": "2026-10-20",
+      "location": "Sverige",
+      "summary": "Enligt Transportstyrelsens kvartalsstatistik reste drygt 9,3 miljoner passagerare via svenska flygplatser under tredje kvartalet 2026, något fler än samma period föregående år. Utrikestrafiken ökade medan inrikesresandet föll tillbaka.",
+      "source": "Transportstyrelsen",
+      "url": "https://www.transportstyrelsen.se/globalassets/global/publikationer-och-rapporter/rapporter/luftfart/flygtrafikstatistik-q3-2026.pdf",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "railbookers-langre-tagresor-trend-2026",
+      "title": "Researrangör rapporterar längre och mer planerade tågresor 2026",
+      "category": "Tåg",
+      "date": "2026-10-14",
+      "location": "",
+      "summary": "Den brittiska researrangören Railbookers uppger att genomsnittsresan med tåg 2026 blivit längre och att bokningarna görs allt längre i förväg. Bolaget har även utökat sitt utbud av månadslånga tågresor för resenärer som vill se flera länder i ett sträck.",
+      "source": "Recommend.com",
+      "url": "https://recommend.com/editors-picks/travel-trends-railbookers-reports-longer-rail-journeys-in-2026/",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "bfuf-utkantens-attraktivitet-rapport-2026",
+      "title": "Ny rapport: besöksnäringen i socialt utsatta områden kräver annan strategi",
+      "category": "Forskning",
+      "date": "2026-04-01",
+      "location": "Sverige",
+      "summary": "En rapport från Besöksnäringens forsknings- och utvecklingsfond (BFUF) undersöker hur svensk besöksnäring kan växa i områden som brottas med stigmatisering. Forskarna argumenterar för att platsers rykte måste byggas om strategiskt för att locka besökare och investeringar.",
+      "source": "BFUF / Lunds universitet",
+      "url": "https://lup.lub.lu.se/search/publication/4a22ff94-b41a-4852-b6dd-844a55565ec0",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "gu-cft-rapport-cirkulara-upplevelser-2026",
+      "title": "Göteborgsforskare efterlyser ny logik för cirkulär ekonomi i upplevelsenäringen",
+      "category": "Forskning",
+      "date": "2026-03-01",
+      "location": "Göteborg",
+      "summary": "En ny rapport från Centrum för turism vid Göteborgs universitet argumenterar för att cirkulär ekonomi inom resor och upplevelser inte kan förstås enbart utifrån produktion. Forskarna menar att kunskap om hur resenärer själva medskapar upplevelser måste vägas in.",
+      "source": "Göteborgs universitet",
+      "url": "https://www.gu.se/nyheter/ny-cft-rapport-om-cirkulara-upplevelser-av-lena-mossberg",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
     }
   ]
 }

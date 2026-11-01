@@ -2,8 +2,8 @@
   "topic": "Ekonomi & börs",
   "description": "Forskning om börs, makroekonomi, räntor och hushållens ekonomi. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-25",
-  "item_count": 96,
+  "last_updated": "2026-11-01",
+  "item_count": 101,
   "items": [
     {
       "id": "skuldkvot-mot-aktievardering-debt-equity-spread-2026",
@@ -1156,6 +1156,66 @@
       "url": "https://www.dagensps.se/bors-finans/chefsekonom-varnar-ai-bubbla-storre-an-dotcom-bubbla/",
       "added_on": "2026-10-25",
       "collected_week": "2026-W43"
+    },
+    {
+      "id": "fed-oktobermote-oforandrad-rante-2026",
+      "title": "Fed höll räntan oförändrad på FOMC-mötet i oktober",
+      "category": "Räntor",
+      "date": "2026-10-28",
+      "location": "",
+      "summary": "Federal Reserve lämnade styrräntan oförändrad på 3,75–4,00 procent efter oktobermötet, med rösterna 10–2 i direktionen. Marknaden prisar nu in en möjlig räntesänkning vid decembermötet.",
+      "source": "Admiral Markets",
+      "url": "https://admiralmarkets.com/analytics/traders-blog/fomc-october-2026-fed-holds-rates",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "imf-georgieva-ai-finansiell-risk-singapore-2026",
+      "title": "IMF-chefen varnar: AI-boomen kan utlösa global finansiell chock",
+      "category": "Makro",
+      "date": "2026-10-07",
+      "location": "",
+      "summary": "Kristalina Georgieva varnade vid ett tal i Singapore för att dagens AI-investeringsboom döljer ekonomisk sårbarhet och riskerar att utlösa en global finansiell chock om stämningen vänder tvärt.",
+      "source": "Greek Reporter / IMF",
+      "url": "https://greekreporter.com/2026/10/08/imf-chief-warn-ai-financial-shock/",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "nber-household-finance-retrospekt-prospekt-2026",
+      "title": "Harvardekonomer kartlägger två decennier av forskning om hushållens finanser",
+      "category": "Forskning",
+      "date": "2026-01-15",
+      "location": "",
+      "summary": "John Campbell och Tarun Ramadorai sammanfattar i en ny NBER-rapport hur fältet hushållsekonomi vuxit fram under 2000-talet och pekar ut riktningar för framtida forskning.",
+      "source": "NBER",
+      "url": "https://www.nber.org/papers/w34621",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "nber-hushall-penningpolitik-perception-2026",
+      "title": "Stor enkätstudie: Hushåll missförstår hur räntehöjningar egentligen verkar",
+      "category": "Forskning",
+      "date": "2026-04-27",
+      "location": "",
+      "summary": "En NBER-studie med över 25 000 amerikanska hushåll visar att de visserligen drar ner på konsumtion vid räntehöjningar, men av andra skäl än standardmodeller antar - kopplat till förväntad inflation snarare än lånekostnader.",
+      "source": "NBER (Grigoli, Sandri, Gorodnichenko, Coibion)",
+      "url": "https://www.nber.org/papers/w35127",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "nber-bankavgifter-hushallens-ekonomi-2026",
+      "title": "Studie: Slopade bankavgifter gynnade mest höginkomsthushåll",
+      "category": "Forskning",
+      "date": "2026-06-01",
+      "location": "",
+      "summary": "När stora amerikanska banker avskaffade avgifter för otillräckliga medel och mjukade upp overdraft-reglerna gynnades främst höginkomsthushåll, medan de mest utsatta fick klart mindre lättnad, visar ny NBER-forskning.",
+      "source": "NBER (Pagel, Sridhar, Williams)",
+      "url": "https://www.nber.org/papers/w34993",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
     }
   ]
 }

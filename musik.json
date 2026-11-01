@@ -2,8 +2,8 @@
   "topic": "Musik",
   "description": "Nya album, konserter, festivaler, svensk musik och musikbranschen. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-25",
-  "item_count": 106,
+  "last_updated": "2026-11-01",
+  "item_count": 112,
   "items": [
     {
       "id": "madonna-confessions-ii-slapp-2026",
@@ -1276,6 +1276,78 @@
       "url": "https://www.musikindustrin.se/2026/10/20/notiser-vecka-43-2026/",
       "added_on": "2026-10-25",
       "collected_week": "2026-W43"
+    },
+    {
+      "id": "grammis-2027-avicii-arena",
+      "title": "Grammisgalan 2027 flyttar till Avicii Arena",
+      "category": "Nyhet",
+      "date": "2026-10-27",
+      "location": "Stockholm",
+      "summary": "Grammisgalan byter arena inför 2027 och hålls i Avicii Arena, samtidigt som kategorin Årets folkmusik byter namn till Årets folk/country för att ge genren större utrymme.",
+      "source": "Hurbra",
+      "url": "https://hurbra.se/grammis-2027-avicii-arena/",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "the-cardigans-sommarturne-2027-biljetter",
+      "title": "The Cardigans släpper biljetter till sommarturné 2027",
+      "category": "Konsert",
+      "date": "2026-10-26",
+      "location": "Sverige",
+      "summary": "Biljetterna till The Cardigans fem konserter under nästa sommars Sverigeturné släpptes måndagen den 26 oktober klockan 10.00.",
+      "source": "Hurbra",
+      "url": "https://hurbra.se/the-cardigans-turne-2027/",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "till-lindemann-partille-2027-biljetter",
+      "title": "Till Lindemann kommer till Partille Arena 2027",
+      "category": "Konsert",
+      "date": "2026-10-28",
+      "location": "Partille",
+      "summary": "Rammstein-sångaren Till Lindemann gör en solospelning på Partille Arena den 8 oktober 2027, med biljettsläpp onsdagen den 28 oktober via Ticketmaster.",
+      "source": "Hurbra",
+      "url": "https://hurbra.se/?p=39505",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "lars-winnerback-turne-2027-biljetter",
+      "title": "Lars Winnerbäck ger nio konserter under 2027 års turné",
+      "category": "Konsert",
+      "date": "2026-10-16",
+      "location": "Sverige",
+      "summary": "Lars Winnerbäck turnerar på nio orter under 2027, och biljetterna släpptes fredagen den 16 oktober klockan 12.00.",
+      "source": "Hurbra",
+      "url": "https://hurbra.se/?p=34570",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "september-petra-marklund-soloalbum-2026",
+      "title": "September (Petra Marklund) släpper soloalbum under eget artistnamn",
+      "category": "Nyhet",
+      "date": "2026-10-24",
+      "location": "",
+      "summary": "Petra Marklund, känd som September, släppte ett nytt soloalbum under artistnamnet September den 24 oktober, ett av höstens mer uppmärksammade svenska popsläpp.",
+      "source": "Mynewsdesk",
+      "url": "https://www.mynewsdesk.com/se/universalmusic/subjects/konst-kultur-underhaallning",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "nickelback-goteborg-2027-biljetter",
+      "title": "Nickelback kommer till Göteborg på sommarturné 2027",
+      "category": "Konsert",
+      "date": "2026-10-16",
+      "location": "Göteborg",
+      "summary": "Nickelback spelar på Scandinavium i Göteborg den 11 juli 2027, med ordinarie biljettsläpp den 16 oktober klockan 10.00 efter två förköpsomgångar.",
+      "source": "Hurbra",
+      "url": "https://hurbra.se/nickelback-goteborg-2027/",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
     }
   ]
 }

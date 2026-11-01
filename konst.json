@@ -2,8 +2,8 @@
   "topic": "Konst & design",
   "description": "Konstutställningar, design, arkitektur, auktioner och konstvärlden. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-25",
-  "item_count": 103,
+  "last_updated": "2026-11-01",
+  "item_count": 109,
   "items": [
     {
       "id": "moderna-museet-nisabas-hus-maleri-2026",
@@ -1240,6 +1240,78 @@
       "url": "https://www.modernamuseet.se/en/stockholm/exhibitions/year/2026/",
       "added_on": "2026-10-25",
       "collected_week": "2026-W43"
+    },
+    {
+      "id": "modernamuseet-malmo-anu-poder-2026",
+      "title": "Anu Põder får retrospektiv på Moderna Museet Malmö",
+      "category": "Utställning",
+      "date": "2026-10-24",
+      "location": "Malmö",
+      "summary": "Moderna Museet Malmö öppnar en retrospektiv utställning med den estniska skulptören Anu Põder, som arbetade med kroppen och sårbarhet i gips, tråd och textil. Utställningen pågår till 21 februari 2027.",
+      "source": "Moderna Museet",
+      "url": "https://www.modernamuseet.se/malmo/sv/utstallningar",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "modernamuseet-malmo-casparsson-lycksalighetens-o-2026",
+      "title": "Anna Casparsson visar \"Lycksalighetens ö\" på Moderna Museet Malmö",
+      "category": "Utställning",
+      "date": "2026-10-24",
+      "location": "Malmö",
+      "summary": "Samtidigt som Anu Põder-utställningen öppnar visar Moderna Museet Malmö Anna Casparssons målningar under titeln \"Lycksalighetens ö\", en undersökning av idyll och undanträngda känslor.",
+      "source": "Moderna Museet",
+      "url": "https://www.modernamuseet.se/malmo/sv/utstallningar",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "bukowskis-modern-art-design-november-2026",
+      "title": "Bukowskis håller höstens stora Modern Art & Design-auktion",
+      "category": "Auktion",
+      "date": "2026-11-18",
+      "location": "Stockholm",
+      "summary": "Bukowskis liveauktion Modern Art & Design hålls 18–19 november på Arsenalsgatan i Stockholm, med visning 12–17 november. Bland verken finns ett arbete av Paul Klee värderat till 3–3,5 miljoner kronor.",
+      "source": "Bukowskis",
+      "url": "https://www.bukowskis.com/en/auctions",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "ung-svensk-form-2026-dunkers-2026",
+      "title": "Ung Svensk Form 2026 fortsätter sin turné till Dunkers kulturhus",
+      "category": "Design",
+      "date": "2026-11-19",
+      "location": "Helsingborg",
+      "summary": "Vandringsutställningen Ung Svensk Form 2026, som visar vinnarna inom svensk design, konsthantverk och arkitektur, öppnar på Dunkers kulturhus i Helsingborg efter sina första stopp på ArkDes och IKEA Museum.",
+      "source": "ArkDes",
+      "url": "https://arkdes.se/en/?p=34470",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "grand-designs-sverige-sasong-6-2026",
+      "title": "Grand Designs Sverige är tillbaka med sjätte säsongen",
+      "category": "Arkitektur",
+      "date": "2026-11-02",
+      "location": "",
+      "summary": "TV4:s arkitektur- och byggprogram Grand Designs Sverige har premiär för säsong sex, med Mark Isitt som programledare och åtta nya husprojekt, bland annat ett ombyggt vattentorn och ett husbygge inspirerat av James Bond.",
+      "source": "TV4",
+      "url": "https://www.tv4.se/grand-designs-sverige",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "rattscentrum-kristianstad-arkitekturpris-2026",
+      "title": "Rättscentrum i Kristianstad vinner kommunens arkitekturpris 2026",
+      "category": "Arkitektur",
+      "date": "2026-10-27",
+      "location": "Kristianstad",
+      "summary": "Det nya Rättscentrumet i Kristianstad har utsetts till vinnare av Kristianstads kommuns arkitekturpris 2026, en utmärkelse som lyfter fram byggnader med hög arkitektonisk kvalitet i kommunen.",
+      "source": "Skåneplus",
+      "url": "https://skaneplus.se/category/kristianstad/",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
     }
   ]
 }

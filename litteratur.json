@@ -2,8 +2,8 @@
   "topic": "Litteratur",
   "description": "Boksläpp, litterära priser, författarnyheter och förlagsbranschen. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-25",
-  "item_count": 100,
+  "last_updated": "2026-11-01",
+  "item_count": 105,
   "items": [
     {
       "id": "taiwan-travelogue-international-booker-2026",
@@ -1204,6 +1204,66 @@
       "url": "https://www.romanusochselling.se/nyheter/hostens-utgivning-2026-fran-romanus-selling/",
       "added_on": "2026-10-25",
       "collected_week": "2026-W43"
+    },
+    {
+      "id": "anne-carson-nobelpriset-litteratur-2026",
+      "title": "Anne Carson får Nobelpriset i litteratur 2026",
+      "category": "Pris",
+      "date": "2026-10-08",
+      "location": "Stockholm",
+      "summary": "Den kanadensiska poeten, essäisten och klassicisten Anne Carson tilldelades Nobelpriset i litteratur för ett djärvt och infallsrikt författarskap i dialog med den antika traditionen. Prissumman är 12 miljoner kronor och delas ut i december.",
+      "source": "Svenska Akademien / SVT",
+      "url": "https://www.svt.se/kultur/anne-carson-far-nobelpriset-i-litteratur-2026",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "nordiska-radets-litteraturpris-2026-skaden",
+      "title": "Nordiska rådets litteraturpris 2026 går till Sigbjørn Skåden",
+      "category": "Pris",
+      "date": "2026-10-20",
+      "location": "Helsingfors",
+      "summary": "Sigbjørn Skåden tilldelades Nordiska rådets litteraturpris för romanen \"Láŋtdievvá / Planterhaug\", första gången på 35 år som ett samiskspråkigt verk vinner priset. Prisstatyetten delades ut vid Nordiska rådets session i Helsingfors.",
+      "source": "Norden.org",
+      "url": "https://www.norden.org/sv/nominee/vinnare-av-nordiska-radets-litteraturpris-2026",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "nordiska-radets-barn-ungdomslitteraturpris-2026-hagerup",
+      "title": "Hilde Hagerup vinner Nordiska rådets barn- och ungdomslitteraturpris 2026",
+      "category": "Pris",
+      "date": "2026-10-20",
+      "location": "Helsingfors",
+      "summary": "Den norska författaren Hilde Hagerup belönades för ungdomsromanen om Gunvor Hofmo och Ruth Maier, en sorgsen kärlekshistoria förlagd till andra världskrigets Norge. Juryn lyfte fram bokens tidlösa språk och skildring av krig och identitet.",
+      "source": "Norden.org",
+      "url": "https://www.norden.org/sv/nominee/vinnare-av-nordiska-radets-barn-och-ungdomslitteraturpris-2026",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "lilla-augustpriset-2026-nominerade",
+      "title": "Lilla Augustpriset 2026: sex unga skribenter nominerade",
+      "category": "Pris",
+      "date": "2026-10-19",
+      "location": "Stockholm",
+      "summary": "De sex nominerade titlarna till Lilla Augustpriset, en tävling för skribenter mellan 16 och 20 år, presenterades i samband med Augustprisets nomineringar. Bland de nominerade finns \"Solkraft\" av Lea Andersson och \"Drömspel\" av Edith Svärd. Vinnaren koras vid Augustgalan den 23 november.",
+      "source": "SVT Kultur",
+      "url": "https://svt.se/kultur/har-ar-de-nominerade-till-augustpriset-2026",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "svd-undersokning-kerstin-ekman-basta-forfattare-2026",
+      "title": "Kerstin Ekman utsedd till Sveriges bästa nu levande författare",
+      "category": "Nyhet",
+      "date": "2026-09-19",
+      "location": "",
+      "summary": "I en stor enkät där Svenska Dagbladet frågat 101 författare, kritiker och litteraturforskare om Sveriges viktigaste nu levande författare hamnade Kerstin Ekman i topp. Listans topplaceringar domineras av kvinnliga författare.",
+      "source": "SvD Kultur (TT)",
+      "url": "https://via.tt.se/pressmeddelande/4556542/101-litteraturkannare-har-sagt-sitt-kerstin-ekman-ar-bast?lang=sv",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
     }
   ]
 }

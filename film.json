@@ -2,8 +2,8 @@
   "topic": "Film & TV",
   "description": "Biopremiärer, streaming, TV-serier, svensk film och filmfestivaler. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-25",
-  "item_count": 99,
+  "last_updated": "2026-11-01",
+  "item_count": 105,
   "items": [
     {
       "id": "sju-biopremiarer-juli-2026",
@@ -1192,6 +1192,78 @@
       "url": "https://hurbra.se/tv-20-oktober-2026/",
       "added_on": "2026-10-25",
       "collected_week": "2026-W43"
+    },
+    {
+      "id": "javla-karlar-biopremiar-2026",
+      "title": "\"Jävla karlar\" får biopremiär",
+      "category": "Premiär",
+      "date": "2026-11-06",
+      "location": "",
+      "summary": "Jens Sjögrens filmatisering av Andrev Waldens augustprisbelönta och bästsäljande roman har biopremiär, med Aliette Opheim, Filip Berg, Joel Spira och Viktor Norén i rollerna.",
+      "source": "MovieZine",
+      "url": "https://www.moviezine.se/nyheter/succeboken-javla-karlar-blir-film-med-filip-berg-och-aliette-opheim",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "arne-goes-to-space-premiar-2026",
+      "title": "\"Arne Goes To Space\" har biopremiär",
+      "category": "Premiär",
+      "date": "2026-11-20",
+      "location": "",
+      "summary": "Komedin om Arne som möter en utomjording får svensk biopremiär med Lassgård och Jähkel i rollerna.",
+      "source": "Hurbra",
+      "url": "https://hurbra.se/hostens-svenska-filmer-2026/",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "stockholms-filmfestival-2026-colman-turturro-pris",
+      "title": "Olivia Colman och John Turturro hyllas på Stockholms filmfestival",
+      "category": "Festival",
+      "date": "2026-11-11",
+      "location": "Stockholm",
+      "summary": "Olivia Colman och John Turturro tar emot Stockholm Achievement Award 2026, och Colman visar den nordiska premiären av \"Wicker\" med Alexander Skarsgård i rollen som drömmannen.",
+      "source": "MovieZine",
+      "url": "https://www.moviezine.se/nyheter/oscarsvinnaren-olivia-colman-besoker-stockholm-i-november",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "you-can-see-everything-stockholm-filmfestival-avslutning-2026",
+      "title": "Elizabeth Holmes-dokumentären \"You Can See Everything\" avslutar Stockholms filmfestival",
+      "category": "Premiär",
+      "date": "2026-11-21",
+      "location": "Stockholm",
+      "summary": "Nathan Fielders och Lance Oppenheims omtalade dokumentär om Elizabeth Holmes får nordisk premiär som avslutningsfilm på Stockholms filmfestival, med svensk biopremiär samma dag via SF Studios.",
+      "source": "MovieZine",
+      "url": "https://www.moviezine.se/nyheter/you-can-see-everything-ar-dokumentaren-alla-snackar-om-svensk-premiar-i-november",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "arkipelag-100000-biobesokare-2026",
+      "title": "Alex Schulmans \"Arkipelag\" närmar sig 100 000 biobesökare",
+      "category": "Nyhet",
+      "date": "2026-10-28",
+      "location": "",
+      "summary": "Alex Schulmans regidebut fortsätter dra publik och närmar sig 100 000 biobesökare, ett tecken på en stark höst för svensk film.",
+      "source": "MovieZine",
+      "url": "https://www.moviezine.se/nyheter/stark-svensk-filmhost-arkipelag-piemonte",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "flaggan-kritikermottagande-2026",
+      "title": "Blandade kritikerreaktioner på SD-komedin \"Flaggan\"",
+      "category": "Nyhet",
+      "date": "2026-10-27",
+      "location": "",
+      "summary": "Michael Lindgrens komedi om två unga Sverigedemokrater i Rinkeby på valnatten 2010 delar kritikerkåren, med både höga betyg och mer kluvna recensioner.",
+      "source": "MovieZine",
+      "url": "https://www.moviezine.se/nyheter/traffsaker-eller-barnslig-kritikerna-hissar-och-dissar-flaggan",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
     }
   ]
 }

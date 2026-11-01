@@ -2,8 +2,8 @@
   "topic": "Kultur",
   "description": "Nya kulturevenemang i Sverige – festivaler, konserter, utställningar och scenkonst. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-25",
-  "item_count": 139,
+  "last_updated": "2026-11-01",
+  "item_count": 145,
   "items": [
     {
       "id": "sweden-rock-2026",
@@ -1735,6 +1735,78 @@
       "url": "https://stadsteatern.goteborg.se/pa-scen/",
       "added_on": "2026-10-25",
       "collected_week": "2026-W43"
+    },
+    {
+      "id": "caligula-kulturhuset-stadsteatern-2026",
+      "title": "Caligula får svensk premiär på Kulturhuset Stadsteatern",
+      "category": "Scenkonst",
+      "date": "2026-11-06",
+      "location": "Stockholm",
+      "summary": "Viktor Tjerneld regisserar Albert Camus klassiska drama Caligula med Marcus Vögeli i titelrollen, premiär på Klarascenen den 6 november med spelperiod till 18 december.",
+      "source": "TT/Kulturhuset Stadsteatern",
+      "url": "https://via.tt.se/pressmeddelande/4600154/viktor-tjerneld-satter-upp-caligula-av-albert-camus?publisherId=3237061",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "chamber-cacti-kungliga-operan-2026",
+      "title": "Chamber/Cacti av Alexander Ekman på Kungliga Operan",
+      "category": "Scenkonst",
+      "date": "2026-10-20",
+      "location": "Stockholm",
+      "summary": "Koreografen Alexander Ekmans dansverk Chamber/Cacti spelas på Kungliga Operan fram till 14 november, med Kungliga Hovkapellet och dansare i en lekfull iscensättning kring kaktusar.",
+      "source": "Visit Stockholm",
+      "url": "https://www.visitstockholm.com/events/dance-chambercacti/next/",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "nobel-week-lights-2026",
+      "title": "Nobel Week Lights lyser upp Stockholm under Nobelveckan",
+      "category": "Festival",
+      "date": "2026-12-05",
+      "location": "Stockholm",
+      "summary": "Ljuskonstfestivalen Nobel Week Lights återkommer 5–13 december med gratis installationer i både city och Tensta, inför Nobelveckans prisutdelning.",
+      "source": "Nobelprismuseet",
+      "url": "https://www.nobelprizemuseum.se/en/nobel-week-lights/about-nobel-week-lights",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "christoffer-nobin-husdirigent-goteborgsoperan-2026",
+      "title": "Christoffer Nobin blir husdirigent på GöteborgsOperan",
+      "category": "Nyhet",
+      "date": "2026-10-28",
+      "location": "Göteborg",
+      "summary": "Dirigenten Christoffer Nobin, som bland annat framträtt med Londons symfoniorkester och Metropolitan Opera, anställs som husdirigent på GöteborgsOperan inför säsongen 2026–2027.",
+      "source": "TT/TV4",
+      "url": "https://www.tv4.se/artikel/tt-260424-nobin1-f53781a7/christoffer-nobin-ny-dirigent-pa-goteborgsoperan",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "jul-pa-liseberg-2026",
+      "title": "Jul på Liseberg öppnar i Göteborg",
+      "category": "Evenemang",
+      "date": "2026-11-14",
+      "location": "Göteborg",
+      "summary": "Liseberg slår upp sin julmarknad och julbelysning den 14 november, med julmat, skridskobana och pariserhjul fram till 30 december.",
+      "source": "Göteborg & Co",
+      "url": "https://www.goteborg.com/en/guides/christmas-break-in-gothenburg",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "skansens-julmarknad-2026",
+      "title": "Skansens julmarknad slår upp portarna i Stockholm",
+      "category": "Evenemang",
+      "date": "2026-11-27",
+      "location": "Stockholm",
+      "summary": "Friluftsmuseet Skansen öppnar sin traditionella julmarknad fredag till söndag från 27 november till 20 december, med hantverk, julmat och fritt inträde för barn upp till 15 år.",
+      "source": "Skansen",
+      "url": "https://www.skansen.se/en/christmas-market",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
     }
   ]
 }

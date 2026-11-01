@@ -2,8 +2,8 @@
   "topic": "Vetenskap",
   "description": "Ny forskning inom fysik, medicin, biologi, klimat och nya upptäckter. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-25",
-  "item_count": 123,
+  "last_updated": "2026-11-01",
+  "item_count": 128,
   "items": [
     {
       "id": "kvantljud-kommunikation-2026",
@@ -1480,6 +1480,66 @@
       "url": "https://www.livescience.com/strange-news/2",
       "added_on": "2026-10-25",
       "collected_week": "2026-W43"
+    },
+    {
+      "id": "superconductor-tidsomvand-symmetri-2026",
+      "title": "Forskare upptäcker första typ I-supraledaren som bryter mot tidsomvändningssymmetri",
+      "category": "Forskning",
+      "date": "2026-10-02",
+      "location": "",
+      "summary": "Fysiker har identifierat materialet YbSb2 som den första typ I-supraledaren som uppvisar brott mot tidsomvändningssymmetri, ett fynd som kan ge nya ledtrådar om exotiska supraledande tillstånd.",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-10-scientists-superconductor-reversal-symmetry.html",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "aldre-forskare-mindre-disruptiv-forskning-2026",
+      "title": "Äldre forskare producerar mindre omstörtande studier – men deras genombrott håller längre",
+      "category": "Forskning",
+      "date": "2026-10-26",
+      "location": "",
+      "summary": "En analys av 11,2 miljoner artiklar från över 200 000 forskare visar att äldre forskares arbete är mindre banbrytande i stunden, men att deras genombrott tenderar att förbli relevanta längre, enligt en studie i PNAS.",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-10-scientists-disruptive-age-breakthroughs.html",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "state-of-the-climate-rapport-2026",
+      "title": "Internationell klimatrapport varnar: uppvärmningen går snabbare än väntat",
+      "category": "Klimat",
+      "date": "2026-10-14",
+      "location": "",
+      "summary": "Forskare bakom årets \"State of the Climate\"-rapport konstaterar att uppvärmningstakten ökar och att gränsen på 2 grader över förindustriell nivå kan nås redan före 2050 om inget förändras.",
+      "source": "EurekAlert",
+      "url": "https://www.eurekalert.org/news-releases/1147223",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "djurliv-ursprung-tidigare-an-fossil-2026",
+      "title": "Djurlivet kan ha uppstått betydligt tidigare än fossilen visar",
+      "category": "Forskning",
+      "date": "2026-10-02",
+      "location": "",
+      "summary": "Forskare vid Oxford argumenterar i Science Advances för att de första djuren kan ha funnits redan djupt in i Neoproterozoikum, långt tidigare än det klassiska fossila beviset antyder.",
+      "source": "EurekAlert",
+      "url": "https://www.eurekalert.org/news-releases/1145493",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "hittitiskt-kungsarkiv-184-lertavlor-2026",
+      "title": "184 kilskriftstavlor från ett hettitiskt kungsarkiv har hittats i Turkiet",
+      "category": "Upptackt",
+      "date": "2026-10-08",
+      "location": "",
+      "summary": "Utgrävningar vid Kayalıpınar i centrala Turkiet har blottat ett omfattande hettitiskt arkiv från kung Tudhaliya II:s tid, med texter om en kunglig epidemi, krigshot och fågeldivination.",
+      "source": "Daily Sabah",
+      "url": "https://www.dailysabah.com/life/hittite-royal-archive-with-184-tablets-unearthed-in-central-turkiye/news/amp",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
     }
   ]
 }

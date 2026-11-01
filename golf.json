@@ -2,8 +2,8 @@
   "topic": "Golf",
   "description": "Majors och tourtävlingar, svenska golfare, tävlingar och utrustning. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-25",
-  "item_count": 89,
+  "last_updated": "2026-11-01",
+  "item_count": 98,
   "items": [
     {
       "id": "ryan-fox-vinner-the-open-royal-birkdale-2026",
@@ -1060,6 +1060,114 @@
       "url": "https://golfwrx.com/?p=779250",
       "added_on": "2026-10-25",
       "collected_week": "2026-W43"
+    },
+    {
+      "id": "yuri-yoshida-vinner-bmw-ladies-championship-2026",
+      "title": "Yuri Yoshida tog sin första LPGA-titel i BMW Ladies Championship",
+      "category": "LPGA",
+      "date": "2026-10-25",
+      "location": "Haenam, Sydkorea",
+      "summary": "Japanskan Yuri Yoshida avgjorde den sjätte upplagan av BMW Ladies Championship på Pine Beach Golf Links och säkrade därmed sin första seger på LPGA-touren.",
+      "source": "Golf News Net",
+      "url": "https://thegolfnewsnet.com/golfnewsnetteam/2026/10/25/2026-bmw-ladies-championship-final-results-prize-money-payout-lpga-tour-leaderboard-and-how-much-each-golfer-won-145286/",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "jerry-ji-david-lundgren-road-to-europe-final-2026",
+      "title": "Jerry Ji vann Road to Europe-finalen, David Lundgren säkrade säsongens Order of Merit",
+      "category": "Tour",
+      "date": "2026-10-16",
+      "location": "Midtjylland, Danmark",
+      "summary": "Nederländaren Jerry Ji tog sin första Nordic Golf League-titel när Road to Europe-finalen avgjordes i Danmark, medan svensken David Lundgren vann säsongens samlade Order of Merit.",
+      "source": "Wikipedia / Danish Golf",
+      "url": "https://en.wikipedia.org/wiki/2026_Nordic_Golf_League",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "abu-dhabi-aldar-championship-2026-forhandstitt",
+      "title": "Abu Dhabi Aldar Championship inleder DP World Tours slutspel med stjärnspäckat fält",
+      "category": "Touren",
+      "date": "2026-11-05",
+      "location": "Yas Links, Abu Dhabi",
+      "summary": "Säsongens första slutspelstävling på DP World Tour samlar bland andra Rory McIlroy, Patrick Reed, Tommy Fleetwood och racetoppen Eugenio Chacarra, medan Ludvig Åberg står över.",
+      "source": "Arab News",
+      "url": "https://www.arabnews.pk/sport/fleetwood-and-hatton-among-latest-stars-confirmed-for-abu-dhabi-aldar-championship-3005463",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "taylormade-tp5-tp5x-2026-lansering",
+      "title": "TaylorMade lanserar nya TP5 och TP5x med ny mikrobeläggning",
+      "category": "Utrustning",
+      "date": "2026-10-20",
+      "location": "",
+      "summary": "TaylorMades nya TP5- och TP5x-bollar ska ge jämnare spridning och säkrare flykt i vind tack vare en ny mikrobeläggningsprocess, och har redan fått flera proffs att byta boll.",
+      "source": "National Club Golfer",
+      "url": "https://www.nationalclubgolfer.com/reviews/taylormade-tp5-2026-golf-ball",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "daniel-svard-pga-tour-university-2026",
+      "title": "Svensken Daniel Svärd säkrade proffskort via PGA Tour University",
+      "category": "Svensk golf",
+      "date": "2026-06-02",
+      "location": "",
+      "summary": "Northwestern-spelaren Daniel Svärd slutförde collegekarriären med en topplacering i PGA Tour Universitys ranking och fick därmed medlemskap på PGA Tour Americas för resten av säsongen.",
+      "source": "Northwestern Athletics",
+      "url": "https://nusports.com/news/2026/6/2/mens-golf-daniel-sv-rd-earns-membership-through-pga-tour-university",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "vangdal-lamnar-forbundskapten-golf-lindgren-tar-over",
+      "title": "Vangdal lämnar som förbundskapten för golflandslaget efter 14 år",
+      "category": "Svensk golf",
+      "date": "2026-02-01",
+      "location": "",
+      "summary": "Katarina Vangdal slutar som förbundskapten för det svenska golflandslaget efter 14 år och tar en tjänst som sportchef inom Sveriges Olympiska Kommitté. Ola Lindgren tar över kaptensrollen.",
+      "source": "Sweden Herald",
+      "url": "https://swedenherald.com/article/the-national-team-captain-steps-down-becomes-sports-manager-at-the-swedish-olympic-committee",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "anna-nordqvist-avslutar-spelarkarriaren-solheim-cup-kapten-2026",
+      "title": "Anna Nordqvist avslutar spelarkarriären inför sitt Solheim Cup-kaptenskap",
+      "category": "Svensk golf",
+      "date": "2026-08-27",
+      "location": "",
+      "summary": "Trefaldiga majorvinnaren Anna Nordqvist meddelade att hon lägger spelarskorna på hyllan för att helt fokusera på rollen som Europas lagkapten i Solheim Cup 2026.",
+      "source": "Golf Digest",
+      "url": "https://www.golfdigest.com/story/anna-nordqvist-retirement-announcement-pro-career-three-majors-solheim-cup-captain",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "callaway-quantum-minidriver-lansering-2026",
+      "title": "Callaway lanserade Quantum-serien med ny minidriver",
+      "category": "Utrustning",
+      "date": "2026-04-29",
+      "location": "",
+      "summary": "Callaway bredde ut Quantum-familjen med en minidriver, titan-fairwayträ och nya putters, och klubborna nådde butik i slutet av april.",
+      "source": "Golf Monthly",
+      "url": "https://www.golfmonthly.com/news/callaway-launches-new-mini-driver-rocket-fairway-woods-and-zero-torque-putters",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "maybank-championship-kuala-lumpur-2026",
+      "title": "Maybank Championship avgörs i Kuala Lumpur över månadsskiftet",
+      "category": "Tour",
+      "date": "2026-10-29",
+      "location": "Kuala Lumpur",
+      "summary": "Maybank Championship spelas den 29 oktober till 1 november på Kuala Lumpur Golf and Country Club, en av höstens stora asiatiska tävlingar på tourkalendern.",
+      "source": "Kalshi",
+      "url": "https://kalshi.com/golf/lpga/schedule",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
     }
   ]
 }

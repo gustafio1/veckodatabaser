@@ -2,8 +2,8 @@
   "topic": "Löpning",
   "description": "Lopp och maraton, svensk löparelit, träningsforskning och utrustning. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-25",
-  "item_count": 89,
+  "last_updated": "2026-11-01",
+  "item_count": 102,
   "items": [
     {
       "id": "stockholm-marathon-kiptoo-vinner-2026",
@@ -1054,6 +1054,162 @@
       "url": "https://www.svt.se/nyheter/vetenskap/battre-kondition-med-korta-ruscher-1",
       "added_on": "2026-10-25",
       "collected_week": "2026-W43"
+    },
+    {
+      "id": "nyc-marathon-2026-kipruto-obiri-forsvarar",
+      "title": "Kipruto och Obiri försvarade sina titlar i New York City Marathon",
+      "category": "Maraton",
+      "date": "2026-11-01",
+      "location": "New York",
+      "summary": "New York City Marathon avgjordes på söndagen, det 50:e jubileumsåret för loppet genom stadens fem stadsdelar. Benson Kipruto och Hellen Obiri gick in som regerande mästare och toppade elitfälten.",
+      "source": "New York Road Runners / Marathon Handbook",
+      "url": "https://marathonhandbook.com/live/2026-new-york-city-marathon/",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "valencia-marathon-2026-elitfalt-korir-jepkosgei",
+      "title": "Stjärnspäckat elitfält klart för Valencia Marathon i december",
+      "category": "Maraton",
+      "date": "2026-10-28",
+      "location": "Valencia",
+      "summary": "Arrangörerna av Valencia Marathon den 6 december har presenterat sina elitfält. Försvarande mästarna John Korir och Joyciline Jepkosgei är tillbaka, medan Yomif Kejelcha och Tsegay Tesfay leder ett fält inriktat på rekordtider.",
+      "source": "AIMS / Valencia Ciudad del Running",
+      "url": "https://www.valenciaciudaddelrunning.com/en/kejelcha-tesfay-lead-elite-lineup-big-ambitions-valencia-marathon-2026/",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "iau-50k-vm-2026-storbritannien-dominerar",
+      "title": "Storbritannien tog dubbelt VM-guld på 50 km landsväg",
+      "category": "Resultat",
+      "date": "2026-03-14",
+      "location": "New Delhi",
+      "summary": "Vid IAU:s VM på 50 km i New Delhi tog britterna Alex Milne och Naomi Robinson guld på herr- och damsidan, och Storbritannien vann även lagtävlingen. Milnes tid sattes som nytt europarekord.",
+      "source": "Athletics Weekly",
+      "url": "https://athleticsweekly.com/news/golds-galore-for-britain-at-iau-world-50km-champs-in-delhi-1040010321/",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "western-states-100-2026-bouillard-lichter-vinner",
+      "title": "Bouillard och Lichter satte nya banrekord i Western States 100",
+      "category": "Ultralöpning",
+      "date": "2026-06-27",
+      "location": "Kalifornien, USA",
+      "summary": "Fransmannen Vincent Bouillard vann ikoniska ultralöpet Western States 100 Miles och slog Jim Walmsleys gamla banrekord. På damsidan satte amerikanskan Jenn Lichter nytt rekord redan i sin debut på distansen.",
+      "source": "iRunFar",
+      "url": "https://www.irunfar.com/ajws-final-thoughts-on-the-2026-western-states-100",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "hostrusket-stockholm-2026-forhandstitt",
+      "title": "Höstrusket i Stockholm lockar löpare till Norra Djurgården",
+      "category": "Lopp",
+      "date": "2026-11-07",
+      "location": "Stockholm",
+      "summary": "Lördagen den 7 november arrangeras Höstrusket i Norra Djurgården, med distanserna 10 kilometer, halvmaraton och maraton. Loppet är ett populärt sätt att runda av löparsäsongen innan vintern.",
+      "source": "Höstrusket",
+      "url": "https://hostrusket.se",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "goteborgs-universitet-spring-overbelastningsskador",
+      "title": "Göteborgsstudie kartlägger motionslöparnas vanligaste skador",
+      "category": "Forskning",
+      "date": "2026-10-20",
+      "location": "Göteborg",
+      "summary": "I SPRING-projektet vid Göteborgs universitet följdes 227 erfarna motionslöpare under 52 veckor. Knä samt häl- och vadregionen visade sig vara de vanligaste skadeställena, och tidigare skador och hög veckodistans ökade risken.",
+      "source": "Göteborgs universitet",
+      "url": "https://www.gu.se/forskning/loprelaterade-overbelastningsskador-hos-motionslopare",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "frankfurt-marathon-2026-dinki-vinner-petros-tvaa",
+      "title": "Dinki vann Frankfurt Marathon – Petros nära hemmaseger på tysk mark",
+      "category": "Resultat",
+      "date": "2026-10-25",
+      "location": "Frankfurt",
+      "summary": "Etiopiern Jirata Lelisa Dinki vann Frankfurt Marathon på 2:05:26, tätt följd av tysken Amanal Petros som blev den första tyske mannen på pallen i loppet på över 25 år.",
+      "source": "Hessenschau",
+      "url": "https://www.hessenschau.de/sport/mehr-sport/frankfurt-marathon/amanal-petros-verpasst-heimsieg-beim-frankfurt-marathon-2026-nur-knapp-v1,frankfurt-marathon-ergebnisse-100.html",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "superskor-elitlopare-overstegning-studie-2026",
+      "title": "Ny studie: superskor ger snabbare tempo men mer överstegning hos elitlöpare",
+      "category": "Forskning",
+      "date": "2026-10-28",
+      "location": "",
+      "summary": "Forskare testade 23 elitlöpare i tre skotyper och fann att de styva, tjockt dämpade superskorna gav snabbare 5-kilometerstempo men också lägre stegfrekvens och mer överstegning, vilket på sikt kan öka belastningen på kroppen.",
+      "source": "PM&R / Mass General Brigham",
+      "url": "https://www.pulse.bot/fitness/news/study-finds-super-shoes-boost-speed-but-may-heighten-injury-risk-for-elite-runners-9819bf6f-ec93-4e89-868b-3d236183996b/",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "kullamannen-utmb-bastad-2026",
+      "title": "Kullamannen by UTMB lockade ultralöpare till Båstad inför novemberhelgen",
+      "category": "Lopp",
+      "date": "2026-10-30",
+      "location": "Båstad",
+      "summary": "Trailtävlingen Kullamannen by UTMB avgjordes i Båstad med distanser från 22 till 173 kilometer, en av höstens sista stora ultralöpningar i Sverige innan vintersäsongen tar vid.",
+      "source": "UTMB",
+      "url": "https://trainerday.com/de/events/se/kullamannen-by-utmb-ae70c2a3",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "road-test-camp-finishers-awards-2026",
+      "title": "Finishers Road Test Camp delade ut sina första löparskor-awards",
+      "category": "Utrustning",
+      "date": "2026-10-20",
+      "location": "Lyon, Frankrike",
+      "summary": "Konceptet Road Test Camp lät 20 utvalda testare under några dagar i Lyon prova årets löparskor inför ett nytt pris, en testmetod som Finishers menar ger ett mer verklighetstroget omdöme än traditionella redaktionstester.",
+      "source": "Marathons.com",
+      "url": "https://www.marathons.com/sv/livsstil/road-test-camp-by-finishers-vinnarna-av-2026-ars-awards-ar-utsedda_0odp",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "ultravasan-90-sm-status-ultralopning-2026",
+      "title": "Ultravasan 90 fick SM-status i ultralöpning för första gången 2026",
+      "category": "Svensk löpning",
+      "date": "2026-08-15",
+      "location": "Mora-Sälen",
+      "summary": "I samband med Ultravasan 90 delades för första gången SM-medaljer ut i trail/ultralöpning, med särskilda tävlingsklasser för löpare anslutna till Svenska Friidrottsförbundet.",
+      "source": "Vasaloppet",
+      "url": "https://vasaloppet.se/en/news/ultravasan-90-awarded-swedish-championship-status-for-2026",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "nya-loparskor-host-2026-oversikt",
+      "title": "Flera stora skomärken släppte nya löparskor under hösten",
+      "category": "Utrustning",
+      "date": "2026-09-10",
+      "location": "",
+      "summary": "Bland höstens nylanseringar märks New Balance FuelCell Rebel v5, Hoka Rocket X 3, Saucony Endorphin Speed 5, Kiprun Kipstorm Lab och Asics Novablast 6, med fokus på allt från tävlingstempo till daglig träning.",
+      "source": "Marathons.com",
+      "url": "https://www.marathons.com/sv/loparskor",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "sundstrom-eight-plats-em-terranglopning-2025",
+      "title": "Sundström åtta på EM i terränglöpning i Portugal",
+      "category": "Resultat",
+      "date": "2025-12-14",
+      "location": "Lagoa, Portugal",
+      "summary": "Simon Sundström sprang in på åttonde plats på 7,5 kilometer när Europamästerskapen i terränglöpning avgjordes i portugisiska Lagoa, ett av de bästa svenska resultaten i grenen på senare år.",
+      "source": "Svensk Friidrott",
+      "url": "https://www.friidrott.se/media/pzxgs5jo/resultatbilagan-2025.pdf",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "topic": "Schack",
   "description": "Stora turneringar, elitspelare, onlineschack, svenskt schack och talanger. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-25",
-  "item_count": 87,
+  "last_updated": "2026-11-01",
+  "item_count": 99,
   "items": [
     {
       "id": "sindarov-vinner-kandidatturneringen-2026",
@@ -1034,6 +1034,150 @@
       "url": "https://lichess.org/kn",
       "added_on": "2026-10-25",
       "collected_week": "2026-W43"
+    },
+    {
+      "id": "clutch-chess-showdown-nakamura-leder-2026",
+      "title": "Nakamura tog ledningen när Clutch Chess Showdown inledde i Saint Louis",
+      "category": "Turnering",
+      "date": "2026-10-27",
+      "location": "Saint Louis",
+      "summary": "Hikaru Nakamura startade bäst i snabbschacksturneringen Clutch Chess Champions Showdown, där han mötte Caruana, Praggnanandhaa och VM-utmanaren Sindarov inför dennes titelmatch i december.",
+      "source": "ChessBase",
+      "url": "https://en.chessbase.com/post/clutch-chess-showdown-2026-live",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "vm-schack-2026-gukesh-sindarov-forhandstips",
+      "title": "Räknar ner mot VM-matchen: Gukesh möter Sindarov i Genève i slutet av november",
+      "category": "Förhandstips",
+      "date": "2026-10-30",
+      "location": "Genève",
+      "summary": "Regerande världsmästaren Gukesh ställs mot utmanaren Javokhir Sindarov i en 14-partimatch som inleds i slutet av november på neutral mark i Schweiz, sedan FIDE valde bort bud från flera länder.",
+      "source": "Chess.com",
+      "url": "https://www.chess.com/news/view/geneva-gukesh-sindarov-2026-fide-world-championship",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "total-chess-pilot-budapest-forhandstips-2026",
+      "title": "Totalschackens pilotturnering startar i Budapest med Carlsen och 23 andra stjärnor",
+      "category": "Förhandstips",
+      "date": "2026-11-10",
+      "location": "Budapest",
+      "summary": "Den nya Total Chess World Championship Tour testas i ett pilotevenemang i Budapest med 24 toppspelare, bland andra Magnus Carlsen, Fabiano Caruana och Vincent Keymer, i en blandning av snabbklassiskt, snabbschack och blixtschack.",
+      "source": "FIDE",
+      "url": "https://www.fide.com/total-chess-world-championship-tour-announces-six-more-stars-for-budapest-pilot/",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "gothamchess-europaturne-2026",
+      "title": "Youtube-stjärnan GothamChess turnerar genom Europa fram till mitten av november",
+      "category": "Online",
+      "date": "2026-10-25",
+      "location": "Köln",
+      "summary": "Levy Rozman, känd som GothamChess, inledde sin andra Europaturné i Köln den 25 oktober med stopp i bland annat Amsterdam, Zürich, Paris och London, med liveshower där han gissar rating och spelar mot publiken.",
+      "source": "Chess.com",
+      "url": "https://www.chess.com/news/view/announcing-gothamchess-european-tour-2026",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "bodhana-sivanandan-yngsta-brittiska-mastaren-2026",
+      "title": "11-åriga Bodhana Sivanandan yngsta brittiska dammästaren i schackhistorien",
+      "category": "Talang",
+      "date": "2026-08-09",
+      "location": "Coventry",
+      "summary": "Bodhana Sivanandan vann det brittiska dammästerskapet i schack efter en rapidomspelning mot irländska Trisha Kanyamarala och blev därmed, vid elva år, den yngsta mästaren i tävlingens historia.",
+      "source": "Chess.com",
+      "url": "https://www.chess.com/news/view/shreyas-bodhana-win-british-championship-2026",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "carlsen-forsvarar-esports-world-cup-titel-2026",
+      "title": "Carlsen försvarade sin titel i schack på Esports World Cup i Paris",
+      "category": "Elit",
+      "date": "2026-08-15",
+      "location": "Paris",
+      "summary": "Magnus Carlsen besegrade Denis Lazavik i finalen av Esports World Cups schackgren utan att förlora ett enda parti under hela turneringen och blev därmed den förste att vinna titeln två år i rad.",
+      "source": "Chess.com",
+      "url": "https://chess.com/news/view/2026-esports-world-cup-7-conclusions",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "carlsen-vinner-tepe-sigeman-malmo-2026",
+      "title": "Carlsen vann TePe Sigeman i Malmö efter tiebreak mot Erigaisi",
+      "category": "Elit",
+      "date": "2026-05-07",
+      "location": "Malmö",
+      "summary": "Magnus Carlsen vann den åttaspelarstarka klassiska turneringen TePe Sigeman & Co i Malmö efter att ha kvalat ihop sig med Arjun Erigaisi på fem poäng och sedan avgjort i snabbschackstiebreak.",
+      "source": "Chess.com",
+      "url": "https://www.chess.com/news/view/2026-tepe-sigeman-chess-tournament-round-7",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "total-chess-world-championship-pilot-oktober-2026",
+      "title": "Carlsen bland 16 spelare i pilotturneringen Total Chess World Championship",
+      "category": "Turnering",
+      "date": "2026-10-03",
+      "location": "",
+      "summary": "FIDE och Norway Chess pilottestade det nya formatet Total Chess, som blandar snabbklassiskt, snabbschack och blixt, med Magnus Carlsen bland de 16 inbjudna spelarna. Den fullskaliga touren väntas inledas 2027.",
+      "source": "Chess.com",
+      "url": "https://www.chess.com/news/view/2026-total-chess-pilot-event-16-players-determined",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "dam-sm-snabbschack-blixt-stockholm-2026",
+      "title": "Dam-SM i snabbschack och blixt avgjordes i Stockholm",
+      "category": "Svenskt schack",
+      "date": "2026-09-05",
+      "location": "Stockholm",
+      "summary": "Sveriges Schackförbund arrangerade Dam-SM i snabbschack och blixt i Stockholm, där vinnarna kvalificerade sig till damernas VM i respektive gren.",
+      "source": "Schack.se",
+      "url": "https://schack.se/wp-content/uploads/2026/06/Inbjudan-Dam-SM-i-snabbschack-och-blixt-2026-Officiell-red.pdf",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "giri-vaishali-vinner-grand-swiss-candidates-2026",
+      "title": "Giri och Vaishali tog Grand Swiss-titlarna och candidatplatser inför 2026",
+      "category": "Turnering",
+      "date": "2025-09-12",
+      "location": "Samarkand",
+      "summary": "Anish Giri och Vaishali Rameshbabu vann respektive sektion av FIDE Grand Swiss och säkrade därmed platser i Candidates-turneringen 2026, som avgörs i en dubbelrondig åttaspelarsserie.",
+      "source": "Chess.com",
+      "url": "https://www.chess.com/news/view/giri-vaishali-win-2025-fide-grand-swiss",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "norway-chess-flyttar-oslo-2026-carlsen",
+      "title": "Norway Chess flyttar till Oslo – Carlsen först att bekräfta spel",
+      "category": "Turnering",
+      "date": "2026-01-12",
+      "location": "Oslo",
+      "summary": "Efter 13 år i Stavanger flyttar storturneringen Norway Chess till Oslo från 2026, med Deichman Bjørvika som huvudarena. Magnus Carlsen blev den första spelaren att offentligt bekräfta sin medverkan.",
+      "source": "Chess.com",
+      "url": "https://www.chess.com/news/view/norway-chess-changes-location-carlsen-confirmed",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "champions-chess-league-strom-engdahl-svensk-2026",
+      "title": "Svensk medverkan i Champions Chess League under vinterns omgångar",
+      "category": "Svenskt schack",
+      "date": "2026-01-13",
+      "location": "",
+      "summary": "Svenska Schackförbundet rapporterade om Ström-Engdahls parti mot Marn i vinterns omgångar av Champions Chess League, en liga som samlar begåvade lagspelare från hela världen.",
+      "source": "Schack.se",
+      "url": "https://schack.se/tavlingar/nyheter/champions-chess-league/",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
     }
   ]
 }

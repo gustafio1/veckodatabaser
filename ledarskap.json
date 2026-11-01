@@ -2,8 +2,8 @@
   "topic": "Ledarskap – John Maxwell",
   "description": "Ledarskapsprinciper och lärdomar från John C. Maxwell, inklusive De 21 oeftergivliga ledarskapslagarna. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-25",
-  "item_count": 156,
+  "last_updated": "2026-11-01",
+  "item_count": 164,
   "items": [
     {
       "id": "lockets-lag",
@@ -1876,6 +1876,102 @@
       "url": "https://quotefancy.com/quote/22479/John-C-Maxwell-A-man-must-be-big-enough-to-admit-his-mistakes-smart-enough-to-profit-from",
       "added_on": "2026-10-25",
       "collected_week": "2026-W43"
+    },
+    {
+      "id": "karaktar-ledaregenskap",
+      "title": "Karaktär (Character)",
+      "category": "Princip",
+      "date": "1999-01-01",
+      "location": "",
+      "summary": "Ur De 21 oumbärliga egenskaperna hos en ledare: karaktären är den egenskap som i grunden avgör om människor kan lita på en ledare över tid. Utan en solid karaktär rasar förr eller senare allt annat ledarskapet är byggt på.",
+      "source": "John C. Maxwell, The 21 Indispensable Qualities of a Leader",
+      "url": "https://www.goodreads.com/book/show/183553.The_21_Indispensable_Qualities_of_a_Leader",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "mod-ledaregenskap",
+      "title": "Mod (Courage)",
+      "category": "Princip",
+      "date": "1999-01-01",
+      "location": "",
+      "summary": "Mod smittar av sig och ger andra tillstånd att själva agera modigt. En ledare som vågar fatta svåra beslut och gå före i osäkerhet öppnar utrymme för hela teamet att växa och ta egna risker.",
+      "source": "John C. Maxwell, The 21 Indispensable Qualities of a Leader",
+      "url": "https://www.goodreads.com/book/show/183553.The_21_Indispensable_Qualities_of_a_Leader",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "urskillning-ledaregenskap",
+      "title": "Urskillning (Discernment)",
+      "category": "Princip",
+      "date": "1999-01-01",
+      "location": "",
+      "summary": "Urskillning låter en ledare se bortom det uppenbara och upptäcka rotorsaker, möjligheter och risker som andra missar. Det är förmågan att hitta den bästa lösningen – inte bara en lösning som råkar fungera.",
+      "source": "John C. Maxwell, The 21 Indispensable Qualities of a Leader",
+      "url": "https://www.goodreads.com/book/show/183553.The_21_Indispensable_Qualities_of_a_Leader",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "generositet-ledaregenskap",
+      "title": "Generositet (Generosity)",
+      "category": "Princip",
+      "date": "1999-01-01",
+      "location": "",
+      "summary": "En generös ledare delar med sig av tid, resurser och erkännande utan att räkna kostnaden. Maxwell menar att generositet är det som förvandlar makt och position till verkligt tjänande ledarskap.",
+      "source": "John C. Maxwell, The 21 Indispensable Qualities of a Leader",
+      "url": "https://www.goodreads.com/book/show/183553.The_21_Indispensable_Qualities_of_a_Leader",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "lyssnande-ledaregenskap",
+      "title": "Lyssnande (Listening)",
+      "category": "Princip",
+      "date": "1999-01-01",
+      "location": "",
+      "summary": "Att verkligen lyssna ger ledaren tillgång till information, förtroende och relationer som annars går förlorade. Maxwell lyfter lyssnande som en av de mest underskattade men avgörande ledarskapsförmågorna.",
+      "source": "John C. Maxwell, The 21 Indispensable Qualities of a Leader",
+      "url": "https://www.goodreads.com/book/show/183553.The_21_Indispensable_Qualities_of_a_Leader",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "passion-ledaregenskap",
+      "title": "Passion (Passion)",
+      "category": "Princip",
+      "date": "1999-01-01",
+      "location": "",
+      "summary": "Passion ger ledaren uthållighet och gör uppdraget smittande för andra. Utan en genuin passion riskerar ledarskap att bli en pliktövning snarare än en kraft som faktiskt driver förändring.",
+      "source": "John C. Maxwell, The 21 Indispensable Qualities of a Leader",
+      "url": "https://www.goodreads.com/book/show/183553.The_21_Indispensable_Qualities_of_a_Leader",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "problemlosning-ledaregenskap",
+      "title": "Problemlösning (Problem Solving)",
+      "category": "Princip",
+      "date": "1999-01-01",
+      "location": "",
+      "summary": "Ledare möter ständigt problem, och förmågan att hantera dem metodiskt – utan att förneka dem eller fastna i dem – skiljer effektiva ledare från resten. Maxwell betonar att problem ofta gömmer möjligheter till tillväxt.",
+      "source": "John C. Maxwell, The 21 Indispensable Qualities of a Leader",
+      "url": "https://www.goodreads.com/book/show/183553.The_21_Indispensable_Qualities_of_a_Leader",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
+    },
+    {
+      "id": "larvillighet-ledaregenskap",
+      "title": "Lärvillighet (Teachability)",
+      "category": "Princip",
+      "date": "1999-01-01",
+      "location": "",
+      "summary": "Lärvillighet innebär att ledaren förblir öppen för nya idéer, erkänner sina kunskapsluckor och fortsätter att utvecklas trots erfarenhet och tidigare framgångar. Maxwell varnar för att stolthet över gamla segrar är lärvillighetens främsta fiende.",
+      "source": "John C. Maxwell, The 21 Indispensable Qualities of a Leader",
+      "url": "https://www.goodreads.com/book/show/183553.The_21_Indispensable_Qualities_of_a_Leader",
+      "added_on": "2026-11-01",
+      "collected_week": "2026-W44"
     }
   ]
 }

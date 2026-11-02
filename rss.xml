@@ -5,7 +5,7 @@
     <link>https://www.veckodatabaser.se/</link>
     <description>Veckovis bevakning av 40 ämnesdatabaser: teknik, kultur, sport, tro och tanke, utveckling, samhälle och livsstil.</description>
     <language>sv-SE</language>
-    <lastBuildDate>Sun, 01 Nov 2026 04:44:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 04:43:56 +0000</lastBuildDate>
     <atom:link href="https://www.veckodatabaser.se/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Göteborg Film Festival fyller 50 år – datum för jubileumsupplagan spikat</title>
@@ -24,12 +24,28 @@
       <description>Dramaten sätter upp en scenversion av Roy Anderssons filmklassiker &quot;En kärlekshistoria&quot; på Stora scenen, med urpremiär den 5 december. (Källa: TT)</description>
     </item>
     <item>
+      <title>Nobel Week Lights lyser upp Stockholm under Nobelveckan</title>
+      <link>https://www.nobelprizemuseum.se/en/nobel-week-lights/about-nobel-week-lights</link>
+      <guid isPermaLink="false">https://www.nobelprizemuseum.se/en/nobel-week-lights/about-nobel-week-lights</guid>
+      <category>Kultur</category>
+      <pubDate>Sat, 05 Dec 2026 00:00:00 +0000</pubDate>
+      <description>Ljuskonstfestivalen Nobel Week Lights återkommer 5–13 december med gratis installationer i både city och Tensta, inför Nobelveckans prisutdelning. (Källa: Nobelprismuseet)</description>
+    </item>
+    <item>
       <title>Fotografiska Stockholm visar Kvinnor bakom kameran, 1848–1968</title>
       <link>https://stockholm.fotografiska.com/en/exhibitions/kvinnor-bakom-kameran-1848-1968</link>
       <guid isPermaLink="false">https://stockholm.fotografiska.com/en/exhibitions/kvinnor-bakom-kameran-1848-1968</guid>
       <category>Fotografi</category>
       <pubDate>Sat, 05 Dec 2026 00:00:00 +0000</pubDate>
       <description>Den svenskspråkiga versionen av Hasselblad Centers uppmärksammade utställning om kvinnliga fotografer i svensk fotohistoria öppnar på Fotografiska Stockholm i samarbete med Hasselblad Foundation. (Källa: Fotografiska)</description>
+    </item>
+    <item>
+      <title>Europa Clipper gör sin sista gravitationsassisterade passage av jorden i december</title>
+      <link>https://science.nasa.gov/mission/europa-clipper/mission-timeline/</link>
+      <guid isPermaLink="false">https://science.nasa.gov/mission/europa-clipper/mission-timeline/</guid>
+      <category>Rymden</category>
+      <pubDate>Thu, 03 Dec 2026 00:00:00 +0000</pubDate>
+      <description>NASA:s sond Europa Clipper planerar att passera jorden den 3 december för att med hjälp av jordens gravitation få fart mot Jupiter. Det blir sondens andra och sista gravitationsassist innan den ska gå in i omloppsbana kring Jupiter 2030 för att studera ismånen Europa. (Källa: NASA)</description>
     </item>
     <item>
       <title>EU:s krav på märkning av AI-genererade bilder börjar gälla</title>
@@ -64,12 +80,36 @@
       <description>Göteborgs Stadsteater sätter upp Stig Larssons pjäs &quot;V.D.&quot; i regi av Marcus Carlsson, med premiär på Studion den 27 november. (Källa: Göteborgs Stadsteater)</description>
     </item>
     <item>
+      <title>Skansens julmarknad slår upp portarna i Stockholm</title>
+      <link>https://www.skansen.se/en/christmas-market</link>
+      <guid isPermaLink="false">https://www.skansen.se/en/christmas-market</guid>
+      <category>Kultur</category>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Friluftsmuseet Skansen öppnar sin traditionella julmarknad fredag till söndag från 27 november till 20 december, med hantverk, julmat och fritt inträde för barn upp till 15 år. (Källa: Skansen)</description>
+    </item>
+    <item>
       <title>Georgisk-kosovanska Unrecognised gästspelar på Dramaten</title>
       <link>https://via.tt.se/pressmeddelande/4327303/dramatens-repertoar-hosten-2026?publisherId=1706167&amp;lang=sv</link>
       <guid isPermaLink="false">https://via.tt.se/pressmeddelande/4327303/dramatens-repertoar-hosten-2026?publisherId=1706167&amp;lang=sv</guid>
       <category>Kultur</category>
       <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
       <description>Pjäsen Unrecognised av Davit Gabunia och Jeton Neziraj, i regi av Data Tavadze, spelas på Dramatens Lilla scen den 21–22 november som ett internationellt gästspel i höstens repertoar. (Källa: Dramaten / TT)</description>
+    </item>
+    <item>
+      <title>Elizabeth Holmes-dokumentären &quot;You Can See Everything&quot; avslutar Stockholms filmfestival</title>
+      <link>https://www.moviezine.se/nyheter/you-can-see-everything-ar-dokumentaren-alla-snackar-om-svensk-premiar-i-november</link>
+      <guid isPermaLink="false">https://www.moviezine.se/nyheter/you-can-see-everything-ar-dokumentaren-alla-snackar-om-svensk-premiar-i-november</guid>
+      <category>Film &amp; TV</category>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Nathan Fielders och Lance Oppenheims omtalade dokumentär om Elizabeth Holmes får nordisk premiär som avslutningsfilm på Stockholms filmfestival, med svensk biopremiär samma dag via SF Studios. (Källa: MovieZine)</description>
+    </item>
+    <item>
+      <title>&quot;Arne Goes To Space&quot; har biopremiär</title>
+      <link>https://hurbra.se/hostens-svenska-filmer-2026/</link>
+      <guid isPermaLink="false">https://hurbra.se/hostens-svenska-filmer-2026/</guid>
+      <category>Film &amp; TV</category>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Komedin om Arne som möter en utomjording får svensk biopremiär med Lassgård och Jähkel i rollerna. (Källa: Hurbra)</description>
     </item>
     <item>
       <title>Westlife avslutar jubileumsturné på Avicii Arena</title>
@@ -88,12 +128,52 @@
       <description>Den spanske flamencodansaren Israel Galván gästspelar på Dansens Hus i Stockholm med föreställningen &quot;La Edad de Oro&quot; den 19–20 november. (Källa: Welma)</description>
     </item>
     <item>
+      <title>Ung Svensk Form 2026 fortsätter sin turné till Dunkers kulturhus</title>
+      <link>https://arkdes.se/en/?p=34470</link>
+      <guid isPermaLink="false">https://arkdes.se/en/?p=34470</guid>
+      <category>Konst &amp; design</category>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Vandringsutställningen Ung Svensk Form 2026, som visar vinnarna inom svensk design, konsthantverk och arkitektur, öppnar på Dunkers kulturhus i Helsingborg efter sina första stopp på ArkDes och IKEA Museum. (Källa: ArkDes)</description>
+    </item>
+    <item>
+      <title>Bukowskis håller höstens stora Modern Art &amp; Design-auktion</title>
+      <link>https://www.bukowskis.com/en/auctions</link>
+      <guid isPermaLink="false">https://www.bukowskis.com/en/auctions</guid>
+      <category>Konst &amp; design</category>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Bukowskis liveauktion Modern Art &amp; Design hålls 18–19 november på Arsenalsgatan i Stockholm, med visning 12–17 november. Bland verken finns ett arbete av Paul Klee värderat till 3–3,5 miljoner kronor. (Källa: Bukowskis)</description>
+    </item>
+    <item>
+      <title>Oxford förbereder stor Spinoza-konferens inför 350-årsminnet</title>
+      <link>https://www.mfo.ac.uk/node/4970806</link>
+      <guid isPermaLink="false">https://www.mfo.ac.uk/node/4970806</guid>
+      <category>Filosofi</category>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Inför att det 2027 är 350 år sedan Spinozas död har Oxford öppnat en inbjudan att skicka in bidrag till en stor konferens om hans filosofi, med sista ansökningsdag 17 november. (Källa: Mathematical Institute, Oxford)</description>
+    </item>
+    <item>
+      <title>Jul på Liseberg öppnar i Göteborg</title>
+      <link>https://www.goteborg.com/en/guides/christmas-break-in-gothenburg</link>
+      <guid isPermaLink="false">https://www.goteborg.com/en/guides/christmas-break-in-gothenburg</guid>
+      <category>Kultur</category>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Liseberg slår upp sin julmarknad och julbelysning den 14 november, med julmat, skridskobana och pariserhjul fram till 30 december. (Källa: Göteborg &amp; Co)</description>
+    </item>
+    <item>
       <title>Svenskspråkig julkomedi &quot;The Christmas Switch&quot; får premiär på Netflix</title>
       <link>https://en.wikipedia.org/wiki/List_of_Netflix_original_films_(since_2026)</link>
       <guid isPermaLink="false">https://en.wikipedia.org/wiki/List_of_Netflix_original_films_(since_2026)</guid>
       <category>Film &amp; TV</category>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
       <description>Netflix julromantiska komedi &quot;The Christmas Switch&quot;, en svenskspråkig produktion, får premiär den 12 november som del av tjänstens nordiska julutbud. (Källa: Netflix)</description>
+    </item>
+    <item>
+      <title>North American Nietzsche Society samlas i Boston</title>
+      <link>https://philevents.org/event/show/143390</link>
+      <guid isPermaLink="false">https://philevents.org/event/show/143390</guid>
+      <category>Filosofi</category>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <description>North American Nietzsche Society håller sin årliga konferens vid Boston University den 12–14 november, med föredrag om Nietzsches filosofi från forskare i hela Nordamerika. (Källa: PhilEvents)</description>
     </item>
     <item>
       <title>Stockholms filmfestival 2026 äger rum 11–22 november</title>
@@ -104,12 +184,60 @@
       <description>Stockholms internationella filmfestival går av stapeln 11–22 november och väntas bjuda på ett brett program av svensk och internationell film. (Källa: Stockholms filmfestival)</description>
     </item>
     <item>
+      <title>Olivia Colman och John Turturro hyllas på Stockholms filmfestival</title>
+      <link>https://www.moviezine.se/nyheter/oscarsvinnaren-olivia-colman-besoker-stockholm-i-november</link>
+      <guid isPermaLink="false">https://www.moviezine.se/nyheter/oscarsvinnaren-olivia-colman-besoker-stockholm-i-november</guid>
+      <category>Film &amp; TV</category>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Olivia Colman och John Turturro tar emot Stockholm Achievement Award 2026, och Colman visar den nordiska premiären av &quot;Wicker&quot; med Alexander Skarsgård i rollen som drömmannen. (Källa: MovieZine)</description>
+    </item>
+    <item>
+      <title>Totalschackens pilotturnering startar i Budapest med Carlsen och 23 andra stjärnor</title>
+      <link>https://www.fide.com/total-chess-world-championship-tour-announces-six-more-stars-for-budapest-pilot/</link>
+      <guid isPermaLink="false">https://www.fide.com/total-chess-world-championship-tour-announces-six-more-stars-for-budapest-pilot/</guid>
+      <category>Schack</category>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Den nya Total Chess World Championship Tour testas i ett pilotevenemang i Budapest med 24 toppspelare, bland andra Magnus Carlsen, Fabiano Caruana och Vincent Keymer, i en blandning av snabbklassiskt, snabbschack och blixtschack. (Källa: FIDE)</description>
+    </item>
+    <item>
+      <title>Diwali 2026 firas över hela världen den 8 november</title>
+      <link>https://hindutone.com/festivals/diwali-events-2026-around-the-world-where-to-celebrate/</link>
+      <guid isPermaLink="false">https://hindutone.com/festivals/diwali-events-2026-around-the-world-where-to-celebrate/</guid>
+      <category>Religion</category>
+      <pubDate>Sun, 08 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Den hinduiska ljusfesten Diwali, som sträcker sig över fem dagar från Dhanteras till Bhai Dooj, firas av hundratals miljoner hinduer, sikher och jainer världen över med ljus, böner till Lakshmi och familjesamlingar. (Källa: Hindutone)</description>
+    </item>
+    <item>
       <title>Bybit Stockholm Open spelas 7–14 november – Ruud försvarar titeln</title>
       <link>https://tennis-db.com/tournaments/326/stockholm-open</link>
       <guid isPermaLink="false">https://tennis-db.com/tournaments/326/stockholm-open</guid>
       <category>Sport</category>
       <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
       <description>Världens äldsta inomhusturnering på ATP-touren byter namn till Bybit Stockholm Open 2026 och spelas i Kungliga Tennishallen, med Casper Ruud som regerande mästare efter förra årets final mot Ugo Humbert. (Källa: TennisDB)</description>
+    </item>
+    <item>
+      <title>Höstrusket i Stockholm lockar löpare till Norra Djurgården</title>
+      <link>https://hostrusket.se</link>
+      <guid isPermaLink="false">https://hostrusket.se</guid>
+      <category>Löpning</category>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Lördagen den 7 november arrangeras Höstrusket i Norra Djurgården, med distanserna 10 kilometer, halvmaraton och maraton. Loppet är ett populärt sätt att runda av löparsäsongen innan vintern. (Källa: Höstrusket)</description>
+    </item>
+    <item>
+      <title>Caligula får svensk premiär på Kulturhuset Stadsteatern</title>
+      <link>https://via.tt.se/pressmeddelande/4600154/viktor-tjerneld-satter-upp-caligula-av-albert-camus?publisherId=3237061</link>
+      <guid isPermaLink="false">https://via.tt.se/pressmeddelande/4600154/viktor-tjerneld-satter-upp-caligula-av-albert-camus?publisherId=3237061</guid>
+      <category>Kultur</category>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Viktor Tjerneld regisserar Albert Camus klassiska drama Caligula med Marcus Vögeli i titelrollen, premiär på Klarascenen den 6 november med spelperiod till 18 december. (Källa: TT/Kulturhuset Stadsteatern)</description>
+    </item>
+    <item>
+      <title>&quot;Jävla karlar&quot; får biopremiär</title>
+      <link>https://www.moviezine.se/nyheter/succeboken-javla-karlar-blir-film-med-filip-berg-och-aliette-opheim</link>
+      <guid isPermaLink="false">https://www.moviezine.se/nyheter/succeboken-javla-karlar-blir-film-med-filip-berg-och-aliette-opheim</guid>
+      <category>Film &amp; TV</category>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Jens Sjögrens filmatisering av Andrev Waldens augustprisbelönta och bästsäljande roman har biopremiär, med Aliette Opheim, Filip Berg, Joel Spira och Viktor Norén i rollerna. (Källa: MovieZine)</description>
     </item>
     <item>
       <title>Kristofer Åström spelar på Debaser Strand</title>
@@ -120,12 +248,52 @@
       <description>Singer-songwritern Kristofer Åström ger konsert på Debaser Strand i Stockholm den 5 november. (Källa: Songkick)</description>
     </item>
     <item>
+      <title>Abu Dhabi Aldar Championship inleder DP World Tours slutspel med stjärnspäckat fält</title>
+      <link>https://www.arabnews.pk/sport/fleetwood-and-hatton-among-latest-stars-confirmed-for-abu-dhabi-aldar-championship-3005463</link>
+      <guid isPermaLink="false">https://www.arabnews.pk/sport/fleetwood-and-hatton-among-latest-stars-confirmed-for-abu-dhabi-aldar-championship-3005463</guid>
+      <category>Golf</category>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Säsongens första slutspelstävling på DP World Tour samlar bland andra Rory McIlroy, Patrick Reed, Tommy Fleetwood och racetoppen Eugenio Chacarra, medan Ludvig Åberg står över. (Källa: Arab News)</description>
+    </item>
+    <item>
+      <title>Internationell konferens om medvetandets filosofi hålls digitalt</title>
+      <link>https://philevents.org/event/show/147029</link>
+      <guid isPermaLink="false">https://philevents.org/event/show/147029</guid>
+      <category>Filosofi</category>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <description>The International Society for the Philosophy of the Sciences of the Mind håller sin fjärde årskonferens online 4–6 november, med fokus på medvetandeforskning och vetenskapsfilosofi. (Källa: PhilEvents)</description>
+    </item>
+    <item>
       <title>Stor konferens i Paris sätter hotade språk och AI-teknik i fokus</title>
       <link>https://inalco.fr/en/research/communication-calls/30th-annual-conference-foundation-endangered-languages-fel-xxx-2026</link>
       <guid isPermaLink="false">https://inalco.fr/en/research/communication-calls/30th-annual-conference-foundation-endangered-languages-fel-xxx-2026</guid>
       <category>Språk</category>
       <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
       <description>Foundation for Endangered Languages håller sin 30:e årskonferens i Paris i november, med temat hur AI och annan språkteknik kan dokumentera och bevara hotade språk. Arrangörerna lyfter att dagens AI-system nästan uteslutande bygger på data från ett litet antal stora, redan väldokumenterade språk. (Källa: Foundation for Endangered Languages / INALCO)</description>
+    </item>
+    <item>
+      <title>Grand Designs Sverige är tillbaka med sjätte säsongen</title>
+      <link>https://www.tv4.se/grand-designs-sverige</link>
+      <guid isPermaLink="false">https://www.tv4.se/grand-designs-sverige</guid>
+      <category>Konst &amp; design</category>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <description>TV4:s arkitektur- och byggprogram Grand Designs Sverige har premiär för säsong sex, med Mark Isitt som programledare och åtta nya husprojekt, bland annat ett ombyggt vattentorn och ett husbygge inspirerat av James Bond. (Källa: TV4)</description>
+    </item>
+    <item>
+      <title>ESA:s sond Hera på väg att nå dubbelasteroiden Didymos i november</title>
+      <link>https://www.esa.int/Space_Safety/Hera/ESA_s_Hera_targets_early_arrival_at_Didymos_asteroids</link>
+      <guid isPermaLink="false">https://www.esa.int/Space_Safety/Hera/ESA_s_Hera_targets_early_arrival_at_Didymos_asteroids</guid>
+      <category>Rymden</category>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <description>ESA:s rymdsond Hera närmar sig den dubbla asteroiden Didymos och dess måne Dimorphos, som NASA avsiktligt kraschade in en sond i 2022. Hera ska kartlägga krocksåret i detalj för att hjälpa forskare bedöma hur effektivt en sådan metod är för planetärt försvar. (Källa: ESA)</description>
+    </item>
+    <item>
+      <title>Kipruto och Obiri försvarade sina titlar i New York City Marathon</title>
+      <link>https://marathonhandbook.com/live/2026-new-york-city-marathon/</link>
+      <guid isPermaLink="false">https://marathonhandbook.com/live/2026-new-york-city-marathon/</guid>
+      <category>Löpning</category>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <description>New York City Marathon avgjordes på söndagen, det 50:e jubileumsåret för loppet genom stadens fem stadsdelar. Benson Kipruto och Hellen Obiri gick in som regerande mästare och toppade elitfälten. (Källa: New York Road Runners / Marathon Handbook)</description>
     </item>
     <item>
       <title>Florence + the Machine aviserar nytt album &quot;Everybody Screams&quot;</title>
@@ -144,188 +312,20 @@
       <description>Skotska biskopskonferensens kommitté för interreligiös dialog bjuder in till en kostnadsfri heldagskonferens om Nostra Aetates historia och betydelse, med praktiska råd om hur församlingar kan ta sina första steg i dialog med andra trosriktningar. (Källa: Bishops&#x27; Conference of Scotland / Archdiocese of Edinburgh)</description>
     </item>
     <item>
+      <title>David Papineau ger ut ny bok om kausalitet</title>
+      <link>https://www.cambridge.org/core/books/causation/92C42FD2C6B47ADD5B1546AFB373720B</link>
+      <guid isPermaLink="false">https://www.cambridge.org/core/books/causation/92C42FD2C6B47ADD5B1546AFB373720B</guid>
+      <category>Filosofi</category>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Filosofen David Papineau lanserar &quot;Causation: Science, Statistics and Metaphysics&quot; på Cambridge University Press, där han bygger en teori kring riktade regelbundenheter för att grunda den statistiska kausalforskningen i en bredare metafysik. (Källa: Cambridge University Press)</description>
+    </item>
+    <item>
       <title>Nya HomePod mini och Apple TV 4K lanseras i slutet av oktober</title>
       <link>https://www.macrumors.com/2026/10/13/apple-next-launch-is-today</link>
       <guid isPermaLink="false">https://www.macrumors.com/2026/10/13/apple-next-launch-is-today</guid>
       <category>IT</category>
       <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
       <description>I samband med HomeView-lanseringen bekräftade Apple uppdaterade modeller av HomePod mini och Apple TV 4K, som båda väntas nå butik den 30 oktober. Produkterna knyts till det nya smarta hem-ekosystemet. (Källa: Bloomberg (via MacRumors))</description>
-    </item>
-    <item>
-      <title>Svenska thrillerserien &quot;Bytet&quot; har premiär på Netflix</title>
-      <link>https://www.filmtopp.se/nyhet/netflix-nu-kommer-bytet-med-fares-fares-till-netflix-svensk-psykologisk-thriller</link>
-      <guid isPermaLink="false">https://www.filmtopp.se/nyhet/netflix-nu-kommer-bytet-med-fares-fares-till-netflix-svensk-psykologisk-thriller</guid>
-      <category>Film &amp; TV</category>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Den svenska psykologiska thrillerserien &quot;Bytet&quot;, internationellt känd som &quot;A Couple of Lies&quot;, har premiär på Netflix den 30 oktober med Fares Fares, Jakob Oftebro, Frida Gustavsson och Emma Appleton som två par som byter hus och liv med mörka konsekvenser. Serien bygger på Stefan Ahnhems roman och regisseras av Kasper Barfoed. (Källa: Filmtopp)</description>
-    </item>
-    <item>
-      <title>&quot;Kärlek och andra diagnoser&quot; har biopremiär</title>
-      <link>https://www.hant.se/tv-serier-och-streaming/svenska-filmer-hosten-2026-alla-premiarer-att-halla-koll-pa/11579693</link>
-      <guid isPermaLink="false">https://www.hant.se/tv-serier-och-streaming/svenska-filmer-hosten-2026-alla-premiarer-att-halla-koll-pa/11579693</guid>
-      <category>Film &amp; TV</category>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Den svenska dramakomedin &quot;Kärlek och andra diagnoser&quot; får biopremiär den 30 oktober och är en av höstens sena svenska filmsatsningar i en annars stjärnspäckad premiärmånad. (Källa: Hänt)</description>
-    </item>
-    <item>
-      <title>SVT:s komediserie &quot;Agent-ish&quot; har premiär</title>
-      <link>https://www.tv4.se/artikel/tt-260819-svthost1-14046871/guiden-har-ar-hostens-hojdpunkter-pa-svt</link>
-      <guid isPermaLink="false">https://www.tv4.se/artikel/tt-260819-svthost1-14046871/guiden-har-ar-hostens-hojdpunkter-pa-svt</guid>
-      <category>Film &amp; TV</category>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <description>SVT:s nya komediserie om livet på en sportagentur, där idrottsstjärnor som John Guidetti och Henrik Larsson spelar sig själva, har premiär den 30 oktober. (Källa: TT)</description>
-    </item>
-    <item>
-      <title>Actionspelet Phantom Blade Zero släpps till PS5 och PC den 29 oktober</title>
-      <link>https://www.videogameschronicle.com/guide/new-game-release-dates/</link>
-      <guid isPermaLink="false">https://www.videogameschronicle.com/guide/new-game-release-dates/</guid>
-      <category>IT</category>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Efter flera års utveckling lanserar S-Game sitt actionrollspel Phantom Blade Zero, som blandar snabb strid med en kinesisk fantasyvärld. Spelet har följts av stort intresse sedan tidiga trailers väckte jämförelser med Sekiro. (Källa: Video Games Chronicle)</description>
-    </item>
-    <item>
-      <title>Deep Purple avslutar turnén på Scandinavium</title>
-      <link>https://festivaly.eu/akce/goteborg?top=true</link>
-      <guid isPermaLink="false">https://festivaly.eu/akce/goteborg?top=true</guid>
-      <category>Musik</category>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Den brittiska rockveteranerna gör ett sent höstbesök i Göteborg som en del av sin pågående turné. (Källa: Festivaly)</description>
-    </item>
-    <item>
-      <title>Internationell konferens i Chicago samlar ny forskning om investerarpsykologi</title>
-      <link>https://www.behaviouralfinance.org/wp-content/uploads/2026/07/IBFC26-Chicago-CfP.pdf</link>
-      <guid isPermaLink="false">https://www.behaviouralfinance.org/wp-content/uploads/2026/07/IBFC26-Chicago-CfP.pdf</guid>
-      <category>Ekonomi &amp; börs</category>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Den 22:a upplagan av International Behavioural Finance Conference hålls på Chicago Booth i slutet av oktober och samlar färsk forskning om hur psykologiska faktorer som överdrivet självförtroende och flockbeteende påverkar investeringsbeslut och marknadspriser. (Källa: International Behavioural Finance Conference)</description>
-    </item>
-    <item>
-      <title>Hammarby och Sirius möts i avgörande guldduell</title>
-      <link>https://espndeportes.espn.com/futbol/partido/_/juegoId/401842861/ik-sirius-hammarby-if</link>
-      <guid isPermaLink="false">https://espndeportes.espn.com/futbol/partido/_/juegoId/401842861/ik-sirius-hammarby-if</guid>
-      <category>Sport</category>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Serieledarna IK Sirius och utmanaren Hammarby ställs mot varandra i en match som kan bli avgörande i kampen om Allsvenskans guld under höstens slutspurt. (Källa: ESPN)</description>
-    </item>
-    <item>
-      <title>Infinix lanserar gamingmobilen GT 50 Pro i Indien</title>
-      <link>https://gadgets.beebom.com/news/all-upcoming-phones-launching-this-week-october-26-november-1</link>
-      <guid isPermaLink="false">https://gadgets.beebom.com/news/all-upcoming-phones-launching-this-week-october-26-november-1</guid>
-      <category>IT</category>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Infinix lanserar sin nya gamingfokuserade mobil GT 50 Pro på den indiska marknaden, en av flera telefonlanseringar som väntas i Asien under slutet av oktober. (Källa: Beebom)</description>
-    </item>
-    <item>
-      <title>WTT Champions Montpellier inleds 27 oktober – Möregårdh försvarar titeln</title>
-      <link>https://www.svt.se/sport/bordtennis/bordtennisens-varldstour-wtt-2026-tv-tider-och-spelprogram</link>
-      <guid isPermaLink="false">https://www.svt.se/sport/bordtennis/bordtennisens-varldstour-wtt-2026-tv-tider-och-spelprogram</guid>
-      <category>Sport</category>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Truls Möregårdh, som vann turneringen 2025, är tillbaka för att försvara sin titel när WTT Champions Montpellier spelas 27 oktober till 1 november och sänds i SVT. (Källa: SVT Sport)</description>
-    </item>
-    <item>
-      <title>Deep Purple spelar på Avicii Arena i Stockholm</title>
-      <link>https://www.visitstockholm.com/events/deep-purple-live-in-stockholm-avicii-arena/next/</link>
-      <guid isPermaLink="false">https://www.visitstockholm.com/events/deep-purple-live-in-stockholm-avicii-arena/next/</guid>
-      <category>Musik</category>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Det brittiska rockbandet gästar Stockholm med den unga brittiska rockgruppen JAYLER som förband, i en av höstens stora arenakonserter. (Källa: Visit Stockholm)</description>
-    </item>
-    <item>
-      <title>Konferens om AI och mänsklig blomstring vid St Mary&#x27;s University i London</title>
-      <link>https://catholicsocialthought.org.uk/</link>
-      <guid isPermaLink="false">https://catholicsocialthought.org.uk/</guid>
-      <category>Katolsk social lära</category>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Den 26 oktober hålls en konferens på St Mary&#x27;s University om AI:s snabba utveckling, med utgångspunkt i Leo XIV:s encyklika Magnifica Humanitas om teknikens plats i den mänskliga värdigheten. (Källa: Catholic Social Thought)</description>
-    </item>
-    <item>
-      <title>Wizz Air öppnar ny linje mellan Berlin och Vilnius</title>
-      <link>https://meilenoptimieren.com/wizz-air-strecken/</link>
-      <guid isPermaLink="false">https://meilenoptimieren.com/wizz-air-strecken/</guid>
-      <category>Resor</category>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Från den 26 oktober flyger Wizz Air tre gånger i veckan mellan Berlin Brandenburg och den litauiska huvudstaden Vilnius, en del av bolagets fortsatta nätverksutbyggnad i Central- och Östeuropa. Nylanseringen kommer samma höst som Wizz Air enligt branschanalytiker vuxit snabbare i antal flygningar än konkurrenten Ryanair. (Källa: Meilenoptimieren)</description>
-    </item>
-    <item>
-      <title>Förkolnat kaffesump kan göra betong upp till 30 procent starkare</title>
-      <link>https://sciencealert.com/scientists-discovered-an-amazing-practical-use-for-the-worlds-leftover-coffee-grounds</link>
-      <guid isPermaLink="false">https://sciencealert.com/scientists-discovered-an-amazing-practical-use-for-the-worlds-leftover-coffee-grounds</guid>
-      <category>Kaffe</category>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Australiska forskare har visat att förkolnat använt kaffesump, biokol, kan blandas in i betong och göra den upp till 30 procent starkare. Metoden skulle kunna ge kaffeindustrins stora mängder restprodukt en ny användning inom byggbranschen. (Källa: ScienceAlert)</description>
-    </item>
-    <item>
-      <title>CANCER DANCE får urpremiär i Sandviken</title>
-      <link>https://www.riksteatern.se/pa-scen/riksteaterns-nationella-turneer-hosten-2026/</link>
-      <guid isPermaLink="false">https://www.riksteatern.se/pa-scen/riksteaterns-nationella-turneer-hosten-2026/</guid>
-      <category>Kultur</category>
-      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Dansföreställningen CANCER DANCE har urpremiär i Sandviken den 25 oktober inom Riksteaterns nationella turnéprogram för hösten. (Källa: Riksteatern)</description>
-    </item>
-    <item>
-      <title>Petros storfavorit när Frankfurt Marathon avgörs</title>
-      <link>https://www.hessenschau.de/sport/mehr-sport/frankfurt-marathon/favoriten-beim-frankfurt-marathon-2026-amanal-petros-will-den-rekord-v1,frankfurt-marathon-favoriten-104.html</link>
-      <guid isPermaLink="false">https://www.hessenschau.de/sport/mehr-sport/frankfurt-marathon/favoriten-beim-frankfurt-marathon-2026-amanal-petros-will-den-rekord-v1,frankfurt-marathon-favoriten-104.html</guid>
-      <category>Löpning</category>
-      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Regerande Europamästaren Amanal Petros pekas ut som den store favoriten i Frankfurt Marathon, med Betsy Saina och Buzunesh Getachew som toppnamn på damsidan. (Källa: Hessenschau)</description>
-    </item>
-    <item>
-      <title>Benedikt av Nursia och klosterregelns betydelse för västerländskt klosterliv</title>
-      <link>https://sv.wikipedia.org/wiki/Benedikt_av_Nursia</link>
-      <guid isPermaLink="false">https://sv.wikipedia.org/wiki/Benedikt_av_Nursia</guid>
-      <category>Kyrkohistoria</category>
-      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Benedikt av Nursia grundade på 500-talet klostret på Monte Cassino och skrev där sin klosterregel, som med tiden blev grundval för hela det västerländska klosterväsendet och än idag formar benediktinordens liv av bön och arbete. (Källa: Kyrkohistoriskt översiktsmaterial)</description>
-    </item>
-    <item>
-      <title>Jesuitordens grundande 1540 och dess roll i motreformationen</title>
-      <link>https://sv.wikipedia.org/wiki/Jesuitorden</link>
-      <guid isPermaLink="false">https://sv.wikipedia.org/wiki/Jesuitorden</guid>
-      <category>Kyrkohistoria</category>
-      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-      <description>År 1540 godkände påve Paul III formellt Jesu sällskap, grundat av den förre soldaten Ignatius av Loyola, och orden kom snabbt att bli en av motreformationens viktigaste krafter genom sin satsning på utbildning och missionsarbete. (Källa: Kyrkohistoriskt översiktsmaterial)</description>
-    </item>
-    <item>
-      <title>Första korståget och kyrkans vändning mot väpnad pilgrimsfärd</title>
-      <link>https://sv.wikipedia.org/wiki/F%C3%B6rsta_korst%C3%A5get</link>
-      <guid isPermaLink="false">https://sv.wikipedia.org/wiki/F%C3%B6rsta_korst%C3%A5get</guid>
-      <category>Kyrkohistoria</category>
-      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Påve Urban II:s uppmaning vid kyrkomötet i Clermont 1095 utlöste det första korståget 1096–1099, då västkyrkan för första gången i stor skala kopplade samman pilgrimsfärd och väpnad kamp för att återta Jerusalem, med varaktiga följder för förhållandet mellan kristendom och islam. (Källa: Kyrkohistoriskt översiktsmaterial)</description>
-    </item>
-    <item>
-      <title>Stora skismen 1054 skilde den katolska och den ortodoxa kyrkan</title>
-      <link>https://sv.wikipedia.org/wiki/Stora_schismen</link>
-      <guid isPermaLink="false">https://sv.wikipedia.org/wiki/Stora_schismen</guid>
-      <category>Kyrkohistoria</category>
-      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Efter sekler av växande motsättningar kring bland annat filioque-frågan och påvens auktoritet exkommunicerade patriark Michael Kerularios och påvens legat varandra 1054, en brytning som befästes under Konstantinopels fall 1453 och som formellt hävdes först 1965. (Källa: Kyrkohistoriskt översiktsmaterial)</description>
-    </item>
-    <item>
-      <title>Konstantinopels fall 1453 och dess innebörd för kristenheten</title>
-      <link>https://sv.wikipedia.org/wiki/Konstantinopels_fall</link>
-      <guid isPermaLink="false">https://sv.wikipedia.org/wiki/Konstantinopels_fall</guid>
-      <category>Kyrkohistoria</category>
-      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-      <description>När sultan Mehmet II:s trupper intog Konstantinopel den 29 maj 1453 föll det östromerska riket och Hagia Sofia gjordes om till moské, en händelse som gav den ortodoxa kyrkan en ny ställning utan egen stormakt bakom sig och sände chockvågor genom den västliga kristenheten. (Källa: Kyrkohistoriskt översiktsmaterial)</description>
-    </item>
-    <item>
-      <title>De fyra faserna i ledarskapstillväxt (The 4 Phases of Leadership Growth)</title>
-      <link>https://www.maxwellleadership.com/blog/4-phases-of-leadership-development/</link>
-      <guid isPermaLink="false">https://www.maxwellleadership.com/blog/4-phases-of-leadership-development/</guid>
-      <category>Ledarskap</category>
-      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Maxwell beskriver fyra faser varje ledare går igenom: &quot;Jag vet inte vad jag inte vet&quot;, &quot;Jag vet vad jag inte vet&quot;, &quot;Jag växer och det börjar synas&quot; och &quot;Jag agerar helt enkelt utifrån vad jag vet&quot;. Modellen visar att ledarskapsförmåga utvecklas stegvis genom medveten ansträngning, inte av sig själv. (Källa: John C. Maxwell – The 21 Irrefutable Laws of Leadership)</description>
-    </item>
-    <item>
-      <title>Avtagande avsiktens lag (The Law of Diminishing Intent)</title>
-      <link>https://www.goodreads.com/work/quotes/66058413</link>
-      <guid isPermaLink="false">https://www.goodreads.com/work/quotes/66058413</guid>
-      <category>Ledarskap</category>
-      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Maxwell är känd för att popularisera denna princip: ju längre du väntar med att agera på något du vet att du borde göra, desto mindre sannolikt är det att du någonsin gör det. Insikt utan handling förlorar kraft för varje dag som går. (Källa: John C. Maxwell – Developing the Leader Within You 2.0)</description>
     </item>
   </channel>
 </rss>

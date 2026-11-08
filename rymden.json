@@ -3,7 +3,7 @@
   "description": "Raketuppskjutningar, rymdsonder, astronomiska upptäckter och rymdindustri. Uppdateras varje vecka.",
   "schema_version": 1,
   "last_updated": "2026-11-08",
-  "item_count": 117,
+  "item_count": 122,
   "items": [
     {
       "id": "ariane-6-amazon-leo-tyngsta-lasten-2026",
@@ -1406,6 +1406,66 @@
       "summary": "Efter små justeringar av optiken i oktober visar NASA:s Nancy Grace Roman-teleskop en bildkvalitet som ligger nära 30 procent över de ursprungliga förväntningarna. Spegeln sattes redan vid uppskjutningen nästan i optimalt läge, vilket gjorde att ingenjörerna bara behövde finjustera både koronografen och det vidvinkliga instrumentet.",
       "source": "ScienceDaily",
       "url": "https://sciencedaily.com/releases/2026/10/261016070630.htm",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "hubble-syredgsflykt-dvarggalaxer-2026",
+      "title": "Hubble avslöjar att dvärggalaxer tappar bort det mesta av sitt syre",
+      "category": "Upptäckt",
+      "date": "2026-11-02",
+      "location": "",
+      "summary": "En kartläggning av 37 närliggande dvärggalaxer med Hubble visar att de behåller bara en tiondel av det syre deras stjärnor skapar. Forskarna tror att supernovadrivna galaktiska vindar blåser bort gasen effektivare än nuvarande modeller förutspår.",
+      "source": "NASA",
+      "url": "https://www.sci.news/astronomy/nearby-dwarf-galaxies-oxygen-hubble-15168.html",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "perseverance-korrekord-mars-2026",
+      "title": "Perseverance sätter nytt körrekord på Mars tack vare självkörning",
+      "category": "Sond",
+      "date": "2026-10-12",
+      "location": "",
+      "summary": "NASA:s rover Perseverance har nu rullat 45,22 kilometer på Mars, vilket passerar Opportunitys tidigare rekord. Perseverance använder sitt självkörande system AutoNav under över 90 procent av körsträckan, mot bara ungefär fem procent för äldre rovrar.",
+      "source": "NASA JPL",
+      "url": "https://www.space.com/perseverance-distance-record-mars",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "exomane-kandidat-brun-dvarg-cd35-2722-2026",
+      "title": "Astronomer rapporterar möjlig första exomåne utanför solsystemet",
+      "category": "Upptäckt",
+      "date": "2026-10-24",
+      "location": "",
+      "summary": "Forskare har med hjälp av radialhastighetsmätningar hittat tecken på en exosatellit som kretsar kring den bruna dvärgen CD-35 2722 B, med en omloppstid på 170 dagar. Fyndet är ännu inte bekräftat och forskarna betonar att fler observationer krävs.",
+      "source": "ScienceDaily / ESO",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261023023736.htm",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "starship-flight-15-forsta-fangst-2026",
+      "title": "SpaceX siktar på 13 november för Starships första uppfångning i tornet",
+      "category": "Uppskjutning",
+      "date": "2026-11-13",
+      "location": "",
+      "summary": "SpaceX planerar att genomföra Starship-flight 15 den 13 november, med ett försök att för första gången fånga både övre steget och Super Heavy-boostern med lanseringstornets armar. Datumet är fortfarande preliminärt i väntan på myndighetsgodkännande.",
+      "source": "Ars Technica",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-fires-up-starship-upper-stage-ahead-of-landmark-flight-15-test-launch-video",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "bepicolombo-mercurius-omloppsbana-2026",
+      "title": "ESA:s Mercuriussond BepiColombo går in i omloppsbana i slutet av november",
+      "category": "Sond",
+      "date": "2026-11-21",
+      "location": "",
+      "summary": "Efter nästan ett decenniums resa och flera tyngdkraftsassisterade passager ska BepiColombos två vetenskapssonder gå in i omloppsbana runt Mercurius den 21 november. Sonderna separerar från varandra i december, men själva vetenskapsuppdraget inleds inte förrän i april 2027.",
+      "source": "ESA",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/BepiColombo_to_swing_by_Mercury_for_the_sixth_time",
       "added_on": "2026-11-08",
       "collected_week": "2026-W45"
     }

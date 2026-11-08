@@ -2,8 +2,8 @@
   "topic": "IT – Nya produkter",
   "description": "Nya IT- och teknikprodukter: hårdvara, mjukvara, AI och gaming. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-11-01",
-  "item_count": 181,
+  "last_updated": "2026-11-08",
+  "item_count": 187,
   "items": [
     {
       "id": "nvidia-rtx-spark-2026",
@@ -2176,6 +2176,78 @@
       "url": "https://www.windowscentral.com/microsoft/windows-11/windows-11s-october-patch-tuesday-update-on-the-13th-here-are-the-biggest-changes-coming-to-your-pc",
       "added_on": "2026-11-01",
       "collected_week": "2026-W44"
+    },
+    {
+      "id": "xbox-series-x25-25th-anniversary-2026",
+      "title": "Xbox Series X25 lanseras den 13 november som 25-årsjubileumskonsol",
+      "category": "Lansering",
+      "date": "2026-11-13",
+      "location": "",
+      "summary": "Microsoft släpper jubileumskonsolen Xbox Series X25 i en genomskinlig grön design för 899,99 dollar, med specialkontroller och en kopia av Halo: Campaign Evolved. Förköp är redan öppna inför lanseringen.",
+      "source": "DigitalCitizen",
+      "url": "https://www.digitalcitizen.life/xbox-series-x25-launches-november-13-for-899-99-with-special-edition-controller/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "google-pixel-tag-sparningsbricka-2026",
+      "title": "Google lanserar sin första spårningsbricka Pixel Tag",
+      "category": "Produkt",
+      "date": "2026-11-11",
+      "location": "",
+      "summary": "Pixel Tag är Googles svar på Apples AirTag och använder Find Hub-nätverket tillsammans med Ultra Wideband för precis sökning. Brickan väger cirka 12 gram, är IP67-klassad och kostar runt 275 kronor per styck.",
+      "source": "M3",
+      "url": "https://www.m3.se/article/3211636/google-slapper-egen-sparningsbricka-pixel-tag.html",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "motorola-signature-27-sverigepris-2026",
+      "title": "Motorola Signature 27 får svenskt pris inför decemberlansering",
+      "category": "Produkt",
+      "date": "2026-11-05",
+      "location": "Sverige",
+      "summary": "Flaggskeppet Signature 27 med Snapdragon 8 Elite Extreme Gen 6 får ett rekommenderat pris på 21 490 kronor i Sverige för modellen med 12 GB RAM och 512 GB lagring. Försäljningen inleds i början av december.",
+      "source": "Tech-Insider",
+      "url": "https://tech-insider.org/sv/motorola-signature-27-sverige-pris-lansering-2026/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "asus-rog-nuc-16-mini-pc-2026",
+      "title": "Asus packar RTX 5080 och Core Ultra 9 i miniatyr-PC:n ROG NUC 16",
+      "category": "Hårdvara",
+      "date": "2026-11-04",
+      "location": "",
+      "summary": "ROG NUC 16 är en spel-PC på bara tre liter som ändå rymmer toppspäckade komponenter som Intels Core Ultra 9 och Nvidias RTX 5080. Den riktar sig till spelare som vill ha hög prestanda i ett litet format, men priset ligger på flera tusen dollar beroende på konfiguration.",
+      "source": "DigitalCitizen",
+      "url": "https://www.digitalcitizen.life/asus-rog-nuc-16-packs-rtx-5070-ti-and-core-ultra-9-into-a-3-liter-gaming-pc/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "valve-steam-frame-pris-2026",
+      "title": "Valve avslöjar pris för VR-headsetet Steam Frame",
+      "category": "Produkt",
+      "date": "2026-09-14",
+      "location": "",
+      "summary": "Efter lång väntan har Valve satt priset för sitt fristående VR-headset Steam Frame till 1 059 dollar, inklusive moms där det gäller. Headsetet kompletterar Steam Machine och den nya Steam-kontrollen som del av Valves hårdvarusatsning.",
+      "source": "Dexerto",
+      "url": "https://www.dexerto.com/gaming/valve-reveals-steam-frame-price-and-release-date-starting-at-1059-3408909/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "windows-11-november-2026-uppdatering",
+      "title": "Windows 11:s novemberuppdatering ger nya Utforskaren-genvägar och snabbare Edge",
+      "category": "Mjukvara",
+      "date": "2026-11-10",
+      "location": "",
+      "summary": "Microsofts novemberuppdatering för Windows 11 lägger till möjligheten att anpassa högerklicksmenyn i Utforskaren, en ny funktion kallad Adaptive Hibernate samt snabbare uppstart av Edge. Uppdateringen rullas ut stegvis till 26H2- och 25H2-enheter.",
+      "source": "PCWorld",
+      "url": "https://pcworld.com/article/3276840/microsoft-is-fine-tuning-windows-11-heres-whats-coming-in-november.html",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
     }
   ]
 }

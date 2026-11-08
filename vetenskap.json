@@ -2,8 +2,8 @@
   "topic": "Vetenskap",
   "description": "Ny forskning inom fysik, medicin, biologi, klimat och nya upptäckter. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-11-01",
-  "item_count": 128,
+  "last_updated": "2026-11-08",
+  "item_count": 136,
   "items": [
     {
       "id": "kvantljud-kommunikation-2026",
@@ -1540,6 +1540,102 @@
       "url": "https://www.dailysabah.com/life/hittite-royal-archive-with-184-tablets-unearthed-in-central-turkiye/news/amp",
       "added_on": "2026-11-01",
       "collected_week": "2026-W44"
+    },
+    {
+      "id": "hoppspindlar-rem-somn-2026",
+      "title": "Forskare finner tecken på REM-liknande sömn hos hoppspindlar",
+      "category": "Upptäckt",
+      "date": "2026-10-26",
+      "location": "",
+      "summary": "En studie i PNAS visar att hoppspindeln Portia fimbriata reagerar långsammare på ljud under sömn och sover extra efter sömnbrist, med ett stadium där ögonen rör sig och benen rycker. Forskarna betonar att det ännu är okänt om detta innebär att spindlarna faktiskt drömmer.",
+      "source": "PNAS / IFLScience",
+      "url": "https://www.iflscience.com/scientists-confirm-spiders-do-sleep-for-the-first-time-and-it-includes-an-adorable-rem-like-stage-where-they-twitch-and-curl-their-legs-85023",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "dinosaurie-blod-heme-brasilien-2026",
+      "title": "Forskare hittar järnhaltigt blodpigment i 115 miljoner år gammal dinosaurieben",
+      "category": "Upptäckt",
+      "date": "2026-11-02",
+      "location": "Brasilien",
+      "summary": "I ett fossil från köttätaren Aratasaurus museunacionali har forskare upptäckt cellika strukturer och spår av hemgrupper, möjligen de äldsta bevarade blodresterna hos en dinosaurie. Forskarna varnar för att det inte rör sig om flytande blod eller bevarat DNA, utan enbart kemiska spår.",
+      "source": "PNAS / New Atlas",
+      "url": "https://newatlas.com/biology/fossilized-blood-cells-dinosaur-bone/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "havsmuppet-fiskar-sydaustralien-2026",
+      "title": "Tre sällsynta djuphavsfiskar visar sig vara en helt egen evolutionär gren",
+      "category": "Upptäckt",
+      "date": "2026-10-29",
+      "location": "Australien",
+      "summary": "De sjöhästliknande fiskarna, döpta till ett nytt släkte Australiichthys, hittades utanför Sydaustralien och är endast kända från sju exemplar insamlade under 65 år. Gen- och CT-analyser visar att deras sjöhästlika drag har utvecklats helt oberoende av de riktiga sjöhästarna.",
+      "source": "ScienceDaily",
+      "url": "https://sciencedaily.com/releases/2026/10/261029072119.htm",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "dna-brytare-brostcancer-2026",
+      "title": "Ny DNA-brytare identifierad som broms mot aggressiv brösttumörtillväxt",
+      "category": "Medicin",
+      "date": "2026-11-05",
+      "location": "",
+      "summary": "Forskare vid University of Adelaide har upptäckt en DNA-sekvens, kallad HRRINT3, som hjälper androgenreceptorn att hämma tillväxten av bröstcancerceller. När sekvensen tas bort tappar receptorn sin förmåga att bromsa cancercellernas tillväxt, vilket öppnar för nya behandlingsstrategier.",
+      "source": "EurekAlert",
+      "url": "https://www.eurekalert.org/news-releases/1150715",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "alkohol-cancer-risk-studie-2026",
+      "title": "Stor studie: även måttligt drickande höjer livstidsrisken för cancer och hjärtsjukdom",
+      "category": "Medicin",
+      "date": "2026-11-01",
+      "location": "",
+      "summary": "En studie från Columbia University, publicerad i Journal of Studies on Alcohol and Drugs, visar att redan små mängder alkohol ökar risken för cancer, hjärtsjukdom och förtida död. Vid 14 drinkar i veckan ökade dödligheten till 1 av 25, enligt forskarna bakom studien.",
+      "source": "ScienceDaily",
+      "url": "https://sciencedaily.com/releases/2026/10/261031221159.htm",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "medicinsk-cannabis-somn-cochrane-2026",
+      "title": "Cochrane-granskning hittar svagt stöd för cannabis mot sömnlöshet",
+      "category": "Medicin",
+      "date": "2026-11-01",
+      "location": "",
+      "summary": "En systematisk genomgång av nio studier med 537 vuxna visar att medicinsk cannabis gav liten eller ingen mätbar förbättring av sömnkvalitet jämfört med placebo. Forskarna understryker att resultatet beror på få och korta studier, och att det inte bevisar att cannabis saknar effekt.",
+      "source": "Cochrane / ScienceDaily",
+      "url": "https://sciencedaily.com/releases/2026/10/261031221157.htm",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "klimat-aterkopplingar-uppvarmning-2026",
+      "title": "Okända återkopplingsmekanismer kan öka global uppvärmning med upp till 30 procent",
+      "category": "Klimat",
+      "date": "2026-11-03",
+      "location": "",
+      "summary": "Enligt en analys från Woodwell Climate Research Center riskerar klimatmodeller att underskatta uppvärmningen eftersom flera återkopplingsmekanismer i klimatsystemet ännu inte räknas in fullt ut. Forskarna menar att snabbare utsläppsminskningar ändå kan dämpa risken betydligt.",
+      "source": "Woodwell Climate Research Center",
+      "url": "https://www.woodwellclimate.org/?p=55369",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "arktis-vintersis-underskattad-2026",
+      "title": "Forntida algfossil tyder på att Arktis vinteris kan smälta snabbare än modellerna visar",
+      "category": "Klimat",
+      "date": "2026-10-22",
+      "location": "",
+      "summary": "Forskare vid Cambridge jämförde 27 klimatmodeller med 6 000 år gamla sedimentprover från havsbotten och fann att modellerna överskattar hur mycket vinteris som borde finnas i Arktis. Resultatet, publicerat i Nature Geoscience, pekar på att vinterisen kan bli omkring en miljon kvadratkilometer mindre än väntat.",
+      "source": "Nature Geoscience / University of Cambridge",
+      "url": "https://sciencedaily.com/releases/2026/10/261022081259.htm",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
     }
   ]
 }

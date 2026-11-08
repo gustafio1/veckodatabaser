@@ -2,8 +2,8 @@
   "topic": "Programmering",
   "description": "Nyheter för utvecklare: språk, ramverk, verktyg, AI-kodning och öppen källkod. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-11-01",
-  "item_count": 112,
+  "last_updated": "2026-11-08",
+  "item_count": 117,
   "items": [
     {
       "id": "typescript-7-nativ-kompilator-2026",
@@ -1348,6 +1348,66 @@
       "url": "https://www.havoptic.com/releases/opencode/2026/10",
       "added_on": "2026-11-01",
       "collected_week": "2026-W44"
+    },
+    {
+      "id": "python-3-15-2-sakerhetsrelease-2026",
+      "title": "Python 3.15.2 täpper till säkerhetshål i SSL-modulen",
+      "category": "Säkerhet",
+      "date": "2026-10-25",
+      "location": "",
+      "summary": "Python Software Foundation gav ut 3.15.2 tillsammans med 3.14.10, 3.13.18, 3.12.16 och 3.11.18 som brådskande säkerhetsuppdateringar. Den viktigaste ändringen är att ssl-modulen nu inte längre litar på nycklar från den komprometterade mellanliggande certifikatutfärdaren eMudhra.",
+      "source": "Python.org",
+      "url": "https://www.python.org/downloads/release/python-3152/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "deno-cloudflare-2026",
+      "title": "Deno-teamet går till Cloudflare och lägger ner egen körtidsutveckling",
+      "category": "Nyhet",
+      "date": "2026-10-09",
+      "location": "",
+      "summary": "Ryan Dahls team bakom Javascript-körtiden Deno går till Cloudflare för att slå samman sitt öppna celld-projekt med Cloudflares workerd, i syfte att göra det enklare att själv driva Workers och Durable Objects. Deno-körtiden får säkerhetsuppdateringar i ett år innan den officiella utvecklingen upphör, medan paketregistret JSR fortsätter men flyttar sin infrastruktur till Cloudflare.",
+      "source": "AlternativeTo",
+      "url": "https://alternativeto.net/news/2026/10/deno-team-joins-cloudflare-as-runtime-development-winds-down/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "supabase-compute-alpha-2026",
+      "title": "Supabase öppnar privat alfa för Supabase Compute",
+      "category": "Produkt",
+      "date": "2026-10-27",
+      "location": "",
+      "summary": "Supabase Compute låter utvecklare köra egna agenter, bakgrundsjobb och API:er direkt i samma projekt som databasen, med stöd för Node, Deno eller en egen Dockerfile. Funktionen är i privat alfa i regionen us-west-2 via väntelista och är enligt Supabase ännu inte tänkt för produktion.",
+      "source": "Supabase",
+      "url": "https://supabase.com/blog/supabase-compute-private-alpha",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "vscode-1-145-agents-worktree-2026",
+      "title": "VS Code Insiders får bättre städning av agent-worktrees",
+      "category": "Verktyg",
+      "date": "2026-10-27",
+      "location": "",
+      "summary": "I version 1.145 av VS Code Insiders har Agents-fönstret fått stöd för att följa förloppet vid massrensning av Git-worktrees, behålla slutförda resultat synliga och göra om misslyckade rensningar. Uppdateringen riktar sig till utvecklare som kör flera AI-agenter parallellt i separata worktrees.",
+      "source": "Visual Studio Code",
+      "url": "https://code.visualstudio.com/updates/v1_145",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "bun-1-4-rust-rewrite-2026",
+      "title": "Bun 1.4 är en milstolpe – helt omskrivet i Rust utan externa beroenden",
+      "category": "Öppen källkod",
+      "date": "2026-08-01",
+      "location": "",
+      "summary": "Javascript-körtiden Bun nådde med version 1.4 en milstolpe genom att bli helt omskriven i Rust och göra sig fri från externa beroenden. Projektet beskriver steget som ett sätt att höja prestandan och förenkla underhållet jämfört med den tidigare Zig/C-baserade koden.",
+      "source": "AlternativeTo",
+      "url": "https://alternativeto.net/news/2026/8/bun-1-4-lands-rust-rewrite-and-zero-external-dependencies-mark-major-milestone-for-devs/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
     }
   ]
 }

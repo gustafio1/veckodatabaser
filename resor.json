@@ -2,8 +2,8 @@
   "topic": "Resor",
   "description": "Forskning om resmål, hållbart resande, flyg och tågresor. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-11-01",
-  "item_count": 99,
+  "last_updated": "2026-11-08",
+  "item_count": 107,
   "items": [
     {
       "id": "hamndresor-till-udda-resmal-2026",
@@ -1192,6 +1192,102 @@
       "url": "https://www.gu.se/nyheter/ny-cft-rapport-om-cirkulara-upplevelser-av-lena-mossberg",
       "added_on": "2026-11-01",
       "collected_week": "2026-W44"
+    },
+    {
+      "id": "swedavia-oktoberrekord-2026",
+      "title": "Rekordmånad för utrikesflyget på Arlanda och Landvetter",
+      "category": "Statistik",
+      "date": "2026-11-03",
+      "location": "Sverige",
+      "summary": "Swedavias tio flygplatser hanterade drygt 3,1 miljoner passagerare i oktober 2026, en ökning med två procent jämfört med året innan, och både Arlanda och Landvetter satte nya rekord för internationellt resande.",
+      "source": "Swedavia",
+      "url": "https://www.swedavia.com/about-swedavia/swedaviasnewsroom/2026/international-travel-continues-to-strengthen-as-arlanda-and-landvetter-set-october-records/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "flygutslapp-halveras-effektivitet-2026",
+      "title": "Flygets utsläpp kan halveras med redan existerande åtgärder",
+      "category": "Forskning",
+      "date": "2026-01-07",
+      "location": "",
+      "summary": "En studie ledd av Stefan Gössling vid Linnéuniversitetet tillsammans med Oxford visar att globala flygutsläpp kan minskas med 50-75 procent genom effektivare flygplan, färre premiumsäten och högre fyllnadsgrad, utan att antalet flygningar behöver minska.",
+      "source": "Linnéuniversitetet",
+      "url": "https://lnu.se/en/meet-linnaeus-university/current/news/2026/aviation-emissions-can-be-halved--with-measures-that-already-exist/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "kondensstrimmor-klimatpaverkan-chalmers-2026",
+      "title": "Kondensstrimmor kan ge större klimatpåverkan än flygets koldioxid",
+      "category": "Forskning",
+      "date": "2026-10-12",
+      "location": "Göteborg",
+      "summary": "Forskare vid Chalmers har kartlagt hur kondensstrimmor från flygplan bidrar till uppvärmningen och visar att en liten andel flygningar står för en stor del av effekten, vilket öppnar för riktade åtgärder som att styra om flyghöjden på vissa rutter.",
+      "source": "Chalmers tekniska högskola",
+      "url": "https://research.chalmers.se/en/publication/551276",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "utslappsinformation-paverkar-bokning-2026",
+      "title": "Utsläppsinformation på bokningssajter påverkar resenärers val",
+      "category": "Forskning",
+      "date": "2026-06-10",
+      "location": "USA",
+      "summary": "En amerikansk studie från Resources for the Future visar att resenärer blev omkring 22 procent mer känsliga för flygets klimatpåverkan sedan bokningssajter började visa utsläppsdata för varje flygning.",
+      "source": "Resources for the Future",
+      "url": "https://www.rff.org/news/press-releases/new-research-finds-that-information-on-flight-emissions-changes-booking-behavior/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "svenskar-valjer-bort-overturism-2026",
+      "title": "Varannan svensk väljer bort resmål på grund av överturism",
+      "category": "Överturism",
+      "date": "2026-10-20",
+      "location": "Sverige",
+      "summary": "En ny undersökning visar att nästan hälften av svenskarna har valt bort ett resmål därför att det kändes för trångt av turister, och många säger sig villiga att betala mer för att färre besökare ska komma.",
+      "source": "Dagens PS",
+      "url": "https://www.dagensps.se/varlden/svenskarna-trottnar-pa-overturism-varannan-valjer-bort-resmal/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "resmal-infor-atgarder-overturism-2026",
+      "title": "Populära resmål inför murar, AI-styrning och tredubblade avgifter mot överturism",
+      "category": "Överturism",
+      "date": "2026-10-28",
+      "location": "Europa",
+      "summary": "Allt fler populära europeiska resmål testar nya metoder för att hantera överturism, från fysiska avspärrningar och AI-styrd besöksstyrning till kraftigt höjda turistavgifter för att dämpa trycket under högsäsong.",
+      "source": "Dagens PS",
+      "url": "https://www.dagensps.se/weekend/resor/nu-slar-turistmalen-tillbaka-murar-ai-och-tredubbla-avgifter/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "nya-tagsatsningar-europa-2026",
+      "title": "Nya tågsatsningar gör det enklare att resa runt i Europa",
+      "category": "Tåg",
+      "date": "2026-05-15",
+      "location": "Europa",
+      "summary": "Nya nattågslinjer, enklare platsbokning via stora operatörers appar och bättre ombokningsskydd mellan bolag gör det allt smidigare att ta sig runt i Europa med tåg, enligt en genomgång av årets tågnyheter.",
+      "source": "Dagens PS",
+      "url": "https://www.dagensps.se/privatekonomi/nya-tagsatsningar-nu-blir-det-lattare-att-ta-sig-ut-i-europa",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "sas-rekordefterfragan-skandinavien-2026",
+      "title": "SAS ser rekordhög efterfrågan på resor till Skandinavien",
+      "category": "Trend",
+      "date": "2026-02-10",
+      "location": "Skandinavien",
+      "summary": "SAS rapporterar stark efterfrågan på resor till och inom Skandinavien under 2026, drivet av nya resmönster där internationella besökare bokar fler typer av resor än tidigare.",
+      "source": "SAS",
+      "url": "https://www.sasgroup.net/newsroom/sas-aviation-insights/sas-trends-record-demand-for-scandinavia-and-the-key-drivers-of-travel-in-2026/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
     }
   ]
 }

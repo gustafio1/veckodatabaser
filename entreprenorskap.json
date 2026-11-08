@@ -2,8 +2,8 @@
   "topic": "Entreprenörskap",
   "description": "Forskning om startups, finansiering, grundare och innovation. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-11-01",
-  "item_count": 100,
+  "last_updated": "2026-11-08",
+  "item_count": 108,
   "items": [
     {
       "id": "grundaregenskaper-startupframgang-2026",
@@ -1204,6 +1204,102 @@
       "url": "https://feedbagel.com/post/uk-spinout-success-broadening-beyond-golden-triangle-research-professional-news",
       "added_on": "2026-11-01",
       "collected_week": "2026-W44"
+    },
+    {
+      "id": "fever-stockholm-sadd-10miljoner-euro-2026",
+      "title": "Stockholmsbaserade Fever tar in 10 miljoner euro i såddrunda",
+      "category": "Finansiering",
+      "date": "2026-11-03",
+      "location": "Stockholm, Sverige",
+      "summary": "Powertech-bolaget Fever, som bygger en API-plattform för virtuella kraftverk, har säkrat 10 miljoner euro i en såddrunda ledd av General Catalyst, vilket tar den totala finansieringen till 11,6 miljoner euro.",
+      "source": "Realtid",
+      "url": "https://www.realtid.se/stockholmsbaserade-powertechbolaget-fever-fyller-pa-kassan-med-10-miljoner-euro/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "zero-crm-lovable-grundare-saljsystem-2026",
+      "title": "Lovables medgrundare investerar i AI-CRM-utmanaren Zero",
+      "category": "Finansiering",
+      "date": "2026-09-15",
+      "location": "Helsingfors, Finland",
+      "summary": "Finska startupen Zero tog in drygt 100 miljoner kronor i en såddrunda ledd av Primary Venture Partners, med bland andra Lovables medgrundare Fabian Hedin som en av flera ängelinvesterare i det AI-drivna CRM-alternativet.",
+      "source": "Dagens PS",
+      "url": "https://www.dagensps.se/foretag/lovable-grundare-satsar-i-saljsystem-som-tar-in-100-miljoner/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "svenska-startups-investeringar-arslagsta-oktober-2026",
+      "title": "Investeringarna i svenska startups på tvåårslägsta",
+      "category": "Marknad",
+      "date": "2026-11-02",
+      "location": "Sverige",
+      "summary": "Svenska startupbolag fick in omkring 700 miljoner kronor i riskkapital under oktober, den svagaste månaden på två år, även om helårssumman för de första tio månaderna ändå passerar 50 miljarder kronor.",
+      "source": "Realtid",
+      "url": "https://www.realtid.se/investeringar-i-svenska-startups-pa-2-ars-lagsta/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "kvinnor-crowdfunding-finansieringsmal-kth-studie-2026",
+      "title": "KTH-studie: Kvinnliga entreprenörer bättre på att nå finansieringsmål via crowdfunding",
+      "category": "Forskning",
+      "date": "2026-06-12",
+      "location": "Stockholm, Sverige",
+      "summary": "En studie från KTH visar att kvinnor som crowdfundar sina projekt oftare når sina finansieringsmål än män, en skillnad forskarna kopplar till starkt stöd från kvinnliga finansiärer snarare än till lägre uppsatta mål.",
+      "source": "Realtid",
+      "url": "https://www.realtid.se/kvinnliga-entreprenorer-bast-pa-att-na-finansieringsmal-med-crowdfunding/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "sverige-innovationsindex-andraplats-wipo-2026",
+      "title": "Sverige behåller andraplatsen i globala innovationsindexet",
+      "category": "Innovation",
+      "date": "2026-09-29",
+      "location": "Sverige",
+      "summary": "Enligt WIPO:s Global Innovation Index 2026 behåller Sverige sin andraplats bland 139 ekonomier och toppar listan över antal forskare per invånare, trots ett svagare resultat inom patent och design.",
+      "source": "TT",
+      "url": "https://via.tt.se/pressmeddelande/4571060/sverige-behaller-andraplatsen-i-globalt-innovationsindex",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "man-bakom-87-procent-patentansokningar-2026",
+      "title": "Män står bakom 87 procent av Sveriges nya patentansökningar",
+      "category": "Forskning",
+      "date": "2026-06-04",
+      "location": "Sverige",
+      "summary": "PRV:s statistik visar att endast en liten andel av svenska patentansökningar har en kvinnlig uppfinnare, vilket pekar på en fortsatt kraftig könsskillnad i vilka som driver fram innovation och nya affärsidéer.",
+      "source": "Dagens PS",
+      "url": "https://www.dagensps.se/foretag/man-bakom-87-procent-av-alla-nya-patent/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "aldre-grundare-framgang-studie-2026",
+      "title": "Studie: Äldre grundare lyckas bäst med sina bolag",
+      "category": "Forskning",
+      "date": "2026-08-01",
+      "location": "USA",
+      "summary": "En storskalig studie från MIT, Northwestern och University of Pennsylvania visar att de mest framgångsrika företagen oftare startas av medelålders eller äldre grundare än av unga underbarn, med en genomsnittsålder på nära 42 år.",
+      "source": "Realtid",
+      "url": "https://www.realtid.se/karriar-ledarskap/aldre-nyforetagare-klarar-sig-bast-alder-ar-en-styrka/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "stilride-finansieringsrunda-40miljoner-2026",
+      "title": "Elmotorcykelbolaget Stilride tar in 40 miljoner kronor",
+      "category": "Finansiering",
+      "date": "2026-06-25",
+      "location": "Stockholm, Sverige",
+      "summary": "Svenska startupen Stilride, som utvecklar vikbara elmotorcyklar i böjd stålplåt, har stängt en ny finansieringsrunda på 40 miljoner kronor med stöd från både befintliga och nya investerare.",
+      "source": "Realtid",
+      "url": "https://www.realtid.se/svenska-startup-bolaget-stilride-i-ny-finansieringsrunda/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
     }
   ]
 }

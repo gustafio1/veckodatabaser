@@ -2,8 +2,8 @@
   "topic": "Ekonomi & börs",
   "description": "Forskning om börs, makroekonomi, räntor och hushållens ekonomi. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-11-01",
-  "item_count": 101,
+  "last_updated": "2026-11-08",
+  "item_count": 108,
   "items": [
     {
       "id": "skuldkvot-mot-aktievardering-debt-equity-spread-2026",
@@ -1216,6 +1216,90 @@
       "url": "https://www.nber.org/papers/w34993",
       "added_on": "2026-11-01",
       "collected_week": "2026-W44"
+    },
+    {
+      "id": "riksbanken-hojer-styrranta-2-procent-2026",
+      "title": "Riksbanken höjer styrräntan till 2 procent",
+      "category": "Räntor",
+      "date": "2026-11-04",
+      "location": "Stockholm",
+      "summary": "Riksbanken höjde styrräntan med 0,25 procentenheter till 2 procent från 11 november, och bedömer att ytterligare en höjning är sannolik det närmaste året om inflations- och konjunkturutsikterna står sig.",
+      "source": "Riksbanken",
+      "url": "https://www.riksbank.se/sv/press-och-publicerat/nyheter-och-pressmeddelanden/pressmeddelanden/2026/styrrantan-hojs-till-2-procent/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "scb-snabb-kpi-oktober-2026-lagre-inflation",
+      "title": "Inflationen lägre än väntat i oktober enligt SCB:s snabbstatistik",
+      "category": "Statistik",
+      "date": "2026-11-05",
+      "location": "Sverige",
+      "summary": "SCB:s preliminära Snabb-KPI för oktober visar en årlig inflation på 0,9 procent, ner från 1,1 procent i september, medan KPIF enligt flera bevakare landade lägre än analytikernas prognoser.",
+      "source": "SCB / Aktiespararna",
+      "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/konsumentprisindex-kpi/pong/statistiknyhet/snabb-kpi-oktober-2026/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "omxs30-upp-boliden-rantebesked-2026",
+      "title": "Börsen steg efter räntebeskedet, Boliden i täten",
+      "category": "Börs",
+      "date": "2026-11-04",
+      "location": "Stockholm",
+      "summary": "Stockholmsbörsen tog föga notis om Riksbankens väntade räntehöjning och OMXS30 steg omkring 0,7 procent, med Boliden som en av dagens starkaste aktier.",
+      "source": "Placera / Nyhetsbyrån Direkt",
+      "url": "https://www.placera.se/telegram/borsen-boliden-toppar-tilltagande-uppgang-omxs30-0-7-20261104",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "omxs30-ner-ai-oro-rapporter-2026",
+      "title": "Börsen vände ner på amerikansk AI-oro och svaga rapporter",
+      "category": "Börs",
+      "date": "2026-11-05",
+      "location": "Stockholm",
+      "summary": "Efter en stark öppning vände OMXS30 ner och stängde 0,3 procent lägre, pressat av oro för amerikanska AI-värderingar och kursfall i bland annat Eniro, MTG och Catella efter deras kvartalsrapporter.",
+      "source": "Placera / Nyhetsbyrån Direkt",
+      "url": "https://www.placera.se/telegram/borsen-amerikansk-ai-frossa-satte-stopp-for-uppgang-omxs30-0-3-20261105",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "ki-svagare-reallonetillvaxt-sverige-europa-2026",
+      "title": "KI: Svenska reallöner utvecklas svagare än i övriga Europa",
+      "category": "Makroekonomi",
+      "date": "2026-10-21",
+      "location": "Sverige",
+      "summary": "Konjunkturinstitutet pekar på att svenska hushålls reallöner ökat långsammare än i jämförbara europeiska länder, vilket dämpar den inhemska konsumtionsåterhämtningen trots fallande inflation.",
+      "source": "Konjunkturinstitutet / Placera",
+      "url": "https://www.placera.se/telegram/ki-svagare-realloneutveckling-i-sverige-an-i-europa-20261021",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "ki-konjunkturlaget-rantehojning-slutet-2026",
+      "title": "KI väntade räntehöjning från Riksbanken redan i september",
+      "category": "Analys",
+      "date": "2026-09-30",
+      "location": "Sverige",
+      "summary": "I sin konjunkturrapport i september bedömde Konjunkturinstitutet att BNP-tillväxten tar fart samtidigt som stigande inflation och räntor väntas dämpa tillväxten nästa år, en prognos som Riksbankens höjning i november nu bekräftar.",
+      "source": "Konjunkturinstitutet / Placera",
+      "url": "https://www.placera.se/telegram/ki-riksbanken-vantas-hoja-styrrantan-i-slutet-av-2026-ny-20260930",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "swedbank-kvar-till-sparande-september-2026",
+      "title": "Swedbank: Mer kvar i plånboken 2026, men små marginaler för unga",
+      "category": "Hushållsekonomi",
+      "date": "2026-09-09",
+      "location": "Sverige",
+      "summary": "Swedbank och Sparbankernas rapport om hushållsekonomi visar att alla typhushåll får ett ökat spar- och konsumtionsutrymme under 2026 jämfört med 2025, men att ensamstående och unga fortsatt har mycket tunna marginaler.",
+      "source": "Swedbank",
+      "url": "https://www.swedbank.se/om-oss/press/newsroom.details.mer-pengar-i-pl%C3%A5nboken-%E2%80%93-men-sm%C3%A5-marginaler-f%C3%B6r-unga-och-ensamst%C3%A5ende.EF522EE051A6DAD1.html",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
     }
   ]
 }

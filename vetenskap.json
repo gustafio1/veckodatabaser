@@ -3,7 +3,7 @@
   "description": "Ny forskning inom fysik, medicin, biologi, klimat och nya upptäckter. Uppdateras varje vecka.",
   "schema_version": 1,
   "last_updated": "2026-11-08",
-  "item_count": 136,
+  "item_count": 141,
   "items": [
     {
       "id": "kvantljud-kommunikation-2026",
@@ -1634,6 +1634,66 @@
       "summary": "Forskare vid Cambridge jämförde 27 klimatmodeller med 6 000 år gamla sedimentprover från havsbotten och fann att modellerna överskattar hur mycket vinteris som borde finnas i Arktis. Resultatet, publicerat i Nature Geoscience, pekar på att vinterisen kan bli omkring en miljon kvadratkilometer mindre än väntat.",
       "source": "Nature Geoscience / University of Cambridge",
       "url": "https://sciencedaily.com/releases/2026/10/261022081259.htm",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "ptau217-blodprov-alzheimer-risk-2026",
+      "title": "Blodprov kan förutsäga Alzheimer-relaterad minnesförsämring flera år i förväg",
+      "category": "Medicin",
+      "date": "2026-10-29",
+      "location": "",
+      "summary": "En studie från Mass General Brigham visar att blodmarkören p-tau217 kan förutsäga ansamling av amyloid och kognitiv försämring även när hjärnscanningar fortfarande ser helt normala ut. Forskarna betonar att testet ännu inte är redo att användas som ett fristående verktyg för friska individer.",
+      "source": "Mass General Brigham",
+      "url": "https://news.massgeneralbrigham.org/en/blood-test-predicts-alzheimers-years-before-symptoms",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "sarkom-kirurgi-marginal-studie-2026",
+      "title": "Smalare kirurgiska marginaler kan räcka för att hindra återfall av barncancer",
+      "category": "Forskning",
+      "date": "2026-10-01",
+      "location": "",
+      "summary": "En analys av en stor amerikansk barnonkologisk studie visar att även en marginal på bara en millimeter runt mjukdelssarkom hos barn ger låg risk för återfall, vilket gör att mer frisk vävnad kan sparas vid operation. Ju bredare marginal, desto lägre blev återfallsrisken ytterligare, men skillnaden var liten.",
+      "source": "UC Davis Health",
+      "url": "https://health.ucdavis.edu/news/headlines/wider-surgical-margins-may-not-mean-better-cancer-control-finds-large-scale-treatment-trial/2026/10",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "karolinska-utandningsluft-antikroppar-2026",
+      "title": "Karolinska Institutet mäter lungantikroppar via utandningsluft utan nålar",
+      "category": "Medicin",
+      "date": "2026-11-04",
+      "location": "Stockholm",
+      "summary": "Forskare vid Karolinska Institutet har med tekniken PExA samlat in mikroskopiska partiklar ur utandningsluften och lyckats mäta virusspecifika antikroppar mot covid-19, influensa och RS-virus i de nedre luftvägarna. Metoden kan på sikt ersätta mer invasiva provtagningar som bronkoskopi.",
+      "source": "News-Medical",
+      "url": "https://www.news-medical.net/news/20261104/New-method-detects-lung-antibodies-through-non-invasive-exhaled-breath.aspx",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "liu-mxener-ai-snabbare-tillverkning-2026",
+      "title": "Linköpingsforskare hittar elva nya MXen-material med hjälp av AI",
+      "category": "Forskning",
+      "date": "2026-10-29",
+      "location": "Linköping",
+      "summary": "Forskare vid Linköpings universitet har med AI identifierat 33 tidigare förbisedda material som visade sig kunna bli MXener, och lyckades tillverka elva helt nya varianter, bland annat med sällsynta jordartsmetaller. Den nya tillverkningsmetoden driver sig själv genom en kemisk reaktion och är snabbare än traditionell etsning.",
+      "source": "Hurbra",
+      "url": "https://hurbra.se/mxener-snabb-tillverkning-2026/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "havets-varmeupptag-rekord-2025-2026",
+      "title": "Världens hav tog upp mer värme 2025 än något tidigare uppmätt år",
+      "category": "Klimat",
+      "date": "2026-01-15",
+      "location": "",
+      "summary": "En studie ledd av Kinesiska vetenskapsakademin visar att haven absorberade mer värme under 2025 än något år sedan moderna mätningar inleddes, det nionde rekordåret i rad. Eftersom haven tar upp över 90 procent av den värme som växthusgaser fångar, ses den fortsatta uppvärmningen som ett tillförlitligt mått på klimatförändringen.",
+      "source": "Eos (AGU)",
+      "url": "https://eos.org/research-and-developments/in-2025-the-ocean-stored-more-heat-than-weve-ever-recorded",
       "added_on": "2026-11-08",
       "collected_week": "2026-W45"
     }

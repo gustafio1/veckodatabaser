@@ -3,7 +3,7 @@
   "description": "Nyheter för utvecklare: språk, ramverk, verktyg, AI-kodning och öppen källkod. Uppdateras varje vecka.",
   "schema_version": 1,
   "last_updated": "2026-11-08",
-  "item_count": 117,
+  "item_count": 122,
   "items": [
     {
       "id": "typescript-7-nativ-kompilator-2026",
@@ -1406,6 +1406,66 @@
       "summary": "Javascript-körtiden Bun nådde med version 1.4 en milstolpe genom att bli helt omskriven i Rust och göra sig fri från externa beroenden. Projektet beskriver steget som ett sätt att höja prestandan och förenkla underhållet jämfört med den tidigare Zig/C-baserade koden.",
       "source": "AlternativeTo",
       "url": "https://alternativeto.net/news/2026/8/bun-1-4-lands-rust-rewrite-and-zero-external-dependencies-mark-major-milestone-for-devs/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "pharo-14-release-2026",
+      "title": "Pharo 14 släpps med ombyggt verktygsflöde och stöd för RISC-V",
+      "category": "Release",
+      "date": "2026-10-26",
+      "location": "",
+      "summary": "Den Smalltalk-inspirerade språket Pharo får version 14, den första under projektets nya höstschema. Släppet byter ut Spotter mot det nya verktyget Pulse, bygger om inställningsvisaren och lägger till JIT-stöd för RISC-V efter nästan tusen sammanslagna pull requests.",
+      "source": "AlternativeTo",
+      "url": "https://alternativeto.net/news/2026/10/pharo-14-released-with-modernized-development-tools-and-virtual-machine/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "github-copilot-jetbrains-air-xcode-2026",
+      "title": "GitHub Copilot kommer till JetBrains Air och Xcodes inbyggda assistent",
+      "category": "Verktyg",
+      "date": "2026-11-06",
+      "location": "",
+      "summary": "I veckans Copilot-uppdatering gör GitHub sin AI-assistent tillgänglig i JetBrains nya Air-miljö, där uppgifter kan köras lokalt eller i molnet via Air Teams. Samtidigt blir Copilot tillgängligt i förhandsversion i Xcodes egna kodningsassistent, från och med Xcode 27.3 beta.",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-11-06-github-copilot-weekly-releases-november-2",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "vscode-1-145-agenthost-cron-2026",
+      "title": "VS Code 1.145 låter Claude, Codex och Copilot samsas i samma agentsession",
+      "category": "Release",
+      "date": "2026-11-04",
+      "location": "",
+      "summary": "Den nya stabila versionen av VS Code lägger till stöd för flera chattleverantörer i samma agentsession samt fjärrstyrd webbläsare och canvas för agenter. Lokala automatiseringar kan nu även schemaläggas med vanliga cron-uttryck.",
+      "source": "Visual Studio Magazine",
+      "url": "https://visualstudiomagazine.com/articles/2026/11/04/vs-code-1-145-expands-remote-agent-workflows-adds-cron-automations.aspx",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "icu-79-unicode-18-2026",
+      "title": "ICU 79 släpps med stöd för kommande Unicode 18",
+      "category": "Release",
+      "date": "2026-10-22",
+      "location": "",
+      "summary": "Internationaliseringsbiblioteket ICU har släppt version 79.1, som uppdaterar till CLDR 49 och lägger grunden för Unicode 18. Uppdateringen påverkar bland annat sortering, datumformat och vilka tecken och emojier som stöds i program som bygger på biblioteket.",
+      "source": "Unicode ICU",
+      "url": "https://icu.unicode.org/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "kubecon-cloudnativecon-na-2026",
+      "title": "KubeCon + CloudNativeCon North America samlar molnutvecklare i Salt Lake City",
+      "category": "Nyhet",
+      "date": "2026-11-09",
+      "location": "Salt Lake City",
+      "summary": "Cloud Native Computing Foundations stora konferens KubeCon + CloudNativeCon North America hålls 9–12 november i Salt Lake City. Konferensen samlar utvecklare kring Kubernetes och andra molnnativa open source-projekt, med nya projektsläpp och tekniska föredrag.",
+      "source": "CNCF",
+      "url": "https://www.cncf.io/announcements/2026/08/10/cncf-reveals-kubecon-cloudnativecon-north-america-2026-schedule-adds-new-ai-inference-agentic-track/",
       "added_on": "2026-11-08",
       "collected_week": "2026-W45"
     }

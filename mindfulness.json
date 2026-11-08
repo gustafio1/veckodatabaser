@@ -2,8 +2,8 @@
   "topic": "Mindfulness",
   "description": "Forskning om meditation, metoder, appar, retreater och mindfulness i vardagen. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-11-01",
-  "item_count": 90,
+  "last_updated": "2026-11-08",
+  "item_count": 97,
   "items": [
     {
       "id": "sju-dagars-meditation-forandrar-hjarnan-2026",
@@ -1084,6 +1084,90 @@
       "url": "https://www.devdiscourse.com/article/entertainment/3833608-insight-timer-launches-in-india-expanding-access-to-mindfulness",
       "added_on": "2026-11-01",
       "collected_week": "2026-W44"
+    },
+    {
+      "id": "tva-meditationsstilar-depression-fyra-veckor-2026",
+      "title": "Två olika meditationsstilar lindrade depressionssymtom i fyraveckorsstudie",
+      "category": "Forskning",
+      "date": "2026-10-17",
+      "location": "",
+      "summary": "En randomiserad studie jämförde fokuserad uppmärksamhet med självutfrågande meditation och fann att båda gav tydligt mindre depressionssymtom än en väntelistegrupp, utan att skilja sig nämnvärt från varandra. Forskarna tror att de två teknikerna kan verka via delvis olika psykologiska vägar.",
+      "source": "PsyPost",
+      "url": "https://www.psypost.org/two-styles-of-meditation-eased-depressive-symptoms-in-a-four-week-trial-possibly-through-different-routes/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "mindfulness-neurala-landskapet-sjalvkritik-2026",
+      "title": "Mindfulnessträning kan omforma hjärnans \"neurala landskap\" kring självkritik",
+      "category": "Forskning",
+      "date": "2026-08-03",
+      "location": "",
+      "summary": "En omanalys av hjärnskanningar från ett mindfulnessbaserat stressreduktionsprogram visar stora minskningar i självdömande efter träningen. Forskarna menar att resultatet pekar på en mer flexibel hjärnaktivitet som kan hjälpa oss att inte fastna i negativa tankemönster om oss själva.",
+      "source": "PsyPost",
+      "url": "https://www.psypost.org/scientists-discover-new-insights-into-how-mindfulness-practices-shift-the-brains-neural-landscape/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "slappa-rigid-sjalvbild-meditationens-halsovinster-2026",
+      "title": "Att släppa en stelbent självbild kan vara nyckeln till meditationens hälsoeffekter",
+      "category": "Forskning",
+      "date": "2026-07-11",
+      "location": "",
+      "summary": "I en studie med tre grupper om 49 personer jämfördes fokuserad meditation och självutfrågande meditation med en väntelistegrupp. Resultaten tyder på att det är förmågan att släppa en fast, dömande självbild – snarare än tekniken i sig – som driver meditationens positiva effekter på måendet.",
+      "source": "PsyPost",
+      "url": "https://www.psypost.org/letting-go-of-a-rigid-self-image-might-be-the-secret-to-meditations-mental-health-benefits/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "hjarnasymmetri-angest-depression-meditationsprevention-2026",
+      "title": "Asymmetri i hjärnans aktivitet hos barn kan bli nytt mål för meditationsbaserad prevention",
+      "category": "Forskning",
+      "date": "2026-05-20",
+      "location": "",
+      "summary": "EEG-mönster hos barn mellan 7 och 11 år har kopplats till senare ångest och depression. Forskarna föreslår att denna typ av hjärnasymmetri i framtiden skulle kunna användas för att rikta tidiga, meditationsbaserade förebyggande insatser mot de barn som löper störst risk.",
+      "source": "Pulse.bot",
+      "url": "https://www.pulse.bot/meditation/news/brainside-asymmetry-in-anxiety-and-depression-offers-new-target-for-meditationbased-prevention-c265fae6-6a3e-461d-a5fa-0155468df400/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "28-dagars-meditation-studenter-depression-rumination",
+      "title": "28 dagars daglig meditation minskade depression och grubblande hos studenter",
+      "category": "Forskning",
+      "date": "2024-11-01",
+      "location": "",
+      "summary": "Studenter som mediterade dagligen i 28 dagar, kompletterat med veckovisa guidade sessioner i klassrummet, fick lägre nivåer av depression, grubblande och personlighetsångest jämfört med en kontrollgrupp. Studien stärker bilden av att även korta, strukturerade vardagsrutiner med meditation ger mätbar effekt.",
+      "source": "Mindfulness (Springer)",
+      "url": "https://link.springer.com/article/10.1007/s12671-024-02331-8",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "insight-timer-konsistens-mangfald-280000-sessioner",
+      "title": "Konsekvent och varierad meditation ger bäst resultat, visar analys av 280 000 sessioner",
+      "category": "App",
+      "date": "2023-09-20",
+      "location": "",
+      "summary": "En stor analys av sessionsdata från appen Insight Timer visar att humörförbättringar uppstår oavsett hur länge man mediterar per tillfälle. De som blandade inåtvänd och utåtriktad uppmärksamhetsträning var mest benägna att fortsätta meditera över tid.",
+      "source": "University of Adelaide",
+      "url": "https://www.adelaide.edu.au/newsroom/news/list/2023/09/20/consistency-diversity-key-to-digital-meditation-success",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "mbsr-escitalopram-jama-psychiatry-angest-2022",
+      "title": "Mindfulnessbaserad stressreduktion lika effektiv som antidepressivt läkemedel mot ångest",
+      "category": "Forskning",
+      "date": "2022-11-09",
+      "location": "",
+      "summary": "I en stor klinisk studie med 276 vuxna med ångestdiagnos var ett åtta veckor långt MBSR-program likvärdigt med läkemedlet escitalopram för att minska symtomens svårighetsgrad. Betydligt färre deltagare i mindfulnessgruppen hoppade av på grund av biverkningar jämfört med läkemedelsgruppen.",
+      "source": "JAMA Psychiatry / Newswise",
+      "url": "https://www.newswise.com/articles/mindfulness-based-stress-reduction-is-as-effective-as-an-antidepressant-drug-for-treating-anxiety-disorders",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "topic": "Produktivitet",
   "description": "Produktivitetsmetoder, verktyg, forskning om fokus, arbetsliv och AI. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-11-01",
-  "item_count": 93,
+  "last_updated": "2026-11-08",
+  "item_count": 99,
   "items": [
     {
       "id": "fyradagarsvecka-bevisen-vaxer-2026",
@@ -1120,6 +1120,78 @@
       "url": "https://www.shropshirestar.com/news/business/2026/01/23/increase-in-workers-on-a-four-day-week-research-shows",
       "added_on": "2026-11-01",
       "collected_week": "2026-W44"
+    },
+    {
+      "id": "fed-stlouis-ai-produktivitet-framtida-2026",
+      "title": "Fed-analys: 95 % av AI-produktivitetslöftena handlar ännu bara om framtiden",
+      "category": "Forskning",
+      "date": "2026-08-02",
+      "location": "",
+      "summary": "En analys från Federal Reserve Bank of St. Louis av nästan 490 000 resultatsamtal visar att cirka 95 procent av uttalanden om AI och produktivitet handlar om förväntade, inte redan uppnådda, vinster. Det är klart högre andel framtidslöften än för produktivitetsprat utan AI-koppling.",
+      "source": "HR Executive",
+      "url": "https://hrexecutive.com/ai-productivity-claims-are-95-still-to-come-fed-finds/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "6000-chefer-ingen-produktivitetsvinst-ai-2026",
+      "title": "Nästan 6 000 chefer: över 8 av 10 företag ser ännu ingen produktivitetsvinst av AI",
+      "category": "Forskning",
+      "date": "2026-02-18",
+      "location": "",
+      "summary": "En stor enkät bland nästan 6 000 chefer i USA, Storbritannien, Tyskland och Australien visar att över 80 procent av företagen inte kan se någon mätbar produktivitetsökning från sina AI-satsningar, trots stora investeringar. Cheferna förväntar sig ändå en produktivitetsökning på omkring 1,4 procent de kommande tre åren.",
+      "source": "The Register",
+      "url": "https://www.theregister.com/2026/02/18/ai_productivity_survey/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "realtid-ai-effekten-arbetar-mer-inte-mindre-2026",
+      "title": "AI-effekten: tekniktunga jobb ger fler arbetstimmar, inte färre",
+      "category": "AI",
+      "date": "2026-06-24",
+      "location": "",
+      "summary": "Granskning visar att anställda i teknikintensiva yrken numera arbetar fler timmar än tidigare – AI-exponerade medarbetare lägger i genomsnitt 2,2 timmar mer i veckan än kollegor i mindre teknikintensiva roller. Samtidigt pekar Harvard Business Review på att tristessen ökar 20 procent när medarbetare tvingas göra uppgifter utan AI-stöd.",
+      "source": "Realtid",
+      "url": "https://www.realtid.se/karriar-ledarskap/ai-effekten-darfor-jobbar-vi-mer-inte-mindre/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "md-anderson-distansarbete-hogst-valbefinnande-2026",
+      "title": "Studie på 7 700 anställda: distansarbetare rapporterar högst välbefinnande",
+      "category": "Forskning",
+      "date": "2026-08-21",
+      "location": "",
+      "summary": "En studie av forskare vid MD Anderson och University of Colorado Boulder, baserad på 7 700 anställda, visar att helt distansarbetande personal har högst välbefinnande (4,22 av 5) jämfört med hybridarbetande (4,12) och kontorsbaserade (3,89). Distansarbetarna hade också lägst personalomsättning, 7,8 procent, mot 8,8 procent för de som jobbade på plats.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/08/21/work-from-home-major-study-remote-workers-well-being-less-likely-to-quit-despite-ceos-like-musk-dimon-push-rto/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "hubstaff-rapport-moten-tar-over-fokustid-2026",
+      "title": "Rapport: mötesvolymen har fördubblats – fokustiden pressas till 2–3 timmar om dagen",
+      "category": "Rapport",
+      "date": "2026-02-17",
+      "location": "",
+      "summary": "Hubstaffs globala benchmarkrapport, baserad på data från över 140 000 anställda, visar att mötesvolymen fördubblats på två år och att medarbetare i genomsnitt bara får ihop 2–3 timmars faktisk fokustid per dag. Hybridteam har lägst andel fokustid (31 procent), medan nästan en fjärdedel av alla möten läggs under det som annars skulle vara dagens mest produktiva timmar.",
+      "source": "CPA Practice Advisor",
+      "url": "https://www.cpapracticeadvisor.com/2026/02/17/workers-only-have-2-3-hours-of-focus-time-per-day-says-new-study/178228/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "nber-ai-adoption-produktivitet-2025-2026",
+      "title": "NBER-studie: AI:s produktivitetseffekt väntas tredubblas från 2025 till 2026",
+      "category": "Forskning",
+      "date": "2026-03-01",
+      "location": "",
+      "summary": "En forskningsrapport från National Bureau of Economic Research visar att över hälften av företagen redan investerat i AI, men att effekterna varierar kraftigt mellan branscher. Den uppskattade effekten på arbetsproduktiviteten var omkring 0,6 procent 2025 och väntas stiga till cirka 1,8 procent under 2026.",
+      "source": "NBER",
+      "url": "https://www.nber.org/system/files/working_papers/w34984/w34984.pdf",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
     }
   ]
 }

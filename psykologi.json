@@ -2,8 +2,8 @@
   "topic": "Psykologi – Vänskap",
   "description": "Ny forskning och insikter om vänskap, relationer och social anknytning. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-11-01",
-  "item_count": 136,
+  "last_updated": "2026-11-08",
+  "item_count": 142,
   "items": [
     {
       "id": "vanskap-folkhalsotillgang-2026",
@@ -1636,6 +1636,78 @@
       "url": "https://doi.org/10.1002/jad.12489",
       "added_on": "2026-11-01",
       "collected_week": "2026-W44"
+    },
+    {
+      "id": "aldre-utan-barn-vanskap-livlina-2025",
+      "title": "Vänskap kan vara en livlina för äldre utan barn",
+      "category": "Forskning",
+      "date": "2025-12-04",
+      "location": "",
+      "summary": "En amerikansk studie visar att barnlösa äldre som har starka, stödjande vänskaper upplever betydligt mindre ensamhet än de utan sådant stöd. Effekten av goda vänrelationer var där ännu större än för äldre med barn.",
+      "source": "University of New Hampshire",
+      "url": "https://www.unh.edu/unhtoday/news/release/2025/12/04/unh-research-finds-friendship-can-be-important-lifeline-older-adults-without",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "unga-vuxna-nojda-vanner-men-otillhoriga-2025",
+      "title": "Unga vuxna är nöjda med sina vänner – men känner sig ändå inte riktigt hemma",
+      "category": "Studie",
+      "date": "2025-11-01",
+      "location": "",
+      "summary": "En amerikansk enkätstudie med nära 5 000 deltagare visar att de flesta unga vuxna är nöjda med sina vänskaper och känner sig kapabla att skaffa nya vänner, men många upplever ändå otillhörighet. Forskarna kopplar det till livets instabilitet och begreppet 'ontologisk trygghet'.",
+      "source": "University of Kansas News",
+      "url": "https://news.ku.edu/news/article/young-adults-say-theyre-happy-with-their-friendships-so-why-do-so-many-still-feel-disconnected",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "ensamhet-kanslosvangningar-positiva-kanslor-2025",
+      "title": "Ensamma personer har större svängningar i sitt känsloliv – särskilt i positiva känslor",
+      "category": "Forskning",
+      "date": "2025-08-01",
+      "location": "",
+      "summary": "En dagboksstudie med 252 vuxna som mättes fem gånger dagligen i två veckor fann att ensamhet hängde ihop med större dag-till-dag-instabilitet i känslolivet. Sambandet med negativa känslor förklarades av depressiva symtom, men instabiliteten i positiva känslor kvarstod även efter kontroll för depression och social isolering.",
+      "source": "PsyPost / Cognition and Emotion",
+      "url": "https://www.psypost.org/lonely-individuals-show-greater-mood-instability-especially-with-positive-emotions-study-finds/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "ensamhetsmyten-skane-aldrande-avhandling-2026",
+      "title": "Ny avhandling: myten om en allmän ökning av ensamhet i Sverige håller inte",
+      "category": "Avhandling",
+      "date": "2026-07-24",
+      "location": "Skåne",
+      "summary": "En avhandling i klinisk geriatrik vid Lunds universitet, baserad på drygt 6 800 personer i studien Gott Åldrande i Skåne, visar att ensamhet är starkt subjektiv – många som känner sig ensamma är inte socialt isolerade. Forskaren Markus Svensson menar att det är relationernas kvalitet, snarare än deras antal, som avgör, och att ensamhet hänger samman med sämre sömn och ökad sjukdomsrisk.",
+      "source": "Dagens PS / Lunds universitet",
+      "url": "https://www.dagensps.se/weekend/ny-studie-ensamhet-bland-aldre-vaxande-halsoproblem/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "vanskapsstilar-storbritannien-japan-grupporienterad-2026",
+      "title": "Brittiska vänskaper är mer grupporienterade än japanska",
+      "category": "Studie",
+      "date": "2026-01-16",
+      "location": "",
+      "summary": "En jämförande studie med 1 674 unga vuxna i Japan och Storbritannien visar att britter oftare umgås i grupp och har högre 'relationell rörlighet' än japaner, som i stället tenderar att odla vänskap i par. Grupporienterade vänskapsstilar hängde ihop med större vänskapskretsar och mer tid tillsammans i grupp.",
+      "source": "University of Bath / British Journal of Social Psychology",
+      "url": "https://researchportal.bath.ac.uk/en/publications/friendships-are-more-group-oriented-in-the-uk-than-in-japan/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "anknytningsstil-vanskap-jobbet-prestation-2025",
+      "title": "Otrygg anknytning påverkar om vi skapar vänskap på jobbet – och hur vi presterar",
+      "category": "Forskning",
+      "date": "2025-06-18",
+      "location": "",
+      "summary": "En studie av MBA-studenter och anställda på ett kinesiskt företag visar att personer med hög undvikande anknytning har svårare att bilda vänskap på arbetsplatsen, vilket i sin tur hänger ihop med sämre jobbprestation. Vänskapens centrala roll i nätverket förmedlade sambandet mellan anknytningsstil och prestation.",
+      "source": "European Journal of Work and Organizational Psychology",
+      "url": "https://publications.aston.ac.uk/id/eprint/47702",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
     }
   ]
 }

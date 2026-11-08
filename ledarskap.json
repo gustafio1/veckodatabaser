@@ -2,8 +2,8 @@
   "topic": "Ledarskap – John Maxwell",
   "description": "Ledarskapsprinciper och lärdomar från John C. Maxwell, inklusive De 21 oeftergivliga ledarskapslagarna. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-11-01",
-  "item_count": 164,
+  "last_updated": "2026-11-08",
+  "item_count": 171,
   "items": [
     {
       "id": "lockets-lag",
@@ -1972,6 +1972,90 @@
       "url": "https://www.goodreads.com/book/show/183553.The_21_Indispensable_Qualities_of_a_Leader",
       "added_on": "2026-11-01",
       "collected_week": "2026-W44"
+    },
+    {
+      "id": "vision-ledaregenskap",
+      "title": "Vision (Vision)",
+      "category": "Princip",
+      "date": "1999-01-01",
+      "location": "",
+      "summary": "En av de 21 oumbärliga egenskaperna: Maxwell menar att en ledare bara kan gripa det hen faktiskt kan se, och att en tydlig vision är det som ger riktning, eldar upp och styr allt en ledare gör.",
+      "source": "The 21 Indispensable Qualities of a Leader (HarperCollins Leadership)",
+      "url": "https://www.harpercollinsleadership.com/9780785289043/the-21-indispensable-qualities-of-a-leader",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "sjalvdisciplin-ledaregenskap",
+      "title": "Självdisciplin (Self-Discipline)",
+      "category": "Princip",
+      "date": "1999-01-01",
+      "location": "",
+      "summary": "En av de 21 oumbärliga egenskaperna: Maxwell beskriver självdisciplin som förmågan att göra det som krävs oavsett hur man känner, och framhåller att den kommer före alla andra talanger och gåvor.",
+      "source": "Books That Slay – sammanfattning och analys",
+      "url": "https://booksthatslay.com/the-21-indispensable-qualities-of-a-leader-summary-and-analysis/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "positiv-installning-ledaregenskap",
+      "title": "Positiv inställning (Positive Attitude)",
+      "category": "Princip",
+      "date": "1999-01-01",
+      "location": "",
+      "summary": "En av de 21 oumbärliga egenskaperna: enligt Maxwell avgör inställningen, inte omständigheterna, hur långt en ledare och dennes team kommer, och den går att välja och träna varje dag.",
+      "source": "getAbstract – sammanfattning",
+      "url": "https://www.getabstract.com/en/summary/the-21-indispensable-qualities-of-a-leader/5949",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "engagemang-ledaregenskap",
+      "title": "Engagemang (Commitment)",
+      "category": "Princip",
+      "date": "1999-01-01",
+      "location": "",
+      "summary": "En av de 21 oumbärliga egenskaperna: Maxwell skriver att engagemang är det som bär en ledare genom ett projekts svåra mittfas, när den första glöden har falnat men målet ännu inte är nått.",
+      "source": "Books That Slay – sammanfattning och analys",
+      "url": "https://booksthatslay.com/the-21-indispensable-qualities-of-a-leader-summary-and-analysis/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "initiativformaga-ledaregenskap",
+      "title": "Initiativförmåga (Initiative)",
+      "category": "Princip",
+      "date": "1999-01-01",
+      "location": "",
+      "summary": "En av de 21 oumbärliga egenskaperna: Maxwell menar att ledare skapar möjligheter i stället för att vänta på dem, och att förmågan att agera först är en förutsättning för att andra ska följa.",
+      "source": "The 21 Indispensable Qualities of a Leader (HarperCollins Leadership)",
+      "url": "https://www.harpercollinsleadership.com/9780785289043/the-21-indispensable-qualities-of-a-leader",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "ansvarstagande-ledaregenskap",
+      "title": "Ansvarstagande (Responsibility)",
+      "category": "Princip",
+      "date": "1999-01-01",
+      "location": "",
+      "summary": "En av de 21 oumbärliga egenskaperna: enligt Maxwell slutför goda ledare det de åtagit sig och tar på sig ansvaret för resultatet, oavsett om det blir framgång eller motgång.",
+      "source": "getAbstract – sammanfattning",
+      "url": "https://www.getabstract.com/en/summary/the-21-indispensable-qualities-of-a-leader/5949",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "trygghet-ledaregenskap",
+      "title": "Trygghet (Security)",
+      "category": "Princip",
+      "date": "1999-01-01",
+      "location": "",
+      "summary": "En av de 21 oumbärliga egenskaperna: Maxwell beskriver inre trygghet, inte titlar eller prestationer, som grunden för att en ledare ska våga lyfta fram och stärka andra utan att känna sig hotad.",
+      "source": "Books That Slay – sammanfattning och analys",
+      "url": "https://booksthatslay.com/the-21-indispensable-qualities-of-a-leader-summary-and-analysis/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
     }
   ]
 }

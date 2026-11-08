@@ -2,8 +2,8 @@
   "topic": "Personlig utveckling",
   "description": "Tekniker, vanor och tankesätt för personlig utveckling och produktivitet. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-11-01",
-  "item_count": 141,
+  "last_updated": "2026-11-08",
+  "item_count": 147,
   "items": [
     {
       "id": "pomodoro-tekniken",
@@ -1696,6 +1696,78 @@
       "url": "https://ray.yorksj.ac.uk/id/eprint/13752/1/clayton-mcclure-et-al-2026-high-trait-procrastination-predicts-increased-goal-anxiety-despite-invariance-in-simulation.pdf",
       "added_on": "2026-11-01",
       "collected_week": "2026-W44"
+    },
+    {
+      "id": "hogre-lon-personlighetsforandring-2026",
+      "title": "Högre lön kan hänga ihop med personlighetsförändringar",
+      "category": "Forskning",
+      "date": "2026-10-20",
+      "location": "",
+      "summary": "En stor analys av psykologisk forskning visar att personer som får en rejäl löneökning ofta genomgår mätbara personlighetsförändringar över tid. Forskarna understryker att det fortfarande är osäkert om det är lönen i sig eller det som följer med den, som nya arbetsuppgifter och ökat ansvar, som driver förändringen.",
+      "source": "PsyPost",
+      "url": "https://www.psypost.org/a-bigger-paycheck-tends-to-come-with-personality-changes-according-to-a-large-scale-analysis-of-psychology-research/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "mikromal-traning-studie-2026",
+      "title": "Korta dagliga träningsmål fick fler att röra på sig mer",
+      "category": "Studie",
+      "date": "2026-09-07",
+      "location": "",
+      "summary": "En brittisk studie fann att ett litet, dagligt träningsmål på bara några minuter ökade den fysiska aktiviteten mer än ett traditionellt mål med färre men längre träningspass. Forskarna menar att sådana mikromål är lättare att hålla fast vid och därför kan bli ett praktiskt verktyg för att bygga träningsvanor.",
+      "source": "Behavioral Medicine (City, University of London)",
+      "url": "https://openaccess.city.ac.uk/id/eprint/38301/1/Tiny%20is%20Mighty%20%20Investigating%20the%20Effect%20of%20Micro%20Goals%20on%20Physical%20Activity.pdf",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "motiverad-prokrastinering-forskning-2026",
+      "title": "\"Motiverad prokrastinering\": hjärnan tonar ner dåliga nyheter för att skjuta upp jobbigt arbete",
+      "category": "Forskning",
+      "date": "2026-09-21",
+      "location": "",
+      "summary": "En fyra veckor lång experimentstudie visar att människor omedvetet tonar ner negativ information om sitt eget arbete för att slippa obehag, vilket gör att de skjuter mer uppgifter framför sig. Forskarna varnar för att klassiska knep som bindande deadlines kan missa målet om de inte tar hänsyn till denna självbedrägeri-mekanism.",
+      "source": "Management Science (INFORMS)",
+      "url": "https://pubsonline.informs.org/doi/10.1287/mnsc.2025.05353",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "viljestyrka-stabil-vana-inte-tillfallig-2026",
+      "title": "Stabil självdisciplin - inte tillfälliga kraftansträngningar - avgör hållbara vanor",
+      "category": "Studie",
+      "date": "2026-07-28",
+      "location": "",
+      "summary": "En longitudinell studie visar att det är den stabila nivån av självkontroll över tid, snarare än enstaka ryck av viljestyrka, som hänger ihop med varaktiga vanor. En tillfällig ökning av disciplinen ett år förändrade inte beteendet året efter, vilket talar för att göra det goda valet enkelt att upprepa snarare än att lita på ren viljestyrka.",
+      "source": "PsyPost / Journal of Environmental Psychology",
+      "url": "https://www.psypost.org/willpower-is-linked-to-eco-friendly-habits-but-short-term-boosts-in-self-discipl/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "bluffsyndromet-perfektionism-2026",
+      "title": "Bluffsyndromet hänger starkast ihop med självkritisk perfektionism",
+      "category": "Forskning",
+      "date": "2026-01-25",
+      "location": "",
+      "summary": "En studie visar att känslan av att vara en bluff trots egna framgångar hänger starkt samman med rigid och självkritisk perfektionism, men inte med den mer narcissistiska varianten. Forskaren menar att det är den ständiga självkritiken, inte strävan efter status, som driver den oroande känslan av att inte duga.",
+      "source": "PsyPost",
+      "url": "https://www.psypost.org/imposter-syndrome-is-strongly-linked-to-these-two-types-of-perfectionism/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "positiva-affirmationer-kan-backfire-2026",
+      "title": "Positiva affirmationer kan slå tillbaka för den som redan mår dåligt",
+      "category": "Forskning",
+      "date": "2026-08-19",
+      "location": "",
+      "summary": "Genomgången av forskningsläget visar att upprepade positiva påståenden om sig själv framför allt fungerar för dem som redan har god självkänsla, medan personer med låg självkänsla kan må sämre av samma övning. Mer skonsamt och medkännande självprat verkar vara ett bättre alternativ för den som kämpar med negativa tankar om sig själv.",
+      "source": "PsyPost",
+      "url": "https://www.psypost.org/the-complex-science-of-positive-affirmations-and-why-they-occasionally-backfire/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
     }
   ]
 }

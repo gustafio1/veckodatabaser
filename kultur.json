@@ -2,8 +2,8 @@
   "topic": "Kultur",
   "description": "Nya kulturevenemang i Sverige – festivaler, konserter, utställningar och scenkonst. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-11-01",
-  "item_count": 145,
+  "last_updated": "2026-11-08",
+  "item_count": 157,
   "items": [
     {
       "id": "sweden-rock-2026",
@@ -1807,6 +1807,150 @@
       "url": "https://www.skansen.se/en/christmas-market",
       "added_on": "2026-11-01",
       "collected_week": "2026-W44"
+    },
+    {
+      "id": "faglarna-dramaten-lilla-scenen-2026",
+      "title": "\"Fåglarna\" får premiär på Dramatens Lilla scen",
+      "category": "Scenkonst",
+      "date": "2026-11-10",
+      "location": "Stockholm",
+      "summary": "Freja Hallbergs nyskrivna pjäs om sju främlingar som samlas i ett avsides hus har premiär på Dramatens Lilla scen och spelas fram till slutet av december.",
+      "source": "Visit Stockholm",
+      "url": "https://www.visitstockholm.com/events/the-birds-in-swedish/next/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "robin-karlsson-orebro-kulturpris-2026",
+      "title": "Bibliotekarie i Karlskoga får Region Örebro läns kulturpris 2026",
+      "category": "Utmärkelse",
+      "date": "2026-11-02",
+      "location": "Örebro",
+      "summary": "Robin Karlsson tilldelas Region Örebro läns kulturpris 2026 för kortfilmer som satt en liten filial i Degerfors på kartan, och belönas med 60 000 kronor och ett kulturföremål.",
+      "source": "TT (via.tt.se)",
+      "url": "https://via.tt.se/pressmeddelande/4623912/robin-karlsson-tilldelas-region-orebro-lans-kulturpris-2026",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "svenska-kyrkans-kulturstipendier-2026",
+      "title": "Svenska kyrkans kulturstipendier 2026 delas ut i Uppsala domkyrka",
+      "category": "Utmärkelse",
+      "date": "2026-11-12",
+      "location": "Uppsala",
+      "summary": "Vid en ceremoni i Uppsala domkyrka delas Svenska kyrkans kulturstipendier 2026 ut, samtidigt som kyrkans lärande- och undervisningspris och Samiska rådets kulturpris uppmärksammas.",
+      "source": "TT (via.tt.se)",
+      "url": "https://via.tt.se/pressmeddelande/4561479/de-far-svenska-kyrkans-kulturstipendier-2026",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "trollhattan-jazz-blues-2026",
+      "title": "Trollhättan Jazz & Blues 2026 fyllde staden med live-musik",
+      "category": "Festival",
+      "date": "2026-11-06",
+      "location": "Trollhättan",
+      "summary": "Jazz- och bluesfestivalen Trollhättan Jazz & Blues gick av stapeln den 6–7 november med konserter på flera scener runt om i staden.",
+      "source": "Västsverige",
+      "url": "https://www.vastsverige.com/en/trollhattan-vanersborg/events/trollhattan-jazz--blues-2026/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "ung-svensk-form-dunkers-kulturhus-2026",
+      "title": "Ung Svensk Form 2026 öppnar på Dunkers Kulturhus",
+      "category": "Utställning",
+      "date": "2026-11-19",
+      "location": "Helsingborg",
+      "summary": "Utställningen Ung Svensk Form, som lyfter unga formgivares bästa arbeten från det senaste året, visas på Dunkers Kulturhus i Helsingborg fram till 3 januari.",
+      "source": "Svensk Form",
+      "url": "https://svenskform.se/en/kalendarium/ung-svensk-form-2026-dunkers-kulturhus/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "barnkulturdagen-kungliga-operan-2026",
+      "title": "Barnkulturdagen 2026 på Kungliga Operan",
+      "category": "Evenemang",
+      "date": "2026-11-10",
+      "location": "Stockholm",
+      "summary": "Kungliga Operan bjuder in familjer till Barnkulturdagen 2026, en heldag med visningar och aktiviteter som ska väcka barns intresse för opera och scenkonst.",
+      "source": "Kungliga Operan",
+      "url": "https://www.operan.se/en/productions/children-s-culture-day",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "varmlands-bokfestival-2026",
+      "title": "Värmlands bokfestival samlade författare i Karlstad",
+      "category": "Festival",
+      "date": "2026-11-06",
+      "location": "Karlstad",
+      "summary": "Värmlands bokfestival hölls på Nöjesfabriken i Karlstad den 6–7 november, med författarsamtal och programpunkter kring läsning och litteratur.",
+      "source": "Karlstads universitet",
+      "url": "https://www.kau.se/varmlandsbokfestival",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "kungliga-operan-gasometer-ekman-varldspremiar-2026",
+      "title": "Kungliga Operan presenterar vårprogram för nya scenen Gasometer",
+      "category": "Nyhet",
+      "date": "2026-11-05",
+      "location": "Stockholm",
+      "summary": "Kungliga Operan presenterade sitt program för den tillfälliga scenen Gasometer i Norra Djurgårdsstaden, dit verksamheten flyttar under operahusets femåriga renovering. Höjdpunkten är Alexander Ekmans världspremiär av ett helaftonsverk om lust och åtrå den 9 april 2027.",
+      "source": "TT/Kungliga Operan",
+      "url": "https://via.tt.se/pressmeddelande/4629057/en-ny-var-for-kungliga-operan-varldspremiar-av-ekman-oppnar-gasometer?lang=sv",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "unrecognized-tre-svenska-scener-2026",
+      "title": "\"Unrecognized\" gästspelar på tre svenska scener i november",
+      "category": "Premiär",
+      "date": "2026-11-13",
+      "location": "Malmö",
+      "summary": "Den europeiska samproduktionen Unrecognized, som hade världspremiär i Skopje, gästspelar i november på Malmö Stadsteater, Göteborgs Stadsteater och Dramaten. Föreställningen är regisserad av georgiern Data Tavadze och är ett samarbete mellan flera europeiska teatrar.",
+      "source": "TT/Dramaten",
+      "url": "https://via.tt.se/pressmeddelande/4618123/unrecognized-europeisk-samproduktion-med-premiar-i-skopje-pa-vag-till-dramaten?publisherId=1706167",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "huseby-julmassa-2026",
+      "title": "Huseby julmässa öppnar på Huseby Bruk i Grimslöv",
+      "category": "Evenemang",
+      "date": "2026-11-07",
+      "location": "Grimslöv",
+      "summary": "Huseby julmässa på Huseby Bruk i Småland pågår i flera dagar i november med över 150 utställare som säljer hantverk, mat och juldekorationer. Mässan har även ett särskilt familjeprogram under helgerna.",
+      "source": "Husebybruk.se",
+      "url": "https://www.husebybruk.se/husebyjul-2/?lang=en",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "tjoloholms-julmarknad-2026",
+      "title": "Tjolöholms slott fylls av julmarknad under tre helger",
+      "category": "Evenemang",
+      "date": "2026-11-20",
+      "location": "Fjärås",
+      "summary": "Julmarknaden på Tjolöholms slott i Fjärås pågår under tre helger i november och december, med hantverk och julprodukter från en lång rad utställare i slottsmiljön. Marknaden är en av Västsveriges mest besökta julmarknader.",
+      "source": "Göteborg & Co",
+      "url": "https://www.goteborg.com/en/events/christmas-market-at-tjoloholm-castle",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "pussy-riot-riot-days-uppsala-2026",
+      "title": "Pussy Riot framförde \"Riot Days\" på Uppsala Konsert & Kongress",
+      "category": "Konsert",
+      "date": "2026-11-07",
+      "location": "Uppsala",
+      "summary": "Den ryska aktivistgruppen Pussy Riot gästspelade med sin scenberättelse Riot Days på Uppsala Konsert & Kongress, som en del av en kort Sverigeturné i höst. Föreställningen blandar musik, video och berättelser om gruppens protester mot den ryska regimen.",
+      "source": "TT/Sweden Herald",
+      "url": "https://swedenherald.com/article/pussy-riot-brings-riot-days-to-sweden-this-fall",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
     }
   ]
 }

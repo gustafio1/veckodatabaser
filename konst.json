@@ -2,8 +2,8 @@
   "topic": "Konst & design",
   "description": "Konstutställningar, design, arkitektur, auktioner och konstvärlden. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-11-01",
-  "item_count": 109,
+  "last_updated": "2026-11-08",
+  "item_count": 114,
   "items": [
     {
       "id": "moderna-museet-nisabas-hus-maleri-2026",
@@ -1312,6 +1312,66 @@
       "url": "https://skaneplus.se/category/kristianstad/",
       "added_on": "2026-11-01",
       "collected_week": "2026-W44"
+    },
+    {
+      "id": "hilma-af-klint-bukowskis-auktion-2026",
+      "title": "Sensationellt abstrakt verk av Hilma af Klint går på auktion hos Bukowskis",
+      "category": "Auktion",
+      "date": "2026-10-20",
+      "location": "Stockholm",
+      "summary": "Målningen \"Ser III No. 5\" från 1920 blir första gången på över tre decennier som ett abstrakt verk av Hilma af Klint når auktionsmarknaden. Verket säljs på Bukowskis liveauktion Modern Art & Design 18–19 november, med ett utropspris på 6–8 miljoner kronor.",
+      "source": "TT/Bukowskis",
+      "url": "https://via.tt.se/pressmeddelande/4603083/sensationellt-abstrakt-verk-av-hilma-af-klint-ska-klubbas-pa-bukowskis?lang=sv",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "liljevalchs-sara-vide-ericson-drift-2026",
+      "title": "Sara-Vide Ericson öppnar utställningen \"DRIFT\" på Liljevalchs",
+      "category": "Utställning",
+      "date": "2026-11-13",
+      "location": "Stockholm",
+      "summary": "Liljevalchs visar en ny samling målningar av Sara-Vide Ericson under titeln DRIFT, med motiv hämtade ur hennes karaktäristiska natur- och kroppsskildringar. Utställningen pågår till 28 februari 2027.",
+      "source": "Liljevalchs",
+      "url": "https://liljevalchs.se/en/kalender/sara-vide-ericson-drift/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "gallery-weekend-stockholm-2026",
+      "title": "Gallery Weekend Stockholm samlade stadens gallerier för en helg",
+      "category": "Evenemang",
+      "date": "2026-11-06",
+      "location": "Stockholm",
+      "summary": "Under tre dagar höll ett stort antal Stockholmsgallerier förlängda öppettider, artist talks och extra visningar i samband med den årliga Gallery Weekend Stockholm, arrangerad av Sveriges Galleriförbund. Evenemanget är en av höstens viktigaste mötesplatser för samtidskonst i huvudstaden.",
+      "source": "Visit Stockholm",
+      "url": "https://www.visitstockholm.com/events/stockholm-gallery-weekend/next",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "britta-marakatt-labba-akvarellmuseet-2026",
+      "title": "Britta Marakatt-Labba visar verk på papper på Nordiska Akvarellmuseet",
+      "category": "Utställning",
+      "date": "2026-11-01",
+      "location": "Skärhamn",
+      "summary": "Den samiska konstnären Britta Marakatt-Labba, mest känd för sina broderier, ställer ut ett sjuttiotal akvareller och teckningar under hösten och vintern. Utställningen ger en sällan visad inblick i hennes arbete på papper vid sidan av textilkonsten.",
+      "source": "Västsverige.com",
+      "url": "https://www.vastsverige.com/tjorn/evenemang/utstallning-britta-marakatt-labba/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "arkitekturkartan-boverket-arkdes-2026",
+      "title": "Ny Arkitekturkartan låter allmänheten utforska svensk arkitektur digitalt",
+      "category": "Design",
+      "date": "2026-11-03",
+      "location": "",
+      "summary": "Boverket och ArkDes har lanserat Arkitekturkartan, en digital tjänst där besökare kan utforska byggnader och arkitekturprojekt över hela Sverige med material ur ArkDes samling. Tjänsten är en del av myndigheternas gemensamma arbete med gestaltad livsmiljö.",
+      "source": "Boverket",
+      "url": "https://www.boverket.se/sv/hallbar-stad/aktuellt/upptack-sveriges-arkitektur-med-arkitekturkartan/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
     }
   ]
 }

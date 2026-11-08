@@ -2,8 +2,8 @@
   "topic": "Fotografi",
   "description": "Nya kameror och objektiv, fototeknik, utställningar, tävlingar och fotografer. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-11-01",
-  "item_count": 108,
+  "last_updated": "2026-11-08",
+  "item_count": 114,
   "items": [
     {
       "id": "canon-eos-r6-v-lanseras-2026",
@@ -1300,6 +1300,78 @@
       "url": "https://www.digitalcameraworld.com/cameras/cinema-cameras/nikon-zr-named-one-of-times-best-inventions-of-2026-for-bridging-the-gap-between-social-media-content-creation-and-high-end-video",
       "added_on": "2026-11-01",
       "collected_week": "2026-W44"
+    },
+    {
+      "id": "sigma-16-300mm-nikon-z-leverans-2026",
+      "title": "Sigma börjar leverera 16-300mm F3.5-6.7 för Nikon Z",
+      "category": "Utrustning",
+      "date": "2026-11-05",
+      "location": "",
+      "summary": "Sigmas superzoom 16-300mm F3.5-6.7 för Nikon Z-fattning når nu auktoriserade återförsäljare, med ett rekommenderat pris på 769 dollar för en allround-lins som täcker vidvinkel till tele.",
+      "source": "The New Camera",
+      "url": "https://thenewcamera.com/cameras-coming-in-november-and-december-2026/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "canon-dm-e10d-mikrofon-tc-fjarr-2026",
+      "title": "Canon presenterar mikrofonen DM-E10D och nya timerfjärrar",
+      "category": "Utrustning",
+      "date": "2026-11-05",
+      "location": "",
+      "summary": "Canon lanserar riktmikrofonen DM-E10D tillsammans med fjärrkontrollerna TC-N3 och TC-E3 för tidsinställd fjärrutlösning, ett tillskott som breddar tillbehörssortimentet för systemkamerorna.",
+      "source": "The New Camera",
+      "url": "https://thenewcamera.com/cameras-coming-in-november-and-december-2026/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "laowa-24mm-f2-tiltshift-lansering-2026",
+      "title": "Laowa lanserar världens ljusstarkaste tilt-shift-objektiv",
+      "category": "Utrustning",
+      "date": "2026-11-05",
+      "location": "",
+      "summary": "Venus Optics släpper Laowa 24mm f/2 Zero-D, ett tilt-shift-objektiv med upp till 10 graders tilt och 12 mm shift som enligt tillverkaren är det snabbaste i sitt slag och täcker allt från helformat till medelformatssensorer som GFX och Hasselblad X.",
+      "source": "PetaPixel",
+      "url": "https://petapixel.com/2026/11/05/the-laowa-24mm-f-2-zero-d-tilt-shift-is-the-fastest-tilt-shift-lens-ever/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "sirui-aurora-15mm-24mm-lansering-9-november-2026",
+      "title": "Sirui lanserar Aurora-objektiven 15mm f/1,6 och 24mm f/1,4",
+      "category": "Utrustning",
+      "date": "2026-11-09",
+      "location": "",
+      "summary": "Sirui släpper sin nya Aurora-serie med autofokusobjektiven 15mm f/1,6 och 24mm f/1,4 för helformat, som visades som förhandsexemplar på IBC 2026 och nu lanseras för Sony E- och L-fattning.",
+      "source": "SonyAlphaRumors",
+      "url": "https://www.sonyalpharumors.com/new-sirui-aurora-15mm-f-1-6-and-24mm-f-1-4-full-frame-autofocus-lenses-are-coming-on-november-9/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "british-photography-awards-2026-vinnare",
+      "title": "Vinnarna i British Photography Awards 2026 utsedda",
+      "category": "Tävling",
+      "date": "2026-11-02",
+      "location": "London",
+      "summary": "Vid en gala på Royal Lancaster-hotellet i London korades årets vinnare i British Photography Awards, med priser i kategorier som arkitektur, landskap, porträtt och dokumentärfoto samt ett publikval med över 800 000 röster.",
+      "source": "PetaPixel",
+      "url": "https://petapixel.com/2026/11/02/18-splendid-winners-from-the-british-photography-awards/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "svenska-fotobokspriset-2027-ansokan-oppen",
+      "title": "Ansökan öppnar till Svenska Fotobokspriset 2027",
+      "category": "Tävling",
+      "date": "2026-11-03",
+      "location": "",
+      "summary": "Svenska Fotografers Förbund öppnar ansökan till Svenska Fotobokspriset 2027, där fotoböcker utgivna 2025 och 2026 kan delta och vinnaren belönas med 40 000 kronor. Ansökan stänger 25 november 2026.",
+      "source": "Kamerabild",
+      "url": "https://www.kamerabild.se/nyheter/svenska-fotobokspriset-2027-nu-oppnar-ansokan/1700803",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
     }
   ]
 }

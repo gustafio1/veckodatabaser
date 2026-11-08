@@ -2,8 +2,8 @@
   "topic": "Husdjur",
   "description": "Forskning om hundar, katter, beteende och hälsa. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-25",
-  "item_count": 65,
+  "last_updated": "2026-11-08",
+  "item_count": 71,
   "items": [
     {
       "id": "lek-starker-band-hund-agare-2026",
@@ -784,6 +784,78 @@
       "url": "https://via.tt.se/pressmeddelande/4309574/okning-av-hundar-i-svenska-hushall-men-katterna-behaller-tronen",
       "added_on": "2026-10-25",
       "collected_week": "2026-W43"
+    },
+    {
+      "id": "katt-agare-oxytocin-synkronisering-2026",
+      "title": "Katters och ägares hormonnivåer rör sig i takt, visar japansk studie",
+      "category": "Forskning",
+      "date": "2026-10-13",
+      "location": "",
+      "summary": "Forskare i Kyoto och vid Azabu-universitetet fann att oxytocinnivåer hos katter och deras ägare hängde ihop över en månad, medan sambandet för stresshormonet kortisol var svagare. Studien bygger på urinprov från 19 kattägare och deras 29 katter.",
+      "source": "Sci.News / iScience",
+      "url": "https://www.sci.news/biology/cat-owner-hormones-15138.html",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "vegankost-katter-lagre-overvikt-2026",
+      "title": "Katter på vegankost hade lägre andel övervikt i ny enkätstudie",
+      "category": "Forskning",
+      "date": "2026-10-23",
+      "location": "",
+      "summary": "En enkätstudie publicerad i Frontiers in Animal Science fann att katter som äter vegansk mat hade lägre andel övervikt och relaterade hälsoproblem än katter på traditionell kost. Forskarna själva kallar resultatet en utgångspunkt snarare än ett slutgiltigt svar.",
+      "source": "Frontiers in Animal Science",
+      "url": "https://newshub.medianet.com.au/2026/10/study-finds-lower-rates-of-overweight-among-vegan-fed-cats/178266/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "hundbeteendeproblem-overskattade-dogagingproject-2026",
+      "title": "Ny analys ifrågasätter att 99 procent av hundar har beteendeproblem",
+      "category": "Forskning",
+      "date": "2026-10-05",
+      "location": "",
+      "summary": "En omanalys av data från Dog Aging Project visar betydligt lägre andelar aggression, rädsla och separationsrelaterat beteende än en tidigare mycket uppmärksammad studie från Texas A&M. Forskarna menar att den verkliga förekomsten fortfarande är osäker.",
+      "source": "dvm360",
+      "url": "https://www.dvm360.com/view/new-study-challenges-finding-that-99-of-us-dogs-have-behavior-problems-says-rates-were-overstated",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "aural-pet-passiv-ljudanalys-arizona-2026",
+      "title": "Nytt lyssningsverktyg ska fånga husdjurs beteende utan enkäter",
+      "category": "Teknik",
+      "date": "2026-08-31",
+      "location": "",
+      "summary": "Forskare vid University of Arizona har utvecklat verktyget AURAL-Pet, som analyserar inspelningar från mobiltelefoner för att upptäcka omnämnanden och beteenden hos hundar och katter. Tanken är att fånga verkligt beteende i stället för att förlita sig på ägarnas egna enkätsvar.",
+      "source": "University of Arizona News",
+      "url": "https://news.arizona.edu/news/new-u-tool-decodes-pet-talk-and-may-help-explain-how-pets-affect-our-well-being",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "kattlek-utbildning-barn-utvecklingsstorning-osu-2026",
+      "title": "Kattträningsprogram stärkte sociala färdigheter hos barn med utvecklingsstörning",
+      "category": "Forskning",
+      "date": "2026-08-04",
+      "location": "",
+      "summary": "Ett program där barn med utvecklingsstörning fick träna katter med klickerträning visade sig stärka både barnens sociala förmåga och bandet till katten, enligt forskare vid Oregon State University. Flera katter utvecklade också starkare anknytning och mer socialt beteende under programmet.",
+      "source": "News-Medical / Oregon State University",
+      "url": "https://www.news-medical.net/news/20260804/Cat-training-program-benefits-children-with-developmental-disabilities.aspx",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "hund-i-sangen-vem-ror-sig-forst-toronto-2026",
+      "title": "Studie: det är ofta människan, inte hunden, som rör sig mest i sängen",
+      "category": "Nyhet",
+      "date": "2026-10-27",
+      "location": "",
+      "summary": "En studie från University of Toronto som undersökte sömn hos hund och ägare i samma säng visar att det oftare är människan som initierar rörelse och hunden som anpassar sig, tvärtemot den vanliga uppfattningen om den rastlösa hunden.",
+      "source": "Realtid.se",
+      "url": "https://www.realtid.se/bors-finans/makro/ny-forskning-du-kan-vara-den-som-vacker-hunden/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
     }
   ]
 }

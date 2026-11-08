@@ -2,8 +2,8 @@
   "topic": "Vin",
   "description": "Forskning om vinframställning, odling, smak och hälsa. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-25",
-  "item_count": 65,
+  "last_updated": "2026-11-08",
+  "item_count": 73,
   "items": [
     {
       "id": "arom-ekologiskt-vs-konventionellt-vitt-vin-2026",
@@ -784,6 +784,102 @@
       "url": "https://www.tv4.se/artikel/5qa3ymwxFImUhkuGSklokn/rekordhettan-slar-mot-vinskoerdarna",
       "added_on": "2026-10-25",
       "collected_week": "2026-W43"
+    },
+    {
+      "id": "oeno-one-oversikt-vattenforskning-medelhav-2026",
+      "title": "Genomgång av 92 studier visar att vingårdarnas klimatforskning är koncentrerad till bevattnade medelhavsmiljöer",
+      "category": "Forskning",
+      "date": "2026-10-12",
+      "location": "",
+      "summary": "En genomgång i tidskriften OENO One av 92 studier om vatten- och kolflöden i vingårdar visar att forskningen domineras av bevattnade platser i varma, torra medelhavsklimat, vilket lämnar kunskapsluckor för andra odlingsmiljöer. Transpiration stod för mellan 56 och 86 procent av vingårdens totala vattenavgång i de studier som delat upp flödet i detalj.",
+      "source": "OENO One / Vinetur",
+      "url": "https://www.vinetur.com/en/amp/20261012108745/review-finds-vineyard-climate-research-is-concentrated-in-irrigated-mediterranean-sites.html",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "brasilien-jordstudie-godslingsrad-vingardar-2026",
+      "title": "Brasiliansk jordstudie ger nya gödslings- och kalkningsråd för vinodlare i Serra Gaúcha",
+      "category": "Forskning",
+      "date": "2026-10-01",
+      "location": "Brasilien",
+      "summary": "En studie av omkring 500 jordprover från åtta kommuner i vinregionen Serra Gaúcha har tagits fram nya rekommendationer för kalkning och gödsling av vingårdar. Råden ska tillämpas per gård utifrån egen jordanalys, under överinseende av agronom.",
+      "source": "Freshplaza / Globo Rural",
+      "url": "https://www.freshplaza.com/latin-america/article/9819642/brazilian-study-updates-fertilization-guidelines-for-vineyards/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "piwi-italienska-rodviner-fermentering-fenoler-2026",
+      "title": "Pilotstudie kartlägger fermentering och fenoler i mögelresistenta italienska rödviner",
+      "category": "Forskning",
+      "date": "2026-09-01",
+      "location": "Italien",
+      "summary": "Forskare vid universitetet Federico II i Neapel har i en enårig pilotstudie undersökt fermentering, lagring och fenolinnehåll hos mögelresistenta (PIWI) italienska rödvinsdruvor, med pinot noir som jämförelse. Studien kartlägger det önologiska potentialen hos sorterna på molekylär och metabol nivå.",
+      "source": "Journal of the Science of Food and Agriculture",
+      "url": "https://www.soci.org/chemistry-and-industry/cni-data/2026/6/sustainability-in-the-vineyard-wine-from-fungus-resistant-vines",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "pinot-noir-klusterutgallring-tioarsstudie-osu-2026",
+      "title": "Tioårig studie ifrågasätter att klusterutgallring automatiskt ger bättre pinot noir",
+      "category": "Forskning",
+      "date": "2026-04-13",
+      "location": "Oregon, USA",
+      "summary": "Ett decennielångt forskningsprojekt vid Oregon State University, byggt på medborgarforskning hos odlare, visar att minskad skörd genom klusterutgallring inte genomgående gav bättre frukt- eller vinkvalitet i pinot noir. Studien, som vann ASEV:s pris för bästa odlingsartikel 2026, visar att odlare kunde höja skördemålen över tid utan att tappa kvalitet och samtidigt sänka arbetskostnaderna.",
+      "source": "ASEV / Oregon State University Extension",
+      "url": "https://www.asev.org/asev-announces-2026-best-paper-awards-new-research-challenges-pinot-noir-yield-assumptions-reveals-effect-of-berry-size-on-zinfandel-wine-style/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "alkoholfritt-rodvin-labstudie-blodkarl-hjarta-2026",
+      "title": "Laboratoriestudie: alkoholfritt rödvin påverkade mänsklig hjärt- och kärlvävnad",
+      "category": "Forskning",
+      "date": "2026-10-24",
+      "location": "",
+      "summary": "En laboratoriestudie på mänsklig hjärt- och blodkärlsvävnad fann att alkoholfritt rödvin kan ge effekter på kärlfunktionen som är oberoende av alkoholen. Studien testade inga människor och forskarna betonar att resultaten inte visar att vin förbättrar hjärthälsan hos patienter.",
+      "source": "Vinetur",
+      "url": "https://www.vinetur.com/en/20261024109664/alcohol-free-red-wine-affected-human-heart-and-blood-vessel-tissue-in-a-lab-study.html",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "vinjast-interaktioner-metabolom-jasningsslut-2026",
+      "title": "Nytt ramverk kartlägger hur vinjästarter samspelar vid fermenteringens slutskede",
+      "category": "Forskning",
+      "date": "2026-07-01",
+      "location": "",
+      "summary": "En forskningsstudie presenterad vid konferensen WAC–IVAS 2026 går längre än tidigare parvisa odlingsförsök och kartlägger hela det extracellulära metabolomet när alkoholjäsningen avslutas. De mest påverkade processerna rörde ABC-transportörer, aminosyrasyntes och kolhydratomsättning.",
+      "source": "IVES / WAC–IVAS 2026",
+      "url": "https://ives-openscience.eu/64773/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "pied-de-cuve-odlingstid-jasningskinetik-2026",
+      "title": "Odlingstiden för startkultur \"pied de cuve\" påverkar vinets jäsning och smakprofil",
+      "category": "Forskning",
+      "date": "2026-07-01",
+      "location": "",
+      "summary": "En studie från konferensen WAC–IVAS 2026 visar att både odlingsmediet och odlingstiden för startkulturer av typen pied de cuve påverkar jäsningens förlopp och vinets sensoriska profil. Kulturer som odlats i 24 timmar visade högre inledande vitalitet än andra.",
+      "source": "IVES / WAC–IVAS 2026",
+      "url": "https://ives-openscience.eu/65518/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "chile-polyfenolvin-leverhalsa-studie-2026",
+      "title": "Chilensk studie: polyfenolberikat vin gav förbättrade levervärden hos friska deltagare",
+      "category": "Forskning",
+      "date": "2026-09-10",
+      "location": "Chile",
+      "summary": "I en kontrollerad chilensk studie i tidskriften Food & Function fick deltagare dricka ett vin berikat med polyfenoler. Efter studieperioden sågs förbättringar i flera hälsomarkörer, bland annat lägre nivåer av levermarkören ALAT.",
+      "source": "Food & Function / Wine Industry Advisor",
+      "url": "https://wineindustryadvisor.com/2026/09/10/international-scientific-journal-publishes-chilean-study-highlighting-the-effects-of-wine-antioxidants/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
     }
   ]
 }

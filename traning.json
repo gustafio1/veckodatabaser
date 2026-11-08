@@ -2,8 +2,8 @@
   "topic": "Träning",
   "description": "Forskning om styrka, kondition, hälsoeffekter och återhämtning. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-25",
-  "item_count": 63,
+  "last_updated": "2026-11-08",
+  "item_count": 70,
   "items": [
     {
       "id": "rest-pause-vs-drop-sets-styrketraning-2026",
@@ -760,6 +760,90 @@
       "url": "https://apcz.umk.pl/QS/article/download/72956/46940/247237",
       "added_on": "2026-10-25",
       "collected_week": "2026-W43"
+    },
+    {
+      "id": "traning-dos-studie-dodlighet-bjsm-2026",
+      "title": "Nittio minuters styrketräning i veckan kopplas till 13 procent lägre dödsrisk",
+      "category": "Forskning",
+      "date": "2026-06-01",
+      "location": "",
+      "summary": "En analys av tre kohorter med över 147 000 vuxna i British Journal of Sports Medicine visar att 90–119 minuters styrketräning per vecka gav lägst dödlighet under uppföljningen, och att kombination med konditionsträning gav bäst resultat.",
+      "source": "British Journal of Sports Medicine",
+      "url": "https://www.health.harvard.edu/exercise-and-fitness/strength-training-over-decades-linked-to-longer-life",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "styrketraning-dos-bortom-utmattning-2026",
+      "title": "Ingen anledning att träna till total utmattning för styrkevinster, visar genomgång",
+      "category": "Forskning",
+      "date": "2026-08-01",
+      "location": "",
+      "summary": "En forskningsgenomgång visar att den största nyttan kommer från att gå från ingen styrketräning till någon, medan träning till total utmattning inte ger extra fördel för de flesta.",
+      "source": "ACE Fitness",
+      "url": "https://www.acefitness.org/continuing-education/certified/august-2026/9178/enough-to-matter-rethinking-the-strength-training-dose/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "global-foljsamhet-styrketraning-riktlinjer-2026",
+      "title": "Mindre än en fjärdedel av världens vuxna följer riktlinjerna för styrketräning",
+      "category": "Forskning",
+      "date": "2026-01-05",
+      "location": "",
+      "summary": "En global genomgång visar att bara 22,8 procent av vuxna följer rekommendationerna om muskelstärkande träning minst två gånger i veckan, med stora skillnader mellan kön, ålder och utbildningsnivå.",
+      "source": "Physiotutors (forskningsgenomgång)",
+      "url": "https://www.physiotutors.com/sv/research/adherence-to-strengthening-exercise-guidelines/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "pensionarer-styrketraning-fyra-ar-senare-2026",
+      "title": "Ett år tung styrketräning gav fördelar hos pensionärer fyra år senare",
+      "category": "Forskning",
+      "date": "2026-01-10",
+      "location": "",
+      "summary": "En uppföljning av en randomiserad studie med 451 pensionärer visar att de som fick ett år av tung styrketräning fortfarande hade bättre muskelfunktion fyra år senare, jämfört med kontrollgruppen.",
+      "source": "Tidsskriftet (forskningsuppföljning av Bloch-Ibenfeldt m.fl.)",
+      "url": "https://tidsskriftet.no/node/65667/pdf",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "aterhamtning-bad-vila-ingen-skillnad-2026",
+      "title": "Varmt bad, kallt bad eller bara vila – ingen gav snabbare styrkeåterhämtning",
+      "category": "Forskning",
+      "date": "2026-10-23",
+      "location": "",
+      "summary": "En liten studie som jämförde varma bad, kalla bad, uppvärmt rum och vanlig vila fann ingen skillnad i hur snabbt styrkan återhämtades efter träning, och ömheten låg kvar lika länge i alla grupper.",
+      "source": "mindbodygreen",
+      "url": "https://www.mindbodygreen.com/articles/what-researchers-found-about-this-popular-recovery-habit",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "aterhamtningsmetoder-granskning-kompression-2026",
+      "title": "Populära återhämtningsmetoder granskade – massage håller bäst, fiskolja ifrågasätts",
+      "category": "Forskning",
+      "date": "2026-10-14",
+      "location": "",
+      "summary": "En genomgång av vanliga återhämtningsmetoder efter träning visar att massage har relativt konsekvent stöd mot träningsvärk, medan effekten av kompressionsplagg och fiskoljetillskott är mer osäker.",
+      "source": "ScienceDaily",
+      "url": "https://sciencedaily.com/releases/2026/10/261013015805.htm",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "kondition-formaksflimmer-svenska-registret-2026",
+      "title": "Hög kondition kopplas till högre risk för förmaksflimmer i stor svensk registerstudie",
+      "category": "Forskning",
+      "date": "2026-05-01",
+      "location": "",
+      "summary": "En registerstudie med 1,1 miljoner svenskar visar att de med högst kondition hade något högre risk för förmaksflimmer, men forskarna bedömer att konditionsträningens långsiktiga hälsovinster överväger den risken.",
+      "source": "TV4",
+      "url": "https://www.tv4.se/artikel/4QyDMHkTxrtxfghKcR3Jvs/ny-studie-lugnar-loeparna-efter-oeverlaekarens-skarpa-varning",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
     }
   ]
 }

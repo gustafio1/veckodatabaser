@@ -2,8 +2,8 @@
   "topic": "Schack",
   "description": "Stora turneringar, elitspelare, onlineschack, svenskt schack och talanger. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-11-01",
-  "item_count": 99,
+  "last_updated": "2026-11-08",
+  "item_count": 106,
   "items": [
     {
       "id": "sindarov-vinner-kandidatturneringen-2026",
@@ -1178,6 +1178,90 @@
       "url": "https://schack.se/tavlingar/nyheter/champions-chess-league/",
       "added_on": "2026-11-01",
       "collected_week": "2026-W44"
+    },
+    {
+      "id": "vm-matchen-datum-flyttas-fram-genere",
+      "title": "VM-matchen Gukesh–Sindarov tidigareläggs till 22 november i Genève",
+      "category": "Elit",
+      "date": "2026-11-05",
+      "location": "Genève",
+      "summary": "FIDE har i tysthet ändrat datumen för VM-matchen mellan regerande världsmästaren Gukesh och utmanaren Sindarov, som nu inleds den 22 november och pågår till den 13 december. Ursprungligen hade förbundet aviserat perioden 25 november till 15 december, men de nya reglerna för matchen kortar ner tidsplanen.",
+      "source": "World Chess",
+      "url": "https://worldchess.com/news/fide-quietly-changes-dates-for-gukeshsindarov-world-championship",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "sindarov-vinner-clutch-chess-saint-louis",
+      "title": "Sindarov vände underläge till seger i Clutch Chess inför VM-matchen",
+      "category": "Elit",
+      "date": "2026-11-02",
+      "location": "Saint Louis",
+      "summary": "Javokhir Sindarov vände ett underläge på två och en halv poäng till total seger i Clutch Chess: Champions Showdown och slutade på 20,5 poäng, vilket gav honom förstapriset på 168 000 dollar. Formtoppen kom bara veckor före hans VM-match mot Gukesh i Genève.",
+      "source": "ChessBase",
+      "url": "https://en.chessbase.com/post/clutch-chess-showdown-2026-3",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "jeffery-xiong-titled-tuesday-3-november",
+      "title": "Jeffery Xiong gick obesegrad till Titled Tuesday-seger",
+      "category": "Online",
+      "date": "2026-11-03",
+      "location": "",
+      "summary": "Amerikanen Jeffery Xiong vann veckans Titled Tuesday på Chess.com utan att förlora ett enda parti och slutade på tio poäng av elva möjliga. Daniil Dubov och Raunak Sadhwani delade andraplatsen en halv poäng efter segraren.",
+      "source": "Chess.com",
+      "url": "https://www.chess.com/news/view/jeffery-xiong-wins-nov-3-titled-tuesday",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "fide-ratinglista-november-2026-uzbekistan",
+      "title": "Fem uzbekiska stormästare bland världens hundra bästa i novemberlistan",
+      "category": "Elit",
+      "date": "2026-11-01",
+      "location": "",
+      "summary": "Den nya FIDE-ratinglistan för november visar att hela fem uzbekiska stormästare, med VM-utmanaren Sindarov i täten för landet, finns bland de hundra högst rankade spelarna i världen. Bland damerna klättrade Aleksandra Goryachkina förbi Tan Zhongyi till en femteplats på världslistan.",
+      "source": "Daryo",
+      "url": "https://daryo.uz/en/2026/11/02/five-uzbek-grandmasters-rank-among-worlds-top-100-in-november-2026-fide-rankings/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "europeiska-ungdoms-sm-schack-kreta-2026",
+      "title": "Europeiska ungdoms-SM i schack samlar talanger på Kreta",
+      "category": "Ungdom",
+      "date": "2026-11-02",
+      "location": "Hersonissos",
+      "summary": "Europeiska ungdomsmästerskapen i schack pågår mellan den 2 och 13 november på Kreta, med egna klasser för pojkar och flickor i åldrarna upp till 18 år. Flera förbund skickar stora trupper, bland annat reser 40 unga spelare dit för Azerbajdzjans räkning.",
+      "source": "European Chess Union",
+      "url": "https://www.europechess.org/european-youth-chess-championship-2026-official-invitation/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "chessparty-dreamhack-stockholm-november-2026",
+      "title": "Chessparty flyttar in på DreamHack Stockholm i slutet av november",
+      "category": "Svenskt",
+      "date": "2026-11-27",
+      "location": "Stockholm",
+      "summary": "Schackfestivalen Chessparty blir en del av DreamHack Stockholm den 27–29 november på Stockholmsmässan i Älvsjö, med bland andra Anna Cramling och Nils Grandelius på plats för turneringar och simultanspel. Ett tidigare evenemang på Avicii Arena lockade över 7 000 besökare från 31 länder.",
+      "source": "HurBra.se",
+      "url": "https://hurbra.se/chessparty-dreamhack-stockholm-2026/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "bodhana-sivanandan-yngsta-wgm-historien",
+      "title": "Elvaåriga Bodhana Sivanandan yngsta kvinnliga stormästaren i historien",
+      "category": "Ungdom",
+      "date": "2026-09-26",
+      "location": "Samarkand",
+      "summary": "Den brittiska elvaåringen Bodhana Sivanandan säkrade WGM-titeln genom remi mot georgiska stormästaren Nana Dzagnidze under schackolympiaden i Samarkand och slog därmed Kateryna Lagnos drygt trettioåriga rekord. Bedriften lyfts fram som ett av årets stora talangfynd inom världsschacket.",
+      "source": "ChessBase",
+      "url": "https://en.chessbase.com/newsroom/post/bodhana-sivanandan-youngest-ever-wgm-at-11",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "topic": "Sport – Fotboll, Tennis & Bordtennis",
   "description": "Nyheter inom fotboll, tennis och bordtennis med svenskt fokus. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-11-01",
-  "item_count": 140,
+  "last_updated": "2026-11-08",
+  "item_count": 147,
   "items": [
     {
       "id": "allsvenskan-sommaruppehall-2026",
@@ -1668,6 +1668,90 @@
       "url": "https://hurbra.se/?p=31023",
       "added_on": "2026-11-01",
       "collected_week": "2026-W44"
+    },
+    {
+      "id": "hacken-forsvarar-sm-guldet-damallsvenskan-2026",
+      "title": "Häcken säkrade SM-guldet i Damallsvenskan igen efter kross mot Kristianstad",
+      "category": "Fotboll",
+      "date": "2026-11-02",
+      "location": "Göteborg",
+      "summary": "BK Häcken vann hemma mot Kristianstads DFF med 4–1 och kunde därmed klara ut Hammarbys utmaning med två omgångar kvar att spela. Det blev klubbens andra raka svenska mästerskap, med Maja Bodin som dubbelmålskytt i segerfesten på Bravida Arena.",
+      "source": "TV4/TT",
+      "url": "https://www.tv4.se/artikel/tt-261102-damallsvhacken1-5329cc9f/hacken-sakrar-andra-raka-sm-guldet",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "njie-debut-kulusevski-elanga-tillbaka-trupp-november",
+      "title": "Njie kallas in för första gången när Kulusevski och Elanga är tillbaka i landslaget",
+      "category": "Fotboll",
+      "date": "2026-11-03",
+      "location": "",
+      "summary": "Förbundskapten Graham Potter tog ut Fiorentina-anfallaren Alieu Njie till A-landslaget för första gången inför de avgörande Nations League-matcherna mot Bosnien och Polen. Samtidigt återvänder både Dejan Kulusevski och Anthony Elanga efter skadeproblem, i en trupp där Sverige leder sin grupp och kan säkra gruppsegern mot Bosnien.",
+      "source": "Fotbolldirekt",
+      "url": "https://fotbolldirekt.se/?p=426241",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "fem-landslagsprofiler-tackas-av-november-2026",
+      "title": "Fem landslagsveteraner tackas av efter Bosnien-matchen i november",
+      "category": "Fotboll",
+      "date": "2026-11-14",
+      "location": "Solna",
+      "summary": "Emil Forsberg, Viktor Claesson, Robin Olsen, Martin Olsson och Emil Krafth, som tillsammans samlat 353 landskamper, avtackas på Strawberry Arena efter Nations League-mötet med Bosnien och Herzegovina. Samtliga fem var med i den svenska VM-truppen i Ryssland 2018.",
+      "source": "Hurbra",
+      "url": "https://hurbra.se/fem-landslagsprofiler-avtackas-14-november-2026/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "kallberg-revansch-moregardh-wtt-frankfurt-2026",
+      "title": "Källberg tog revansch på Möregårdh i Frankfurt – men åkte sedan själv ut",
+      "category": "Bordtennis",
+      "date": "2026-11-04",
+      "location": "Frankfurt",
+      "summary": "En vecka efter att ha förlorat mot Truls Möregårdh i Montpellier-finalen slog Anton Källberg tillbaka och vann med 3–0 i den första omgången av WTT Champions Frankfurt. Källbergs eget Frankfurt-äventyr tog dock snart slut när han föll mot sydkoreanen Lim Jonghoon.",
+      "source": "SVT Sport / Hurbra",
+      "url": "https://www.svt.se/sport/bordtennis/anton-kallbergs-skona-revansch-slog-ut-truls-moregardh",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "kristian-karlsson-utslagen-frankfurt-alla-svenskar-borta",
+      "title": "Kristian Karlsson slogs ut i Frankfurt – alla svenska herrar borta ur turneringen",
+      "category": "Bordtennis",
+      "date": "2026-11-06",
+      "location": "Frankfurt",
+      "summary": "Kristian Karlsson blev den sista svensken att lämna WTT Champions Frankfurt sedan han förlorade sin match, vilket innebar att ingen svensk spelare längre fanns kvar i herrsingeln. Det kom efter en tuff vecka för landslaget där även Källberg och Möregårdh redan hunnit slås ut.",
+      "source": "Hurbra",
+      "url": "https://hurbra.se/?p=45155",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "leo-borg-olle-wallin-kval-stockholm-open-2026",
+      "title": "Leo Borg och Olle Wallin kvalar in till Stockholm Open",
+      "category": "Tennis",
+      "date": "2026-11-07",
+      "location": "Stockholm",
+      "summary": "Medan Elias Ymer och Max Dahlin fått raka wildcards till huvudturneringen i Bybit Stockholm Open fick Leo Borg och Olle Wallin istället ge sig in i kvalet som inleddes i Kungliga Tennishallen samma helg som turneringen drog igång. Borg, som gjorde sitt genombrott i hemmaturneringen förra året, försöker ta sig vidare till huvudturneringen igen.",
+      "source": "Hurbra",
+      "url": "https://hurbra.se/leo-borg-stockholm-open-2026-kval/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "mjallby-kalmar-malloslost-bottenstriden-allsvenskan-2026",
+      "title": "Mjällby tog ett steg mot nytt kontrakt efter mållöst derby mot Kalmar",
+      "category": "Fotboll",
+      "date": "2026-11-02",
+      "location": "Hemmingsmåla",
+      "summary": "Mjällby och Kalmar FF delade på poängen i en mållös allsvensk match på Strandvallen i omgång 27, vilket förde Mjällby upp till 27 poäng och gav laget ett visst andrum i botten av tabellen. Kalmar håller sig kvar strax ovanför kvalplatsen men har nu gått tre raka matcher utan att göra mål.",
+      "source": "Hurbra",
+      "url": "https://hurbra.se/?p=43452",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
     }
   ]
 }

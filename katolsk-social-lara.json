@@ -2,8 +2,8 @@
   "topic": "Katolska kyrkans sociala lära",
   "description": "Den katolska kyrkans sociala lära – principerna och temana som vägleder ett rättvist samhälle. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-11-01",
-  "item_count": 150,
+  "last_updated": "2026-11-08",
+  "item_count": 155,
   "items": [
     {
       "id": "liv-och-vardighet",
@@ -1804,6 +1804,66 @@
       "url": "https://www.vatican.va/content/john-paul-ii/es/letters/1991/documents/hf_jp-ii_let_19911008_ambasciatore-olivier.html",
       "added_on": "2026-11-01",
       "collected_week": "2026-W44"
+    },
+    {
+      "id": "leo-xiv-generalaudiens-ekonomiskt-liv-2026",
+      "title": "Leo XIV: en orättvis ekonomi hotar världsfreden",
+      "category": "Nyhet",
+      "date": "2026-11-04",
+      "location": "Vatikanstaten",
+      "summary": "Vid generalaudiensen fortsatte påven katekesen om kyrkans sociallära och varnade för att ekonomiska orättvisor underminerar freden. Han uppmanade till förnyad formation i sociallärans principer och betonade att politiken måste tjäna det gemensamma goda.",
+      "source": "Vatican News / UCA News",
+      "url": "https://www.vaticannews.va/en/pope/news/2026-11/pope-leo-general-audience-social-economic-life-social-doctrine.html",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "manniskans-vardighet-grundprincip-rerum-novarum",
+      "title": "Människans värdighet – sociallärans första och bärande princip",
+      "category": "Princip",
+      "date": "2026-11-08",
+      "location": "",
+      "summary": "Redan i Rerum Novarum (1891) slog Leo XIII fast att ingen ostraffat får kränka människans värdighet. Denna värdighet grundas inte i prestation eller egenskaper utan i att människan är skapad till Guds avbild, och den förblir sociallärans utgångspunkt för alla andra principer.",
+      "source": "USCCB / Rerum Novarum",
+      "url": "https://www.usccb.org/resources/Economic%20Justice%20For%20All%20Summary%20Resource.pdf",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "familj-gemenskap-delaktighet-cst-tema",
+      "title": "Familjen, gemenskapen och delaktigheten – ett av sociallärans sju grundteman",
+      "category": "Princip",
+      "date": "2026-11-08",
+      "location": "",
+      "summary": "Enligt sociallärans klassiska temaindelning är familjen samhällets första och viktigaste gemenskap. Varje människa har rätt till delaktighet i samhället, och institutioner som hotar familjens stabilitet eller utesluter grupper från deltagande strider mot denna princip.",
+      "source": "USCCB",
+      "url": "https://dioceseofgaylord.org/node/1790",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "solidaritet-subsidiaritet-samverkan-gemensamma-goda",
+      "title": "Solidaritet och subsidiaritet måste samverka för det gemensamma goda",
+      "category": "Princip",
+      "date": "2026-11-08",
+      "location": "",
+      "summary": "Sociallärans principer om subsidiaritet och solidaritet är inte motsatta utan ömsesidigt beroende: subsidiariteten skyddar den enskildes och de mindre gemenskapernas handlingsutrymme, medan solidariteten säkerställer att ingen lämnas utanför det gemensamma ansvaret. Tillsammans bildar de en motvikt mot både alltför stark centralisering och alltför stor splittring.",
+      "source": "Påvliga akademin för samhällsvetenskap",
+      "url": "https://capp-usa.org/?p=28430",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "kort-introduktion-katolsk-sociallara-2026",
+      "title": "En kort introduktion till katolsk sociallära",
+      "category": "Dokument",
+      "date": "2026-06-01",
+      "location": "",
+      "summary": "En översiktsartikel sammanfattar katolska sociallärans fyra bärande pelare – människans värdighet, det gemensamma goda, subsidiaritet och solidaritet – och visar hur de vuxit fram genom en obruten rad av påvliga dokument sedan Rerum Novarum.",
+      "source": "Front Porch Republic",
+      "url": "https://www.frontporchrepublic.com/2026/06/a-brief-introduction-to-catholic-social-teaching/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "topic": "Trädgård",
   "description": "Forskning om odling, biologisk mångfald, jord, pollinatörer och hälsa. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-25",
-  "item_count": 65,
+  "last_updated": "2026-11-08",
+  "item_count": 71,
   "items": [
     {
       "id": "naturbaserad-rorelse-psykisk-halsa-2026",
@@ -784,6 +784,78 @@
       "url": "https://www.bali.org.uk/news/new-study-confirms-pollinator-friendly-plants-boost/",
       "added_on": "2026-10-25",
       "collected_week": "2026-W43"
+    },
+    {
+      "id": "lund-tradgardsatgarder-hjalper-bin-2026",
+      "title": "Lundastudie: Det du gör i din egen trädgård för bina ger verklig effekt",
+      "category": "Forskning",
+      "date": "2026-10-01",
+      "location": "",
+      "summary": "En ny studie från Lunds universitet som utvärderat kampanjen Operation: Rädda bina visar att trädgårdsägares egna åtgärder faktiskt ökar antalet pollinerande insekter. Störst effekt gav en äng med många olika blommande arter.",
+      "source": "Lunds universitet",
+      "url": "https://www.lu.se/artikel/ja-det-du-gor-i-din-tradgard-att-hjalpa-bina-funkar-visar-ny-lundastudie",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "safeguard-urbana-pollinatorsinsatser-europa-2026",
+      "title": "Stor europeisk genomgång: blomsådd ger mest pollinatörer i städer",
+      "category": "Forskning",
+      "date": "2025-08-01",
+      "location": "",
+      "summary": "En sammanställning av 28 studier från tolv europeiska länder visar att humlor och fjärilar gynnas mest av åtgärder för pollinatörer i stadsmiljö, och att blomsådd är den mest effektiva insatsen. Forskarna efterlyser fler långtidsstudier och mer kunskap om skalbaggar.",
+      "source": "Ecology Letters / Safeguard-projektet",
+      "url": "https://www.safeguard.biozentrum.uni-wuerzburg.de/News/ViewNews.aspx?NewsId=154",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "appalbees-pollen-dna-humla-appalacherna-2026",
+      "title": "DNA-analys av pollen kartlägger hotad humlas matvanor i Appalacherna",
+      "category": "Forskning",
+      "date": "2026-01-12",
+      "location": "",
+      "summary": "Forskare har använt DNA-metastreckkodning på pollen från den utrotningshotade humlan Bombus affinis för att se vilka växter den faktiskt besöker i Virginia och West Virginia. Resultaten ska kunna vägleda vilka blommor som planteras för att hjälpa arten.",
+      "source": "USGS / PeerJ",
+      "url": "https://peerj.com/articles/20284",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "koloniomraden-kylande-effekt-europa-stader-2026",
+      "title": "Koloniträdgårdar kyler ner städer för miljoner européer",
+      "category": "Forskning",
+      "date": "2026-09-07",
+      "location": "",
+      "summary": "En kartläggning av koloniträdgårdar i europeiska städer visar att de ger en kylande effekt för omkring 4,1 miljoner invånare, med störst nytta i tätbebyggda delar av Benelux, västra Tyskland och norra Italien. Den kylda ytan runt en koloniträdgård är i snitt nästan tre gånger större än själva lotten.",
+      "source": "EU-kommissionen / Journal of Environmental Management",
+      "url": "https://environment.ec.europa.eu/news/allotment-gardens-provide-cooling-benefits-residents-european-cities-2026-09-07_en",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "stadsodling-depression-angest-oversikt-2026",
+      "title": "Forskningsgenomgång: stadsodling kan lindra ångest och nedstämdhet",
+      "category": "Forskning",
+      "date": "2026-09-01",
+      "location": "",
+      "summary": "En systematisk genomgång av tidigare studier visar att plantering och skötsel av odlingslotter kan minska symtom på depression och ångest, medan effekten på fysiska besvär är mer osäker. Forskarna påpekar att deltagarnas egna förväntningar kan ha påverkat en del resultat.",
+      "source": "BMC Public Health",
+      "url": "https://www.psypost.org/therapeutic-gardening-improves-mental-health-for-adults-with-chronic-conditions/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "houseplants-felmarkta-infodingar-auckland-2026",
+      "title": "Forskare varnar: krukväxter säljs ibland felaktigt som inhemska",
+      "category": "Nyhet",
+      "date": "2026-03-30",
+      "location": "",
+      "summary": "En forskare vid University of Auckland varnar för att växter som säljs som inhemska i själva verket ofta är exotiska arter som kan bli invasiva i trädgården. Hon uppmanar odlare att dubbelkolla ursprunget innan de planterar.",
+      "source": "University of Auckland",
+      "url": "https://www.auckland.ac.nz/en/news/2026/03/30/planetary-solutions-invasion-of-the-house-plants-rebekah-white.html",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
     }
   ]
 }

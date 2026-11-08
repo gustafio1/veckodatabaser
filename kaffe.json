@@ -2,8 +2,8 @@
   "topic": "Kaffe",
   "description": "Forskning om kaffe och hälsa, bryggning, koffein, smak och odling. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-10-25",
-  "item_count": 61,
+  "last_updated": "2026-11-08",
+  "item_count": 66,
   "items": [
     {
       "id": "kaffe-timing-mortalitet-ckm-2026",
@@ -736,6 +736,66 @@
       "url": "https://perfectdailygrind.com/2026/10/coffee-news-recap-9-october-2026/",
       "added_on": "2026-10-25",
       "collected_week": "2026-W43"
+    },
+    {
+      "id": "kaffe-pourover-tunn-strale-penn-fysik-2026",
+      "title": "Tunnare vattenstråle vid pour-over ger jämnare kaffeextraktion, visar fysikstudie",
+      "category": "Forskning",
+      "date": "2025-04-15",
+      "location": "",
+      "summary": "Fysiker vid University of Pennsylvania har studerat flödesdynamiken i pour-over-bryggning och visar att en tunn, jämn vattenstråle ger mer konsekvent extraktion än en bred stråle. Resultatet kan göra det möjligt att brygga gott kaffe med färre bönor.",
+      "source": "The Daily Pennsylvanian",
+      "url": "https://www.thedp.com/article/2025/04/penn-fluid-physics-coffee-extraction-fewer-beans",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "kaffe-fairtrade-minimipriser-hojs-2026",
+      "title": "Fairtrade höjer minimipriserna för kaffe från december 2026",
+      "category": "Nyhet",
+      "date": "2026-07-30",
+      "location": "",
+      "summary": "Fairtrade höjer minimipriset för tvättad arabica med elva procent och för robusta med cirka åtta procent från den 1 december 2026, för att ge odlarna bättre ekonomisk trygghet vid prisfall. Premien till odlarna och tillägget för ekologiskt kaffe lämnas oförändrade.",
+      "source": "Fairtrade Sverige",
+      "url": "https://www.fairtrade.net/se-sv/aktuellt/fairtrade-hojer-minimipriser-for-kaffe-for-att-starka-odlarnas-ekonomiska-trygghet.html",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "kaffe-choklad-billigare-matpriser-augusti-2026",
+      "title": "Kaffe och choklad blev billigare när matpriserna sjönk i augusti",
+      "category": "Nyhet",
+      "date": "2026-08-15",
+      "location": "",
+      "summary": "En väntad rekordskörd i Brasilien och ett globalt överskott pressade ner kaffepriserna i svenska butiker under sommaren, samtidigt som kaffe fortfarande kostar klart mer än för några år sedan.",
+      "source": "Hurbra",
+      "url": "https://hurbra.se/matpriser-augusti-2026/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "kaffe-nurses-health-study-aldrande-kvinnor-2026",
+      "title": "Kaffe i medelåldern kopplas till friskare åldrande hos kvinnor",
+      "category": "Forskning",
+      "date": "2025-06-02",
+      "location": "",
+      "summary": "En analys av över 47 000 kvinnor i den amerikanska Nurses' Health Study visar att varje extra liten kopp kaffe i medelåldern var kopplad till några procents högre chans att nå 70 år utan större kroniska sjukdomar. Effekten gällde inte för te eller koffeinfritt, och koffeinhaltig läsk minskade istället chansen.",
+      "source": "Nutrition 2025 (American Society for Nutrition)",
+      "url": "https://fortune.com/well/2025/06/03/coffee-drinking-healthy-aging/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
+    },
+    {
+      "id": "kaffe-genetik-multisjukdom-ukbiobank-xue-2026",
+      "title": "Genetiska skillnader styr hur kaffe hänger ihop med flera samtidiga sjukdomar",
+      "category": "Forskning",
+      "date": "2026-09-15",
+      "location": "",
+      "summary": "En ny brittisk Biobank-studie följer hur vanemässigt kaffedrickande, tillsammans med genetisk känslighet för koffein, hänger samman med vägen från första kroniska sjukdom till flera samtidiga sjukdomar och död. Studien breddar tidigare forskning till att även omfatta cancer och kronisk lungsjukdom.",
+      "source": "Nutrition, Metabolism and Cardiovascular Diseases",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40947393/",
+      "added_on": "2026-11-08",
+      "collected_week": "2026-W45"
     }
   ]
 }

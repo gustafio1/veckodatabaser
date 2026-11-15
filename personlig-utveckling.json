@@ -2,8 +2,8 @@
   "topic": "Personlig utveckling",
   "description": "Tekniker, vanor och tankesätt för personlig utveckling och produktivitet. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-11-08",
-  "item_count": 147,
+  "last_updated": "2026-11-15",
+  "item_count": 155,
   "items": [
     {
       "id": "pomodoro-tekniken",
@@ -1768,6 +1768,102 @@
       "url": "https://www.psypost.org/the-complex-science-of-positive-affirmations-and-why-they-occasionally-backfire/",
       "added_on": "2026-11-08",
       "collected_week": "2026-W45"
+    },
+    {
+      "id": "prokrastinering-storsta-hindret-studenter-2026",
+      "title": "Prokrastinering utpekas som studenters största hinder för goda resultat",
+      "category": "Studie",
+      "date": "2026-10-08",
+      "location": "",
+      "summary": "En stor amerikansk studie av drygt 66 000 studenter visar att fler pekar ut prokrastinering än stress eller ångest som det som mest skadar deras studieresultat, och forskaren bakom studien beskriver en ond cirkel där uppskjutande ger stress som stör sömnen och leder till ännu mer uppskjutande.",
+      "source": "Times Higher Education",
+      "url": "https://www.timeshighereducation.com/news/procrastination-biggest-issue-harming-students-performance",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "samvetsgrannhet-ouppmarksamhet-prokrastinering-2026",
+      "title": "Bristande uppmärksamhet hänger starkare ihop med prokrastinering än social medieanvändning",
+      "category": "Studie",
+      "date": "2026-08-28",
+      "location": "",
+      "summary": "En italiensk studie av 464 universitetsstudenter visar att låg samvetsgrannhet och svagt prestationsbehov går hand i hand med uppskjutande, men att svårigheter att hålla fokus var den starkaste enskilda förklaringen - starkare än problematiskt användande av sociala medier.",
+      "source": "Europe's Journal of Psychology",
+      "url": "https://doi.org/10.5964/ejop.19203",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "meditationsstilar-depression-fyraveckorsstudie-2026",
+      "title": "Två olika meditationsformer lindrade nedstämdhet på bara fyra veckor",
+      "category": "Forskning",
+      "date": "2026-10-17",
+      "location": "",
+      "summary": "En randomiserad studie visar att två skilda sätt att meditera båda minskade depressiva symtom under en fyraveckorsperiod, men forskarna menar att metoderna troligen verkar via delvis olika psykologiska mekanismer.",
+      "source": "Mindfulness (tidskrift)",
+      "url": "https://www.psypost.org/two-styles-of-meditation-eased-depressive-symptoms-in-a-four-week-trial-possibly-through-different-routes/",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "ett-medvetet-ogonblick-mande-flera-dagar-2026",
+      "title": "Ett enda medvetet ögonblick kan förbättra måendet flera dagar framåt",
+      "category": "Forskning",
+      "date": "2026-07-06",
+      "location": "",
+      "summary": "Genom att följa deltagare dag för dag under åtta veckor fann forskare att mindfulness en dag minskade grubblande och tankemässig störning nästa dag, vilket i sin tur höjde välmåendet i upp till fyra dagar.",
+      "source": "PsyPost / Mindfulness",
+      "url": "https://www.psypost.org/how-a-single-mindful-moment-improves-mental-health-for-days/",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "tva-hjarnkretsar-vanors-styrka-2026",
+      "title": "Två separata hjärnkretsar avgör om och hur starkt en vana sitter",
+      "category": "Forskning",
+      "date": "2026-07-27",
+      "location": "",
+      "summary": "Forskare vid Kyoto universitet har i musförsök identifierat en hjärnkrets som styr om ett beteende blir en vana och en annan som avgör hur starkt den etablerade vanan sedan utförs, vilket kan förklara varför vanor skiljer sig så mycket mellan individer.",
+      "source": "Kyoto University / Nature Communications",
+      "url": "https://www.earth.com/news/brain-circuits-habit-formation/",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "vanor-kan-bildas-efter-tre-forsok-2026",
+      "title": "Vanor kan uppstå redan efter några få försök, visar ny hjärnstudie",
+      "category": "Forskning",
+      "date": "2026-03-31",
+      "location": "",
+      "summary": "Genom att mäta beteendet i realtid i stället för vid enstaka mättillfällen fann forskare att övergången från medvetet val till ren vana sker tvärt snarare än gradvis, vilket utmanar den klassiska bilden av hur vanor bildas.",
+      "source": "Nature Communications / SciTechDaily",
+      "url": "https://scitechdaily.com/surprising-new-study-challenges-a-century-old-theory-of-habit-formation/",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "sjalvmedkansla-vana-varaktighet-berkeley-2026",
+      "title": "Självmedkänsla ger bara varaktig effekt när övningen blir en vana",
+      "category": "Studie",
+      "date": "2026-09-26",
+      "location": "",
+      "summary": "I en studie med nästan 500 vuxna höll fördelarna av en 20 sekunder lång självmedkänsleövning i sig efter sex månader bara hos dem som också fick enkla vanebyggande verktyg, och ökad automatik i övningen under de första månaderna förklarade en stor del av den kvarvarande effekten.",
+      "source": "UC Berkeley / mindbodygreen",
+      "url": "https://www.mindbodygreen.com/articles/how-making-20-second-self-compassion-habit-stick-to-see-benefits",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "forlat-dig-sjalv-minskar-prokrastinering-klassisk-studie",
+      "title": "Klassisk studie: att förlåta sig själv för uppskjutande minskar framtida prokrastinering",
+      "category": "Forskning",
+      "date": "2010-02-01",
+      "location": "",
+      "summary": "I en ofta citerad studie följdes förstaårsstudenter mellan två tentaperioder, och de som förlät sig själva för att ha skjutit upp pluggandet inför den första tentan sköt upp mindre inför den andra - en effekt som verkade gå via minskade negativa känslor.",
+      "source": "Personality and Individual Differences / BPS Research Digest",
+      "url": "https://www.bps.org.uk/research-digest/cure-procrastination-forgive-yourself",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
     }
   ]
 }

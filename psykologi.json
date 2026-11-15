@@ -2,8 +2,8 @@
   "topic": "Psykologi – Vänskap",
   "description": "Ny forskning och insikter om vänskap, relationer och social anknytning. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-11-08",
-  "item_count": 142,
+  "last_updated": "2026-11-15",
+  "item_count": 150,
   "items": [
     {
       "id": "vanskap-folkhalsotillgang-2026",
@@ -1708,6 +1708,102 @@
       "url": "https://publications.aston.ac.uk/id/eprint/47702",
       "added_on": "2026-11-08",
       "collected_week": "2026-W45"
+    },
+    {
+      "id": "amerikanska-vanskapsprojektet-mindre-tid-2026",
+      "title": "Amerikaner umgås mindre med vänner – men har inte blivit mer ensamma",
+      "category": "Trend",
+      "date": "2026-11-08",
+      "location": "",
+      "summary": "Ny rapport från American Friendship Project vid University of Kansas visar att amerikaner lägger mindre tid på vänner än tidigare, men att den upplevda ensamheten trots det inte har ökat – forskarna tolkar resultatet som att människor förändrar var och hur de umgås snarare än att relationerna försvinner.",
+      "source": "University of Kansas / KU News",
+      "url": "https://news.ku.edu/news/article/research-shows-people-arent-lonelier-theyre-changing-how-they-spend-their-time",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "anknytningsangest-grudges-icke-ursakt-2026",
+      "title": "Ängslig anknytning gör att vi håller fast vid groll när partnern inte ber om ursäkt",
+      "category": "Anknytning",
+      "date": "2026-11-08",
+      "location": "",
+      "summary": "Studie i Journal of Social Psychology visar att personer med ängslig anknytningsstil rapporterar mer kvarhållet groll, mer tillbakadragande och mindre vilja att förlåta när en partner uteblir med en ursäkt efter en konflikt.",
+      "source": "PsyPost / Journal of Social Psychology",
+      "url": "https://www.psypost.org/when-a-partner-wont-apologize-anxiously-attached-people-may-hold-bigger-grudges/",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "otrygg-anknytning-bisexuella-unga-kvinnor-2026",
+      "title": "Otrygg anknytning kopplas till sämre psykisk hälsa hos unga bisexuella kvinnor",
+      "category": "Anknytning",
+      "date": "2026-11-11",
+      "location": "",
+      "summary": "Longitudinell studie vid Universidad Católica del Norte i Chile visar att ängslig och undvikande anknytning hos unga bisexuella kvinnor förutsäger mer psykisk ohälsa och lägre välbefinnande ett år senare.",
+      "source": "PsyPost / International Journal of Sexual Health",
+      "url": "https://www.psypost.org/how-insecure-attachment-shapes-mental-health-in-young-bisexual-women/",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "hbtq-vanskap-delad-identitet-halsa-2026",
+      "title": "Vänskap med andra hbtq-personer ger högre livstillfredsställelse – men bilden är inte helt entydig",
+      "category": "Vänskap",
+      "date": "2026-11-09",
+      "location": "",
+      "summary": "Studie baserad på American Friendship Project visar att hbtq-personer med minst en vän som delar deras sexuella identitet rapporterar högre livstillfredsställelse och mindre ensamhet, medan vänskap med en snarlik men inte identisk identitet gav ett mer blandat resultat.",
+      "source": "Good Good Good / LGBTQ+ Family",
+      "url": "https://www.goodgoodgood.co/articles/new-study-queer-friendship-health",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "ensamhet-isolering-friska-levnadsar-2026",
+      "title": "Ensamhet och social isolering kostar flera friska levnadsår",
+      "category": "Forskning",
+      "date": "2026-10-10",
+      "location": "",
+      "summary": "Stor Tulane-ledd studie av över 277 000 vuxna i UK Biobank visar att ensamhet och social isolering hänger starkare samman med förlorade år fria från psykisk ohälsa än med förlorade år fria från fysisk sjukdom, med en tydligare effekt hos män än hos kvinnor.",
+      "source": "Nature Communications / ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261006234514.htm",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "vanner-narmare-demografisk-likhet-2026",
+      "title": "Vänner känns närmare varandra när de liknar varandra demografiskt",
+      "category": "Forskning",
+      "date": "2026-08-03",
+      "location": "",
+      "summary": "Studie av Markus Jokela i Journal of Social and Personal Relationships, baserad på den tyska PAIRFAM-panelen, visar att vänner som liknar varandra i ålder och kön upplever något större emotionell närhet – sambandet var starkare bland kvinnor än bland män.",
+      "source": "PsyPost / Journal of Social and Personal Relationships",
+      "url": "https://www.psypost.org/friends-tend-to-be-somewhat-closer-if-their-demographic-characteristics-are-similar/",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "brytpunkt-relationstillfredsstallelse-65-procent-2024",
+      "title": "Par tenderar att separera när relationsnöjdheten sjunker till cirka 65 procent",
+      "category": "Forskning",
+      "date": "2024-09-11",
+      "location": "",
+      "summary": "Stor longitudinell studie i Journal of Personality and Social Psychology visar att romantiska par tenderar att gå skilda vägar när deras relationsnöjdhet faller till ungefär 65 procent av den maximala möjliga nivån, vilket pekar på en mätbar brytpunkt innan en separation.",
+      "source": "PsyPost / Journal of Personality and Social Psychology",
+      "url": "https://www.psypost.org/researchers-identify-a-critical-threshold-for-relationship-breakups",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "uottawa-autonomistod-separation-valbefinnande-2026",
+      "title": "Hur du gör slut kan påverka hur lätt det blir att gå vidare",
+      "category": "Relationer",
+      "date": "2026-02-23",
+      "location": "",
+      "summary": "Studie från University of Ottawas REACH Lab visar att när den som gör slut är ärlig och icke-kontrollerande – det forskarna kallar autonomistödjande – rapporterar båda parter bättre sinnesstämning och mer energi efteråt, även om det inte minskade ångest eller nedstämdhet.",
+      "source": "Journal of Sex & Marital Therapy / University of Ottawa",
+      "url": "https://www.uottawa.ca/about-us/news-all/breaking-hard-how-you-do-it-might-make-moving-easier",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
     }
   ]
 }

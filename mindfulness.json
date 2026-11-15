@@ -2,8 +2,8 @@
   "topic": "Mindfulness",
   "description": "Forskning om meditation, metoder, appar, retreater och mindfulness i vardagen. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-11-08",
-  "item_count": 97,
+  "last_updated": "2026-11-15",
+  "item_count": 105,
   "items": [
     {
       "id": "sju-dagars-meditation-forandrar-hjarnan-2026",
@@ -1168,6 +1168,102 @@
       "url": "https://www.newswise.com/articles/mindfulness-based-stress-reduction-is-as-effective-as-an-antidepressant-drug-for-treating-anxiety-disorders",
       "added_on": "2026-11-08",
       "collected_week": "2026-W45"
+    },
+    {
+      "id": "more-opioid-craving-hjarnrespons-mount-sinai-2026",
+      "title": "Mindfulnessbaserad terapi kan förändra hjärnans svar på drogrelaterade signaler vid opioidberoende",
+      "category": "Forskning",
+      "date": "2026-10-28",
+      "location": "",
+      "summary": "En randomiserad studie från Mount Sinai visar att åtta veckor med mindfulnessbaserad återhämtningsterapi (MORE) minskade hjärnans aktivering vid drogrelaterade bilder och istället stärkte aktiviteten kopplad till naturliga belöningar hos personer med opioidberoende. Förändringarna i hjärnan hängde samman med minskat sug efter droger.",
+      "source": "Mount Sinai",
+      "url": "https://www.mountsinai.org/about/newsroom/2026/mindfulness-based-therapy-may-change-brain-responses-to-drug-cues-in-people-with-opioid-use-disorder-mount-sinai-study-finds",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "mindfulness-sessionsinledning-ungdomar-heidelberg-2026",
+      "title": "Kort mindfulnessövning i terapins start kan stärka ungas behandlingsallians",
+      "category": "Studie",
+      "date": "2026-10-16",
+      "location": "Tyskland",
+      "summary": "En randomiserad studie från Heidelberg visar att en kort mindfulnessövning i inledningen av varje samtalsterapisession stärkte den terapeutiska relationen hos 90 ungdomar som behandlades för depression, ångest eller adhd, jämfört med avslappningsövningar eller en helt ostrukturerad start.",
+      "source": "Universität Heidelberg / Newswise",
+      "url": "https://www.newswise.com/articles/mindfulness-exercises-can-support-psychotherapy-for-adolescents/?ad2f=1&aid=856809",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "calm-shift-ljudbaserad-app-lansering-2026",
+      "title": "Calm lanserar nya funktionen Shift för att snabbt skifta humör med ljud",
+      "category": "App",
+      "date": "2026-10-27",
+      "location": "",
+      "summary": "Meditationsappen Calm har lanserat funktionen Shift, byggd på så kallat binauralt ljud som pendlar mellan öronen för att hjälpa användare växla mellan fokus, lugn, energi och sömn. Lanseringen omfattar ett sju dagar långt guidat program och över tjugo särskilt framtagna ljudspår.",
+      "source": "Calm",
+      "url": "https://www.calm.com/blog/press-releases/shift",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "healing-spring-monastery-rains-retreat-2026",
+      "title": "Plum Village-kloster inleder tre månader lång meditationsretreat i Frankrike",
+      "category": "Retreat",
+      "date": "2026-11-15",
+      "location": "Frankrike",
+      "summary": "Healing Spring Monastery, en del av Plum Village-traditionen, inledde den 15 november en tre månader lång engelskspråkig retreat med sittande och gående meditation för ett fåtal deltagare. Retreatet bygger på Thich Nhat Hanhs mindfulnesstradition och pågår fram till februari 2027.",
+      "source": "Plum Village",
+      "url": "https://plumvillage.org/event/retreat/3-month-rain-retreat-at-healing-spring-monastery",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "mindful-foraldraskap-spadbarnsstress-hjarnrespons-2026",
+      "title": "Mammors mindfulness i stunden kopplas till särskilt hjärnmönster vid spädbarnsgråt",
+      "category": "Forskning",
+      "date": "2026-08-25",
+      "location": "",
+      "summary": "En studie visar att nyblivna mammor som kände mer nyfikenhet och distans när de såg sitt spädbarn gråta på video uppvisade ökad aktivitet i hjärnans frontalpol, ett område kopplat till öppenhet och flexibelt tänkande. Forskarna menar att graden av mindfulness i stunden kan vara en del av det som buffrar föräldrastress.",
+      "source": "PsyPost",
+      "url": "https://www.psypost.org/mindful-observation-of-infant-distress-is-linked-to-unique-brain-responses-in-new-mothers/",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "mindfulness-tidpunkter-universitetsanstallda-fiib-2026",
+      "title": "Studie kartlägger när på dagen universitetsanställda mediterar för att hantera stress",
+      "category": "Arbetsliv",
+      "date": "2026-03-08",
+      "location": "Nya Zeeland",
+      "summary": "En kvalitativ studie med 28 universitetsanställda i Nya Zeeland visar att mindfulnessövningar vanligen görs vid fyra olika tillfällen under dagen – på morgonen, mitt på dagen, spontant vid behov och efter arbetet. Forskarna betonar att ett stödjande arbetsklimat är avgörande för att vanan ska hålla i sig över tid.",
+      "source": "FIIB Business Review",
+      "url": "https://doi.org/10.1177/23197145261425108",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "edinburgh-universitet-mindfulnessretreat-november-2026",
+      "title": "Edinburghs universitet bjuder in till digital mindfulnessdag i november",
+      "category": "Retreat",
+      "date": "2026-11-14",
+      "location": "Storbritannien",
+      "summary": "Edinburghs universitets själavårdsorganisation höll en hel dags digital mindfulnessretreat den 14 november, ledd av universitetets mindfulnesspräst. Retreatet var öppet för studenter, anställda och allmänheten och bestod av flera guidade pass under dagen för dem som ville öva hemifrån.",
+      "source": "University of Edinburgh Chaplaincy",
+      "url": "https://chaplaincy.ed.ac.uk/mindfulness/mindfulness-retreats",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "vr-andningsmindfulness-studenter-jmir-xr-2026",
+      "title": "VR- och AR-baserad andningsmindfulness gav bättre mående hos studenter",
+      "category": "Forskning",
+      "date": "2026-03-25",
+      "location": "Singapore",
+      "summary": "En studie med 102 universitetsstudenter i Singapore jämförde korta andningsövningar i VR och AR med att enbart låta tankarna vandra fritt, och fann att båda de immersiva teknikerna förbättrade känslomässigt mående och självkontroll. Arbetsminnet påverkades däremot inte på kort sikt.",
+      "source": "JMIR XR and Spatial Computing",
+      "url": "https://xr.jmir.org/2026/1/e84239",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
     }
   ]
 }

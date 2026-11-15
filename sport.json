@@ -2,8 +2,8 @@
   "topic": "Sport – Fotboll, Tennis & Bordtennis",
   "description": "Nyheter inom fotboll, tennis och bordtennis med svenskt fokus. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-11-08",
-  "item_count": 147,
+  "last_updated": "2026-11-15",
+  "item_count": 153,
   "items": [
     {
       "id": "allsvenskan-sommaruppehall-2026",
@@ -1752,6 +1752,78 @@
       "url": "https://hurbra.se/?p=43452",
       "added_on": "2026-11-08",
       "collected_week": "2026-W45"
+    },
+    {
+      "id": "kalmar-sirius-hammarby-tabelltopp-2026",
+      "title": "Kalmar chockade Sirius – Hammarby tog tabelltoppen på målskillnad",
+      "category": "Resultat",
+      "date": "2026-11-08",
+      "location": "Kalmar",
+      "summary": "Sirius föll med 0–1 mot Kalmar FF på Guldfågeln Arena efter ett missöde i målvaktsspelet, vilket innebar att Hammarby gick upp på delad poäng men bättre målskillnad i toppstriden om SM-guldet med bara två omgångar kvar av Allsvenskan.",
+      "source": "HurBra",
+      "url": "https://hurbra.se/kalmar-sirius-1-0-8-november-2026/",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "halmstad-djurgarden-guldhopp-slackt-2026",
+      "title": "Halmstad chockade Djurgården och släckte det sista guldhoppet",
+      "category": "Resultat",
+      "date": "2026-11-08",
+      "location": "Halmstad",
+      "summary": "Djurgården förlorade på Örjans Vall mot Halmstad i samma omgång som Sirius föll mot Kalmar, vilket i praktiken gjorde SM-guldet till en ren tvåkamp mellan Hammarby och Sirius inför de två avslutande omgångarna.",
+      "source": "Flashscore",
+      "url": "https://www.flashscore.com/news/soccer-allsvenskan-sirius-and-djuargarden-shocked-by-strugglers-as-title-race-swings-hammarby-s-way/GvJL6sMr/",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "ifk-goteborg-malmo-ff-0-0-2026-11-08",
+      "title": "Målvakterna höll nollan när Göteborg och Malmö FF kryssade",
+      "category": "Resultat",
+      "date": "2026-11-08",
+      "location": "Göteborg",
+      "summary": "IFK Göteborg och Malmö FF delade på poängen efter en mållös batalj på Gamla Ullevi, där Malmö hade mest bollinnehav medan Göteborg svarade för fler avslut och hörnor.",
+      "source": "HurBra",
+      "url": "https://hurbra.se/ifk-goteborg-malmo-ff-0-0-8-november-2026/",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "svenska-wildcards-utslagna-stockholm-open-2026",
+      "title": "Alla tre svenska wildcards utslagna i första rundan av Stockholm Open",
+      "category": "Resultat",
+      "date": "2026-11-09",
+      "location": "Stockholm",
+      "summary": "Efter att Elias Ymer fallit mot Juan Manuel Cerúndolo åkte även Leo Borg och Max Dahlin ut på måndagen, Borg mot kvalspelaren Toby Samuel och Dahlin efter tre set mot Tomás Martín Etcheverry, vilket lämnade Stockholm Open utan svensk spelare kvar i singelns huvudturnering.",
+      "source": "Tennis Majors",
+      "url": "https://www.tennismajors.com/?p=866561",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "rune-kecmanovic-fritz-stockholm-open-2026",
+      "title": "Rune vände efter tung start mot Kecmanovic – möter Fritz i kvarten",
+      "category": "Resultat",
+      "date": "2026-11-11",
+      "location": "Stockholm",
+      "summary": "Holger Rune vände ett set-underläge och vann till slut 2–6, 6–1, 6–4 mot Miomir Kecmanovic i Stockholm Open, vilket tog honom till sin 40:e karriärkvartsfinal och ett möte med förstaseedade Taylor Fritz.",
+      "source": "Tennis Majors",
+      "url": "https://www.tennismajors.com/?p=866701",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "gyokeres-skadad-hamstring-november-2026",
+      "title": "Gyökeres skadad i hamstring – missar Arsenal-matcher inför landslagsuppehållet",
+      "category": "Nyhet",
+      "date": "2026-11-07",
+      "location": "London",
+      "summary": "Viktor Gyökeres drabbades av en hamstringskada och missade Arsenals bortamatch mot Sunderland, med målsättningen att vara spelklar igen efter novemberuppehållet, enligt brittiska medier.",
+      "source": "Sky Sports",
+      "url": "https://www.skysports.com/football/news/11661/13463784/viktor-gyokeres-injury-arsenal-striker-sidelined-until-after-november-international-break-with-north-london-derby-return-targeted",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
     }
   ]
 }

@@ -3,7 +3,7 @@
   "description": "Nya IT- och teknikprodukter: hårdvara, mjukvara, AI och gaming. Uppdateras varje vecka.",
   "schema_version": 1,
   "last_updated": "2026-11-15",
-  "item_count": 198,
+  "item_count": 203,
   "items": [
     {
       "id": "nvidia-rtx-spark-2026",
@@ -2378,6 +2378,66 @@
       "summary": "Nintendo släppte den uppdaterade versionen av klassikern The Legend of Zelda: Ocarina of Time till Switch 2 den 5 november, med förbättrad grafik och stöd för konsolens högre prestanda. Spelet var ett av flera storsäljare som Nintendo lyfte fram i sin senaste försäljningsrapport.",
       "source": "Nintendo Everything",
       "url": "https://nintendoeverything.com/?p=928537",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "football-manager-27-lansering-2026",
+      "title": "Football Manager 27 släpps på fem plattformar",
+      "category": "Gaming",
+      "date": "2026-11-10",
+      "location": "",
+      "summary": "Sports Interactive lanserade Football Manager 27 den 10 november till PC, PS5, Xbox Series och mobil via Netflix, med ett omarbetat gränssnitt och fler matchdagsfunktioner. Spelet finns dag ett i både PC Game Pass och Xbox Game Pass Ultimate.",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/2026/09/football-manager-27-launches-november-10-for-ps5-xbox-series-pc-ios-and-android",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "ps5-100-miljoner-salda-2026",
+      "title": "PlayStation 5 passerar 100 miljoner levererade enheter",
+      "category": "Produkt",
+      "date": "2026-11-10",
+      "location": "",
+      "summary": "Sonys senaste försäljningsdata visar att PS5 nu har levererats i över 100 miljoner exemplar världen över, bara veckor efter att konsolen i kvartalsrapporten uppgavs ligga på 97,9 miljoner. PS5 blir därmed den fjärde Playstation-konsolen att passera milstolpen.",
+      "source": "Gematsu",
+      "url": "https://www.gematsu.com/?p=1087175",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "xbox-game-pass-toxic-commando-november-2026",
+      "title": "Toxic Commando läggs till i Xbox Game Pass",
+      "category": "Gaming",
+      "date": "2026-11-12",
+      "location": "",
+      "summary": "Microsoft lade den 12 november till actionspelet Toxic Commando i Xbox Game Pass Ultimate, Game Pass Premium och PC Game Pass, som en del av novembers tillskott som även inkluderar Escape Academy 2 och Warhammer Survivors.",
+      "source": "Pure Xbox",
+      "url": "https://purexbox.com/news/2026/11/10plus-game-pass-titles-are-confirmed-for-xboxs-25th-anniversary-week",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "shrek-2-remastered-lansering-2026",
+      "title": "Shrek 2 Remastered lanseras med fyrspelarsamarbete",
+      "category": "Gaming",
+      "date": "2026-11-10",
+      "location": "",
+      "summary": "Aspyr och Universal släppte den 10 november en nyversion av PS2-klassikern Shrek 2 till PC, PS5, Xbox Series och Switch/Switch 2, med stöd för online- och lokalt samarbete för upp till fyra spelare i 4K.",
+      "source": "KeenGamer",
+      "url": "https://www.keengamer.com/articles/news/shrek-2-remastered-announced-launches-november-10/",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "warhammer-survivors-lansering-2026",
+      "title": "Warhammer Survivors lanseras på sex plattformar",
+      "category": "Gaming",
+      "date": "2026-11-10",
+      "location": "",
+      "summary": "Utvecklaren Auroch Digital släppte den 10 november actionspelet Warhammer Survivors världen över till PC, Switch, Switch 2, PS5, Xbox Series och mobil, utan regional utrullning i etapper.",
+      "source": "GosuGamers",
+      "url": "https://www.gosugamers.net/entertainment/news/79306-warhammer-survivors-to-launch-on-10-november-new-demos-available-on-steam",
       "added_on": "2026-11-15",
       "collected_week": "2026-W46"
     }

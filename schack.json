@@ -2,8 +2,8 @@
   "topic": "Schack",
   "description": "Stora turneringar, elitspelare, onlineschack, svenskt schack och talanger. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-11-08",
-  "item_count": 106,
+  "last_updated": "2026-11-15",
+  "item_count": 111,
   "items": [
     {
       "id": "sindarov-vinner-kandidatturneringen-2026",
@@ -1262,6 +1262,66 @@
       "url": "https://en.chessbase.com/newsroom/post/bodhana-sivanandan-youngest-ever-wgm-at-11",
       "added_on": "2026-11-08",
       "collected_week": "2026-W45"
+    },
+    {
+      "id": "fide-veteran-vm-vrnjacka-banja-2026",
+      "title": "VM för veteraner avgjordes i Vrnjačka Banja",
+      "category": "Turnering",
+      "date": "2026-11-14",
+      "location": "Vrnjačka Banja, Serbien",
+      "summary": "Omkring 400 spelare från 65 länder tävlade om fyra VM-titlar i åldersklasserna 50+ och 65+ i serbiska Vrnjačka Banja, med en prissumma på 50 000 euro som en av de största i veteranschackets historia.",
+      "source": "FIDE",
+      "url": "https://www.fide.com/?p=51407",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "varldsjuniorrapid-al-ain-2026",
+      "title": "Begmuratov och Roebers tog VM-guld i juniorrapid i Al Ain",
+      "category": "Talang",
+      "date": "2026-11-07",
+      "location": "Al Ain, Förenade Arabemiraten",
+      "summary": "Uzbekistans Khumoyun Begmuratov gick obesegrad genom tävlingen och tog VM-guldet i öppna klassen, medan nederländska Eline Roebers vann flickornas VM-titel i juniorrapid inför 185 spelare från 40 länder.",
+      "source": "FIDE",
+      "url": "https://www.fide.com/?p=51328",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "varldsjuniorblitz-al-ain-2026",
+      "title": "Pranav och Kleymenova kronades till VM-mästare i juniorblitz",
+      "category": "Talang",
+      "date": "2026-11-09",
+      "location": "Al Ain, Förenade Arabemiraten",
+      "summary": "VM-veckan för junior rapid och blixt i Al Ain avslutades med att Pranav V och Alexandra Kleymenova tog hem blixttitlarna, ytterligare ett bevis på hur djupt ungdomstoppen inom schacket har blivit.",
+      "source": "FIDE",
+      "url": "https://www.fide.com/?p=51386",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "carlsen-vinner-blixtinledning-total-chess-budapest-2026",
+      "title": "Carlsen vann blixtinledningen i Total Chess-piloten i Budapest",
+      "category": "Nyhet",
+      "date": "2026-11-10",
+      "location": "Budapest, Ungern",
+      "summary": "Magnus Carlsen gick obesegrad genom den niorundors blixtöppningen av piloten för Total Chess World Championship Tour, där han tävlar mot bland andra Fabiano Caruana i ett nytt format som blandar blixt, snabbschack och klassiskt schack.",
+      "source": "FIDE",
+      "url": "https://www.fide.com/?p=51472",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "fide-novemberlistan-2026-sindarov-leder-gukesh-72",
+      "title": "Sindarov leder Gukesh med 72 ratingpoäng inför VM-matchen",
+      "category": "Nyhet",
+      "date": "2026-11-02",
+      "location": "",
+      "summary": "FIDE:s novemberlista visar att utmanaren Javokhir Sindarov går in i VM-matchen med hela 72 ratingpoängs och 22 placeringars försprång på regerande mästaren Gukesh Dommaraju, samtidigt som Nihal Sarin klev in bland världens 20 bästa.",
+      "source": "Chess.com",
+      "url": "https://www.chess.com/news/view/november-2026-fide-rating-list",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
     }
   ]
 }

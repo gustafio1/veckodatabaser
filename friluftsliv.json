@@ -2,8 +2,8 @@
   "topic": "Friluftsliv",
   "description": "Vandringsleder, friluftsutrustning, naturvård, allemansrätt och äventyr. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-11-08",
-  "item_count": 107,
+  "last_updated": "2026-11-15",
+  "item_count": 113,
   "items": [
     {
       "id": "pusselleden-invigd-sigtuna-2026",
@@ -1274,6 +1274,78 @@
       "url": "https://www.lansstyrelsen.se/download/18.245cf1e91a1630e7e7d35c1d/1793024585723/Komplett%20beslut%20om%20bildande%20av%20naturreservatet%20Bj%C3%B6rnsbodarna.pdf",
       "added_on": "2026-11-08",
       "collected_week": "2026-W45"
+    },
+    {
+      "id": "igelkotten-fridlyst-nya-artskyddsregler-2026",
+      "title": "Igelkotten blir fridlyst när nya artskyddsregler träder i kraft",
+      "category": "Naturvård",
+      "date": "2026-11-01",
+      "location": "",
+      "summary": "Sedan den 1 november ingår igelkotten bland de nationellt fridlysta arterna, medan vanliga växter som blåsippa och liljekonvalj samtidigt plockas bort från listan. Det är den mest omfattande uppdateringen av fridlysningsreglerna på flera år.",
+      "source": "SVT Nyheter",
+      "url": "https://www.svt.se/nyheter/inrikes/al-och-igelkott-laggs-till-pa-artskyddslistan",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "ostergotland-tre-naturreservat-november-2026",
+      "title": "Tre nya naturreservat bildade i Östergötland",
+      "category": "Natur",
+      "date": "2026-11-04",
+      "location": "Östergötland",
+      "summary": "Länsstyrelsen i Östergötland beslutade den 4 november om tre nya naturreservat, samtidigt som två befintliga reservat fick uppdaterade skötselplaner och ett nytt naturvårdsavtal tecknades i länet.",
+      "source": "Länsstyrelsen Östergötland",
+      "url": "https://www.lansstyrelsen.se/ostergotland/om-oss/nyheter-och-press/nyheter---ostergotland/2026-11-05-tre-nya-naturreservat-i-ostergotland.html",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "luvkullvattnet-naturreservat-utokning-jamtland-2026",
+      "title": "Naturreservatet Luvkullvattnet i Jämtland utökas",
+      "category": "Natur",
+      "date": "2026-11-02",
+      "location": "Krokom",
+      "summary": "Länsstyrelsen i Jämtlands län har beslutat att utöka naturreservatet Luvkullvattnet utanför Svaningen, sedan en fjällskogsinventering visat att det angränsande området har höga naturvärden.",
+      "source": "Länsstyrelsen Jämtland",
+      "url": "https://www.lansstyrelsen.se/download/18.440f9b941a18c40286425fdc/1793629677240/Komplett%20beslut%20om%20ut%C3%B6kning%20av%20naturreservatet%20Luvkullvattnet.pdf",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "hilleviks-trodjefjarden-naturreservat-beslut-2026",
+      "title": "Hilleviks- och Trödjefjärden blir nytt naturreservat i Bottenhavet",
+      "category": "Natur",
+      "date": "2026-11-09",
+      "location": "Gävle",
+      "summary": "Länsstyrelsen Gävleborg beslutade den 9 november att bilda naturreservatet Hilleviks- och Trödjefjärden, ett 1198 hektar stort område i södra Bottenhavet där merparten utgörs av hav. Beslutet följer på ett förslag som tidigare varit ute på remiss.",
+      "source": "Länsstyrelsen Gävleborg",
+      "url": "https://www.lansstyrelsen.se/gavleborg/om-oss/nyheter-och-press/nyheter/nyheter---gavleborg/2026-11-09-hilleviks--och-trodjefjarden-skyddas---en-biologisk-skattkammare-blir-reservat.html",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "naturskyddsforeningen-cop31-antalya-2026",
+      "title": "Naturskyddsföreningen på plats när FN:s klimattoppmöte COP31 inleds i Antalya",
+      "category": "Nyhet",
+      "date": "2026-11-09",
+      "location": "",
+      "summary": "Naturskyddsföreningen deltar på FN:s klimattoppmöte COP31 i Antalya den 9–20 november och uppmanar Sverige och EU att driva igenom konkreta beslut om utfasning av fossila bränslen. Organisationen varnar för att ett förändrat klimat redan påverkar friluftsliv och naturupplevelser i Sverige.",
+      "source": "TT/Naturskyddsföreningen",
+      "url": "https://via.tt.se/pressmeddelande/4627167/infor-cop31-fossila-branslen-maste-fasas-ut-skyndsamt",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "skidsasongen-oppnar-norra-sverige-november-2026",
+      "title": "Fler svenska fjällorter öppnar för skidsäsongen i början av november",
+      "category": "Äventyr",
+      "date": "2026-11-06",
+      "location": "Idre",
+      "summary": "Idre Fjäll hörde tillsammans med finska Levi och Ruka till de första skidorterna i norra Europa att öppna för säsongen, tack vare kall väderlek som gynnar snöproduktionen. Fler svenska fjällorter, bland andra Tärnaby och Kåbdalis, väntas följa efter under november.",
+      "source": "Snow-Forecast",
+      "url": "https://www.snow-forecast.com/whiteroom/europe-weekly-snow-roundup-340/",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
     }
   ]
 }

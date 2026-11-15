@@ -2,8 +2,8 @@
   "topic": "Språk",
   "description": "Forskning om språkinlärning, svenskan, språkteknik och flerspråkighet. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-11-08",
-  "item_count": 95,
+  "last_updated": "2026-11-15",
+  "item_count": 100,
   "items": [
     {
       "id": "onskvarda-svarigheter-glosinlarning-2026",
@@ -1144,6 +1144,66 @@
       "url": "https://liu.se/nyhet/svenska-aktorer-samlas-kring-sprakdata-for-ai",
       "added_on": "2026-11-08",
       "collected_week": "2026-W45"
+    },
+    {
+      "id": "ljud-fore-ord-sprakinlarning-studie-2026",
+      "title": "Fokusera på ljud, inte ord, för att lära dig ett nytt språk",
+      "category": "Studie",
+      "date": "2026-10-18",
+      "location": "",
+      "summary": "En ny studie som kartlade hjärnaktiviteten hos japanska talare som övade engelskt uttal visar att god förmåga att urskilja ljud gör att man snabbare lär sig nya språkljud. Forskarna menar att språkundervisning bör lägga mer vikt vid lyssning och uttal, inte bara ord och grammatik.",
+      "source": "TT/TV4",
+      "url": "https://www.tv4.se/artikel/tt-261018-englandsprak1-3e7a57af/sa-lar-du-dig-nytt-sprak-fokus-pa-ljud-inte-ord",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "ifau-rapport-nyanlanda-flersprakiga-skola-2026",
+      "title": "IFAU: Riktat stöd till nyanlända elever ger bättre skolresultat",
+      "category": "Forskning",
+      "date": "2026-02-10",
+      "location": "",
+      "summary": "En randomiserad utvärdering av en stödinsats för nyanlända och flerspråkiga elever visar att insatsen förbättrar skolresultaten och bedöms vara samhällsekonomiskt lönsam. Rapporten ger regeringen och skolhuvudmän konkret vägledning om mottagande och undervisningskvalitet.",
+      "source": "IFAU",
+      "url": "https://www.ifau.se/globalassets/pdf/se/2026/2026-1-battre-skola-for-nyanlanda-och-flersprakiga-elever.pdf",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "flersprakiga-hjarnor-yngre-fens-2026",
+      "title": "Flerspråkiga hjärnor såg biologiskt yngre ut i stor hjärnstudie",
+      "category": "Forskning",
+      "date": "2026-08-21",
+      "location": "",
+      "summary": "Forskare presenterade på en europeisk neurovetenskaplig konferens en AI-modell för hjärnans åldrande, tränad på hjärnavbildningar av över 700 personer. Flerspråkiga deltagare fick en lägre uppskattad hjärnålder än enspråkiga, och effekten verkade starkare för dem som lärt sig flera språk tidigt - men studien är observationell och ännu inte sakkunniggranskad.",
+      "source": "Neuroscience News / FENS Forum",
+      "url": "https://neurosciencenews.com/multilingualism-ai-brain-age-clock-30999/",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "skolledare-sprak-larare-flersprakighet-pitea-2026",
+      "title": "Skolledare och speciallärare ser flerspråkighet som en tillgång",
+      "category": "Forskning",
+      "date": "2026-02-01",
+      "location": "",
+      "summary": "En studie i tidskriften Fufos undersöker hur skolledare och speciallärare beskriver arbetet med flerspråkighet på sina skolor. Båda yrkesgrupperna lyfter fram flerspråkighet som en resurs och pekar på samverkan, tydliga strukturer och ledarskap som avgörande för att den ska komma till sin rätt i undervisningen.",
+      "source": "Fufos (Piteå kommun)",
+      "url": "https://www.pitea.se/contentassets/79c873010c694cfeb3ae8c6596acab6f/fufos_vol-5_nr-1_2026.pdf",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "studenter-svenska-fore-engelska-hogre-utbildning-2026",
+      "title": "Studenter föredrar svenska framför engelska i högre utbildning",
+      "category": "Studie",
+      "date": "2026-05-01",
+      "location": "",
+      "summary": "En undersökning bland studenter vid svenska universitet visar att de överlag hellre vill undervisas och examineras på svenska än på engelska, trots den utbredda användningen av engelsk kurslitteratur. Resultatet väcker frågor om hur högskolor balanserar internationalisering med studenternas språkliga trygghet.",
+      "source": "Göteborgs universitet",
+      "url": "https://www.gu.se/nyheter/studenter-foredrar-svenska-framfor-engelska-i-hogre-utbildning",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
     }
   ]
 }

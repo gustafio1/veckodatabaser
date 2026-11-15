@@ -2,8 +2,8 @@
   "topic": "Historia",
   "description": "Historisk forskning, arkeologiska fynd, svensk historia, böcker och jubileer. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-11-08",
-  "item_count": 107,
+  "last_updated": "2026-11-15",
+  "item_count": 112,
   "items": [
     {
       "id": "herlaugshaugen-skeppsgrav-2026",
@@ -1288,6 +1288,66 @@
       "url": "https://efn.se/prisad-biografi-om-sveriges-forste-jude",
       "added_on": "2026-11-08",
       "collected_week": "2026-W45"
+    },
+    {
+      "id": "nubia-katedral-golv-dongola-2026",
+      "title": "Ursprungsgolvet i Nubias största katedral hittat i Sudan",
+      "category": "Fynd",
+      "date": "2026-11-04",
+      "location": "Old Dongola, Sudan",
+      "summary": "Ett polsk-sudanesiskt forskarlag har nått det ursprungliga golvet i Jesu kyrka i Old Dongola, en av medeltidens största kyrkobyggnader i Nubia. Fyndet gör att arkeologerna nu kan ompröva vilken byggnad som egentligen fungerade som stadens katedral.",
+      "source": "Archaeology Magazine",
+      "url": "https://archaeologymag.com/2026/11/original-floor-of-nubias-largest-cathedral-in-sudan/",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "cannabis-skytisk-grav-sibirien-2026",
+      "title": "Äldsta beviset för cannabisrus hittat i 2800 år gammal sibirisk grav",
+      "category": "Forskning",
+      "date": "2026-11-05",
+      "location": "Tunnug 1, Sibirien",
+      "summary": "Forskare har funnit cannabisfrön och spår av THC i bevarat hår från en skytisk hövdingagrav i södra Sibirien, vilket pekar på det hittills äldsta belägget för medveten cannabisrökning. Andra forskare är dock kritiska till om analysen verkligen kan skilja rökning från annan exponering.",
+      "source": "Popular Science",
+      "url": "https://www.popsci.com/science/oldest-cannabis-use-siberia/",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "maja-hagerman-botvid-arets-bok-2026",
+      "title": "Maja Hagermans bok om Botvid utsedd till Årets bok om svensk historia",
+      "category": "Bok",
+      "date": "2026-02-01",
+      "location": "",
+      "summary": "Läsarna av nättidningen Svensk Historia har för tredje gången röstat fram Maja Hagerman till vinnare av Årets bok om svensk historia, nu för \"Botvid. Den förste svensken\". Boken vävde samman arkeologi och historia till en berättelse om ett av Sveriges första kända helgon.",
+      "source": "Sweden Herald",
+      "url": "https://swedenherald.com/article/maja-hagermans-book-about-canonized-farmers-son-botvid-praised-in-reader-poll",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "digital-history-sweden-konferens-malmo-2026",
+      "title": "Sjunde konferensen Digital History in Sweden hölls i Malmö",
+      "category": "Forskning",
+      "date": "2026-11-05",
+      "location": "Malmö",
+      "summary": "Historiker och digitala humanister möttes vid Malmö universitet för den sjunde upplagan av konferensen Digital History in Sweden, med temat \"Hic sunt dracones\". Konferensen var avgiftsfri och samlade bidrag om digitala metoder och praktiker inom historisk forskning.",
+      "source": "Umeå universitet",
+      "url": "https://www.umu.se/en/events/digital-history-in-sweden_10371139",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "jubileumsaret-judiskt-liv-sverige-250-ar",
+      "title": "250 år av judiskt liv i Sverige sammanfattas i nytt regeringsdokument",
+      "category": "Jubileum",
+      "date": "2026-02-01",
+      "location": "Sverige",
+      "summary": "Regeringen har sammanfattat jubileumsåret 2025, då 250 år av etablerat judiskt liv i Sverige uppmärksammades med över 400 evenemang runt om i landet. Forum för levande historia och Skolverket fick särskilda uppdrag att sprida kunskap om jubileet.",
+      "source": "Regeringen.se",
+      "url": "https://regeringen.se/artiklar/2026/02/250-ar-av-judiskt-liv-i-sverige--jubileumsaret-2025/",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
     }
   ]
 }

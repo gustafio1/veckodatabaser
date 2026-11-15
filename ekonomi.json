@@ -2,8 +2,8 @@
   "topic": "Ekonomi & börs",
   "description": "Forskning om börs, makroekonomi, räntor och hushållens ekonomi. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-11-08",
-  "item_count": 108,
+  "last_updated": "2026-11-15",
+  "item_count": 118,
   "items": [
     {
       "id": "skuldkvot-mot-aktievardering-debt-equity-spread-2026",
@@ -1300,6 +1300,126 @@
       "url": "https://www.swedbank.se/om-oss/press/newsroom.details.mer-pengar-i-pl%C3%A5nboken-%E2%80%93-men-sm%C3%A5-marginaler-f%C3%B6r-unga-och-ensamst%C3%A5ende.EF522EE051A6DAD1.html",
       "added_on": "2026-11-08",
       "collected_week": "2026-W45"
+    },
+    {
+      "id": "scb-snabb-kpi-oktober-2026-dampad-inflation",
+      "title": "Inflationen dämpades något i oktober",
+      "category": "Makro",
+      "date": "2026-11-05",
+      "location": "",
+      "summary": "SCB:s snabbindikator visade att inflationen enligt KPI var 0,9 procent i oktober, ner från 1,1 procent månaden innan och klart under analytikernas förväntade 1,2 procent. Nedgången dämpar något av trycket som drivit Riksbankens senaste räntehöjning.",
+      "source": "Statistiska centralbyrån (SCB)",
+      "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/priser-och-ekonomiska-tendenser/priser/konsumentprisindex-kpi/pong/statistiknyhet/snabb-kpi-oktober-2026/",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "scb-hushallens-konsumtion-vecka42-2026",
+      "title": "Hushållens konsumtion fortsatte öka svagt i höst",
+      "category": "Hushåll",
+      "date": "2026-10-30",
+      "location": "",
+      "summary": "SCB:s veckoindikator visar att hushållens konsumtion ökade med 0,4 procent under veckorna 39–42 jämfört med föregående fyraveckorsperiod, efter att ha legat oförändrad perioden innan. Siffrorna tyder på en gradvis men ojämn återhämtning i hushållens köpkraft.",
+      "source": "Statistiska centralbyrån (SCB)",
+      "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-utgifter/hushallens-konsumtion/pong/statistiknyhet/hushallens-konsumtion-veckoindikator-till-och-med-vecka-42-2026/",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "nber-rantor-konsumtion-hushallsskuld-2026",
+      "title": "Ny studie förklarar hur räntor styr hushållens konsumtion via skulder",
+      "category": "Forskning",
+      "date": "2026-11-01",
+      "location": "",
+      "summary": "Ett NBER-working paper visar hur förändrade räntor påverkar konsumtionen främst genom hushållens skuldsättning och värdet på deras tillgångar, snarare än genom direkta inkomsteffekter. Resultaten ger en förklaringsmodell till varför räntehöjningar biter olika hårt beroende på hushållens balansräkning.",
+      "source": "National Bureau of Economic Research (NBER)",
+      "url": "https://www.nber.org/papers/w34911",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "nhh-narrativ-om-makroekonomin-2026",
+      "title": "Hushållens egna berättelser om ekonomin skiljer sig från experternas",
+      "category": "Forskning",
+      "date": "2026-11-05",
+      "location": "",
+      "summary": "Forskare vid NHH:s center FAIR visar att vanliga hushåll förklarar inflation och konjunktur med enklare, mer utbudsfokuserade berättelser än ekonomer gör, vilket kan påverka hur de reagerar på räntebesked och prisförändringar. Studien belyser varför ekonomisk kommunikation ofta missar sin målgrupp.",
+      "source": "Norges Handelshøyskole (NHH) / FAIR",
+      "url": "https://www.nhh.no/en/research-centres/fair/news/2026/narratives-about-the-macroeconomy/",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "seb-sparbarometer-aktier-om-fastigheter-2026",
+      "title": "Historiskt skifte: svenskarnas aktier nu värda mer än deras bostäder",
+      "category": "Hushåll",
+      "date": "2026-09-03",
+      "location": "",
+      "summary": "Enligt SEB:s Sparbarometer steg svenska hushålls nettoförmögenhet till rekordnivån 27 000 miljarder kronor under andra kvartalet, och för första gången är hushållens aktieinnehav värda mer än deras fastigheter. Analytiker varnar dock för att skiftet kan vara tillfälligt och känsligt för nya börsnedgångar.",
+      "source": "SEB",
+      "url": "https://sebgroup.com/sv/press/pressmeddelanden/2026/historisk-milstolpe-i-hushallens-sparande--storre-sparande-i-aktier-an-i-fastigheter",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "svensk-inflation-lagre-vantat-oktober-2026",
+      "title": "Svensk inflation kom in lägre än väntat i oktober",
+      "category": "Makro",
+      "date": "2026-11-13",
+      "location": "Sverige",
+      "summary": "SCB:s preliminära siffror visar att KPIF föll till 1,1 procent i oktober, klart under analytikernas förväntan på 1,4 procent. Nedgången var bred och drevs av svagare prisökningar för både varor och tjänster.",
+      "source": "Aktiespararna",
+      "url": "https://www.aktiespararna.se/nyheter/lagre-inflation-an-vantat-oktober-2026",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "bico-rusar-nedskrivning-november-2026",
+      "title": "Bico rusade på börsen trots stor nedskrivning",
+      "category": "Börs",
+      "date": "2026-11-05",
+      "location": "",
+      "summary": "Aktien i life science-bolaget Bico steg kraftigt samma dag som bolaget meddelade en miljardnedskrivning, medan Stockholmsbörsen i övrigt föll i spåren av ett amerikanskt teknikras. Reaktionen tolkades som att marknaden redan hade väntat sig nedskrivningen.",
+      "source": "Affärsvärlden",
+      "url": "https://www.affarsvarlden.se/artikel/stockholmsborsen-sjonk-for-andra-dagen-i-rad-bico-rusade-trots-nedskrivning",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "omxs30-rekordniva-rapportmorgon-2026",
+      "title": "OMXS30 satte ny rekordnivå efter intensiv rapportmorgon",
+      "category": "Börs",
+      "date": "2026-11-10",
+      "location": "Stockholm",
+      "summary": "Storbolagsindexet OMXS30 handlades upp mot nya rekordnivåer i samband med en morgon fylld av kvartalsrapporter. Uppgången drevs av en bred uppgång bland flera storbolag snarare än av enskilda jätteklivare.",
+      "source": "Aktiespararna",
+      "url": "https://www.aktiespararna.se/nyheter/ny-rekordniva-for-omxs30-efter-intensiv-rapportmorgon",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "sbab-hojer-bolanerantan-november-2026",
+      "title": "SBAB höjer tremånadersräntan på bolån efter Riksbankens besked",
+      "category": "Hushåll",
+      "date": "2026-11-11",
+      "location": "Sverige",
+      "summary": "Efter att Riksbanken höjde styrräntan till 2,00 procent aviserade SBAB en höjning av sin tremånaders bolåneränta med 0,22 procentenheter, till 3,37 procent. Höjningen trädde i kraft samma dag som Riksbankens beslut började gälla.",
+      "source": "Hurbra",
+      "url": "https://hurbra.se/?p=47690",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "svensk-bnp-starkare-vantat-svag-september-2026",
+      "title": "Svensk BNP växte mer än väntat i tredje kvartalet – men september blev svag",
+      "category": "Makro",
+      "date": "2026-10-29",
+      "location": "Sverige",
+      "summary": "SCB:s preliminära BNP-indikator visade en ökning på 0,4 procent för tredje kvartalet, något över analytikernas prognos på 0,3 procent. En stark augusti drog upp snittet, medan BNP i september föll tillbaka med 0,7 procent.",
+      "source": "Hurbra",
+      "url": "https://hurbra.se/svensk-bnp-tredje-kvartalet-2026/",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
     }
   ]
 }

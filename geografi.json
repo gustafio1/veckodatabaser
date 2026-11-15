@@ -2,8 +2,8 @@
   "topic": "Geografi",
   "description": "Kartor och kartografi, upptäckter, klimat- och landskapsförändringar och platser. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-11-08",
-  "item_count": 89,
+  "last_updated": "2026-11-15",
+  "item_count": 95,
   "items": [
     {
       "id": "sanborn-kartor-webbtjanst-2026",
@@ -1072,6 +1072,78 @@
       "url": "https://alaskabeacon.com/2026/08/12/trump-administration-ends-noaa-support-for-annual-arctic-report-card/",
       "added_on": "2026-11-08",
       "collected_week": "2026-W45"
+    },
+    {
+      "id": "kilauea-magmareservoarer-kartlagda-2026",
+      "title": "Tätt seismiskt nätverk avslöjar Kīlaueas två magmareservoarer",
+      "category": "Kartografi",
+      "date": "2026-11-03",
+      "location": "Hawaii, USA",
+      "summary": "Forskare placerade över 1800 seismometrar och använde en vibrerande lastbil för att skicka konstgjorda skalv genom vulkanen Kīlaueas topp. Resultatet är en detaljerad karta som visar två separata magmakammare nära ytan, som möjligen hänger ihop djupare ner.",
+      "source": "Eos (AGU)",
+      "url": "https://eos.org/research-spotlights/mapping-kilaueas-magma-reservoirs",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "guliya-istapp-tibet-128000-ar-2026",
+      "title": "Istapp i Tibet visar sig vara minst 128 000 år gammal",
+      "category": "Klimat",
+      "date": "2026-10-28",
+      "location": "Tibet, Kina",
+      "summary": "Genom att datera isotoper i borrkärnor från Guliyaglaciären har forskare visat att isen bevarar rester från den senaste istiden, långt äldre än man tidigare trott för icke-polär is. Fyndet är ett viktigt klimatarkiv samtidigt som uppvärmning hotar att smälta bort det.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261028232713.htm",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "azerbajdzjan-magmatisk-bage-iran-2026",
+      "title": "Dold vulkanisk båge från 100 miljoner år upptäckt under Iran",
+      "category": "Geologi",
+      "date": "2026-10-28",
+      "location": "Nordvästra Iran",
+      "summary": "Med hjälp av zirkondatering och isotopanalyser har forskare identifierat rester av en tidigare okänd kontinental magmatisk båge, aktiv för cirka 97–101 miljoner år sedan. Fyndet ger ny insikt i hur Neotethyshavet slöts geologiskt.",
+      "source": "SciTechDaily",
+      "url": "https://scitechdaily.com/scientists-discover-a-100-million-year-old-volcanic-system-hidden-beneath-iran/",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "papua-nya-guinea-sten-90-km-djup-2026",
+      "title": "Sten från Papua Nya Guinea avslöjar oväntad temperaturprofil djupt i jorden",
+      "category": "Geologi",
+      "date": "2026-10-20",
+      "location": "Goodenough Island, Papua Nya Guinea",
+      "summary": "Mikroskopiska inneslutningar av mineralet coesit i en sten visar att den en gång sjönk mer än 90 kilometer ner i jorden för omkring 4,4 miljoner år sedan. Temperaturmönstret bryter mot etablerade modeller för hur subduktionszoner värms upp.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261020084816.htm",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "ocean-discovery-league-10000-djuphavsplatser-2026",
+      "title": "Ny karta pekar ut 10 000 plaster för att utforska havsbottens blinda fläckar",
+      "category": "Kartografi",
+      "date": "2026-04-01",
+      "location": "",
+      "summary": "Ocean Discovery League har lanserat en global karta med 10 000 utvalda platser på djuphavsbottnen som ännu inte visuellt observerats. Platserna är medvetet valda för att undvika den historiska snedfördelningen mot rika länders vatten.",
+      "source": "National Geographic",
+      "url": "https://www.nationalgeographic.com/environment/article/katy-croff-bell-10000-map-deep-ocean-floor",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "jordens-okenarea-krymper-studie-2026",
+      "title": "Studie: jordens ökenarea har krympt sedan 1985",
+      "category": "Klimat",
+      "date": "2026-03-19",
+      "location": "",
+      "summary": "En analys av högupplösta satellitbilder visar att jordens totala ökenyta minskat med omkring 900 000 kvadratkilometer de senaste fyra decennierna, med södra Afrika som en av regionerna där ökenmarken dragit sig tillbaka. Resultatet går stick i stäv med flera klimatprognoser om ökad ökenspridning.",
+      "source": "AGU News",
+      "url": "https://news.agu.org/3-19-2026-earths-desert-area-is-shrinking/",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "topic": "Kyrkohistoria",
   "description": "Kyrkohistorisk forskning, jubileer, kristen arkeologi, böcker och kulturarv. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-11-08",
-  "item_count": 100,
+  "last_updated": "2026-11-15",
+  "item_count": 108,
   "items": [
     {
       "id": "iznik-nicaeakyrkans-lamningar-utgravda-2026",
@@ -1204,6 +1204,102 @@
       "url": "https://www.irishtimes.com/ireland/2026/04/29/rare-copy-of-oldest-poem-in-english-language-discovered-by-tcd-researchers/",
       "added_on": "2026-11-08",
       "collected_week": "2026-W45"
+    },
+    {
+      "id": "dongola-storkyrkan-nubien-2026",
+      "title": "Arkeologer blottar Nubiens största kyrka i Sudan",
+      "category": "Arkeologi",
+      "date": "2026-11-11",
+      "location": "",
+      "summary": "Ett sudanesisk-polskt team har nått golvnivån i Jesuskyrkan i Gamla Dongola, som arabiska källor beskriver som den största och rikaste kyrkan i det medeltida Nubien. Fyndet av en monumental trappa och ytterligare en kyrka på övervåningen kan tvinga forskare att ompröva vilken byggnad som faktiskt fungerade som stadens katedral.",
+      "source": "Archaeologymag / Orthochristian",
+      "url": "https://archaeologymag.com/2026/11/original-floor-of-nubias-largest-cathedral-in-sudan/",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "caedmons-hymn-rom-manuskript-2026",
+      "title": "Andra kopian av äldsta engelska dikten hittad i romersk klosterhandskrift",
+      "category": "Fynd",
+      "date": "2026-11-05",
+      "location": "",
+      "summary": "Forskare vid Trinity College Dublin har identifierat en andra bevarad kopia av Caedmons hymn, den äldsta kända engelska dikten, i en latinsk handskrift som en gång tillhörde klostret i Nonantola och senare kyrkan Santa Croce in Gerusalemme i Rom. Fyndet ger nya ledtrådar om hur anglosaxiskt kristet kulturarv spreds till kontinentens klosterbibliotek.",
+      "source": "Trinity College Dublin / The Conversation",
+      "url": "https://www.tcd.ie/news_events/articles/2026/conversation-caedmons-hymn/",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "glasgow-paulusbrev-42-sidor-2026",
+      "title": "42 förlorade sidor ur 500-talshandskrift med Paulusbreven återfunna",
+      "category": "Fynd",
+      "date": "2026-04-24",
+      "location": "",
+      "summary": "Ett forskarlag lett från Glasgows universitet har med avancerad bildteknik återskapat 42 tidigare okända sidor ur en handskrift från 500-talet med Paulus brev till Timoteus. Sidorna visar hur tidens skrivare rättade och kommenterade texten, och ger ny insyn i hur Nya testamentet kopierades och tolkades i den tidiga kyrkan.",
+      "source": "University of Glasgow / Times Higher Education",
+      "url": "https://www.timeshighereducation.com/research/university-glasgow/42-lost-pages-new-testament-manuscript-discovered",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "augustinus-forlorade-predikningar-pelplin-2026",
+      "title": "Två okända predikningar av Augustinus identifierade i polskt klosterbibliotek",
+      "category": "Fynd",
+      "date": "2026-06-23",
+      "location": "",
+      "summary": "Kyrkohistorikern Christian Tornau vid universitetet i Würzburg har identifierat två tidigare okända predikningar av Augustinus i en 1200-talshandskrift i stiftsbiblioteket i Pelplin, Polen, som ursprungligen tillhörde klostret Doberan. Predikningarna, som väntas ges ut i en kritisk utgåva under 2026, ger nya bidrag till förståelsen av den tidiga kristna teologin.",
+      "source": "Universität Würzburg / Arkeonews",
+      "url": "https://arkeonews.net/two-newly-discovered-sermons-by-st-augustine-tackle-a-dangerous-biblical-mystery/",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "vatopedi-purpurmanuskript-2026",
+      "title": "Bysantinskt purpurpergament från klostret Vatopedi på Athos studerat",
+      "category": "Forskning",
+      "date": "2026-03-01",
+      "location": "",
+      "summary": "Kyrkohistorikern Martin Wallraff har undersökt ett bysantinskt manuskriptfragment skrivet på purpurfärgat pergament, bevarat i klostret Vatopedi på berget Athos och daterat till 900-talet. Den sällsynta tekniken användes för särskilt vördade liturgiska och bibliska texter i det bysantinska kejsarhovets närhet.",
+      "source": "LMU München",
+      "url": "https://www.evtheol.lmu.de/en/latest-news/news-overview/news/discovery-of-a-byzantine-manuscript-written-on-purple-parchment-67212f62.html",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "vatikanens-arkiv-utbyggnad-2026",
+      "title": "Leo XIV beslutar om utbyggnad av Vatikanens arkiv och bibliotek",
+      "category": "Nyhet",
+      "date": "2026-09-14",
+      "location": "",
+      "summary": "Under ett besök vid det 1400-talsgamla Vatikanska apostoliska arkivet undertecknade påve Leo XIV ett chirograf som beordrar en ny byggnad för att rymma arkivets och bibliotekets växande samlingar. Eftersom Vatikanstaten är världsarvsklassat av Unesco kan projektet behöva godkännas av organisationen.",
+      "source": "Catholic Culture",
+      "url": "https://www.catholicculture.org/news/headlines/index.cfm?storyid=70678",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "gregorius-xvi-manuskript-aterlamnat-2026",
+      "title": "Stulet manuskript från Gregorius XVI:s tid återlämnat till Vatikanarkivet",
+      "category": "Nyhet",
+      "date": "2026-09-01",
+      "location": "",
+      "summary": "En handskrift från påve Gregorius XVI:s pontifikat har återlämnats till Vatikanens apostoliska arkiv av den italienska karabinjärkåren för skydd av kulturarv. Arkivets prefekt, pater Rocco Ronzani, bekräftade dokumentets äkthet efter att det spårats upp av polisens konstskyddsenhet.",
+      "source": "Vatican News",
+      "url": "https://aciafrica.org/tag/vatican-apostolic-archive",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "hessen-reformationsjubileum-2026",
+      "title": "Hessen firar 500 år sedan den evangeliska kyrkans grundande",
+      "category": "Jubileum",
+      "date": "2026-01-01",
+      "location": "",
+      "summary": "I den tyska regionen Hessen pågår under 2026 ett jubileumsår till minne av att lantgreve Filip av Hessen för 500 år sedan sammankallade en synod i Homberg som lade grunden för den evangeliska kyrkan i regionen. Jubileet lyfter fram reformationens tidiga organisatoriska steg utanför Wittenberg och Sachsen.",
+      "source": "Evangelische Kirche in Hessen",
+      "url": "https://www.evangelisch.de/rubriken/reformation",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
     }
   ]
 }

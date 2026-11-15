@@ -2,8 +2,8 @@
   "topic": "Filosofi",
   "description": "Nya filosofiböcker, debatt, forskning, evenemang och klassiker i nytt ljus. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-11-08",
-  "item_count": 105,
+  "last_updated": "2026-11-15",
+  "item_count": 111,
   "items": [
     {
       "id": "routledge-basta-filosofibockerna-2026",
@@ -1264,6 +1264,78 @@
       "url": "https://ndpr.nd.edu/reviews/archives/2026/7/",
       "added_on": "2026-11-08",
       "collected_week": "2026-W45"
+    },
+    {
+      "id": "stewart-filosofihistoria-bok-2026",
+      "title": "Matthew Stewart ger filosofins historia i sex korta kapitel",
+      "category": "Bok",
+      "date": "2026-11-10",
+      "location": "",
+      "summary": "Filosofihistorikern Matthew Stewart ger ut 'Everything You Need to Know: How Philosophy Can Set You Free' på W. W. Norton, en bredare och medvetet oborstad genomgång av filosofins historia i sex kapitel som siktar på att visa hur tänkandet format vår samtid.",
+      "source": "W. W. Norton",
+      "url": "https://massivebookshop.com/products/9781324105893",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "think-again-introduktion-filosofi-2026",
+      "title": "Princeton University Press ger ut ny introduktionsbok i filosofi",
+      "category": "Bok",
+      "date": "2026-11-17",
+      "location": "",
+      "summary": "'Think Again: A New Introduction to Philosophy' utkommer från Princeton University Press som en omfattande nyintroduktion till ämnet på över 500 sidor, tänkt att fungera som kursbok för en ny generation filosofistudenter.",
+      "source": "Princeton University Press",
+      "url": "https://www.netgalley.com/catalog/book/918618",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "philosophy-now-recensioner-hosten-2026",
+      "title": "Philosophy Now recenserar Lukes, Netz och Kingsnorth",
+      "category": "Böcker",
+      "date": "2026-10-15",
+      "location": "",
+      "summary": "Tidskriften Philosophy Now ägnar sitt oktober/november-nummer åt recensioner av Steven Lukes bok om moralisk mångfald 'The Diversity of Morals', Reviel Netz 'Why The Ancient Greeks Matter' och Paul Kingsnorths civilisationskritiska 'Against the Machine'.",
+      "source": "Philosophy Now",
+      "url": "https://philosophynow.org/categories/Reviews/Books",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "frankfurt-normativa-skal-moral-2026",
+      "title": "Frankfurtworkshop om normativa skäl och moralteori",
+      "category": "Evenemang",
+      "date": "2026-11-19",
+      "location": "Frankfurt",
+      "summary": "Filosofiska institutionen vid Goethe-universitetet i Frankfurt arrangerar workshopen 'Normative Reasons and Morality' den 19–20 november, med internationella forskare som diskuterar grunderna för moraliska skäl.",
+      "source": "Goethe-Universität Frankfurt",
+      "url": "https://philevents.org/event/show/150701",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "duke-djurens-filosofi-konferens-2026",
+      "title": "Duke University håller konferens om djurs välfärd och filosofi",
+      "category": "Evenemang",
+      "date": "2026-11-20",
+      "location": "Durham",
+      "summary": "Duke University arrangerar en konferens om djurens moraliska status och välfärd den 20–21 november, där filosofer och juridikforskare möts för att diskutera hur djurens intressen bör vägas i rätt och etik.",
+      "source": "Duke Law",
+      "url": "https://law.duke.edu/laweconomicsandpublicpolicy/conferences/animalphilosophy26",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "goff-sekulart-kosmiskt-syfte-bok",
+      "title": "Philip Goff argumenterar för ett sekulärt kosmiskt syfte",
+      "category": "Bok",
+      "date": "2026-10-01",
+      "location": "",
+      "summary": "Filosofen Philip Goff lägger i boken 'Why?' fram ett ambitiöst argument för att universum kan ha ett syfte utan att det kräver en traditionell gud, och föreslår en sekulär variant av kosmiskt meningssökande som väckt debatt bland filosofer.",
+      "source": "Foreword Reviews",
+      "url": "https://www.forewordreviews.com/books/contributors/philip-goff",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
     }
   ]
 }

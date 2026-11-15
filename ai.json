@@ -3,7 +3,7 @@
   "description": "Nyheter om nya AI-modeller, verktyg, forskning, företag och reglering. Uppdateras varje vecka.",
   "schema_version": 1,
   "last_updated": "2026-11-15",
-  "item_count": 133,
+  "item_count": 138,
   "items": [
     {
       "id": "openai-gpt-5-6-lansering-2026",
@@ -1598,6 +1598,66 @@
       "summary": "Anthropic fasar ut modellen Claude Sonnet 4.5 från sitt API den 30 november 2026, med Claude Sonnet 5.5 som rekommenderad efterträdare. Anrop till den gamla modell-id:n slutar fungera efter utfasningsdatumet.",
       "source": "Anthropic (Claude Docs)",
       "url": "https://platform.claude.com/en/docs/about-claude/model-deprecations",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "openai-chatgpt-rostlagen-pensioneras-december-2026",
+      "title": "OpenAI pensionerar ChatGPTs äldre röstlägen i december",
+      "category": "Verktyg",
+      "date": "2026-11-11",
+      "location": "",
+      "summary": "OpenAI meddelade att röstlägena Advanced Voice och Standard Voice i ChatGPT tas bort den 11 december, och att alla användare istället flyttas över till det nyare Live Voice. Tidigare konversationer i de gamla lägena finns kvar i historiken, men funktioner som livevideo och skärmdelning stannar tills vidare i Advanced Voice eftersom Live Voice ännu inte stödjer dem.",
+      "source": "Android Authority / OpenAI",
+      "url": "https://www.androidauthority.com/openai-retiring-chatgpt-advanced-standard-voice-3733978",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "anthropic-claude-meetings-beta-google-meet-2026",
+      "title": "Anthropic lanserar Claude Meetings i beta för att delta aktivt i videomöten",
+      "category": "Verktyg",
+      "date": "2026-11-10",
+      "location": "",
+      "summary": "Anthropic öppnade en betaversion av Claude Meetings för företags- och enterprisekunder, där Claude kan gå med som synlig deltagare i Google Meet-samtal, svara på frågor, bygga tidslinjer på en whiteboard och ta fram möteskommentarer och uppgiftslistor i realtid. Fler mötesplattformar ska läggas till senare, och Claude lämnar automatiskt möten med externa gäster om inte en administratör tillåtit det.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/11/10/anthropic-claude-meetings-knowledge-work",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "usa-kongressen-skarper-ai-chip-exportkontroll-kina-2026",
+      "title": "Amerikanska kongressledamöter vill skärpa exportkontrollen av AI-chip till Kina",
+      "category": "Reglering",
+      "date": "2026-11-11",
+      "location": "",
+      "summary": "Ledande kongressledamöter från båda partierna pressar på för strängare begränsningar av exporten av avancerade amerikanska AI-chip till Kina, samtidigt som handelsdepartementet nyligen stängde ett kryphål som lät kinesiska bolags utlandsdotterbolag kringgå reglerna. Diskussionen kommer samtidigt som Kinas tillfälliga undantag för exportkontroll av sällsynta jordartsmetaller löper ut.",
+      "source": "News on Air",
+      "url": "https://newsonair.gov.in/us-lawmakers-push-for-tighter-ai-chip-export-controls-on-china/",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "aramco-pif-humain-affar-stangd-2026",
+      "title": "Saudiska oljejätten Aramco blev delägare i AI-bolaget Humain",
+      "category": "Företag",
+      "date": "2026-11-01",
+      "location": "",
+      "summary": "Oljebolaget Aramco och Saudiarabiens statliga investeringsfond PIF slutförde i början av november en affär där Aramco, via ett helägt dotterbolag, tog en ägarandel på 49 procent i det saudiska AI-bolaget Humain. Affären är ett av flera tecken på hur oljestater satsar stora kapital på AI-infrastruktur.",
+      "source": "Global Data Center Hub",
+      "url": "https://www.globaldatacenterhub.com/p/microsoft-expands-in-europe-brookfieldqai",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "deepseek-v4-1-flash-1017-modell-2026",
+      "title": "DeepSeek släppte en uppdaterad version av modellen V4.1-Flash med öppna vikter",
+      "category": "Modell",
+      "date": "2026-10-17",
+      "location": "",
+      "summary": "Det kinesiska AI-bolaget DeepSeek publicerade en ny kontrollpunkt av språkmodellen V4.1-Flash med öppet tillgängliga modellvikter. Enligt bolagets egna, ännu inte oberoende verifierade, mätningar slår modellen både Claude Opus 5 och GPT-5.6 Sol på kodningstestet DeepSWE.",
+      "source": "Artiverse",
+      "url": "https://www.artiverse.ca/deepseeks-new-model-advances-as-washington-moves-to-ban-it/",
       "added_on": "2026-11-15",
       "collected_week": "2026-W46"
     }

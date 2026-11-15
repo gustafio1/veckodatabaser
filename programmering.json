@@ -2,8 +2,8 @@
   "topic": "Programmering",
   "description": "Nyheter för utvecklare: språk, ramverk, verktyg, AI-kodning och öppen källkod. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-11-08",
-  "item_count": 122,
+  "last_updated": "2026-11-15",
+  "item_count": 128,
   "items": [
     {
       "id": "typescript-7-nativ-kompilator-2026",
@@ -1468,6 +1468,78 @@
       "url": "https://www.cncf.io/announcements/2026/08/10/cncf-reveals-kubecon-cloudnativecon-north-america-2026-schedule-adds-new-ai-inference-agentic-track/",
       "added_on": "2026-11-08",
       "collected_week": "2026-W45"
+    },
+    {
+      "id": "claude-code-mcp-task-bakgrund-2026-11",
+      "title": "Claude Code kör nu MCP-verktygsanrop som bakgrundsuppgifter",
+      "category": "AI-kodning",
+      "date": "2026-11-06",
+      "location": "",
+      "summary": "Claude Code 2.1.319 lägger till stöd för att MCP-servrar markerar verktygsanrop som uppgifter, vilket flyttar dem till bakgrunden i terminalen och rapporterar resultatet när de är klara. Uppdateringen lägger även till en inställning som nekar verktygsanrop som annars skulle vänta på en behörighetsprompt, så att agentsessioner kan fortsätta utan att fastna.",
+      "source": "Claude Code changelog",
+      "url": "https://code.claude.com/docs/en/changelog",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "claude-code-code-mode-fable-5-2-2026-11",
+      "title": "Claude Code testar \"Code Mode\" och får Fable 5.2 som standardmodell",
+      "category": "AI-kodning",
+      "date": "2026-11-12",
+      "location": "",
+      "summary": "Anthropic har lagt till ett experimentellt läge i Claude Code där Claude skriver JavaScript för att anropa sina egna verktyg, samt gjort Claude Fable 5.2 till ny standardmodell med en miljon tokens kontext. Samma veckas uppdateringar skärper också vilka plugin-versioner som tillåts laddas och kräver numera bekräftelse innan /security-review körs.",
+      "source": "Claude Code changelog",
+      "url": "https://code.claude.com/docs/en/changelog",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "claude-code-sandlada-behorighet-2026-11",
+      "title": "Claude Code låter sandlådekörda kommandon följa vanliga behörighetsregler",
+      "category": "Verktyg",
+      "date": "2026-11-13",
+      "location": "",
+      "summary": "Version 2.1.325 av Claude Code gör att kommandon som körs i sandlåda numera går igenom samma behörighetsflöde som vanliga kommandon, med en inställning för att slå på automatiskt godkännande igen. Uppdateringen lägger också till promptförslag i VS Code-terminalen och fixar flera brister i hur sandlådor och Git-worktrees skyddas.",
+      "source": "Claude Code changelog",
+      "url": "https://code.claude.com/docs/en/changelog",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "github-copilot-jetbrains-air-agent-merge-2026-11",
+      "title": "GitHub Copilot får stöd för JetBrains Air och automatisk PR-sammanslagning",
+      "category": "Verktyg",
+      "date": "2026-11-02",
+      "location": "",
+      "summary": "Veckans Copilot-uppdatering lägger till stöd för JetBrains nya AI-first-IDE Air och en förhandsversion av Xcode 27.3, samtidigt som funktionen Agent Merge låter en agent själv lösa granskningskommentarer och sammanslagningskonflikter fram till att en pull request är redo att mergas. VS Code 1.145 fick samtidigt stöd för schemalagda, återkommande agentuppgifter via cron.",
+      "source": "GitHub Changelog (via TechBytes)",
+      "url": "https://techbytes.app/posts/github-copilot-weekly-releases-november-2/",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "nodejs-sakerhetsrelease-november-2026",
+      "title": "Node.js släpper säkerhetsuppdatering för tre aktiva versionslinjer",
+      "category": "Säkerhet",
+      "date": "2026-11-11",
+      "location": "",
+      "summary": "Node.js-projektet publicerade den 11 november en samlad säkerhetsrelease för versionslinjerna 22, 24 och 26, där den allvarligaste av buggarna klassas som hög risk. Utvecklare som fortfarande kör Node.js 20 eller äldre får ingen rättning och uppmanas uppgradera till en underhållen version.",
+      "source": "Node.js (oss-security)",
+      "url": "https://www.openwall.com/lists/oss-security/2026/11/11/25",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "tiobe-index-november-2026-go-rust",
+      "title": "TIOBE-index: Go knuffar ut Rust från topp tio, Java om C++",
+      "category": "Nyhet",
+      "date": "2026-11-01",
+      "location": "",
+      "summary": "Novembers TIOBE-index visar att Go klättrat förbi Rust och tagit sig in i topp tio över populäraste programspråk, samtidigt som Java gått om C++ med en mycket liten marginal. Dart gör samtidigt sin debut i indexets topp 20, vilket TIOBE lyfter som ett tecken på bredare användning inom Flutter-utveckling.",
+      "source": "TechRepublic",
+      "url": "https://www.techrepublic.com/article/news-tiobe-november-2026-java-overtakes-cpp/",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
     }
   ]
 }

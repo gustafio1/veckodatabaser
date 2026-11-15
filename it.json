@@ -2,8 +2,8 @@
   "topic": "IT – Nya produkter",
   "description": "Nya IT- och teknikprodukter: hårdvara, mjukvara, AI och gaming. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-11-08",
-  "item_count": 187,
+  "last_updated": "2026-11-15",
+  "item_count": 192,
   "items": [
     {
       "id": "nvidia-rtx-spark-2026",
@@ -2248,6 +2248,66 @@
       "url": "https://pcworld.com/article/3276840/microsoft-is-fine-tuning-windows-11-heres-whats-coming-in-november.html",
       "added_on": "2026-11-08",
       "collected_week": "2026-W45"
+    },
+    {
+      "id": "samsung-smarttag3-iphone-stod-2026",
+      "title": "Samsung lanserar Galaxy SmartTag3 med stöd för iPhone",
+      "category": "Produkt",
+      "date": "2026-11-04",
+      "location": "",
+      "summary": "Samsungs nya spårningsbricka är 35 procent mindre än föregångaren och kan nu hittas även av iPhone-användare via Apples nätverk. Batteritiden når upp till 790 dagar i strömsparläge.",
+      "source": "Samsung Newsroom",
+      "url": "https://news.samsung.com/us/samsung-galaxy-smarttag3/",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "gta6-forladdning-november-2026",
+      "title": "GTA 6 öppnar för förladdning inför lanseringen 19 november",
+      "category": "Gaming",
+      "date": "2026-11-12",
+      "location": "",
+      "summary": "Rockstar Games öppnade förladdning av Grand Theft Auto 6 på Playstation 5 och Xbox Series X|S en vecka före releasen. Spelet kräver upp till 212 GB lagringsutrymme.",
+      "source": "Beebom",
+      "url": "https://beebom.com/gta-6-preload-start-date-confirmed/",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "amd-epyc-6-zen6-lansering-2026",
+      "title": "AMD lanserar sjätte generationen Epyc-processorer byggda på Zen 6",
+      "category": "Hårdvara",
+      "date": "2026-11-10",
+      "location": "",
+      "summary": "AMD har gjort sin sjätte generation Epyc-serverprocessorer allmänt tillgänglig, med den nya Zen 6-arkitekturen riktad mot AI- och företagsarbetslaster. Enligt AMD:s egna mätningar presterar flaggskeppet klart bättre än Intels motsvarande Xeon-chip.",
+      "source": "AMD Newsroom",
+      "url": "https://newsroom.amd.com/news/6th-gen-epyc-lead-ai-enterprise-computing/",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "intel-hot-chips-agentisk-ai-arkitektur-2026",
+      "title": "Intel visar tre nya chiparkitekturer för agentisk AI",
+      "category": "Hårdvara",
+      "date": "2026-11-09",
+      "location": "",
+      "summary": "Intel presenterade tre kommande processorfamiljer – Diamond Rapids, Crescent Island och Wildcat Lake – riktade mot nästa generations agentiska AI-arbetslaster. Diamond Rapids ska erbjuda upp till 256 kärnor och stöd för PCIe Gen6 och CXL 3.0.",
+      "source": "TechRadar Pro",
+      "url": "https://techradar.com/pro/diamonds-crescents-and-wildcats-intel-shows-off-its-hardware-for-the-next-generation-of-agentic-ai-workloads",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "apple-ipad-mini-omdesign-oled-2026",
+      "title": "Apple ger iPad mini sin största uppdatering hittills",
+      "category": "Produkt",
+      "date": "2026-10-26",
+      "location": "",
+      "summary": "Den omdesignade iPad mini får en 8,5-tums OLED-skärm som är dubbelt så ljus som tidigare, tunnare hölje och den nya A20 Pro-chippet med förbättrad AI-prestanda. Surfplattan är också damm- och vattentålig.",
+      "source": "PetaPixel",
+      "url": "https://petapixel.com/2026/10/26/apple-just-gave-the-ipad-mini-its-biggest-update-ever/",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
     }
   ]
 }

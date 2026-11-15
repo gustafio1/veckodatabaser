@@ -2,8 +2,8 @@
   "topic": "Löpning",
   "description": "Lopp och maraton, svensk löparelit, träningsforskning och utrustning. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-11-08",
-  "item_count": 108,
+  "last_updated": "2026-11-15",
+  "item_count": 113,
   "items": [
     {
       "id": "stockholm-marathon-kiptoo-vinner-2026",
@@ -1282,6 +1282,66 @@
       "url": "https://www.letsrun.com/news/2026/10/another-titan-falls-what-olympic-champion-peres-jepchirchirs-epo-ban-means-for-the-sport/",
       "added_on": "2026-11-08",
       "collected_week": "2026-W45"
+    },
+    {
+      "id": "athens-marathon-2026-ethiopian-sweep",
+      "title": "Etiopiskt dubbelsegrar på Athens Marathon – Taferi satte banrekord",
+      "category": "Lopp",
+      "date": "2026-11-08",
+      "location": "Aten, Grekland",
+      "summary": "Etiopiska löpare dominerade Athens Marathon 2026 när Manazot Siyoum Taferi vann herrloppet på banrekordtid 2:10:03 och landsmaninnan Yatane Kormoshe Dusha tog damsegern. Det var den 43:e upplagan av loppet, som avgjordes i det antika Panathenaic-stadion.",
+      "source": "GreekReporter",
+      "url": "https://greekreporter.com/2026/11/08/athens-marathon-taferi-course-record/",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "boston-half-marathon-2026-samuel-sub-60",
+      "title": "Habtom Samuel sprang historiskt under en timme på Boston Half Marathon",
+      "category": "Lopp",
+      "date": "2026-11-08",
+      "location": "Boston, USA",
+      "summary": "Eritreanen Habtom Samuel sprang Boston Half Marathon i Massachusetts på nya banrekordet 59.49 och blev därmed den förste löparen att springa under en timme på halvmaraton i delstatens historia. På damsidan vann Fentaye Belayneh för tredje året i rad.",
+      "source": "LetsRun",
+      "url": "https://www.letsrun.com/news/2026/11/habtom-samuel-5949-runs-first-sub-60-half-marathon-mass-history-at-boston-half-fentaye-belayneh-three-peats/",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "malaga-marathon-2026-record-field-kenyan-sweep",
+      "title": "Málaga Marathon slog deltagarrekord med 16 000 löpare på ny bana",
+      "category": "Lopp",
+      "date": "2026-11-08",
+      "location": "Málaga, Spanien",
+      "summary": "Málaga Marathon slog deltagarrekord med omkring 16 000 löpare på en ombyggd, flackare bana, samtidigt som Rebecca Kangogo Chesir satte nytt loppsrekord på damsidan. Simon Njuguna Waithira vann en mycket tät herrfinal före Victor Kiplimo.",
+      "source": "Watch Athletics",
+      "url": "https://www.watchathletics.com/article/13865/waithira-wins-m-laga-thriller-as-chesir-breaks-women-s-record",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "marni-hoka-clifton-collection-2026",
+      "title": "Marni och Hoka lanserade gemensam kollektion med löparskon Clifton",
+      "category": "Utrustning",
+      "date": "2026-11-12",
+      "location": "",
+      "summary": "Modehuset Marni och skomärket Hoka lanserade i mitten av november en gemensam kollektion byggd kring löparskon Clifton, med en global releasestart hos Hoka och utvalda återförsäljare. Samarbetet är ytterligare ett exempel på hur löparskor allt oftare korsar gränsen mot modeindustrin.",
+      "source": "SoleRetriever",
+      "url": "https://www.soleretriever.com/news/articles/marni-hoka-clifton-marni-release-date-november-2026",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "athens-marathon-2026-barefoot-runner-tradition",
+      "title": "Barfota löpare i antik dräkt avslutade Athens Marathon enligt gammal tradition",
+      "category": "Nyhet",
+      "date": "2026-11-08",
+      "location": "Aten, Grekland",
+      "summary": "Vid Athens Marathon 2026 fullföljde en löpare den udda traditionen att springa barfota och klädd i antik grekisk dräkt, som en hyllning till loppets ursprungliga sträcka mellan Marathon och Aten. Inslaget uppmärksammades i grekisk press som ett av loppets mer säregna men uppskattade ögonblick.",
+      "source": "Greek City Times",
+      "url": "https://greekcitytimes.com/2026/11/09/idomeneos-avramakis-barefoot-athens-marathon/",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
     }
   ]
 }

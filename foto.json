@@ -2,8 +2,8 @@
   "topic": "Fotografi",
   "description": "Nya kameror och objektiv, fototeknik, utställningar, tävlingar och fotografer. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-11-08",
-  "item_count": 114,
+  "last_updated": "2026-11-15",
+  "item_count": 122,
   "items": [
     {
       "id": "canon-eos-r6-v-lanseras-2026",
@@ -1372,6 +1372,102 @@
       "url": "https://www.kamerabild.se/nyheter/svenska-fotobokspriset-2027-nu-oppnar-ansokan/1700803",
       "added_on": "2026-11-08",
       "collected_week": "2026-W45"
+    },
+    {
+      "id": "sigma-fp2-kamera-lansering-2026",
+      "title": "Sigma FP2 – kompakt fullformatskamera lanseras globalt",
+      "category": "Lansering",
+      "date": "2026-11-11",
+      "location": "",
+      "summary": "Sigma har lanserat FP2, en uppdaterad kompakt fullformatskamera som säljs globalt från den 11 november. Kameran riktar sig till fotografer som vill ha en liten, modulär systemkamera.",
+      "source": "The Digital Picture",
+      "url": "https://www.the-digital-picture.com/News/Sigma-FP2-Camera-Announcement",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "nikon-nikkor-z-120-300mm-tc-2026",
+      "title": "Nikon lanserar telezoomen Nikkor Z 120-300mm f/2.8 med inbyggd teleconverter",
+      "category": "Lansering",
+      "date": "2026-10-29",
+      "location": "",
+      "summary": "Nikon har officiellt presenterat en ny professionell telezoomlins med inbyggd teleconverter för sina Z-kameror. Linsen är tänkt för sport- och naturfotografer som behöver lång räckvidd.",
+      "source": "Nikon Rumors",
+      "url": "https://nikonrumors.com/2026/10/29/nikon-nikkor-z-120-300mm-f-2-8-tc-vr-s-lens-officially-announced.aspx/amp/",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "canon-rf-70-200mm-f28-z-2026",
+      "title": "Canon släpper nya proffszoomen RF 70-200mm F2.8L IS USM Z",
+      "category": "Lansering",
+      "date": "2026-11-14",
+      "location": "",
+      "summary": "Canon har börjat sälja en uppdaterad variant av sin populära proffszoom för RF-fattning, med förbättrad videoprestanda. Linsen är den tredje i en trio nya hybridobjektiv från Canon.",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/cameras/camera-lenses/canon-gives-its-mirrorless-cameras-a-major-video-boost-with-trio-of-new-pro-hybrid-rf-lenses",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "fujifilm-instax-mini-evo-2-lansering-2026",
+      "title": "Fujifilm lanserar hybridkameran Instax Mini Evo 2",
+      "category": "Lansering",
+      "date": "2026-11-27",
+      "location": "",
+      "summary": "Fujifilm har presenterat nästa generation av sin hybrida direktbildskamera, som kombinerar digital bildtagning med omedelbara pappersutskrifter. Kameran släpps i slutet av november.",
+      "source": "Marketers Media",
+      "url": "https://news.marketersmedia.com/fujifilm-launches-hybrid-instant-camera-instax-mini-evo-2/89207507",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "1839-awards-photographers-of-the-year-2026",
+      "title": "1839 Awards korar årets fotografer med ny bildgalleri",
+      "category": "Tävling",
+      "date": "2026-11-11",
+      "location": "",
+      "summary": "Tävlingen 1839 Awards har presenterat 39 vinnande bilder från årets upplaga av Photographers of the Year. Bilderna spänner över flera genrer, från porträtt till landskap.",
+      "source": "PetaPixel",
+      "url": "https://petapixel.com/2026/11/11/39-award-winning-photos-from-the-1839-awards-photographers-of-the-year-contest/",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "skissernas-museum-wipe-all-traces-2026",
+      "title": "Skissernas museum öppnar fotoutställning om minne och arkiv",
+      "category": "Utställning",
+      "date": "2026-11-26",
+      "location": "Lund",
+      "summary": "Skissernas museum i Lund öppnar utställningen \"Wipe All Traces – An Archive of Re-membering\" med fotograferna Tina Enghoff och Kent Klich. Verken utgår från arkivmaterial och frågor om minne och radering.",
+      "source": "Skissernas museum",
+      "url": "https://skissernasmuseum.se/en/?p=14149",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "sanna-sjoswaerd-world-press-photo-2026",
+      "title": "Svenska Sanna Sjöswärd prisad i World Press Photo 2026",
+      "category": "Nyhet",
+      "date": "2026-10-30",
+      "location": "Hilversum",
+      "summary": "Fotografen Sanna Sjöswärd har tilldelats pris i World Press Photo 2026 för sin bildserie \"Engla Louise\" i kategorin Stories, Europa. Bilderna visas på en utställning i Hilversum till slutet av november.",
+      "source": "World Press Photo",
+      "url": "https://www.worldpressphoto.org/sanna-sjosward",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "zanele-muholi-hasselbladpriset-utstallning-2026",
+      "title": "Zanele Muholis Hasselbladpris-utställning pågår i Göteborg",
+      "category": "Utställning",
+      "date": "2026-10-10",
+      "location": "Göteborg",
+      "summary": "Fotografen Zanele Muholi, mottagare av Hasselbladpriset 2026, visas med en stor retrospektiv utställning på Hasselblad Center. Utställningen pågår till april 2027 och lyfter fotografens arbete med identitet och aktivism.",
+      "source": "SVT Kultur",
+      "url": "https://www.svt.se/kultur/zanele-muholi-tilldelas-fotovarldens-storsta-pris",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "topic": "Kultur",
   "description": "Nya kulturevenemang i Sverige – festivaler, konserter, utställningar och scenkonst. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-11-08",
-  "item_count": 157,
+  "last_updated": "2026-11-15",
+  "item_count": 163,
   "items": [
     {
       "id": "sweden-rock-2026",
@@ -1951,6 +1951,78 @@
       "url": "https://swedenherald.com/article/pussy-riot-brings-riot-days-to-sweden-this-fall",
       "added_on": "2026-11-08",
       "collected_week": "2026-W45"
+    },
+    {
+      "id": "cosi-fan-tutte-kungliga-operan-sista-premiaren-2026",
+      "title": "Così fan tutte blir sista nya operapremiären på Operahuset före renoveringen",
+      "category": "Premiär",
+      "date": "2026-11-09",
+      "location": "Stockholm",
+      "summary": "Kungliga Operan satte den 9 november upp en ny tolkning av Mozarts Così fan tutte, regisserad av Clara Svärd och dirigerad av Alan Gilbert. Föreställningen blir den sista nya operapremiären i Operahuset innan en stor ombyggnad inleds.",
+      "source": "TT/Kungliga Operan",
+      "url": "https://via.tt.se/pressmeddelande/4627305/mozart-far-sista-ordet-cosi-fan-tutte-blir-sista-operapremiaren-fore-flytten-fran-operahuset?lang=sv",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "caligula-kulturhuset-stadsteatern-premiar-2026",
+      "title": "Viktor Tjerneld regisserar Camus-pjäsen Caligula på Kulturhuset Stadsteatern",
+      "category": "Premiär",
+      "date": "2026-11-06",
+      "location": "Stockholm",
+      "summary": "Den 6 november hade Caligula av Albert Camus premiär på Klarascenen, i regi av Viktor Tjerneld med Marcus Vögeli i titelrollen. Premiärkvällen blev snabbt slutsåld och fler föreställningar har lagts till under november och december.",
+      "source": "TT/Kulturhuset Stadsteatern",
+      "url": "https://via.tt.se/pressmeddelande/4600154/viktor-tjerneld-satter-upp-caligula-av-albert-camus?publisherId=3237061",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "drive-hunger-norrlandsoperan-varldspremiar-2026",
+      "title": "Hagar Malin Hellkvist Sellén firar 25 år som koreograf med världspremiären Drive Hunger",
+      "category": "Världspremiär",
+      "date": "2026-11-13",
+      "location": "Umeå",
+      "summary": "Norrlandsoperan visade den 13 november världspremiären av dansverket Drive Hunger, en fristående fortsättning på Tiden det tar från 2023. Premiären markerar även 25 år sedan Hellkvist Sellén inledde sin karriär som koreograf.",
+      "source": "Norrlandsoperan",
+      "url": "https://norrlandsoperan.se/en/?p=23986",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "nux-brux-norrdans-norrlandsoperan-2026",
+      "title": "Norrdans gästspelar på Norrlandsoperan med Núx brúx",
+      "category": "Evenemang",
+      "date": "2026-11-20",
+      "location": "Umeå",
+      "summary": "Den 20 november gästar dansensemblen Norrdans Norrlandsoperan med föreställningen Núx brúx, koreograferad av Chara Kotsali. Det blir ett av höstens tillfällen att se samtida dans på scenen i Umeå.",
+      "source": "Norrlandsoperan",
+      "url": "https://norrlandsoperan.se/en/?p=22223",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "reality-kontrar-stockholm-2026",
+      "title": "Pjäsen Reality spelas på svenska på scenkonsthuset Konträr",
+      "category": "Evenemang",
+      "date": "2026-11-13",
+      "location": "Stockholm",
+      "summary": "Mellan den 12 och 16 november visar Konträr i Stockholm pjäsen Reality på svenska, en kammarföreställning som lockat publik under flera kvällar. Föreställningen är en av flera mindre scenkonstproduktioner som haft spel i november.",
+      "source": "Visit Stockholm",
+      "url": "https://www.visitstockholm.com/events/reality-in-swedish/2026-11-13/1900/2100/",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
+    },
+    {
+      "id": "operahuset-avskedskonsert-kungliga-operan-2026",
+      "title": "Kungliga Operan bjuder på avskedskonsert i Operahuset inför ombyggnaden",
+      "category": "Evenemang",
+      "date": "2026-11-29",
+      "location": "Stockholm",
+      "summary": "Den 29 november ger Kungliga Operan en avskedskonsert på Operahusets stora scen som en gåva till publiken, inför den stundande ombyggnaden av huset. Konserten blir ett av de sista större evenemangen i salongen på flera år.",
+      "source": "TT/Kungliga Operan",
+      "url": "https://via.tt.se/pressmeddelande/4534077/farewell-concert-at-the-opera-house-a-gift-to-the-audience?lang=sv",
+      "added_on": "2026-11-15",
+      "collected_week": "2026-W46"
     }
   ]
 }

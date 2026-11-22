@@ -2,8 +2,8 @@
   "topic": "Rymden",
   "description": "Raketuppskjutningar, rymdsonder, astronomiska upptäckter och rymdindustri. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-11-15",
-  "item_count": 128,
+  "last_updated": "2026-11-22",
+  "item_count": 134,
   "items": [
     {
       "id": "ariane-6-amazon-leo-tyngsta-lasten-2026",
@@ -1540,6 +1540,78 @@
       "url": "https://lifeboat.com/blog/2026/11/scientists-discover-how-dead-stars-could-break-one-of-physics-most-famous-limits",
       "added_on": "2026-11-15",
       "collected_week": "2026-W46"
+    },
+    {
+      "id": "rocket-lab-100e-electron-uppskjutning-2026",
+      "title": "Rocket Lab nådde 100 Electron-uppskjutningar",
+      "category": "Uppskjutning",
+      "date": "2026-11-14",
+      "location": "",
+      "summary": "Rocket Lab sköt upp sin 100:e Electron-raket från Māhia-halvön på Nya Zeeland och satte in den japanska radarsatelliten YAMATSUMI-II i omloppsbana för iQPS. Bolaget nådde milstolpen snabbare än någon annan privat utvecklad raket i historien.",
+      "source": "SatNews",
+      "url": "https://satnews.com/2026/11/16/rocket-lab-completes-100th-electron-launch-with-11th-mission-for-iqps/",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "blue-origin-lamnar-nasa-rymdstationstavling-2026",
+      "title": "Blue Origin drar sig ur NASA:s tävling om kommersiell rymdstation",
+      "category": "Rymdindustri",
+      "date": "2026-11-13",
+      "location": "",
+      "summary": "Blue Origin har valt att hoppa av NASA:s upphandling av en kommersiell efterträdare till ISS. Beskedet väcker frågor om hur många seriösa aktörer som finns kvar i loppet om att bygga nästa generations rymdstationer.",
+      "source": "AIAA",
+      "url": "https://aiaa.org/?p=37831",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "spacex-starship-test-missad-boosterfangning-2026-11",
+      "title": "SpaceX genomförde Starship-test men avstod boosterfångning",
+      "category": "Uppskjutning",
+      "date": "2026-11-16",
+      "location": "",
+      "summary": "SpaceX flög ett nytt Starship-test men valde att inte försöka fånga boosterraketen vid återgången, till skillnad från tidigare planer på en dubbel fångning. Testet är ännu ett steg i bolagets iterativa utvecklingsprogram för det stora raketsystemet.",
+      "source": "Astronomy.com",
+      "url": "https://www.astronomy.com/whats-launching-this-week/spacex-goes-for-a-starship-double-catch/",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "progress-ms-36-uppskjutning-iss-2026-11",
+      "title": "Rysk Progress-lastfarkost förbereds för uppskjutning mot ISS",
+      "category": "Uppdrag",
+      "date": "2026-11-24",
+      "location": "",
+      "summary": "Den obemannade lastfarkosten Progress MS-36 planeras skjutas upp mot den internationella rymdstationen med förnödenheter och bränsle. Uppskjutningen är en del av Rysslands återkommande försörjningsflygningar till ISS.",
+      "source": "RocketLaunch.Live",
+      "url": "https://www.rocketlaunch.live/launch/progress-ms-36",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "spacex-ussf-627-falcon9-uppskjutning-2026-11",
+      "title": "SpaceX sköt upp militära USSF-627 med Falcon 9",
+      "category": "Uppskjutning",
+      "date": "2026-11-12",
+      "location": "",
+      "summary": "En Falcon 9-raket sköt upp det amerikanska rymdstyrkeuppdraget USSF-627 från Vandenberg i Kalifornien. Uppdraget är ytterligare ett i SpaceX:s täta uppskjutningstakt för amerikanska försvarsrelaterade satelliter.",
+      "source": "RocketLaunch.Live",
+      "url": "https://rocketlaunch.live/launch/ussf-627-r-5",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "sydkorea-rymddebut-kina-uppskjutningar-2026-11",
+      "title": "Sydkorea siktar på raketdebut medan Kina planerar fyra uppskjutningar",
+      "category": "Industri",
+      "date": "2026-11-16",
+      "location": "",
+      "summary": "Sydkorea närmar sig en debut för en ny inhemsk raket samtidigt som Kina har fyra uppskjutningar inplanerade under samma period. Utvecklingen visar hur fler länder bygger upp egen uppskjutningskapacitet vid sidan av USA.",
+      "source": "Astronomy.com",
+      "url": "https://www.astronomy.com/whats-launching-this-week/south-korea-eyes-rocket-debut-and-china-lines-up-four-launches/",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
     }
   ]
 }

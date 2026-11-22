@@ -2,8 +2,8 @@
   "topic": "Programmering",
   "description": "Nyheter för utvecklare: språk, ramverk, verktyg, AI-kodning och öppen källkod. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-11-15",
-  "item_count": 128,
+  "last_updated": "2026-11-22",
+  "item_count": 133,
   "items": [
     {
       "id": "typescript-7-nativ-kompilator-2026",
@@ -1540,6 +1540,66 @@
       "url": "https://www.techrepublic.com/article/news-tiobe-november-2026-java-overtakes-cpp/",
       "added_on": "2026-11-15",
       "collected_week": "2026-W46"
+    },
+    {
+      "id": "dotnet-11-release-csharp-15-2026-11",
+      "title": ".NET 11 lanserat med C# 15 och nya AI-verktyg",
+      "category": "Lansering",
+      "date": "2026-11-10",
+      "location": "",
+      "summary": "Microsoft släppte .NET 11 i samband med .NET Conf, med C# 15 som standardversion, stöd för unions-typer och \"closed\" klasshierarkier, en Native AOT CLI-värd och en MCP-serverprojektmall. .NET 11 är en Standard Term Support-release medan .NET 10 förblir det långsiktiga alternativet.",
+      "source": ".NET Blog (Microsoft)",
+      "url": "https://devblogs.microsoft.com/dotnet/?p=61205",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "rust-1-100-never-type-stabiliserad-2026",
+      "title": "Rust 1.100 stabiliserar \"never\"-typen efter tio år",
+      "category": "Release",
+      "date": "2026-11-12",
+      "location": "",
+      "summary": "Efter ett decennium och fem misslyckade försök stabiliserar Rust 1.100 den så kallade never-typen (!) i fler positioner, till exempel i Result<T, !>. Samtidigt ändras fallback-beteendet i äldre editioner, vilket i sällsynta fall kan påverka kod som redan kompilerar.",
+      "source": "Phoronix",
+      "url": "https://www.phoronix.com/news/Rust-1.100-Released",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "go-1-27-4-1-26-11-sakerhetsrelease-2026-11",
+      "title": "Go täpper till tolv säkerhetshål i cgo och verktygskedjan",
+      "category": "Säkerhet",
+      "date": "2026-11-10",
+      "location": "",
+      "summary": "Go-teamet släppte 1.27.4 och 1.26.11 med tolv säkerhetsfixar, flera av dem i cgo där skadliga paket annars kunnat köra kod under bygget via manipulerade flaggor och pkg-config-direktiv. Teamen uppmanas uppgradera och bygga om sina binärer.",
+      "source": "golang-announce",
+      "url": "https://groups.google.com/g/golang-announce/c/iY8TY0wWgbM",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "github-copilot-jetbrains-air-lansering-2026-11",
+      "title": "GitHub Copilot blir standardagent i JetBrains Air",
+      "category": "AI-kodning",
+      "date": "2026-11-06",
+      "location": "",
+      "summary": "GitHub och JetBrains har integrerat Copilot som förinställd agent i den nya IDE:n JetBrains Air, byggt på Agent Client Protocol. Molnkörningar hanteras via JetBrains Teams, men Air-versionen saknar ännu några avancerade funktioner som finns i det vanliga plugin-paketet.",
+      "source": "GitHub Changelog",
+      "url": "https://github.blog/changelog/2026-11-06-github-copilot-weekly-releases-november-2",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "npm-pypi-shai-hulud-paket-saneras-2026-11",
+      "title": "Nya skadliga paket saneras från npm och PyPI",
+      "category": "Säkerhet",
+      "date": "2026-11-10",
+      "location": "",
+      "summary": "Säkerhetsforskare och registren själva plockade i början av november bort flera skadliga npm- och PyPI-paket, bland annat inom Web3-verktyg som hyperliquid-cli, som ersattes med tomma säkerhetsversioner. Händelsen är en del av en fortsatt våg av leveranskedjeattacker mot öppna paketregister under 2026.",
+      "source": "BleepingComputer / Corgea",
+      "url": "https://www.bleepingcomputer.com/news/security/shai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages/",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
     }
   ]
 }

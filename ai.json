@@ -2,8 +2,8 @@
   "topic": "AI & maskininlärning",
   "description": "Nyheter om nya AI-modeller, verktyg, forskning, företag och reglering. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-11-15",
-  "item_count": 138,
+  "last_updated": "2026-11-22",
+  "item_count": 145,
   "items": [
     {
       "id": "openai-gpt-5-6-lansering-2026",
@@ -1660,6 +1660,90 @@
       "url": "https://www.artiverse.ca/deepseeks-new-model-advances-as-washington-moves-to-ban-it/",
       "added_on": "2026-11-15",
       "collected_week": "2026-W46"
+    },
+    {
+      "id": "alibaba-qwen4-max-lansering-2026",
+      "title": "Alibaba lanserar Qwen4-Max",
+      "category": "Modell",
+      "date": "2026-11-16",
+      "location": "",
+      "summary": "Alibaba släppte Qwen4-Max, den första modellen i Qwen4-familjen, med en ny MoE-arkitektur, inbyggt bildstöd och en miljon tokens kontext. Modellen är bara tillgänglig via API, till skillnad från den öppna föregångaren Qwen3.8.",
+      "source": "Alibaba Cloud",
+      "url": "https://alibabacloud.com/en/press-room/alibaba-unveils-qwen4-max",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "openai-gpt-6-2-astra-sol-2026",
+      "title": "OpenAI släpper GPT-6.2 Astra och Sol",
+      "category": "Modell",
+      "date": "2026-11-18",
+      "location": "",
+      "summary": "OpenAI presenterade två nya modeller, Astra och Sol, som är inriktade på yrkesmässigt arbete och ska sänka beräkningskostnaden för komplexa uppgifter jämfört med tidigare GPT-6-versioner.",
+      "source": "The Neuron",
+      "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-18-2026/",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "ico-agentic-ai-call-for-evidence-stangd-2026",
+      "title": "Brittiska ICO stänger sin utfrågning om agent-AI",
+      "category": "Reglering",
+      "date": "2026-11-20",
+      "location": "",
+      "summary": "Storbritanniens dataskyddsmyndighet ICO stängde den 20 november sin sex veckor långa utfrågning om hur dataskyddslagen ska tillämpas på agentiska AI-system. Svaren ska ligga till grund för kommande vägledning och en statlig uppförandekod.",
+      "source": "ppc.land",
+      "url": "https://ppc.land/uk-ico-gives-ai-agent-firms-until-november-20-to-submit-evidence/",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "cursor-sakerhetsincident-fireworks-uppdatering-2026",
+      "title": "Cursor spårar säkerhetsincident till läckt nyckel hos Fireworks AI",
+      "category": "Säkerhet",
+      "date": "2026-11-13",
+      "location": "",
+      "summary": "AI-kodverktyget Cursor rapporterade att en angripare använt en Cursor-utfärdad åtkomstnyckel som läckt via underleverantören Fireworks AI för att komma åt historiska agentloggar och in i interna verktyg. Incidenten anses nu vara under kontroll efter att nycklar roterats och tilläggsbutiken byggts om.",
+      "source": "Dark Reading",
+      "url": "https://darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "anthropic-ipo-vardering-november-2026",
+      "title": "Anthropic siktar på högre aktiekurs inför börsnotering",
+      "category": "Företag",
+      "date": "2026-11-18",
+      "location": "",
+      "summary": "Anthropic ska enligt uppgifter sikta på en högre värdering inför sin väntade börsnotering, trots en svag period för teknikaktier. Beskedet kommer samtidigt som bolaget nyligen visat upp uppdaterade versioner av sina Mythos- och Fable-modeller.",
+      "source": "The Neuron",
+      "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-18-2026/",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "thinking-machines-lab-jatteinvestering-2026",
+      "title": "Thinking Machines Lab tar in rekordstor finansiering",
+      "category": "Investering",
+      "date": "2026-11-12",
+      "location": "",
+      "summary": "Startupen Thinking Machines Lab, grundad av tidigare OpenAI-forskare, toppade november månads finansieringsrundor inom AI med en runda i miljardklassen, enligt sammanställningar av AI-investeringar under månaden.",
+      "source": "aifunding.me",
+      "url": "https://aifunding.me/insights/weekly-roundup-nov-9-13-2026",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "devin-design-mode-lansering-2026",
+      "title": "Devin får nytt läge för gränssnittsdesign",
+      "category": "Verktyg",
+      "date": "2026-11-11",
+      "location": "",
+      "summary": "AI-kodagenten Devin från Cognition fick ett nytt \"Design Mode\" med en kompakt promptbalk och redigering egenskap för egenskap, en del av en serie uppdateringar av verktygets granskningsvy under november.",
+      "source": "Cognition (Devin changelog)",
+      "url": "https://releases.sh/collections/coding-agents/digest/2026-11-09.md",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
     }
   ]
 }

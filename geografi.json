@@ -2,8 +2,8 @@
   "topic": "Geografi",
   "description": "Kartor och kartografi, upptäckter, klimat- och landskapsförändringar och platser. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-11-15",
-  "item_count": 95,
+  "last_updated": "2026-11-22",
+  "item_count": 101,
   "items": [
     {
       "id": "sanborn-kartor-webbtjanst-2026",
@@ -1144,6 +1144,78 @@
       "url": "https://news.agu.org/3-19-2026-earths-desert-area-is-shrinking/",
       "added_on": "2026-11-15",
       "collected_week": "2026-W46"
+    },
+    {
+      "id": "seabed-2030-kartlaggning-milstolpe-2026",
+      "title": "Nästan 29 procent av havsbotten nu högupplöst kartlagd",
+      "category": "Kartor",
+      "date": "2026-11-12",
+      "location": "",
+      "summary": "FN-initiativet Seabed 2030 meddelade vid Internationella sjömätningsorganisationens möte i Monaco att nästan 29 procent av världens havsbotten nu är högupplöst kartlagd, sedan nästan fem miljoner nya kvadratkilometer lagts till under det senaste året. Fortfarande saknas detaljerad kartläggning av merparten av havsbotten.",
+      "source": "Hydro International",
+      "url": "https://www.hydro-international.com/content/news/global-seabed-mapping-sets-new-record-with-five-million-square-kilometres-added-in-a-year",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "oden-arktis-havsbotten-fiberkabel-2026",
+      "title": "Isbrytaren Oden kartlägger havsbotten inför ny fiberkabel genom Arktis",
+      "category": "Kartografi",
+      "date": "2026-08-14",
+      "location": "Arktis",
+      "summary": "Den svenska isbrytaren Oden har återvänt till Arktis för att kartlägga havsbottnen längs den tänkta sträckningen för en fiberkabel, inom forskningsprojektet Polar Connect. Expeditionen samlar samtidigt in öppna data om havsis, strömmar och väder.",
+      "source": "Stockholms universitet",
+      "url": "https://www.su.se/nyheter/nyhetsartiklar/2026-08-14-stockholmsforskare-kartlagger-arktis-havsbotten",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "shuanghegrottan-kina-expedition-2026",
+      "title": "Kinesisk grotta förlängd till världens tredje längsta grottsystem",
+      "category": "Upptäckt",
+      "date": "2026-10-04",
+      "location": "Guizhou, Kina",
+      "summary": "En internationell expedition har mätt in ytterligare 41,8 kilometer av Shuanghegrottan i den kinesiska provinsen Guizhou, vilket gör den till Asiens längsta och världens tredje längsta sammanhängande grottsystem.",
+      "source": "The Star",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/04/international-expeditions-in-china-unlock-secrets-of-asias-longest-cave",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "bbnj-havsavtal-sverige-anslutning-2026",
+      "title": "Sverige tar nästa steg mot globalt avtal om det öppna havet",
+      "category": "Gränser",
+      "date": "2026-10-08",
+      "location": "",
+      "summary": "Regeringen lade i oktober fram en proposition om svenskt tillträde till FN:s nya avtal om bevarande av biologisk mångfald i havsområden utanför nationell jurisdiktion. Avtalet, känt som BBNJ, trädde i kraft i januari 2026 sedan 60 länder ratificerat det.",
+      "source": "Regeringskansliet",
+      "url": "https://www.regeringen.se/pressmeddelanden/2026/10/sverige-tar-nasta-steg-mot-att-bli-part-i-nytt-globalt-havsavtal/",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "arktis-smaltsasong-vecka-langre-studie-2026",
+      "title": "Arktis smältsäsong nu en vecka längre än på 1980-talet",
+      "category": "Klimat",
+      "date": "2026-09-02",
+      "location": "Arktis",
+      "summary": "Forskare vid University of Washington visar att smältsäsongen för havsisen i Arktis i genomsnitt blivit omkring en vecka längre jämfört med 1980-talet. Förändringen kopplas till den snabbare uppvärmningen i de nordliga polarområdena.",
+      "source": "University of Washington",
+      "url": "https://www.washington.edu/news/2026/09/02/qa-the-arctic-melt-season-is-a-week-longer-now-than-it-was-in-the-1980s-shows-new-uw-research-on-sea-ice-trends/",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "nautilus-marianergraven-kartlaggning-2026",
+      "title": "Forskningsfartyg kartlade över 27 000 kvadratkilometer kring Marianergraven",
+      "category": "Upptäckter",
+      "date": "2026-07-21",
+      "location": "Marianerna, Stilla havet",
+      "summary": "Forskningsfartyget Nautilus kartlade sommaren 2026 över 27 000 kvadratkilometer havsbotten kring Marianeröarna med flerstråleekolod, som en del av ett fördjupat arbete med att dokumentera livsmiljöer i världens djupaste havsområde.",
+      "source": "Nautilus Live (Ocean Exploration Trust)",
+      "url": "https://nautiluslive.org/cruise/NA179",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
     }
   ]
 }

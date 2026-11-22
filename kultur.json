@@ -2,8 +2,8 @@
   "topic": "Kultur",
   "description": "Nya kulturevenemang i Sverige – festivaler, konserter, utställningar och scenkonst. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-11-15",
-  "item_count": 163,
+  "last_updated": "2026-11-22",
+  "item_count": 168,
   "items": [
     {
       "id": "sweden-rock-2026",
@@ -2023,6 +2023,66 @@
       "url": "https://via.tt.se/pressmeddelande/4534077/farewell-concert-at-the-opera-house-a-gift-to-the-audience?lang=sv",
       "added_on": "2026-11-15",
       "collected_week": "2026-W46"
+    },
+    {
+      "id": "stockholmsjul-invigning-kungstradgarden-2026",
+      "title": "Stockholmsjul tändes i Kungsträdgården",
+      "category": "Evenemang",
+      "date": "2026-11-14",
+      "location": "Stockholm",
+      "summary": "Julmarknaden Stockholmsjul invigdes med sång och julbelysning i Kungsträdgården, och ljusen lyser sedan fram till mitten av januari.",
+      "source": "Visit Stockholm",
+      "url": "https://www.visitstockholm.com/events/stockholmsjul-christmas-lights/2026-11-14/",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "nobel-week-lights-stockholm-2026",
+      "title": "Nobel Week Lights tänder upp Stockholm inför Nobelveckan",
+      "category": "Evenemang",
+      "date": "2026-12-05",
+      "location": "Stockholm",
+      "summary": "Ljusfestivalen Nobel Week Lights öppnar utomhusinstallationer i centrala Stockholm, med ett utökat festivalområde inför årets Nobelvecka.",
+      "source": "Nobelprismuseet",
+      "url": "https://www.nobelprize.org/press-release/lysande-gungbrador-och-magnifik-jordglob-ljusfestivalen-ar-i-full-gang/",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "jacob-muhlrad-varldspremiar-nobelbanketten-2026",
+      "title": "Jacob Mühlrads nya verk får världspremiär vid Nobelbanketten",
+      "category": "Premiär",
+      "date": "2026-12-10",
+      "location": "Stockholm",
+      "summary": "Tonsättaren Jacob Mühlrad presenterar ett nyskrivet verk inspirerat av kvantfysik som får världspremiär under årets Nobelbankett i Stockholm.",
+      "source": "Nobelstiftelsen",
+      "url": "https://www.nobelprize.org/press-release/jacob-muhlrads-nyskrivna-verk-inspirerat-av-kvantfysik-far-varldspremiar-vid-arets-nobelbankett/",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "dansnat-sverige-hostturne-2026",
+      "title": "Dansnät Sverige turnerar med höstens dansföreställningar",
+      "category": "Scenkonst",
+      "date": "2026-11-19",
+      "location": "Stockholm",
+      "summary": "Dansnät Sveriges höstturné gör stopp i bland annat Malmö, Falun och Stockholm med nya samtida dansföreställningar för en bredare publik.",
+      "source": "Dansnät Sverige",
+      "url": "https://www.mynewsdesk.com/se/dansnat_sverige/pressreleases/dansnaet-sverige-presenterar-turneprogrammet-foer-2026-3415937",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "nobel-calling-stockholm-2026-karolinska",
+      "title": "Nobel Calling Stockholm bjuder allmänheten till Karolinska Institutet",
+      "category": "Evenemang",
+      "date": "2026-12-09",
+      "location": "Solna",
+      "summary": "Inför Nobeldagen öppnar Karolinska Institutet upp för allmänheten med frågestund, labbesök och aktiviteter kring årets Nobelpris i fysiologi eller medicin.",
+      "source": "Karolinska Institutet",
+      "url": "https://ki.se/index%2ephp/om-ki/nobel-calling-stockholm-2026-pa-karolinska-institutet",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
     }
   ]
 }

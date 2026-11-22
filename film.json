@@ -2,8 +2,8 @@
   "topic": "Film & TV",
   "description": "Biopremiärer, streaming, TV-serier, svensk film och filmfestivaler. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-11-15",
-  "item_count": 122,
+  "last_updated": "2026-11-22",
+  "item_count": 127,
   "items": [
     {
       "id": "sju-biopremiarer-juli-2026",
@@ -1468,6 +1468,66 @@
       "url": "https://www.moviezine.se/nyheter/var-forsta-titt-pa-felix-herngrens-nya-serie-dar-solen-alltid-skiner",
       "added_on": "2026-11-15",
       "collected_week": "2026-W46"
+    },
+    {
+      "id": "arne-goes-to-space-biopremiar-2026",
+      "title": "Arne Goes to Space har biopremiär",
+      "category": "Premiär",
+      "date": "2026-11-18",
+      "location": "",
+      "summary": "Animerade filmen Arne Goes to Space fick biopremiär i mitten av november, med viss osäkerhet mellan källor om exakt premiärdatum.",
+      "source": "Moviezine",
+      "url": "https://www.moviezine.se/movies/arne-goes-to-space",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "tio-filmer-biopremiar-vecka-46-2026",
+      "title": "Tio nya filmer fick biopremiär under vecka 46, bland dem Ebenezer och How To Rob a Bank",
+      "category": "Premiär",
+      "date": "2026-11-13",
+      "location": "",
+      "summary": "Fredagen i vecka 46 bjöd på hela tio nya biopremiärer, däribland julfilmen Ebenezer, komedin How To Rob a Bank och familjefilmen The Magic Faraway Tree.",
+      "source": "Hurbra",
+      "url": "https://hurbra.se/filmer-pa-bio-vecka-46-2026/",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "julkul-med-greta-biopremiar-2026",
+      "title": "Julkul med Greta har biopremiär",
+      "category": "Premiär",
+      "date": "2026-11-14",
+      "location": "",
+      "summary": "Barnfilmen Julkul med Greta hade biopremiär i mitten av november och inleder säsongens utbud av svenska julfilmer för de yngsta.",
+      "source": "Hurbra",
+      "url": "https://hurbra.se/filmer-pa-bio-vecka-46-2026/",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "12-12-12-apple-tv-premiar-2026",
+      "title": "Kuppthrillern 12 12 12 har premiär på Apple TV",
+      "category": "Premiär",
+      "date": "2026-11-13",
+      "location": "",
+      "summary": "Apple TV+ lanserade kuppthrillern 12 12 12 i mitten av november, en av veckans mest uppmärksammade streamingpremiärer.",
+      "source": "Hurbra",
+      "url": "https://hurbra.se/?p=46768",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "maffia-viaplay-tv6-premiar-2026",
+      "title": "Dramaserien Maffia får svensk premiär på Viaplay och TV6",
+      "category": "Premiär",
+      "date": "2026-11-22",
+      "location": "",
+      "summary": "Dramaserien Maffia hade svensk premiär samtidigt på Viaplay och TV6, en av veckans största tv-händelser.",
+      "source": "Hurbra",
+      "url": "https://hurbra.se/?p=50478",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
     }
   ]
 }

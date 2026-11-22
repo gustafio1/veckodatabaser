@@ -2,8 +2,8 @@
   "topic": "Golf",
   "description": "Majors och tourtävlingar, svenska golfare, tävlingar och utrustning. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-11-15",
-  "item_count": 111,
+  "last_updated": "2026-11-22",
+  "item_count": 117,
   "items": [
     {
       "id": "ryan-fox-vinner-the-open-royal-birkdale-2026",
@@ -1324,6 +1324,78 @@
       "url": "https://pluggedingolf.com/golf-news-november-10-2026/",
       "added_on": "2026-11-15",
       "collected_week": "2026-W46"
+    },
+    {
+      "id": "hatton-vinner-dp-world-tour-championship-2026",
+      "title": "Tyrrell Hatton vann DP World Tour Championship – McIlroy säkrade ändå Race to Dubai",
+      "category": "DP World Tour",
+      "date": "2026-11-15",
+      "location": "Dubai",
+      "summary": "Tyrrell Hatton vann sin första DP World Tour Championship-titel i Dubai med fem slags marginal till Rory McIlroy, som trots andraplatsen säkrade ett rekordjämnande åttonde Race to Dubai-pris för säsongen.",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/sport/2026/11/15/tyrrell-hatton-wins-maiden-dp-world-tour-championship/",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "rsm-classic-sea-island-fallserien-avslutas-2026",
+      "title": "RSM Classic avslutar PGA Tours höstserie och avgör 2027 års spelrätter",
+      "category": "PGA Tour",
+      "date": "2026-11-19",
+      "location": "Sea Island",
+      "summary": "RSM Classic på Sea Island är den åttonde och sista tävlingen i PGA Tours FedExCup-höstserie, med spelrätt på 2027 års tour som den sista stora frågan för fältet.",
+      "source": "Golf Channel",
+      "url": "https://www.golfchannel.com/pga-tour/news/rsm-classic-2026-full-field-for-sea-island",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "vangdal-slutar-forbundskapten-golf-2026",
+      "title": "Katarina Vangdal lämnar efter 14 år som förbundskapten för svenska golflandslaget",
+      "category": "Svensk golf",
+      "date": "2026-11-13",
+      "location": "",
+      "summary": "Katarina Vangdal slutar som förbundskapten för det svenska golflandslaget efter 14 år och tar i stället en tjänst som sportchef på Sveriges Olympiska Kommitté, medan Ola Lindgren tar över kaptensjobbet.",
+      "source": "Sweden Herald",
+      "url": "https://swedenherald.com/article/the-national-team-captain-steps-down-becomes-sports-manager-at-the-swedish-olympic-committee",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "fyra-svenskar-hotelplanner-tour-2027",
+      "title": "David Lundgren vann Nordic Golf League – fyra svenskar klara för HotelPlanner Tour",
+      "category": "Svensk golf",
+      "date": "2026-11-14",
+      "location": "",
+      "summary": "David Lundgren från Ängelholms GK vann den sammanlagda rankingen i Nordic Golf League 2026 efter en säsong med en turneringsseger och flera pallplatser, vilket ger honom och tre andra svenskar spelrätt på HotelPlanner Tour 2027.",
+      "source": "hurbra.se",
+      "url": "https://hurbra.se/svenskar-hotelplanner-tour-2027/",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "sun-mountain-h2no-2027-vattentata-bagar",
+      "title": "Sun Mountain lanserar vattentät bagkollektion inför vintergolfen",
+      "category": "Utrustning",
+      "date": "2026-11-10",
+      "location": "",
+      "summary": "Sun Mountain presenterar sin H2NO-kollektion för 2027 med fem helt vattentäta golfbagar, tre stativmodeller och två vagnmodeller, riktade särskilt mot spel i fuktigt vinterväder.",
+      "source": "National Club Golfer",
+      "url": "https://www.nationalclubgolfer.com/equipment/news/2026/11/",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "srixon-zxi-rkt-driver-sasongsslut-2026",
+      "title": "Srixons nya ZXi RKT-driver bland höstens mest uppmärksammade lanseringar",
+      "category": "Utrustning",
+      "date": "2026-11-12",
+      "location": "",
+      "summary": "Trots att säsongen går mot sitt slut fortsätter de stora klubbtillverkarna att lansera ny utrustning, och Srixons driver ZXi RKT nämns tillsammans med klubbor från Titleist, Mizuno och PING i höstens utrustningsbevakning.",
+      "source": "Links Magazine",
+      "url": "https://linksmagazine.com/15-new-golf-clubs-that-debuted-in-2026/",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
     }
   ]
 }

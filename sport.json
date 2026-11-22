@@ -2,8 +2,8 @@
   "topic": "Sport – Fotboll, Tennis & Bordtennis",
   "description": "Nyheter inom fotboll, tennis och bordtennis med svenskt fokus. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-11-15",
-  "item_count": 153,
+  "last_updated": "2026-11-22",
+  "item_count": 160,
   "items": [
     {
       "id": "allsvenskan-sommaruppehall-2026",
@@ -1824,6 +1824,90 @@
       "url": "https://www.skysports.com/football/news/11661/13463784/viktor-gyokeres-injury-arsenal-striker-sidelined-until-after-november-international-break-with-north-london-derby-return-targeted",
       "added_on": "2026-11-15",
       "collected_week": "2026-W46"
+    },
+    {
+      "id": "sverige-bosnien-nations-league-gruppseger-2026",
+      "title": "Sverige vann mot Bosnien och säkrade gruppsegern i Nations League",
+      "category": "Landslaget",
+      "date": "2026-11-14",
+      "location": "Solna",
+      "summary": "Viktor Gyökeres gjorde två mål när Sverige vann med 3-2 mot Bosnien och Herzegovina på Strawberry Arena, en seger som gav herrlandslaget gruppsegern och avancemang i Nations League.",
+      "source": "TV4",
+      "url": "https://www.tv4.se/artikel/tt-260928-nlsverigepolen1-a8e5638a/sverige-tog-andra-raka-toppar-gruppen",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "sverige-polen-oavgjort-nations-league-2026",
+      "title": "Hugo Larsson sänkte Polen-debuten till kvitteringsmål – Sverige obesegrat genom Nations League",
+      "category": "Landslaget",
+      "date": "2026-11-17",
+      "location": "Wrocław",
+      "summary": "Sverige spelade 1-1 borta mot Polen sedan Hugo Larsson gjort sitt första landslagsmål, och herrlandslaget rundade därmed av Nations League-gruppspelet helt utan förlust.",
+      "source": "TV4",
+      "url": "https://www.tv4.se/artikel/tt-261117-landssverige1-a2e80ac4/sverige-obesegrat-i-nations-league",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "fritz-vinner-stockholm-open-final-2026",
+      "title": "Taylor Fritz tog hem Stockholm Open efter tajt tiebreak-final",
+      "category": "Tennis",
+      "date": "2026-11-14",
+      "location": "Stockholm",
+      "summary": "Amerikanen Taylor Fritz besegrade förstagångsfinalisten Thiago Tirante med 6-2, 4-6, 7-6 i Stockholm Open-finalen och tog sin första inomhustitel på touren efter att tidigare ha slagit ut Lorenzo Musetti i semifinalen.",
+      "source": "ATP Tour",
+      "url": "https://www.atptour.com/en/news/fritz-tirante-stockholm-2026-final-saturday",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "isak-malform-liverpool-november-2026",
+      "title": "Alexander Isak hyllas för målformen i Liverpool",
+      "category": "Fotboll",
+      "date": "2026-11-16",
+      "location": "Liverpool",
+      "summary": "Efter en trög start på sin Liverpool-tid har Alexander Isak hittat målformen och tränaren Andoni Iraola lyfter nu svenskens avgörande roll i lagets senaste matcher.",
+      "source": "Liverpool FC",
+      "url": "https://www.liverpoolfc.com/news/close-to-a-guarantee-andoni-iraola-on-alexander-isak-goalscoring-form",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "kvalet-allsvenskan-2027-datum-klart",
+      "title": "Datumen klara för kvalet till Allsvenskan 2027",
+      "category": "Fotboll",
+      "date": "2026-11-18",
+      "location": "",
+      "summary": "Kvalspelet till Allsvenskan 2027 avgörs i två led, där vinnaren av dubbelmötet mellan Varbergs BoIS och Östersunds FK möter det lag som slutar på 14:e plats i Allsvenskan den 3-6 december.",
+      "source": "Fotbolldirekt",
+      "url": "https://fotbolldirekt.se/?p=426458",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "superettan-2026-kvalplatser-klara",
+      "title": "Superettan avgjord: Varberg och Östersund till kval, Brage åker ur",
+      "category": "Fotboll",
+      "date": "2026-11-15",
+      "location": "",
+      "summary": "Varbergs BoIS och Östersunds FK slutade tre och fyra i Superettan och tog därmed de två kvalplatserna till Allsvenskan, medan Brage föll ur till division ett sedan Landskrona BoIS missat chansen i den sista omgången.",
+      "source": "hurbra.se",
+      "url": "https://hurbra.se/superettan-sluttabell-2026-kval-nedflyttning/",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "michael-maze-forbundskapten-bordtennis-2026",
+      "title": "Michael Maze tog över fullt ut som förbundskapten för herrarnas bordtennislandslag",
+      "category": "Bordtennis",
+      "date": "2026-11-01",
+      "location": "",
+      "summary": "Dansken och förre Europamästaren Michael Maze blev den 1 november ensam ansvarig förbundskapten för det svenska herrlandslaget i bordtennis, efter att ha arbetat sida vid sida med Marcus Sjöberg under hösten.",
+      "source": "hurbra.se",
+      "url": "https://hurbra.se/michael-maze-forbundskapten-bordtennis/",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
     }
   ]
 }

@@ -2,8 +2,8 @@
   "topic": "Schack",
   "description": "Stora turneringar, elitspelare, onlineschack, svenskt schack och talanger. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-11-15",
-  "item_count": 111,
+  "last_updated": "2026-11-22",
+  "item_count": 116,
   "items": [
     {
       "id": "sindarov-vinner-kandidatturneringen-2026",
@@ -1322,6 +1322,66 @@
       "url": "https://www.chess.com/news/view/november-2026-fide-rating-list",
       "added_on": "2026-11-15",
       "collected_week": "2026-W46"
+    },
+    {
+      "id": "vm-match-gukesh-sindarov-genve-invigning-2026",
+      "title": "VM-matchen mellan Gukesh och Sindarov invigdes i Genève",
+      "category": "VM-match",
+      "date": "2026-11-22",
+      "location": "Genève",
+      "summary": "Öppningsceremonin för VM-matchen mellan regerande världsmästaren Gukesh D och utmanaren Javokhir Sindarov hölls på Fondation Martin Bodmer i Genève, inför en match på 14 klassiska partier som kommenteras av Peter Leko och Peter Svidler.",
+      "source": "World Chess",
+      "url": "https://worldchess.com/news/gukesh-vs-sindarov-everything-you-need-to-know-about-the-2026-world-chess-championship",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "tabatabaei-titled-tuesday-17-november-2026",
+      "title": "Tabatabaei vann sin andra Titled Tuesday-titel på raka vinster",
+      "category": "Online",
+      "date": "2026-11-17",
+      "location": "",
+      "summary": "Stormästaren Amin Tabatabaei kom ikapp efter en trög start och vann Titled Tuesday på tiebreak genom att avsluta turneringen med sex raka segrar för totalt 9,5 poäng.",
+      "source": "Chess.com",
+      "url": "https://www.chess.com/news/view/tabatabaei-wins-titled-tuesday-november-17-2026",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "carlsen-missar-semifinal-total-chess-budapest-2026",
+      "title": "Carlsen missade semifinal i Total Chess-piloten efter poänglös gruppspelsavslutning",
+      "category": "Turnering",
+      "date": "2026-11-16",
+      "location": "Budapest",
+      "summary": "Trots en obesegrad start i inledningsblitzen i Total Chess-piloten i Budapest föll Magnus Carlsen ur medaljstriden sedan han inte lyckades ta en enda vinst i den avgörande snabbschacksomgången, medan Alireza Firouzja och Anish Giri gick till semifinal.",
+      "source": "Chess.com",
+      "url": "https://www.chess.com/news/view/2026-total-chess-world-championship-tour-pilot-day-7",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "schack-esports-world-cup-2027-carlsen-tredje-titel",
+      "title": "Schack klart för Esports World Cup 2027 – Carlsen siktar på tredje titeln",
+      "category": "Online",
+      "date": "2026-11-13",
+      "location": "",
+      "summary": "Schack bekräftades återigen som gren i Esports World Cup 2027, och Magnus Carlsen meddelade att han tänker ställa upp i jakt på sin tredje titel i tävlingen.",
+      "source": "Chess.com",
+      "url": "https://chess.com/news/view/chess-returns-esports-world-cup-2027",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "praggnanandhaa-vinner-grand-chess-tour-2026",
+      "title": "Praggnanandhaa vände från underläge och vann Grand Chess Tour 2026",
+      "category": "Turnering",
+      "date": "2026-08-27",
+      "location": "Saint Louis",
+      "summary": "Indiern Praggnanandhaa Rameshbabu låg sex poäng efter inför slutdagen men vände underläget och besegrade Fabiano Caruana 15-13 i finalen av Grand Chess Tour Finals i Saint Louis, hans första titel i tävlingen.",
+      "source": "Chess.com",
+      "url": "https://www.chess.com/news/view/praggnanandhaa-wins-2026-grand-chess-tour",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
     }
   ]
 }

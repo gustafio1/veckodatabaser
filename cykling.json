@@ -2,8 +2,8 @@
   "topic": "Cykling",
   "description": "Proffscykling, svenska cyklister, motionslopp, mountainbike och utrustning. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-11-15",
-  "item_count": 110,
+  "last_updated": "2026-11-22",
+  "item_count": 116,
   "items": [
     {
       "id": "pogacar-gula-trojan-etapp-3-2026",
@@ -1312,6 +1312,78 @@
       "url": "https://procyclinguk.com/giro-ditalia-women-2027-route-stage-by-stage-key-climbs/",
       "added_on": "2026-11-15",
       "collected_week": "2026-W46"
+    },
+    {
+      "id": "em-cyklocross-zeddam-nys-brand-gery-2026",
+      "title": "Nys, Brand och Gery tog EM-guld i cyklocross i Zeddam",
+      "category": "Cyklocross",
+      "date": "2026-11-08",
+      "location": "Zeddam",
+      "summary": "Europamästerskapen i cyklocross avgjordes i nederländska Zeddam, där Thibau Nys avgjorde herrarnas elitlopp i en spurt, Lucinda Brand tog damernas titel och Celia Gery försvarade sin U23-titel.",
+      "source": "IDLProCycling",
+      "url": "https://www.idlprocycling.com/cyclo-cross/2026-european-cyclocross-championships-results-france-and-belgium-dominate-in-the-dutch-mud",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "koppenbergcross-brand-damer-2026",
+      "title": "Lucinda Brand vann damklassen i säsongsöppnande Koppenbergcross",
+      "category": "Cyklocross",
+      "date": "2026-11-01",
+      "location": "Oudenaarde",
+      "summary": "I samma Koppenbergcross där Thibau Nys vann herrklassen tog Lucinda Brand hem damernas lopp före Sara Casasola och satte därmed tonen för sin starka inledning på cyklocrosssäsongen.",
+      "source": "Cyclocross Magazine",
+      "url": "https://www.cxmagazine.com/koppenbergcross-2026-results-video-highlights-oudenaarde-belgium",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "ineos-tappar-talang-dygert-varldstour-2026",
+      "title": "Netcompany-Ineos tappar ung talang när Chloe Dygert lämnar WorldTour",
+      "category": "Transfer",
+      "date": "2026-11-17",
+      "location": "",
+      "summary": "Damstallet Netcompany-Ineos förlorar en 21-årig talang inför 2027, samtidigt som den amerikanska stjärnan Chloe Dygert väljer att lämna WorldTour-nivån enligt uppgifter i vinterns övergångsfönster.",
+      "source": "Cyclinguptodate",
+      "url": "https://cyclinguptodate.com/cycling/cycling-market-netcompany-ineos-lose-21-year-old-talent-chloe-dygert-moves-away-from-world-tour",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "uae-forlorar-ryttare-movistar-2026",
+      "title": "UAE förlorar ryttare till Movistar i vinterns övergångsfönster",
+      "category": "Transfer",
+      "date": "2026-11-17",
+      "location": "",
+      "summary": "UAE Team Emirates ser en ryttare lämna för Movistar inför 2027 samtidigt som Red Bull-BORA-hansgrohe lyfter upp flera unga talanger till sin WorldTour-trupp, enligt cykelmarknadens senaste rapportering.",
+      "source": "Cyclinguptodate",
+      "url": "https://cyclinguptodate.com/cycling/cycling-market-uae-lose-rider-to-movistar-red-bull-promotes-young-talents-italian-proteam-takes-from-the-world-tour",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "roglic-framtid-osaker-visma-rykte-2026",
+      "title": "Roglics framtid vinterns största fråga – ryktas till Visma",
+      "category": "Transfer",
+      "date": "2026-11-18",
+      "location": "",
+      "summary": "Primož Roglics kontraktssituation beskrivs som övergångsfönstrets största osäkerhet, med flera rykten om en flytt till Visma samtidigt som Ineos uppges ha avvisat intresse för en rivaliserande lagkapten.",
+      "source": "Cyclinguptodate",
+      "url": "https://cyclinguptodate.com/cycling/cycling-market-ineos-refuse-interest-in-rival-leader-visma-talent-leaves-world-tour-where-does-roglics-future-lay",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "ghost-bikes-konkurs-2026",
+      "title": "Tyska cykelmärket Ghost tvingas lägga ner efter konkurs",
+      "category": "Cykelindustri",
+      "date": "2026-11-02",
+      "location": "",
+      "summary": "Konkursförvaltaren för Ghost-Bikes GmbH meddelade att ingen köpare erbjöd ett bättre bud än att sälja ut det befintliga lagret, vilket innebär slutet för det anrika tyska cykelmärket och att 53 anställda berörs.",
+      "source": "Bike-Magazin",
+      "url": "https://www.bike-magazin.de/en/bicycles/mountain-bike/all-mountain-bikes/ghost-ceases-trading-the-end-of-the-long-established-brand-is-sealed/",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
     }
   ]
 }

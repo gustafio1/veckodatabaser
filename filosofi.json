@@ -2,8 +2,8 @@
   "topic": "Filosofi",
   "description": "Nya filosofiböcker, debatt, forskning, evenemang och klassiker i nytt ljus. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-11-15",
-  "item_count": 111,
+  "last_updated": "2026-11-22",
+  "item_count": 116,
   "items": [
     {
       "id": "routledge-basta-filosofibockerna-2026",
@@ -1336,6 +1336,66 @@
       "url": "https://www.forewordreviews.com/books/contributors/philip-goff",
       "added_on": "2026-11-15",
       "collected_week": "2026-W46"
+    },
+    {
+      "id": "plato-alcibiades-oppen-utgava-2026",
+      "title": "Öppen, kommenterad utgåva av Platons Alkibiades publicerad",
+      "category": "Nyhet",
+      "date": "2026-11-10",
+      "location": "",
+      "summary": "Open Plato-projektet har publicerat en ny fritt tillgänglig och kommenterad utgåva av Platons dialog Alkibiades, vilket gör en central text om självkännedom och politiskt ledarskap mer åtkomlig för forskning och undervisning.",
+      "source": "Daily Nous",
+      "url": "https://dailynous.com/2026/11/",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "wichita-state-filosofi-nedlagd-2026",
+      "title": "Wichita State University avskaffar filosofi som huvudämne",
+      "category": "Nyhet",
+      "date": "2026-11-10",
+      "location": "Wichita, USA",
+      "summary": "Universitetsledningen vid Wichita State University har beslutat att studenter inte längre kan ta en kandidatexamen med filosofi som huvudämne, ett beslut som väckt stark kritik inom den amerikanska filosofikåren.",
+      "source": "Daily Nous",
+      "url": "https://dailynous.com/2026/11/",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "hegel-schelling-digitala-utgavor-2026",
+      "title": "Ny fri digital utgåva av Hegels och Schellings verk",
+      "category": "Nyhet",
+      "date": "2026-11-08",
+      "location": "Toronto, Kanada",
+      "summary": "Postdoktorn Giuliano Infantino vid University of Toronto har skapat nya, fritt tillgängliga digitala utgåvor av Hegels och Schellings verk, vilket väntas underlätta forskning och undervisning i tysk idealism.",
+      "source": "Daily Nous",
+      "url": "https://dailynous.com/2026/11/",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "john-heil-david-lyons-dod-2026",
+      "title": "Filosoferna John Heil och David Lyons har avlidit",
+      "category": "Nyhet",
+      "date": "2026-11-05",
+      "location": "USA",
+      "summary": "Filosofvärlden sörjer John Heil, känd för sitt arbete inom medvetandefilosofi och metafysik, samt rättsfilosofen David Lyons, vars bortgångar båda uppmärksammades i november.",
+      "source": "Daily Nous",
+      "url": "https://dailynous.com/2026/11/",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "quong-legitimate-injustice-bok-2026",
+      "title": "Jonathan Quong utforskar 'legitim orättvisa' i ny bok om politisk filosofi",
+      "category": "Bok",
+      "date": "2026-11-02",
+      "location": "",
+      "summary": "I The Puzzle of Legitimate Injustice undersöker Jonathan Quong hur politisk filosofi ska hantera institutioner som är orättvisa men ändå legitima, ett centralt tema för frågor om statens auktoritet.",
+      "source": "New Books Network",
+      "url": "https://newbooksnetwork.com/category/politics-society/philosophy",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
     }
   ]
 }

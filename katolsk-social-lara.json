@@ -2,8 +2,8 @@
   "topic": "Katolska kyrkans sociala lära",
   "description": "Den katolska kyrkans sociala lära – principerna och temana som vägleder ett rättvist samhälle. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-11-15",
-  "item_count": 161,
+  "last_updated": "2026-11-22",
+  "item_count": 166,
   "items": [
     {
       "id": "liv-och-vardighet",
@@ -1936,6 +1936,66 @@
       "url": "https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html",
       "added_on": "2026-11-15",
       "collected_week": "2026-W46"
+    },
+    {
+      "id": "leo-xiv-generalaudiens-universell-bestammelse-nov-2026",
+      "title": "Generalaudiens om Andra Vatikankonciliet lyfter principen om jordens goda för alla",
+      "category": "Princip",
+      "date": "2026-11-04",
+      "location": "Vatikanstaten",
+      "summary": "Vid sin generalaudiens om Andra Vatikankonciliets arv påminde Leo XIV om principen om den universella bestämmelsen av jordens goda, ett av sociallärans mest centrala begrepp för en rättvis fördelning av resurser.",
+      "source": "Vatican.va",
+      "url": "https://www.vatican.va/content/leo-xiv/en/audiences/2026/documents/20261104-udienza-generale.html",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "aeterni-patris-encyklika",
+      "title": "Aeterni Patris (1879): Leo XIII om den kristna filosofins återupprättande",
+      "category": "Encyklika",
+      "date": "1879-08-04",
+      "location": "",
+      "summary": "I encyklikan Aeterni Patris uppmanade Leo XIII till en återupplivning av den tomistiska filosofin som intellektuell grund för kyrkans tänkande, ett arbete som lade den filosofiska grunden för hans senare Rerum Novarum.",
+      "source": "Vatican.va",
+      "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_04081879_aeterni-patris.html",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "divini-illius-magistri-encyklika",
+      "title": "Divini Illius Magistri (1929): Pius XI om den kristna fostran",
+      "category": "Encyklika",
+      "date": "1929-12-31",
+      "location": "",
+      "summary": "Pius XI:s encyklika om kristen uppfostran betonar familjens, kyrkans och statens delade ansvar för utbildning och lade grunden för sociallärans princip om rätten till utbildning.",
+      "source": "Vatican.va",
+      "url": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_31121929_divini-illius-magistri.html",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "libertas-encyklika-leo-xiii",
+      "title": "Libertas (1888): Leo XIII om den mänskliga frihetens natur",
+      "category": "Encyklika",
+      "date": "1888-06-20",
+      "location": "",
+      "summary": "I Libertas beskriver Leo XIII den sanna friheten som ordnad mot det goda och sanningen, en tanke som blev central för sociallärans senare resonemang om samvetsfrihet och mänsklig värdighet.",
+      "source": "Vatican.va",
+      "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_20061888_libertas.html",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "arcanum-encyklika-leo-xiii",
+      "title": "Arcanum (1880): Leo XIII om det kristna äktenskapet",
+      "category": "Encyklika",
+      "date": "1880-02-10",
+      "location": "",
+      "summary": "I Arcanum försvarade Leo XIII äktenskapets gudomliga ursprung och dess enhet och oupplöslighet mot statliga anspråk på att reglera det civilt, en grund för sociallärans senare syn på familjen som samhällets första gemenskap.",
+      "source": "Vatican.va",
+      "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_10021880_arcanum.html",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
     }
   ]
 }

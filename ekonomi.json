@@ -2,8 +2,8 @@
   "topic": "Ekonomi & börs",
   "description": "Forskning om börs, makroekonomi, räntor och hushållens ekonomi. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-11-15",
-  "item_count": 118,
+  "last_updated": "2026-11-22",
+  "item_count": 123,
   "items": [
     {
       "id": "skuldkvot-mot-aktievardering-debt-equity-spread-2026",
@@ -1420,6 +1420,66 @@
       "url": "https://hurbra.se/svensk-bnp-tredje-kvartalet-2026/",
       "added_on": "2026-11-15",
       "collected_week": "2026-W46"
+    },
+    {
+      "id": "seb-nordic-outlook-tillvaxt-utmanas-2026",
+      "title": "SEB: Tillväxten utmanas av stigande räntor och höga energipriser",
+      "category": "Makroekonomi",
+      "date": "2026-11-10",
+      "location": "",
+      "summary": "SEB:s novemberrapport Nordic Outlook pekar på att den nordiska tillväxten pressas av stigande räntor och dyrare energi, samtidigt som högre transportkostnader bidrar till ökade kostnader för företag och hushåll.",
+      "source": "SEB",
+      "url": "https://sebgroup.com/siteassets/cision/documents/2026/20261110-nordic-outlook-tillvaxten-utmanas-av-stigande-rantor-och-hoga-energipriser-sv-0-3811963-5459529.pdf",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "boprisindikatorn-faller-november-2026",
+      "title": "Boprisindikatorn faller – färre tror på stigande bostadspriser",
+      "category": "Hushåll",
+      "date": "2026-11-02",
+      "location": "",
+      "summary": "SEB:s boprisindikator sjönk fem enheter till 38 i november, och andelen hushåll som tror på stigande bostadspriser det kommande året minskade till 49 procent. SEB kopplar nedgången till Riksbankens räntehöjning.",
+      "source": "SEB",
+      "url": "https://sebgroup.com/sv/press/pressmeddelanden/2026/farre-tror-pa-stigande-bostadspriser",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "seb-hushallens-rantekvot-hogst-sedan-2008",
+      "title": "SEB: Hushållens räntekvot på högsta nivån sedan 2008",
+      "category": "Hushållsekonomi",
+      "date": "2026-11-03",
+      "location": "",
+      "summary": "Enligt SEB steg hushållens räntekvot – räntekostnader som andel av disponibel inkomst – med 25 procent under tredje kvartalet, från 6,5 till 8,1 procent, den högsta nivån sedan slutet av 2008. Bostadslån utgör nästan 80 procent av hushållens skulder.",
+      "source": "SEB",
+      "url": "https://www.realtid.se/seb-hushallens-rantekvot-pa-den-hogsta-nivan-sedan-slutet-av-2008/",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "scb-konsumtionsindikator-oktober-okning-2026",
+      "title": "SCB: Hushållens konsumtion fortsatte öka i oktober",
+      "category": "Statistik",
+      "date": "2026-11-13",
+      "location": "",
+      "summary": "SCB:s konsumtionsindikator visar att hushållens konsumtion ökade med 1,2 procent i oktober jämfört med september, och var 3,3 procent högre än oktober året innan.",
+      "source": "SCB",
+      "url": "https://www.scb.se/hitta-statistik/statistik-efter-amne/hushallens-ekonomi/hushallens-utgifter/hushallens-konsumtion/pong/statistiknyhet/hushallens-konsumtionsindikator-oktober-2026-veckoindikator-till-och-med-vecka-44-2026/",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "omxs30-nedgang-energi-industri-18-november-2026",
+      "title": "OMXS30 ner när olje-, gas- och industriaktier tyngde index",
+      "category": "Börs",
+      "date": "2026-11-18",
+      "location": "Stockholm",
+      "summary": "Stockholmsbörsens OMXS30 stängde 0,95 procent lägre den 18 november, tyngt av olje- och gasbolag, basindustri och industriaktier, medan Nibe och Ericsson gick emot strömmen och steg.",
+      "source": "ad-hoc-news",
+      "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/omxs30-closes-0-95-lower-at-3-256-21-points/70533056",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
     }
   ]
 }

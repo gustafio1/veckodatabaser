@@ -2,8 +2,8 @@
   "topic": "Språk",
   "description": "Forskning om språkinlärning, svenskan, språkteknik och flerspråkighet. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-11-15",
-  "item_count": 100,
+  "last_updated": "2026-11-22",
+  "item_count": 107,
   "items": [
     {
       "id": "onskvarda-svarigheter-glosinlarning-2026",
@@ -1204,6 +1204,90 @@
       "url": "https://www.gu.se/nyheter/studenter-foredrar-svenska-framfor-engelska-i-hogre-utbildning",
       "added_on": "2026-11-15",
       "collected_week": "2026-W46"
+    },
+    {
+      "id": "sprakteknologi-forskningsprogram-change-is-key-2026",
+      "title": "33,5 miljoner till nytt forskningsprogram om språkförändring",
+      "category": "Forskning",
+      "date": "2026-11-10",
+      "location": "Göteborg",
+      "summary": "Riksbankens Jubileumsfond finansierar ett sexårigt forskningsprogram vid Språkbanken Text, Göteborgs universitet, som ska kartlägga hur svenska språket förändras över tid, mellan grupper och i olika medietyper med hjälp av digitala metoder.",
+      "source": "Göteborgs universitet",
+      "url": "https://www.gu.se/nyheter/335-miljoner-till-sprakteknologiskt-forskningsprogram-om-sprakforandring",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "studenter-foredrar-svenska-hogre-utbildning-2026",
+      "title": "Svenska studenter föredrar svenska framför engelska",
+      "category": "Svenskan",
+      "date": "2026-01-15",
+      "location": "",
+      "summary": "En studie från Chalmers visar att studenter i högre utbildning värdesätter svenskt fackspråk högt och ofta föredrar kurslitteratur och undervisning på svenska framför engelska, trots engelskans dominans i akademin.",
+      "source": "Chalmers tekniska högskola",
+      "url": "https://research.chalmers.se/en/publication/551692",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "engelska-lanord-uttal-saol-seminarium-2026",
+      "title": "Så har uttalet av engelska lånord ändrats i SAOL",
+      "category": "Svenskan",
+      "date": "2026-11-10",
+      "location": "Göteborg",
+      "summary": "Ett seminarium vid Göteborgs universitet gick igenom hur uttalsbeskrivningarna för engelska lånord i Svenska Akademiens ordlista förändrats mellan 1923 och 2015, och vad det säger om hur lånord anpassas till svenskt uttal över tid.",
+      "source": "Göteborgs universitet",
+      "url": "https://www.gu.se/evenemang/fran-visky-till-oiski-segmentella-forandringar-i-engelska-lanords-uttalsbeskrivningar-i-saol-1923-2015",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "fufos-skolledare-flersprakighet-2026",
+      "title": "Skolledare ser flerspråkighet som en tillgång",
+      "category": "Flerspråkighet",
+      "date": "2026-03-01",
+      "location": "",
+      "summary": "En studie i tidskriften Fufos undersöker hur skolledare och speciallärare arbetar med flerspråkighet i skolan och finner att båda yrkesgrupperna betraktar flerspråkighet som en resurs, men efterlyser tydligare strukturer och ett ledarskap som aktivt stödjer den.",
+      "source": "Fufos",
+      "url": "https://www.pitea.se/contentassets/79c873010c694cfeb3ae8c6596acab6f/fufos_vol-5_nr-1_2026.pdf",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "norge-flersprakighet-grundskola-kartlaggning-2026",
+      "title": "Fler norska skolor informerar föräldrar på flera språk",
+      "category": "Flerspråkighet",
+      "date": "2026-06-15",
+      "location": "Norge",
+      "summary": "En norsk kartläggning av flerspråkighet i grundskolan, en uppföljning av en studie från 2015, visar att fler skolor numera informerar föräldrar på flera språk, men att arbetssätten kring flerspråkighet fortfarande varierar stort mellan skolstadier.",
+      "source": "Språkrådet (Norge)",
+      "url": "https://sprakradet.no/wp-content/uploads/Flerspraklighet-i-grunnskolen-2026.pdf",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "flersprakiga-pedagogiker-grundskola-oversikt-2026",
+      "title": "Flerspråkighet kan vara en resurs i klassrummet, visar översikt",
+      "category": "Forskning",
+      "date": "2026-04-01",
+      "location": "",
+      "summary": "En systematisk forskningsöversikt i Journal of Multilingual and Multicultural Development sammanställer empiriska studier av flerspråkiga undervisningsmetoder i grundskolan och finner att flerspråkighet kan fungera som en meningsfull resurs för elevernas lärande, snarare än ett hinder.",
+      "source": "Journal of Multilingual and Multicultural Development",
+      "url": "https://dare.uva.nl/id/83be7d9f-835a-4987-aae8-17267771f167",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "gpt-sw3-tokeniserare-dyrare-svenska-2026",
+      "title": "Stora språkmodeller gör svenska dyrare att använda än engelska",
+      "category": "Språkteknik",
+      "date": "2026-09-01",
+      "location": "",
+      "summary": "KB-labb, som utvecklar den svenska språkmodellen GPT-SW3, pekar på att tokeniserare i stora språkmodeller främst är optimerade för engelska, vilket gör att samma text på svenska kan kosta omkring 35–50 procent mer att bearbeta än motsvarande text på engelska.",
+      "source": "KB-labb / Language Data Space EU",
+      "url": "https://language-data-space.ec.europa.eu/system/files/2024-09/4_KB-labb.pdf",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
     }
   ]
 }

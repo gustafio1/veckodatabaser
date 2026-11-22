@@ -2,8 +2,8 @@
   "topic": "Ledarskap – John Maxwell",
   "description": "Ledarskapsprinciper och lärdomar från John C. Maxwell, inklusive De 21 oeftergivliga ledarskapslagarna. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-11-15",
-  "item_count": 178,
+  "last_updated": "2026-11-22",
+  "item_count": 183,
   "items": [
     {
       "id": "lockets-lag",
@@ -2140,6 +2140,66 @@
       "url": "https://getabstract.com/en/summary/beyond-talent/16832",
       "added_on": "2026-11-15",
       "collected_week": "2026-W46"
+    },
+    {
+      "id": "helhetsbildens-lag-teamwork-2026",
+      "title": "Helhetsbildens lag (The Law of the Big Picture)",
+      "category": "Ledarskapslag",
+      "date": "2026-11-22",
+      "location": "",
+      "summary": "Den andra av de 17 lagarna om lagarbete slår fast att det gemensamma målet är viktigare än den enskilda rollen. Varje medlem i laget måste vara beredd att underordna sin egen position och sina personliga ambitioner för att stötta lagets övergripande vision.",
+      "source": "HarperCollins Leadership",
+      "url": "https://www.harpercollinsleadership.com/9781400204731/the-17-indisputable-laws-of-teamwork",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "nischens-lag-teamwork-2026",
+      "title": "Nischens lag (The Law of the Niche)",
+      "category": "Ledarskapslag",
+      "date": "2026-11-22",
+      "location": "",
+      "summary": "Lagen innebär att alla medarbetare har en plats i laget där just de tillför störst värde, och att ett lag blir som starkast när varje person får verka utifrån sina styrkor. Att placera rätt person på rätt plats beskriver Maxwell som en av ledarens viktigaste och mest underskattade uppgifter.",
+      "source": "SuperSummary",
+      "url": "https://www.supersummary.com/the-17-indisputable-laws-of-teamwork/summary/",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "101-procentsprincipen-maxwell-2026",
+      "title": "101-procentsprincipen",
+      "category": "Princip",
+      "date": "2026-11-22",
+      "location": "",
+      "summary": "Principen, som beskrivs i boken Winning with People, handlar om att hitta den enda procent man faktiskt är överens med en annan person om och lägga hundra procent av sitt engagemang just där. Tanken är att relationer stärks genom att man medvetet söker gemensam grund i stället för att fastna i det man är oense om.",
+      "source": "Professional Leadership Institute",
+      "url": "https://professionalleadershipinstitute.com/books/winning-with-people/",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "maxwell-citat-bryr-sig-2026",
+      "title": "Citat: \"Ingen bryr sig om hur mycket du vet, förrän de vet hur mycket du bryr dig\"",
+      "category": "Citat",
+      "date": "2026-11-22",
+      "location": "",
+      "summary": "Maxwell återkommer ofta till tanken att kunskap i sig aldrig räcker för att leda andra – följare måste först känna att ledaren verkligen bryr sig om dem som personer. Citatet sammanfattar hans grundsyn att relationer, inte kompetens, är grunden för allt varaktigt inflytande.",
+      "source": "Maxwell Leadership",
+      "url": "https://www.maxwellleadership.com/blog/connecting-with-your-audience/",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "maxwell-citat-team-drommen-2026",
+      "title": "Citat: Bygg laget rätt, och drömmen tar hand om sig själv",
+      "category": "Citat",
+      "date": "2026-11-22",
+      "location": "",
+      "summary": "I The 17 Indisputable Laws of Teamwork konstaterar Maxwell att ett vanligt misstag är att lägga alltför mycket energi på den egna visionen och alltför lite på laget som ska förverkliga den. Hans poäng är att ett rätt sammansatt lag i praktiken löser det mesta av vägen mot målet på egen hand.",
+      "source": "Goodreads",
+      "url": "https://www.goodreads.com/work/quotes/860073",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
     }
   ]
 }

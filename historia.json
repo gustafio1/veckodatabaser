@@ -2,8 +2,8 @@
   "topic": "Historia",
   "description": "Historisk forskning, arkeologiska fynd, svensk historia, böcker och jubileer. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-11-15",
-  "item_count": 112,
+  "last_updated": "2026-11-22",
+  "item_count": 119,
   "items": [
     {
       "id": "herlaugshaugen-skeppsgrav-2026",
@@ -1348,6 +1348,90 @@
       "url": "https://regeringen.se/artiklar/2026/02/250-ar-av-judiskt-liv-i-sverige--jubileumsaret-2025/",
       "added_on": "2026-11-15",
       "collected_week": "2026-W46"
+    },
+    {
+      "id": "nubia-dongola-katedralgolv-2026",
+      "title": "Katedralgolvet i Nubiens största medeltida kyrka frilagt i Sudan",
+      "category": "Arkeologi",
+      "date": "2026-11-09",
+      "location": "Sudan",
+      "summary": "Ett polsk-sudanesiskt team har för första gången nått originalgolvet i den stora kyrkan i Old Dongola, huvudstaden i det kristna kungariket Makurien. Fyndet inkluderar även foten av en storslagen trappa i den cirka 1 400 år gamla katedralen.",
+      "source": "Archaeology Magazine",
+      "url": "https://archaeology.org/?p=62434",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "mongolinvasion-vrak-japan-spelkort-2026",
+      "title": "Spelkort och tärningar funna i vrak från mongolernas invasion av Japan",
+      "category": "Arkeologi",
+      "date": "2026-11-06",
+      "location": "Japan",
+      "summary": "Vid Takashima-ön har arkeologer hittat ett tredje 1200-talsvrak kopplat till mongolernas misslyckade invasionsflotta 1281, med tärningar och spelkort till det kinesiska spelet koppai ombord. Fyndet tyder på att besättningen sysselsatte sig med spel under väntetiden.",
+      "source": "Archaeology Magazine",
+      "url": "https://archaeology.org/?p=62397",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "alsace-gravfalt-hovdingar-stridshastar-2026",
+      "title": "Gravfält i Alsace ger fram höviska hövdingagravar med stridshästar",
+      "category": "Arkeologi",
+      "date": "2026-11-10",
+      "location": "Frankrike",
+      "summary": "Franska INRAP har grävt fram ett gravfält från 400-talet där män begravts med svärd och ett ovanligt germanskt kortsvärd tillsammans med två hästar i full sele. Fynden tolkas som gravar för germanska hövdingar eller legotrupper i romersk tjänst.",
+      "source": "Archaeology Magazine / Live Science",
+      "url": "https://archaeology.org/?p=62497",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "inkabarn-offer-droger-alkohol-2026",
+      "title": "Offrade inkabarn gavs droger och alkohol strax före döden",
+      "category": "Forskning",
+      "date": "2026-11-06",
+      "location": "Peru",
+      "summary": "Analyser av hår och naglar från åtta frysta inkamumier visar att barnen under veckorna före den rituella capacocha-offringen fick coca, alkohol och i ett fall ämnen kopplade till ayahuasca. Studien visar att blandningen av substanser varierade mellan barnen utan tydligt mönster.",
+      "source": "Archaeology Magazine / Antiquity",
+      "url": "https://archaeology.org/?p=62394",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "verica-jarnalderkung-kvinna-2026",
+      "title": "Brittisk järnålderskung omtolkas som drottning",
+      "category": "Forskning",
+      "date": "2026-11-04",
+      "location": "Storbritannien",
+      "summary": "Arkeologen Miles Russell argumenterar i en ny bok att Verica, den brittiska ledare som uppmanade romarna att invadera Britannien år 43, i själva verket var en kvinna. Slutsatsen bygger på namnmönster och på att Vericas mynt avbildar en smal, kvinnlig gestalt till skillnad från andra samtida ledares mynt.",
+      "source": "Current Archaeology / Archaeology Magazine",
+      "url": "https://archaeology.org/?p=62399",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "champigny-marne-neolitisk-gravplats-2026",
+      "title": "6 500 år gammal gravplats med stenjätte funnen utanför Paris",
+      "category": "Arkeologi",
+      "date": "2026-11-05",
+      "location": "Frankrike",
+      "summary": "Inför en byggnation i Champigny-sur-Marne har franska Inrap grävt fram elva gravar från yngre stenåldern, daterade till cirka 4750–4300 f.Kr., tillsammans med ett nästan tio ton tungt stenmonument. Forskarna planerar nu DNA- och isotopanalyser av de mänskliga kvarlevorna.",
+      "source": "Archaeology Magazine",
+      "url": "https://archaeology.org/?p=62379",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "ann-francis-kombinationslas-kod-2026",
+      "title": "Koden till 400 år gammalt kombinationslås från walesiskt vrak knäckt",
+      "category": "Arkeologi",
+      "date": "2026-11-03",
+      "location": "Wales",
+      "summary": "Forskare vid Amgueddfa Cymru och Cardiff University har med mikro-CT-skanning avläst den fyrbokstavskod som öppnar ett låst mässingslås från skeppet Ann Francis, som förliste 1583. Låset, ett av 1 296 möjliga kombinationer, klickade upp för första gången på över 400 år när koden testades.",
+      "source": "Archaeology Magazine / Museum Wales",
+      "url": "https://archaeology.org/?p=62383",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
     }
   ]
 }

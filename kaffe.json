@@ -2,8 +2,8 @@
   "topic": "Kaffe",
   "description": "Forskning om kaffe och hälsa, bryggning, koffein, smak och odling. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-11-08",
-  "item_count": 66,
+  "last_updated": "2026-11-22",
+  "item_count": 71,
   "items": [
     {
       "id": "kaffe-timing-mortalitet-ckm-2026",
@@ -796,6 +796,66 @@
       "url": "https://pubmed.ncbi.nlm.nih.gov/40947393/",
       "added_on": "2026-11-08",
       "collected_week": "2026-W45"
+    },
+    {
+      "id": "kaffe-tarmaktivitet-kopenhamn-2026",
+      "title": "Frekvent kaffedrickande kopplas till förändrad tarmaktivitet, visar dansk studie",
+      "category": "Forskning",
+      "date": "2026-11-10",
+      "location": "",
+      "summary": "Forskare vid Köpenhamns universitet fann att personer som dricker kaffe ofta hade lägre pH i tunntarmen och fler sammandragningar i tjocktarmen jämfört med sällankonsumenter. Studien omfattade drygt 60 vuxna under nio dagar och visar samband snarare än orsak.",
+      "source": "Sci.news / Köpenhamns universitet",
+      "url": "https://www.sci.news/medicine/coffee-drinker-gut-15187.html",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "kaffe-dopamin-bitterhet-inlarning-ucsf-2026",
+      "title": "Långsam dopaminsignal från tarmen kan förklara varför vi lär oss gilla bitter kaffe",
+      "category": "Forskning",
+      "date": "2026-11-04",
+      "location": "",
+      "summary": "Forskare vid UCSF visar i djurförsök att näringsämnen i magen utlöser en utdragen dopaminfrisättning i en hjärnregion kopplad till inlärning, vilket kan förklara hur hjärnan lär sig koppla bitter smak till koffeinets uppiggande effekt. Liknande mönster hittades även i mindre studier på människor.",
+      "source": "Sci.news (Nature)",
+      "url": "https://www.sci.news/othersciences/neuroscience/flavor-nutrient-learning-dopamine-pathway-15177.html",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "kaffe-tva-veckors-uppehall-tarmflora-2026",
+      "title": "Forskare lät kaffedrickare ta två veckors paus – så påverkades tarmfloran",
+      "category": "Forskning",
+      "date": "2026-10-16",
+      "location": "",
+      "summary": "I studien fick regelbundna kaffedrickare pausa helt i två veckor innan de återgick till fyra koppar instantkaffe om dagen, antingen koffeinhaltigt eller koffeinfritt. Resultaten visar hur snabbt tarmflorans sammansättning förändras och återhämtar sig, men säger ännu inget säkert om hälsoeffekter.",
+      "source": "Savingadvice.com (Nature Communications)",
+      "url": "https://www.savingadvice.com/articles/2026/10/16/10753698_scientists-asked-coffee-drinkers-to-quit-for-14-days-heres-what-changed.html",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "kaffe-decaf-abstinens-lindring-2026",
+      "title": "Koffeinfritt kaffe kan lindra abstinensbesvär hos storkonsumenter",
+      "category": "Forskning",
+      "date": "2026-11-13",
+      "location": "",
+      "summary": "Nya rön tyder på att en daglig dos koffeinfritt kaffe kan dämpa huvudvärk och trötthet när storkonsumenter trappar ner sitt koffeinintag. Forskare misstänker att ritualen och vanan spelar en stor roll snarare än koffeinet i sig, men effekten kan vara kortvarig.",
+      "source": "Fox News",
+      "url": "https://www.foxnews.com/health/coffee-quitters-help-decaf-help-reduce-withdrawal-symptoms.amp",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "kaffe-varmt-kallt-antioxidanter-rostning-2018",
+      "title": "Varmbryggt kaffe ger mer antioxidanter än kallbryggt, visar jämförande studie",
+      "category": "Forskning",
+      "date": "2018-11-01",
+      "location": "",
+      "summary": "En jämförande studie fann att varmbryggt kaffe innehåller mer titrerbara syror och har högre antioxidantaktivitet än kallbryggt kaffe, medan surhetsgraden (pH) var ungefär densamma för båda metoderna. Effekten var tydligast för mörkrostat kaffe.",
+      "source": "ScienceDaily / Thomas Jefferson University",
+      "url": "https://www.sciencedaily.com/releases/2018/11/181101085137.htm",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
     }
   ]
 }

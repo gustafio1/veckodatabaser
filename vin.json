@@ -2,8 +2,8 @@
   "topic": "Vin",
   "description": "Forskning om vinframställning, odling, smak och hälsa. Uppdateras varje vecka.",
   "schema_version": 1,
-  "last_updated": "2026-11-08",
-  "item_count": 73,
+  "last_updated": "2026-11-22",
+  "item_count": 80,
   "items": [
     {
       "id": "arom-ekologiskt-vs-konventionellt-vitt-vin-2026",
@@ -880,6 +880,90 @@
       "url": "https://wineindustryadvisor.com/2026/09/10/international-scientific-journal-publishes-chilean-study-highlighting-the-effects-of-wine-antioxidants/",
       "added_on": "2026-11-08",
       "collected_week": "2026-W45"
+    },
+    {
+      "id": "wsu-druvsorter-torka-bevattning-canopy-2026",
+      "title": "WSU-studie: druvsorter reagerar likartat på torka – bevattningen bör styras av annat",
+      "category": "Forskning",
+      "date": "2026-11-11",
+      "location": "",
+      "summary": "En tvåårig studie vid Washington State University på 30 druvsorter visar att bevattningsbeslut bättre bör styras av bladverkets storlek, jordtyp och önskad vinstil än av antagen torktolerans hos sorten.",
+      "source": "Vinetur",
+      "url": "https://www.vinetur.com/en/20261111110809/wine-grape-varieties-responded-similarly-to-drought-in-a-washington-state-university-study.html",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "italiensk-sekventiell-jasning-torulaspora-aromer-2026",
+      "title": "Sekventiell jäsning med vildjäst kan fördubbla fruktestrarna i italienskt vitt och rosé",
+      "category": "Forskning",
+      "date": "2026-07-15",
+      "location": "",
+      "summary": "Italienska forskare visar att vildjästen Torulaspora delbrueckii, tillsatt före vanlig vinjäst, gav störst effekt på arom och smak i Verdeca och Nero di Troia-rosé, i ett fall med nästan dubbla mängder fruktestrar.",
+      "source": "Vinetur",
+      "url": "https://www.vinetur.com/en/pdf/104530/italian-study-finds-sequential-yeast-fermentation-sharpens-fruit-aromas-in-wine.pdf",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "kinesisk-hanseniaspora-samjasning-arom-farg-2026",
+      "title": "Kinesisk vildjäststam förbättrade både arom och färgstabilitet i samjäsningsförsök",
+      "category": "Forskning",
+      "date": "2026-10-20",
+      "location": "",
+      "summary": "Utvalda stammar av vildjästen Hanseniaspora occidentalis, använda tillsammans med vanlig vinjäst, gav bättre arom och mer stabil färg i kinesiska försök, men forskarna betonar att processen behöver finjusteras innan den kan skalas upp.",
+      "source": "Vinetur",
+      "url": "https://www.vinetur.com/en/pdf/108190/selected-native-yeasts-improved-wine-aroma-in-co-fermentation-trials.pdf",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "slu-vinterbeskarning-solaris-svenskt-klimat-2026",
+      "title": "SLU-uppsats: fler vingårdar och äldre vinrankor krävs för säkra råd om vinterbeskärning av Solaris",
+      "category": "Forskning",
+      "date": "2026-08-11",
+      "location": "Sverige",
+      "summary": "Ett examensarbete vid SLU konstaterar att det svenska klimatets effekt på vinterbeskärning av druvsorten Solaris ännu inte går att dra säkra slutsatser om, eftersom underlaget med fler och äldre vingårdar fortfarande är för litet.",
+      "source": "SLU Epsilon",
+      "url": "https://stud.epsilon.slu.se/22625/1/escobar-steinvall-m-20260811.pdf",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "slu-skadegorare-svensk-vinodling-framtid-2026",
+      "title": "SLU-arbete kartlägger morgondagens skadegörare i svensk vinodling",
+      "category": "Forskning",
+      "date": "2026-01-22",
+      "location": "Sverige",
+      "summary": "Ett kandidatarbete vid SLU i Alnarp sammanfattar de största växtskyddsproblemen i dagens svenska vinodling och varnar för att nya skadegörare, gynnade av ett varmare och fuktigare klimat, kan bli ett växande problem framöver.",
+      "source": "SLU Epsilon",
+      "url": "https://stud.epsilon.slu.se/21929/1/batzler-o-20260122.pdf",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "svenskt-vin-lagst-tfa-pfas-niva-2026",
+      "title": "Svenskt vin uppmäter några av de lägsta TFA-halterna i internationell jämförelse",
+      "category": "Nyhet",
+      "date": "2026-04-17",
+      "location": "Sverige",
+      "summary": "En internationell studie från tyska Staatliches Weinbauinstitut Freiburg visar att halterna av PFAS-nedbrytningsprodukten TFA ökar i vin globalt, men att svenskt vin sticker ut med några av de lägsta uppmätta nivåerna och att skillnaderna mellan odlingsmetoder är stora.",
+      "source": "Cision",
+      "url": "https://mb.cision.com/Main/20970/4336256/4042637.pdf",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
+    },
+    {
+      "id": "levande-musik-vinprovning-hedonisk-upplevelse-2026",
+      "title": "Levande jazzmusik höjde betygen vid offentliga vinprovningar",
+      "category": "Forskning",
+      "date": "2026-02-10",
+      "location": "",
+      "summary": "En italiensk studie publicerad i tidskriften Foods visar att levande jazzmusik höjde deltagarnas uppskattning av vinet jämfört med tystnad, med störst effekt för uppåtriktad musik och positiv överraskning som central förklaring.",
+      "source": "Foods (MDPI)",
+      "url": "https://www.mdpi.com/2304-8158/15/3/504",
+      "added_on": "2026-11-22",
+      "collected_week": "2026-W47"
     }
   ]
 }
